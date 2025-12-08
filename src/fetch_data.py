@@ -87,7 +87,7 @@ def get_goldbox_items(limit=10):
     path = "/v2/providers/affiliate_open_api/apis/openapi/v1/products/goldbox"
     params = {"limit": limit} 
     result = call_api("GET", path, params=params)
-    
+    print(result)
     items = []
     
     if result and result.get('data'):
