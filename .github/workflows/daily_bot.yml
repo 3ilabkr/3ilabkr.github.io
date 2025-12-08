@@ -3,7 +3,7 @@ name: 3ILAB Daily Bot
 on:
   # 1. 스케줄 실행 (UTC 기준 23:00 = 한국 시간 아침 08:00)
   schedule:
-    - cron: '42 15 * * *'
+    - cron: '56 15 * * *'
   
   # 2. 수동 실행 버튼 (테스트용)
   workflow_dispatch:
@@ -40,7 +40,7 @@ jobs:
         COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        GITHUB_ID: ${{ secrets.GITHUB_ID }}
+        GITHUB_ID: ${{ secrets.GH_ID }}
         INSTA_PAGE_ID: ${{ secrets.INSTA_PAGE_ID }}
         INSTA_ACCESS_TOKEN: ${{ secrets.INSTA_ACCESS_TOKEN }}
       run: |
