@@ -14,7 +14,6 @@ def draw_text_wrapper(draw, text, font, max_width, start_pos, color="black"):
     lines = []
     words = text.split()
     current_line = words[0]
-    
     for word in words[1:]:
         bbox = draw.textbbox((0, 0), current_line + " " + word, font=font)
         if bbox[2] > max_width: 
@@ -48,10 +47,10 @@ def create_cover(date_str, save_path):
     draw.text((100, 300), "오늘 단 하루!", font=font_md, fill="black")
     draw.text((100, 400), "쿠팡 골드박스", font=font_lg, fill="black")
     draw.text((100, 520), f"{date_text} 베스트 10", font=font_lg, fill=ACCENT_COLOR)
-    draw.text((100, 700), "▶ 옆으로 넘겨서 확인하세요", font=font_md, fill="gray")
+    draw.text((100, 700), "▶ 옆으로 넘겨서 확인하세요", font=font_md, fill="gray") # 이모지 깨짐 방지
     
     img.save(save_path)
-    return os.path.getsize(save_path) # 용량 반환
+    return os.path.getsize(save_path)
 
 def create_product_card(item, save_path):
     img = Image.new("RGB", CANVAS_SIZE, BG_COLOR)
@@ -62,7 +61,7 @@ def create_product_card(item, save_path):
     font_price = load_font(70)
     font_id = load_font(30) 
 
-    # 1. 이미지 (위치 Y=50으로 올림)
+    # 1. 이미지 (위치 Y=50)
     try:
         res = requests.get(item['image_url'], timeout=10)
         p_img = Image.open(BytesIO(res.content))
@@ -75,7 +74,7 @@ def create_product_card(item, save_path):
     # 2. 순위
     draw.text((50, 40), str(item['rank']), font=font_rank, fill=ACCENT_COLOR)
     
-    # 3. 상품명 (Y=860으로 올림 - 공간 확보)
+    # 3. 상품명 (Y=860)
     text_y = 860
     text_y = draw_text_wrapper(draw, item['name'], font_name, 900, (90, text_y))
     
@@ -83,7 +82,7 @@ def create_product_card(item, save_path):
     price_txt = f"{item['price']:,}원" 
     draw.text((90, text_y + 15), price_txt, font=font_price, fill=ACCENT_COLOR)
 
-    # 5. [추가] 일련번호 (ID)
+    # 5. 일련번호
     id_text = f"No. {item['id']}"
     bbox = draw.textbbox((0, 0), id_text, font=font_id)
     text_width = bbox[2] - bbox[0]
@@ -106,6 +105,7 @@ def create_end_card(save_path):
     img.save(save_path)
     return os.path.getsize(save_path)
 
+# [핵심] 이 함수가 꼭 있어야 합니다!
 def main(items):
     if not items: return
 
@@ -117,11 +117,9 @@ def main(items):
     total_size = 0
     count = 0
 
-    # 표지
     total_size += create_cover(date_str, f"{save_dir}/00_cover.jpg")
     count += 1
 
-    # 상품
     for item in items:
         filename = f"{item['rank']:02d}.jpg" 
         save_path = f"{save_dir}/{filename}"
@@ -130,19 +128,11 @@ def main(items):
             total_size += s
             count += 1
 
-    # 엔딩
     total_size += create_end_card(f"{save_dir}/11_end.jpg")
     count += 1
     
-    # [결과 리포트]
     mb_size = total_size / (1024 * 1024)
-    print("-" * 40)
-    print(f"📊 [이미지 생성 결과]")
-    print(f"   - 총 생성 수량: {count}장")
-    print(f"   - 총 파일 용량: {mb_size:.2f} MB")
-    print("-" * 40)
+    print(f"📊 [이미지 생성 완료] 총 {count}장 ({mb_size:.2f} MB)")
 
 if __name__ == "__main__":
-    # 테스트 데이터
-    sample = [{"id": "20241208-01", "date": "20241208", "rank": 1, "name": "테스트 상품 이름이 길어도 가격이 잘리지 않는지 확인하는 테스트입니다", "price": 99900, "image_url": "https://via.placeholder.com/500"}]
-    main(sample)
+    pass
