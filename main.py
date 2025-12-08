@@ -56,7 +56,7 @@ def run_daily_job():
         # 1. 데이터 수집
         step = "1. 데이터 수집"
         print(f"\n🚀 [{step}] 시작...")
-        items = fetch_data.get_goldbox_items(limit=8)
+        items = fetch_data.get_goldbox_items(limit=10)
         if not items: raise Exception("수집된 상품이 0개입니다.")
         print(f"✅ {len(items)}개 데이터 확보 완료")
 
