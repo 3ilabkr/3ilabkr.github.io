@@ -2,7 +2,6 @@ import requests
 import json
 import hmac
 import hashlib
-import time
 import os
 from time import gmtime, strftime
 from datetime import datetime
@@ -56,29 +55,60 @@ def call_api(method, path, params=None, data=None):
         response.raise_for_status()
         return response.json()
     except Exception as e:
-        print(f"❌ API 호출 에러: {e}")
+        print(f"❌ API 호출 에러 ({path}): {e}")
         return None
 
-# 3. 데이터 수집 (최적화됨)
+# ============================================================================
+# [NEW] 딥링크 개별 생성 (단축 URL 만들기)
+# ============================================================================
+def make_deep_link(origin_url):
+    dl_path = "/v2/providers/affiliate_open_api/apis/openapi/v1/deeplink"
+    dl_data = {
+        "coupangUrls": [origin_url],
+        "subId": "auto_video_bot"
+    }
+    
+    res = call_api("POST", dl_path, data=dl_data)
+    
+    if res and res.get('rCode') == '0' and res.get('data'):
+        # shortenUrl(단축)이 있으면 그걸 쓰고, 없으면 landingUrl 사용
+        return res['data'][0].get('shortenUrl') or res['data'][0].get('landingUrl')
+    else:
+        return None
+
+# 3. 메인 로직
 def get_goldbox_items(limit=10):
-    print(">> 🚀 골드박스 데이터 수집 시작 (자동 수익링크 확보)...")
+    print(">> 🚀 골드박스 원본 데이터 수집 중...")
     
     now = datetime.now()
     date_str = now.strftime("%Y%m%d")
     
-    # subId를 넣으면 응답에 이미 '단축 링크'가 들어있습니다.
+    # [변경] subId를 뺍니다! (그래야 원본 링크가 옴)
     path = "/v2/providers/affiliate_open_api/apis/openapi/v1/products/goldbox"
-    params = {"limit": limit, "subId": "auto_video_bot"}
+    params = {"limit": limit} 
     result = call_api("GET", path, params=params)
     
     items = []
     
     if result and result.get('data'):
+        print(f">> 📦 {len(result['data'])}개 상품 발견. 딥링크 변환 시작...")
+        
         for idx, item in enumerate(result['data']):
             price = item.get('productPrice') or item.get('salePrice') or item.get('price') or item.get('originalPrice', 0)
             
-            # [수정] 별도 변환 없이 바로 사용 (이미 수익 링크임)
-            final_link = item['productUrl']
+            # 1. 원본 링크 가져오기
+            origin_url = item['productUrl']
+            
+            # [요청하신 기능] 원본 링크 출력해서 눈으로 확인
+            if idx < 3: # 너무 많으니 상위 3개만 출력
+                print(f"   [원본-{idx+1}] {origin_url[:60]}...")
+
+            # 2. 딥링크 변환 (짧은 주소 받기)
+            short_link = make_deep_link(origin_url)
+            
+            if not short_link:
+                print(f"   ⚠️ 변환 실패: {item['productName'][:10]}... (원본 사용)")
+                short_link = origin_url
             
             item_id = f"{date_str}-{idx + 1:02d}"
 
@@ -89,12 +119,11 @@ def get_goldbox_items(limit=10):
                 "name": item['productName'],
                 "price": int(price),
                 "image_url": item['productImage'],
-                "link": final_link 
+                "link": short_link  # 여기에 짧은 링크가 들어갑니다
             })
 
-            # 1위 링크만 샘플로 출력해서 확인
             if idx == 0:
-                print(f"💰 [링크 확인] {final_link[:50]}...")
+                print(f"   💰 [단축 확인] {short_link}")
 
-    print(f">> ✅ 총 {len(items)}개의 상품 정보를 처리했습니다.")
+    print(f">> ✅ 총 {len(items)}개의 상품 처리 완료.")
     return items[:limit]

@@ -1,11 +1,8 @@
 import requests
 import json
 import os
-import time
 
-# ============================================================================
 # 1. 설정 및 키 로드
-# ============================================================================
 def load_secrets():
     secrets = {}
     path = "secrets.json"
@@ -24,9 +21,7 @@ GITHUB_ID = KEYS["GITHUB_ID"]
 PAGE_ID = KEYS["PAGE_ID"]
 TOKEN = KEYS["TOKEN"]
 
-# ============================================================================
 # 2. 개별 이미지 업로드
-# ============================================================================
 def upload_single_image(image_url):
     url = f"https://graph.facebook.com/v19.0/{PAGE_ID}/media"
     payload = {
@@ -36,19 +31,17 @@ def upload_single_image(image_url):
     }
     res = requests.post(url, data=payload)
     
-    # [수정] 실패 시 명확하게 에러 발생시킴
     if res.status_code != 200 or "id" not in res.json():
-        # 에러 메시지 분석
         error_msg = res.json().get('error', {}).get('message', '알 수 없는 오류')
-        raise Exception(f"이미지 업로드 실패: {error_msg}")
+        # 여기서 에러 내용을 자세히 출력
+        print(f"❌ [이미지 업로드 실패] {error_msg}")
+        return None
         
     return res.json()['id']
 
-# ============================================================================
 # 3. 캐러셀 게시
-# ============================================================================
 def publish_carousel(creation_ids, caption):
-    # 1. 컨테이너 묶기
+    # 컨테이너 묶기
     url_step1 = f"https://graph.facebook.com/v19.0/{PAGE_ID}/media"
     payload_step1 = {
         "media_type": "CAROUSEL",
@@ -59,12 +52,12 @@ def publish_carousel(creation_ids, caption):
     res1 = requests.post(url_step1, data=payload_step1)
     
     if "id" not in res1.json():
-        error_msg = res1.json().get('error', {}).get('message', '컨테이너 생성 오류')
-        raise Exception(f"캐러셀 묶기 실패: {error_msg}")
+        print(f"❌ [캐러셀 생성 실패] {res1.text}")
+        return False
         
     creation_id = res1.json()['id']
 
-    # 2. 최종 게시
+    # 최종 게시
     url_step2 = f"https://graph.facebook.com/v19.0/{PAGE_ID}/media_publish"
     payload_step2 = {
         "creation_id": creation_id,
@@ -73,15 +66,13 @@ def publish_carousel(creation_ids, caption):
     res2 = requests.post(url_step2, data=payload_step2)
     
     if "id" in res2.json():
-        print(f"🎉 인스타그램 업로드 성공! (Post ID: {res2.json()['id']})")
+        print(f"🎉 인스타그램 업로드 성공! (ID: {res2.json()['id']})")
         return True
     else:
-        error_msg = res2.json().get('error', {}).get('message', '게시 오류')
-        raise Exception(f"최종 게시 실패: {error_msg}")
+        print(f"❌ [최종 게시 실패] {res2.text}")
+        return False
 
-# ============================================================================
 # 4. 메인 실행
-# ============================================================================
 def main(items):
     print("\n🚀 [인스타그램 업로드] 시작...")
     
@@ -90,20 +81,14 @@ def main(items):
 
     date_str = items[0]['date']
     
-    # 이미지 URL 생성
+    # 이미지 URL 준비
     image_urls = []
     base_url = f"https://{GITHUB_ID}.github.io/images/{date_str}"
     
-    # 표지
-    image_urls.append(f"{base_url}/00_cover.jpg")
-    
-    # 상품 1~8위
-    target_items = items[:8] 
-    for item in target_items:
+    image_urls.append(f"{base_url}/00_cover.jpg") # 표지
+    for item in items[:8]: # 상품 8개
         image_urls.append(f"{base_url}/{item['rank']:02d}.jpg")
-        
-    # 엔딩
-    image_urls.append(f"{base_url}/11_end.jpg")
+    image_urls.append(f"{base_url}/11_end.jpg") # 엔딩
 
     # 본문 작성
     dt_display = f"{date_str[4:6]}월 {date_str[6:8]}일"
@@ -118,16 +103,17 @@ def main(items):
         
     caption += ".\n.\n#쿠팡 #골드박스 #특가 #할인 #쇼핑 #살림템 #자취템 #육아템 #3ILAB"
 
-    # 업로드 시작
+    # 업로드 실행
     container_ids = []
-    print(f"   📸 이미지 {len(image_urls)}장 업로드 준비 중...")
+    print(f"   📸 이미지 {len(image_urls)}장 업로드 시도...")
     
-    # [수정] 실패 시 즉시 멈추고 에러 던짐
     for url in image_urls:
-        c_id = upload_single_image(url) # 여기서 에러나면 바로 멈춤
-        container_ids.append(c_id)
+        c_id = upload_single_image(url)
+        if c_id:
+            container_ids.append(c_id)
+        else:
+            raise Exception("이미지 컨테이너 생성 중단 (권한/URL 문제)")
 
-    # 최종 게시
     print("   📝 게시물 발행 요청...")
     publish_carousel(container_ids, caption)
 
