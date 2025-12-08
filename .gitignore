@@ -1,0 +1,10 @@
+# 파이썬 부산물 무시
+__pycache__/
+*.pyc
+
+# 비밀번호 파일 무시(중요)
+secrets.json
+.env
+
+# 맥(Mac) 사용 시 생기는 파일 무시
+.DS_Store
