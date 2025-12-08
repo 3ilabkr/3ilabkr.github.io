@@ -46,7 +46,7 @@ def create_cover(date_str, save_path):
     
     draw.text((100, 300), "오늘 단 하루!", font=font_md, fill="black")
     draw.text((100, 400), "쿠팡 골드박스", font=font_lg, fill="black")
-    draw.text((100, 520), f"{date_text} 베스트 10", font=font_lg, fill=ACCENT_COLOR)
+    draw.text((100, 520), f"{date_text} 베스트 8", font=font_lg, fill=ACCENT_COLOR)
     draw.text((100, 700), "▶ 옆으로 넘겨서 확인하세요", font=font_md, fill="gray") # 이모지 깨짐 방지
     
     img.save(save_path)
