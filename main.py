@@ -56,7 +56,7 @@ def run_daily_job():
         # 1. 데이터 수집
         step = "1. 데이터 수집"
         print(f"\n🚀 [{step}] 시작...")
-        items = fetch_data.get_goldbox_items(limit=10)
+        items = fetch_data.get_goldbox_items(limit=8)
         if not items: raise Exception("수집된 상품이 0개입니다.")
         print(f"✅ {len(items)}개 데이터 확보 완료")
 
@@ -78,7 +78,7 @@ def run_daily_job():
         git_deploy.push_to_github()
         
         # [대기] 웹 반영 시간 (2분)
-        wait_sec = 120 
+        wait_sec = 1 
         print(f"⏳ 웹 반영 대기 중 ({wait_sec}초)...")
         time.sleep(wait_sec) 
 
