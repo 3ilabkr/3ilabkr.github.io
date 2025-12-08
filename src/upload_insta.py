@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import sys
+import time
 
 # ============================================================================
 # 1. 설정 및 키 로드
