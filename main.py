@@ -6,7 +6,8 @@ import json
 from datetime import datetime, timedelta
 
 # 모듈 불러오기
-from src import fetch_data, make_image, update_db, telegram_bot, git_deploy, upload_insta
+# [수정] cleanup 모듈 추가
+from src import fetch_data, make_image, update_db, telegram_bot, git_deploy, upload_insta, cleanup
 
 # ============================================================================
 # [NEW] 토큰 수명 체크 함수
@@ -87,14 +88,21 @@ def run_daily_job():
         print(f"\n📸 [{step}] 시작...")
         upload_insta.main(items)
 
-        # 6. [NEW] 토큰 수명 체크 및 성공 알림
+        # 6. [NEW] 오래된 이미지 청소 (30일 지난 것 삭제)
+        step = "6. 데이터 청소"
+        cleanup.delete_old_folders(days=30)
+        
+        # 삭제된 내용을 깃허브에도 반영하기 위해 배포를 한 번 더 할 수도 있지만,
+        # 보통은 다음날 배포 때 삭제된 내용이 같이 반영되므로 굳이 여기서 또 배포할 필요는 없습니다.
+        # (다음날 아침에 실행될 때 삭제된 상태로 git add . 되면서 깃허브에서도 지워집니다.)
+
+        # 7. 토큰 수명 체크
         check_token_life()
 
-        success_msg = f"🎉 [작업 성공] 인스타 업로드 완료! (오늘 할 일 끝)"
-        # 매일 성공 알림을 받고 싶으면 아래 주석 해제
-        # telegram_bot.send_message(success_msg)
+        success_msg = f"🎉 [작업 성공] 인스타 업로드 & 청소 완료!"
+        telegram_bot.send_message(success_msg)
         print("\n✨ 전체 작업 성공!")
-
+        
     except Exception as e:
         # 에러 발생 시 즉시 텔레그램 전송
         error_msg = f"🚨 [작업 실패]\n단계: {step}\n내용: {str(e)}\n\n{traceback.format_exc()[:200]}"
