@@ -4,7 +4,7 @@ import hmac
 import hashlib
 import os
 from time import gmtime, strftime
-from datetime import datetime
+from datetime import datetime, timedelta # [수정] timedelta 추가
 import urllib.parse
 
 # 1. API KEY 로드
@@ -59,24 +59,18 @@ def call_api(method, path, params=None, data=None):
         return None
 
 # ============================================================================
-# [NEW] URL 세탁기 (pageKey 살리고 itemId부터 자르기)
+# URL 세탁기
 # ============================================================================
 def clean_coupang_url(url):
-    """
-    입력: ...?lptag=...&pageKey=1234&itemId=5678...
-    출력: ...?lptag=...&pageKey=1234
-    """
     if "&itemId=" in url:
         return url.split("&itemId=")[0]
     return url
 
 # ============================================================================
-# [NEW] 딥링크 생성 (선생님 코드 반영)
+# 딥링크 생성
 # ============================================================================
 def make_deep_link(origin_url):
     dl_path = "/v2/providers/affiliate_open_api/apis/openapi/v1/deeplink"
-    
-    # subId 제거, URL만 보냄
     dl_data = {"coupangUrls": [origin_url]}
     
     res = call_api("POST", dl_path, data=dl_data)
@@ -84,17 +78,20 @@ def make_deep_link(origin_url):
     if res and res.get('rCode') == '0' and res.get('data'):
         return res['data'][0].get('shortenUrl')
     else:
-        # 에러 시 원본 반환
         return origin_url
 
-# 3. 메인 로직
+# 3. 메인 로직 (한국 시간 적용됨)
 def get_goldbox_items(limit=10):
-    print(">> 🚀 골드박스 원본 데이터 수집 중...")
     
-    now = datetime.now()
-    date_str = now.strftime("%Y%m%d")
+    # [핵심 수정] 서버 시간(UTC)에 9시간을 더해서 한국 시간(KST)을 만듭니다.
+    # -----------------------------------------------------------
+    utc_now = datetime.utcnow()
+    kst_now = utc_now + timedelta(hours=9)
+    date_str = kst_now.strftime("%Y%m%d")
+    # -----------------------------------------------------------
+
+    print(f">> 🚀 골드박스 데이터 수집 시작 (날짜: {date_str})...")
     
-    # 1. subId 없이 요청
     path = "/v2/providers/affiliate_open_api/apis/openapi/v1/products/goldbox"
     params = {"limit": limit} 
     result = call_api("GET", path, params=params)
@@ -102,20 +99,19 @@ def get_goldbox_items(limit=10):
     items = []
     
     if result and result.get('data'):
-        print(f">> 📦 {len(result['data'])}개 상품 발견. 링크 정리 및 변환 시작...")
+        print(f">> 📦 {len(result['data'])}개 상품 발견. 변환 시작...")
         
         for idx, item in enumerate(result['data']):
             price = item.get('productPrice') or item.get('salePrice') or item.get('price') or item.get('originalPrice', 0)
             
-            # (1) 원본 URL
+            # (1) 원본
             raw_url = item['productUrl']
-            
-            # (2) [세탁] itemId 뒤쪽만 자르기 (pageKey는 살림)
+            # (2) 세탁
             clean_url = clean_coupang_url(raw_url)
-            
-            # (3) 딥링크 변환
+            # (3) 딥링크
             short_link = make_deep_link(clean_url)
             
+            # ID에도 한국 날짜 적용
             item_id = f"{date_str}-{idx + 1:02d}"
 
             items.append({
@@ -128,12 +124,8 @@ def get_goldbox_items(limit=10):
                 "link": short_link
             })
 
-            # [확인] 1위 상품 변환 로그
             if idx == 0:
-                print(f"   ✨ [1위 변환 테스트]")
-                print(f"      - 원본: {raw_url[:60]}...")
-                print(f"      - 정리: {clean_url}")
-                print(f"      - 결과: {short_link}")
+                print(f"   ✨ [1위 확인] {short_link}")
 
     print(f">> ✅ 총 {len(items)}개의 상품 처리 완료.")
     return items[:limit]
