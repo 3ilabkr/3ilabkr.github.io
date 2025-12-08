@@ -1,0 +1,47 @@
+name: 3ILAB Daily Bot
+
+on:
+  # 1. 스케줄 실행 (UTC 기준 23:00 = 한국 시간 아침 08:00)
+  schedule:
+    - cron: '0 40 15 * * ?'
+  
+  # 2. 수동 실행 버튼 (테스트용)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 저장소 체크아웃
+      uses: actions/checkout@v3
+
+    - name: 파이썬 설정 (3.9)
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: 라이브러리 설치
+      run: |
+        pip install -r requirements.txt
+
+    - name: 깃허브 이메일/이름 설정 (봇)
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+
+    - name: 파이썬 스크립트 실행 (main.py)
+      env:
+        # 깃허브에 등록한 Secret들을 환경변수로 불러옵니다
+        COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
+        COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        GITHUB_ID: ${{ secrets.GITHUB_ID }}
+        INSTA_PAGE_ID: ${{ secrets.INSTA_PAGE_ID }}
+        INSTA_ACCESS_TOKEN: ${{ secrets.INSTA_ACCESS_TOKEN }}
+      run: |
+        python main.py
