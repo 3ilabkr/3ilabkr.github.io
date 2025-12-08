@@ -78,7 +78,7 @@ def run_daily_job():
         git_deploy.push_to_github()
         
         # [대기] 웹 반영 시간 (2분)
-        wait_sec = 5 
+        wait_sec = 10 
         print(f"⏳ 웹 반영 대기 중 ({wait_sec}초)...")
         time.sleep(wait_sec) 
 

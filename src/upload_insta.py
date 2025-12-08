@@ -26,7 +26,7 @@ PAGE_ID = KEYS["PAGE_ID"]
 TOKEN = KEYS["TOKEN"]
 
 # ============================================================================
-# [NEW] 토큰 및 권한 사전 점검
+# 권한 점검 함수
 # ============================================================================
 def check_token_status():
     print("   🕵️ [진단] 토큰 및 권한 상태 확인 중...")
@@ -39,13 +39,9 @@ def check_token_status():
         if 'data' in data:
             for page in data['data']:
                 print(f"      - 페이지 이름: {page.get('name')} (ID: {page.get('id')})")
-                if page.get('id') == PAGE_ID:
-                    print("      ✨ (현재 설정된 PAGE_ID와 일치합니다! OK)")
     else:
-        print(f"   ❌ [진단] 토큰 문제 발생!")
-        print(f"      응답 코드: {res.status_code}")
-        print(f"      에러 내용: {res.text}")
-        raise Exception("토큰이 유효하지 않거나 권한이 없습니다.")
+        print(f"   ❌ [진단] 토큰 문제 발생: {res.text}")
+        raise Exception("토큰 오류")
 
 # ============================================================================
 # 2. 개별 이미지 업로드 (컨테이너 생성)
@@ -61,20 +57,18 @@ def upload_single_image(image_url, index):
     }
     res = requests.post(url, data=payload)
     
-    # [디버그] 실패 시 상세 정보 출력
     if res.status_code != 200 or "id" not in res.json():
         print(f"\n❌ [ERROR] {index+1}번째 이미지 업로드 실패!")
-        print(f"   - URL: {image_url}")
-        print(f"   - 응답 코드: {res.status_code}")
-        print(f"   - 상세 에러(RAW): {res.text}") # 페이스북이 보낸 진짜 에러 메시지
+        print(f"   - 상세 에러: {res.text}")
         raise Exception(f"{index+1}번 이미지 업로드 중단")
         
     container_id = res.json()['id']
-    print(f"      ✅ 성공 (Container ID: {container_id})")
+    # 너무 빨리 요청하면 체할 수 있으니 2초 쉼
+    time.sleep(2) 
     return container_id
 
 # ============================================================================
-# 3. 캐러셀 게시
+# 3. 캐러셀 게시 (수정됨: 대기 시간 추가)
 # ============================================================================
 def publish_carousel(creation_ids, caption):
     print("\n   📦 [패키징] 캐러셀 컨테이너 묶는 중...")
@@ -90,13 +84,19 @@ def publish_carousel(creation_ids, caption):
     res1 = requests.post(url_step1, data=payload_step1)
     
     if "id" not in res1.json():
-        print(f"\n❌ [ERROR] 캐러셀 생성(묶기) 실패!")
-        print(f"   - 응답 코드: {res1.status_code}")
-        print(f"   - 상세 에러(RAW): {res1.text}")
+        print(f"\n❌ [ERROR] 캐러셀 생성 실패: {res1.text}")
         raise Exception("캐러셀 생성 실패")
         
     creation_id = res1.json()['id']
     print(f"      ✅ 성공 (Creation ID: {creation_id})")
+
+    # -------------------------------------------------------------
+    # [핵심 수정] 인스타그램이 이미지를 처리할 시간을 줍니다 (60초)
+    # -------------------------------------------------------------
+    wait_time = 60
+    print(f"\n   ⏳ [대기] 인스타그램 서버 처리 대기 중 ({wait_time}초)...")
+    print("      (이 시간을 안 기다리면 'Media ID not available' 에러가 납니다)")
+    time.sleep(wait_time)
 
     # 2. 최종 게시
     print("   🚀 [발행] 최종 게시 요청 중...")
@@ -112,8 +112,7 @@ def publish_carousel(creation_ids, caption):
         return True
     else:
         print(f"\n❌ [ERROR] 최종 발행 실패!")
-        print(f"   - 응답 코드: {res2.status_code}")
-        print(f"   - 상세 에러(RAW): {res2.text}")
+        print(f"   - 상세 에러: {res2.text}")
         raise Exception("최종 게시 실패")
 
 # ============================================================================
@@ -126,22 +125,20 @@ def main(items):
         print("❌ secrets.json 정보가 누락되었습니다.")
         return
 
-    # 1. 토큰 상태 먼저 체크
     check_token_status()
 
     date_str = items[0]['date']
     
-    # 이미지 URL 준비 (총 10장)
+    # 이미지 URL 준비
     image_urls = []
     base_url = f"https://{GITHUB_ID}.github.io/images/{date_str}"
     
-    image_urls.append(f"{base_url}/00_cover.jpg") # 1
-    for item in items[:8]: # 2~9
+    image_urls.append(f"{base_url}/00_cover.jpg") 
+    for item in items[:8]: 
         image_urls.append(f"{base_url}/{item['rank']:02d}.jpg")
-    image_urls.append(f"{base_url}/11_end.jpg") # 10
+    image_urls.append(f"{base_url}/11_end.jpg")
 
     print(f"\n📸 업로드할 이미지 수: {len(image_urls)}장")
-    print(f"   (표지 + 상품 8개 + 엔딩)")
 
     # 본문 작성
     dt_display = f"{date_str[4:6]}월 {date_str[6:8]}일"
@@ -163,15 +160,12 @@ def main(items):
         for i, url in enumerate(image_urls):
             c_id = upload_single_image(url, i)
             container_ids.append(c_id)
-            # 너무 빨리 요청하면 차단될 수 있으니 1초 쉼
-            time.sleep(1)
 
-        # 모두 성공하면 게시
+        # 모두 성공하면 대기 후 게시
         publish_carousel(container_ids, caption)
         
     except Exception as e:
         print(f"\n🚨 [CRITICAL ERROR] 업로드 프로세스 중단됨: {e}")
-        # 메인 프로그램이 알 수 있게 다시 에러 던짐
         raise e
 
 if __name__ == "__main__":
