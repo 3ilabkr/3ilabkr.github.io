@@ -59,11 +59,10 @@ def call_api(method, path, params=None, data=None):
         return None
 
 # ============================================================================
-# [NEW] URL 세탁기 (pageKey까지만 살리기)
+# [NEW] URL 세탁기 (pageKey 살리고 itemId부터 자르기)
 # ============================================================================
 def clean_coupang_url(url):
     """
-    URL에서 &itemId= 뒷부분만 자릅니다.
     입력: ...?lptag=...&pageKey=1234&itemId=5678...
     출력: ...?lptag=...&pageKey=1234
     """
@@ -72,43 +71,20 @@ def clean_coupang_url(url):
     return url
 
 # ============================================================================
-# [NEW] 딥링크 생성 (선생님 코드 반영: subId 제거)
+# [NEW] 딥링크 생성 (선생님 코드 반영)
 # ============================================================================
-
-# def get_deep_link(original_url):
-#     DOMAIN = "https://api-gateway.coupang.com"
-#     URL = "/v2/providers/affiliate_open_api/apis/openapi/v1/deeplink"
-#     METHOD = "POST"
-#     try:
-#         auth_header = generate_hmac_header(METHOD, URL)
-#         headers = {"Authorization": auth_header, "Content-Type": "application/json"}
-#         data = {"coupangUrls": [original_url]}
-#         response = requests.post(DOMAIN + URL, headers=headers, json=data)
-#         result = response.json()
-#         if result.get('rCode') == '0':
-#             return result['data'][0]['shortenUrl']
-#         else:
-#             # log(f"❌ 딥링크 에러: {result.get('rMessage')}")
-#             return original_url
-#     except Exception as e:
-#         # log(f"❌ API 통신 에러: {e}")
-#         return original_url
-    
-
 def make_deep_link(origin_url):
     dl_path = "/v2/providers/affiliate_open_api/apis/openapi/v1/deeplink"
     
-    # [수정] subId 제거함! URL만 담아서 보냄
+    # subId 제거, URL만 보냄
     dl_data = {"coupangUrls": [origin_url]}
     
     res = call_api("POST", dl_path, data=dl_data)
     
     if res and res.get('rCode') == '0' and res.get('data'):
-        # 단축 URL(shortenUrl) 반환
         return res['data'][0].get('shortenUrl')
     else:
-        # 에러 발생 시 원본 반환 (로그는 에러 확인용)
-        # print(f"❌ 딥링크 생성 실패: {res}")
+        # 에러 시 원본 반환
         return origin_url
 
 # 3. 메인 로직
@@ -118,7 +94,7 @@ def get_goldbox_items(limit=10):
     now = datetime.now()
     date_str = now.strftime("%Y%m%d")
     
-    # 1. 골드박스 조회 (여기도 subId 뺌 -> 순수한 원본 URL 받기 위함)
+    # 1. subId 없이 요청
     path = "/v2/providers/affiliate_open_api/apis/openapi/v1/products/goldbox"
     params = {"limit": limit} 
     result = call_api("GET", path, params=params)
@@ -131,18 +107,14 @@ def get_goldbox_items(limit=10):
         for idx, item in enumerate(result['data']):
             price = item.get('productPrice') or item.get('salePrice') or item.get('price') or item.get('originalPrice', 0)
             
-            # (1) API가 준 원본 URL
+            # (1) 원본 URL
             raw_url = item['productUrl']
             
             # (2) [세탁] itemId 뒤쪽만 자르기 (pageKey는 살림)
             clean_url = clean_coupang_url(raw_url)
             
-            # (3) 딥링크 변환 (subId 없이 요청)
+            # (3) 딥링크 변환
             short_link = make_deep_link(clean_url)
-            
-            # 변환된 링크가 원본과 같으면(실패하면) 경고
-            if short_link == clean_url:
-                print(f"   ⚠️ 변환 실패(원본사용): {item['productName'][:10]}...")
             
             item_id = f"{date_str}-{idx + 1:02d}"
 
@@ -156,10 +128,10 @@ def get_goldbox_items(limit=10):
                 "link": short_link
             })
 
-            # [확인] 1위 상품 변환 과정 출력
+            # [확인] 1위 상품 변환 로그
             if idx == 0:
                 print(f"   ✨ [1위 변환 테스트]")
-                print(f"      - 원본: {raw_url}")
+                print(f"      - 원본: {raw_url[:60]}...")
                 print(f"      - 정리: {clean_url}")
                 print(f"      - 결과: {short_link}")
 
