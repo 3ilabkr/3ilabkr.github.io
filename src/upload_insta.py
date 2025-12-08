@@ -142,7 +142,7 @@ def main(items):
 
     # 본문 작성
     dt_display = f"{date_str[4:6]}월 {date_str[6:8]}일"
-    caption = f"🔥 {dt_display} 3ILAB 골드박스 BEST 10 🔥\n\n"
+    caption = f"🔥 {dt_display} 3ILAB 골드박스 BEST 8 🔥\n\n"
     caption += "오늘 단 하루 특가! 놓치면 손해인 상품들을 모았습니다.\n"
     caption += f"👉 구매 링크는 프로필 상단 링크 클릭!\n"
     caption += f"👉 상품 번호로 검색하면 더 빠르게 찾을 수 있어요.\n\n"
