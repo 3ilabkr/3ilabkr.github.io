@@ -1,133 +1,214 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3ILAB 골드박스</title> <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
-    <style>
-        :root { --primary-color: #E60023; --bg-color: #f8f9fa; }
-        body { font-family: 'Nanum Gothic', sans-serif; background-color: var(--bg-color); margin: 0; padding: 0; padding-bottom: 50px;}
-        
-        /* 1. 코웨이 홍보 배너 */
-        .promo-banner {
-            background-color: #333; color: white; text-align: center; padding: 12px;
-            font-size: 0.9rem; cursor: pointer; text-decoration: none; display: block;
-        }
-        .promo-banner:hover { background-color: black; }
 
-        /* 2. 쿠팡 파트너스 문구 */
-        .disclaimer {
-            font-size: 0.7rem; color: #aaa; text-align: center; margin-top: 10px; margin-bottom: 20px;
-        }
+    <!DOCTYPE html>
+    <html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>3ILAB 골드박스</title>
+        <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet">
+        <style>
+            :root { --primary-color: #E60023; --bg-color: #f8f9fa; }
+            body { font-family: 'Nanum Gothic', sans-serif; background-color: var(--bg-color); margin: 0; padding: 0; padding-bottom: 50px; }
+            
+            /* 1. 쿠팡 파트너스 문구 (최상단, 흐릿하게) */
+            .disclaimer {
+                font-size: 0.7rem; color: #ccc; text-align: center; 
+                padding: 10px 0 5px 0; background-color: #fff;
+            }
 
-        .container { max-width: 1000px; margin: 0 auto; padding: 0 15px; }
+            /* 2. 코웨이 홍보 배너 (중간 강조) */
+            .promo-banner {
+                display: block;
+                background-color: #fff; 
+                border: 2px solid #03c75a; /* 네이버 그린 */
+                border-radius: 12px;
+                padding: 15px;
+                text-align: center;
+                margin: 20px auto;
+                max-width: 90%;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                text-decoration: none; color: #333;
+                transition: transform 0.2s;
+            }
+            .promo-banner:hover { transform: translateY(-2px); }
+            .promo-banner b { color: #03c75a; }
 
-        h2.section-title { 
-            color: #333; border-left: 5px solid var(--primary-color); 
-            padding-left: 10px; margin: 30px 0 15px 0; font-size: 1.3rem; 
-        }
+            .container { max-width: 1000px; margin: 0 auto; padding: 0 15px; }
+            .section-title { color: #333; border-left: 5px solid var(--primary-color); padding-left: 10px; margin: 30px 0 15px 0; font-size: 1.3rem; }
 
-        .product-grid { 
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); 
-            gap: 15px; 
-        }
+            /* 상품 카드 디자인 */
+            .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; }
+            .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); cursor: pointer; transition: transform 0.2s; }
+            .card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.15); }
+            
+            /* 이미지 비율 고정 (잘림 방지) */
+            .card-img-top { width: 100%; aspect-ratio: 1 / 1; object-fit: contain; background-color: white; }
+            
+            .card-body { padding: 12px; }
+            .rank-badge { background: var(--primary-color); color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.8rem; margin-right: 5px; }
+            .product-title { font-size: 0.9rem; margin: 5px 0; height: 2.7em; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+            .product-price { font-size: 1.1rem; font-weight: 800; color: var(--primary-color); }
+            .product-id { font-size: 0.7rem; color: #ccc; text-align: right; margin-top: 5px; }
 
-        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); cursor: pointer; transition: transform 0.2s; }
-        .card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.15); }
-        
-        /* [핵심 수정] 이미지 잘림 방지 CSS */
-        .card-img-top { 
-            width: 100%; 
-            /* 높이를 고정하지 않고, 가로세로 비율을 1:1(정사각형)로 강제합니다 */
-            aspect-ratio: 1 / 1; 
-            /* 이미지가 비율을 유지하며 박스 안에 쏙 들어가게 합니다 (잘림 없음) */
-            object-fit: contain; 
-            background-color: white; 
-        }
-        
-        .card-body { padding: 12px; }
-        
-        .rank-badge { background: var(--primary-color); color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.8rem; margin-right: 5px; }
-        .product-title { font-size: 0.9rem; margin: 5px 0; height: 2.7em; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-        .product-price { font-size: 1.1rem; font-weight: 800; color: var(--primary-color); }
-        .product-id { font-size: 0.7rem; color: #ccc; text-align: right; margin-top: 5px; }
+            /* 달력 및 검색 */
+            .calendar-area { background: white; padding: 15px; border-radius: 10px; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; box-shadow: 0 2px 5px rgba(0,0,0,0.05); margin-bottom: 20px; }
+            .date-btn { border: 1px solid #ddd; background: white; padding: 8px 15px; border-radius: 20px; cursor: pointer; font-size: 0.9rem; transition: 0.2s; }
+            .date-btn:hover { background: #eee; }
+            .date-btn.active { background: var(--primary-color); color: white; border-color: var(--primary-color); }
+            .search-box { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px; box-sizing: border-box; }
+            .loading { text-align: center; padding: 50px; color: #999; }
 
-        .calendar-area { 
-            background: white; padding: 15px; border-radius: 10px; 
-            display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05); margin-bottom: 20px;
-        }
-        .date-btn {
-            border: 1px solid #ddd; background: white; padding: 8px 15px; border-radius: 20px;
-            cursor: pointer; font-size: 0.9rem; transition: 0.2s;
-        }
-        .date-btn:hover { background: #eee; }
-        .date-btn.active { background: var(--primary-color); color: white; border-color: var(--primary-color); }
+            @media (max-width: 600px) { .product-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
+        </style>
+    </head>
+    <body>
 
-        .search-box { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px; box-sizing: border-box; }
-        .loading { text-align: center; padding: 50px; color: #999; }
-        
-        @media (max-width: 600px) {
-            .product-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
-        }
-    </style>
-</head>
-<body>
-
-    <a href="https://www.coway.com" target="_blank" class="promo-banner">
-        📢 <b>[설문조사]</b> 코웨이 제품 체험하고 혜택 받으러 가기 (클릭)
-    </a>
-
-    <div class="disclaimer">
-        이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-    </div>
-
-    <div class="container">
-        <h2 class="section-title">🔥 3ILAB 오늘의 골드박스 Top 10</h2>
-        <div id="today-list" class="product-grid">
-            <div class="loading">데이터 불러오는 중...</div>
+        <div class="disclaimer">
+            이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
         </div>
 
-        <hr style="margin: 40px 0; border: 0; border-top: 1px solid #ddd;">
+        <div class="container">
+            <a href="https://naver.me/GWideWE6" target="_blank" class="promo-banner">
+                📢 <b>[설문조사]</b> 코웨이 제품 가장 유리한 조건으로<br>상담 받으러 가기 (클릭) 👇
+            </a>
 
-        <h2 class="section-title">📅 지난 날짜 & 검색</h2>
-        
-        <input type="text" id="search-input" class="search-box" placeholder="상품명이나 번호로 검색 (예: 240520-01)" onkeyup="doSearch()">
-        
-        <div class="calendar-area" id="calendar-buttons"></div>
+            <h2 class="section-title">🔥 12월 9일 골드박스 Top 10</h2>
+            
+            <div id="today-list" class="product-grid">
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458', '_blank')">
+                    <img src="https://image5.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">1위</span></div>
+                        <div class="product-title">코멧 순백 3겹 라벤더 바닐라 롤화장지</div>
+                        <div class="product-price">11,990원</div>
+                        <div class="product-id">No. 20251209-01</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8367276124', '_blank')">
+                    <img src="https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/ff8a/c3f4a6c454da67b60a4e10c816ea365a79807b9ffbe5c1101416acce82ab.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">2위</span></div>
+                        <div class="product-title">르샤트라1802 인퓨전 초고농축 섬유유연제 피오니부케향 본품</div>
+                        <div class="product-price">20,800원</div>
+                        <div class="product-id">No. 20251209-02</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8750376361', '_blank')">
+                    <img src="https://img3a.coupangcdn.com/image/retail/images/710372124709873-1d6aa1e9-d4a9-4401-a2d4-08ce6fcfc7ef.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">3위</span></div>
+                        <div class="product-title">궁중비책 키즈 모이스처 페이스 로션</div>
+                        <div class="product-price">14,400원</div>
+                        <div class="product-id">No. 20251209-03</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7233308451', '_blank')">
+                    <img src="https://img4a.coupangcdn.com/image/retail/images/161039688622577-671554fa-f608-4df3-a4b4-27bb16b10363.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">4위</span></div>
+                        <div class="product-title">힐스사이언스다이어트 고양이 유리너리 헤어볼 컨트롤 기능성 사료</div>
+                        <div class="product-price">38,000원</div>
+                        <div class="product-id">No. 20251209-04</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9074963626', '_blank')">
+                    <img src="https://image3.coupangcdn.com/image/retail/images/157863866209666-b17db2b3-0568-47c2-9c1d-4c80730c4a5a.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">5위</span></div>
+                        <div class="product-title">커버낫 남녀공용 뉴 어센틱 백팩 31L</div>
+                        <div class="product-price">112,000원</div>
+                        <div class="product-id">No. 20251209-05</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7575840832', '_blank')">
+                    <img src="https://img5a.coupangcdn.com/image/vendor_inventory/2c94/b9da45b87a3e5ab8b549ac35ebe54be4f4c80c77b9d5b3af0d3d9d3d13b5.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">6위</span></div>
+                        <div class="product-title">행복미트 미국산 초이스 등급 소고기 아롱사태</div>
+                        <div class="product-price">28,610원</div>
+                        <div class="product-id">No. 20251209-06</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9052450759', '_blank')">
+                    <img src="https://img1a.coupangcdn.com/image/retail/images/2025/09/10/9/8/15a163ea-2732-4e2c-9f99-eb6c2f0a831b.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">7위</span></div>
+                        <div class="product-title">아웃도어프로덕츠 하이킹 중목 양말 5켤레</div>
+                        <div class="product-price">16,900원</div>
+                        <div class="product-id">No. 20251209-07</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7396118705', '_blank')">
+                    <img src="https://image3.coupangcdn.com/image/vendor_inventory/ce11/6f902faf32aec4d44f0a72315eb1c5c33e62af40ca3795f0c9218b922231.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">8위</span></div>
+                        <div class="product-title">허브크린 오물분해제 하수구 배수구 세정제 머리카락 분해 제거 막힘 해결</div>
+                        <div class="product-price">11,000원</div>
+                        <div class="product-id">No. 20251209-08</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8428277367', '_blank')">
+                    <img src="https://image4.coupangcdn.com/image/vendor_inventory/4e31/9a343b99050f7c8a995d811ff5af6410b42b9c2139bac474b46bd70c5f8d.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">9위</span></div>
+                        <div class="product-title">파로마 채튼A 통세라믹 원목식탁 + 의자세트 4인 방문설치</div>
+                        <div class="product-price">600,000원</div>
+                        <div class="product-id">No. 20251209-09</div>
+                    </div>
+                </div>
+                
+                <div class="card" onclick="window.open('https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8556550115', '_blank')">
+                    <img src="https://img3c.coupangcdn.com/image/retail/images/428343691125093-478f9117-6ad2-4fb0-9497-566459127bc1.jpg" class="card-img-top" loading="lazy" 
+                         onerror="this.src='https://via.placeholder.com/500x500/eee/999?text=No+Image'">
+                    <div class="card-body">
+                        <div><span class="rank-badge">10위</span></div>
+                        <div class="product-title">[비건뷰티] 라온느 블랙 아르간 헤어오일</div>
+                        <div class="product-price">12,900원</div>
+                        <div class="product-id">No. 20251209-10</div>
+                    </div>
+                </div>
+                
+            </div>
 
-        <div id="archive-list" class="product-grid">
-            <div style="text-align: center; width: 100%; color: #aaa; padding: 20px;">
-                날짜를 클릭하거나 검색하면 과거 상품이 나옵니다.<br>
-                (이미지가 만료된 상품도 텍스트와 링크는 유지됩니다)
+            <hr style="margin: 40px 0; border: 0; border-top: 1px solid #ddd;">
+
+            <h2 class="section-title">📅 지난 날짜 & 검색</h2>
+            <input type="text" id="search-input" class="search-box" placeholder="상품명이나 번호로 검색" onkeyup="doSearch()">
+            <div class="calendar-area" id="calendar-buttons"></div>
+            <div id="archive-list" class="product-grid">
+                <div style="text-align: center; width: 100%; color: #aaa; padding: 20px;">
+                    날짜를 클릭하거나 검색하면 과거 상품이 나옵니다.
+                </div>
             </div>
         </div>
-    </div>
 
-    <script>
-        let allProducts = [];
+        <script>
+            // 파이썬이 데이터를 여기에 심어줍니다
+            const allProducts = [{"id": "20251209-01", "date": "20251209", "rank": 1, "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지", "price": 11990, "image_url": "https://image5.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"}, {"id": "20251209-02", "date": "20251209", "rank": 2, "name": "르샤트라1802 인퓨전 초고농축 섬유유연제 피오니부케향 본품", "price": 20800, "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/ff8a/c3f4a6c454da67b60a4e10c816ea365a79807b9ffbe5c1101416acce82ab.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8367276124"}, {"id": "20251209-03", "date": "20251209", "rank": 3, "name": "궁중비책 키즈 모이스처 페이스 로션", "price": 14400, "image_url": "https://img3a.coupangcdn.com/image/retail/images/710372124709873-1d6aa1e9-d4a9-4401-a2d4-08ce6fcfc7ef.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8750376361"}, {"id": "20251209-04", "date": "20251209", "rank": 4, "name": "힐스사이언스다이어트 고양이 유리너리 헤어볼 컨트롤 기능성 사료", "price": 38000, "image_url": "https://img4a.coupangcdn.com/image/retail/images/161039688622577-671554fa-f608-4df3-a4b4-27bb16b10363.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7233308451"}, {"id": "20251209-05", "date": "20251209", "rank": 5, "name": "커버낫 남녀공용 뉴 어센틱 백팩 31L", "price": 112000, "image_url": "https://image3.coupangcdn.com/image/retail/images/157863866209666-b17db2b3-0568-47c2-9c1d-4c80730c4a5a.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9074963626"}, {"id": "20251209-06", "date": "20251209", "rank": 6, "name": "행복미트 미국산 초이스 등급 소고기 아롱사태", "price": 28610, "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/2c94/b9da45b87a3e5ab8b549ac35ebe54be4f4c80c77b9d5b3af0d3d9d3d13b5.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7575840832"}, {"id": "20251209-07", "date": "20251209", "rank": 7, "name": "아웃도어프로덕츠 하이킹 중목 양말 5켤레", "price": 16900, "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/09/10/9/8/15a163ea-2732-4e2c-9f99-eb6c2f0a831b.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9052450759"}, {"id": "20251209-08", "date": "20251209", "rank": 8, "name": "허브크린 오물분해제 하수구 배수구 세정제 머리카락 분해 제거 막힘 해결", "price": 11000, "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/ce11/6f902faf32aec4d44f0a72315eb1c5c33e62af40ca3795f0c9218b922231.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7396118705"}, {"id": "20251209-09", "date": "20251209", "rank": 9, "name": "파로마 채튼A 통세라믹 원목식탁 + 의자세트 4인 방문설치", "price": 600000, "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/4e31/9a343b99050f7c8a995d811ff5af6410b42b9c2139bac474b46bd70c5f8d.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8428277367"}, {"id": "20251209-10", "date": "20251209", "rank": 10, "name": "[비건뷰티] 라온느 블랙 아르간 헤어오일", "price": 12900, "image_url": "https://img3c.coupangcdn.com/image/retail/images/428343691125093-478f9117-6ad2-4fb0-9497-566459127bc1.jpg", "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8556550115"}];
 
-        fetch('data/products.json')
-            .then(res => {
-                if(!res.ok) throw new Error("DB 없음");
-                return res.json();
-            })
-            .then(data => {
-                allProducts = data;
-                initApp();
-            })
-            .catch(err => {
-                document.getElementById('today-list').innerHTML = "<div class='loading'>데이터를 불러올 수 없습니다.</div>";
-                console.error(err);
-            });
-
-        function initApp() {
-            const dates = [...new Set(allProducts.map(item => item.date))].sort().reverse();
-            
-            if (dates.length > 0) {
-                const latestDate = dates[0];
-                renderProducts(latestDate, 'today-list');
-
+            // 초기화
+            function initApp() {
+                const dates = [...new Set(allProducts.map(item => item.date))].sort().reverse();
+                
+                // 달력 버튼 만들기
                 const calContainer = document.getElementById('calendar-buttons');
                 dates.forEach(date => {
                     const btn = document.createElement('button');
@@ -137,84 +218,68 @@
                     btn.onclick = () => {
                         document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
                         btn.classList.add('active');
-                        renderProducts(date, 'archive-list');
+                        renderArchive(date);
                     };
                     calContainer.appendChild(btn);
                 });
             }
-        }
 
-        function renderProducts(targetDate, targetId) {
-            const container = document.getElementById(targetId);
-            container.innerHTML = "";
-
-            const items = allProducts
-                .filter(item => item.date === targetDate)
-                .sort((a, b) => a.rank - b.rank);
-
-            if (items.length === 0) {
-                container.innerHTML = "<div class='loading'>상품이 없습니다.</div>";
-                return;
+            // 과거 데이터 렌더링
+            function renderArchive(targetDate) {
+                const container = document.getElementById('archive-list');
+                container.innerHTML = "";
+                const items = allProducts.filter(item => item.date === targetDate).sort((a, b) => a.rank - b.rank);
+                
+                items.forEach(item => {
+                    const rankStr = String(item.rank).padStart(2, '0');
+                    const imgPath = `images/${item.date}/${rankStr}.jpg`;
+                    const html = `
+                    <div class="card" onclick="window.open('${item.link}', '_blank')">
+                        <img src="${imgPath}" class="card-img-top" onerror="this.src='https://via.placeholder.com/500?text=Expired'">
+                        <div class="card-body">
+                            <div><span class="rank-badge">${item.date.substring(4)} / ${item.rank}위</span></div>
+                            <div class="product-title">${item.name}</div>
+                            <div class="product-price">${item.price.toLocaleString()}원</div>
+                        </div>
+                    </div>`;
+                    container.innerHTML += html;
+                });
             }
 
-            items.forEach(item => {
-                const rankStr = String(item.rank).padStart(2, '0');
-                const imgPath = `images/${item.date}/${rankStr}.jpg`;
+            // 검색 기능
+            function doSearch() {
+                const keyword = document.getElementById('search-input').value.toLowerCase();
+                const container = document.getElementById('archive-list');
+                if (keyword.length < 2) return;
+                
+                container.innerHTML = "";
+                const results = allProducts.filter(item => 
+                    item.name.toLowerCase().includes(keyword) || item.id.toLowerCase().includes(keyword)
+                );
 
-                // [중요] 이미지가 삭제되어도 'onerror'가 작동하여 대체 이미지를 보여줍니다.
-                // 텍스트와 링크(item.link)는 JSON에 살아있으므로 계속 클릭 가능합니다.
-                const html = `
-                <div class="card" onclick="window.open('${item.link}', '_blank')">
-                    <img src="${imgPath}" class="card-img-top" loading="lazy" 
-                         alt="${item.name}"
-                         onerror="this.onerror=null; this.src='https://via.placeholder.com/500x500/eee/999?text=Image+Expired';">
-                    <div class="card-body">
-                        <div><span class="rank-badge">${item.rank}위</span></div>
-                        <div class="product-title">${item.name}</div>
-                        <div class="product-price">${item.price.toLocaleString()}원</div>
-                        <div class="product-id">No. ${item.id}</div>
-                    </div>
-                </div>`;
-                container.innerHTML += html;
-            });
-        }
+                if (results.length === 0) {
+                    container.innerHTML = "<div class='loading'>검색 결과가 없습니다.</div>";
+                    return;
+                }
 
-        function doSearch() {
-            const keyword = document.getElementById('search-input').value.toLowerCase();
-            const container = document.getElementById('archive-list');
-            
-            if (keyword.length < 2) return;
-
-            container.innerHTML = "";
-            
-            const results = allProducts.filter(item => 
-                item.name.toLowerCase().includes(keyword) || 
-                item.id.toLowerCase().includes(keyword)
-            );
-
-            results.sort((a, b) => b.date.localeCompare(a.date) || a.rank - b.rank);
-
-            if (results.length === 0) {
-                container.innerHTML = "<div class='loading'>검색 결과가 없습니다.</div>";
-                return;
+                results.forEach(item => {
+                    const imgPath = `images/${item.date}/${String(item.rank).padStart(2,'0')}.jpg`;
+                    const html = `
+                    <div class="card" onclick="window.open('${item.link}', '_blank')">
+                        <img src="${imgPath}" class="card-img-top" onerror="this.src='https://via.placeholder.com/500?text=Expired'">
+                        <div class="card-body">
+                            <div><span class="rank-badge">${item.date.substring(4)} / ${item.rank}위</span></div>
+                            <div class="product-title">${item.name}</div>
+                            <div class="product-price">${item.price.toLocaleString()}원</div>
+                        </div>
+                    </div>`;
+                    container.innerHTML += html;
+                });
             }
 
-            results.forEach(item => {
-                const rankStr = String(item.rank).padStart(2, '0');
-                const imgPath = `images/${item.date}/${rankStr}.jpg`;
-                const html = `
-                <div class="card" onclick="window.open('${item.link}', '_blank')">
-                    <img src="${imgPath}" class="card-img-top" 
-                         onerror="this.onerror=null; this.src='https://via.placeholder.com/500x500/eee/999?text=Image+Expired';">
-                    <div class="card-body">
-                        <div><span class="rank-badge">${item.date.substring(4)} / ${item.rank}위</span></div>
-                        <div class="product-title">${item.name}</div>
-                        <div class="product-price">${item.price.toLocaleString()}원</div>
-                    </div>
-                </div>`;
-                container.innerHTML += html;
-            });
-        }
-    </script>
-</body>
-</html>
+            // 실행
+            initApp();
+        </script>
+    </body>
+    </html>
+    
