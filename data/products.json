@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251210-01",
+        "date": "20251210",
+        "rank": 1,
+        "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러",
+        "price": 64000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/152202886464346-298b42f6-7da0-42bc-8455-bfd450a8fca3.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6792297030"
+    },
+    {
+        "id": "20251210-02",
+        "date": "20251210",
+        "rank": 2,
+        "name": "케라시스 케라마이드 극손상 헤어트리트먼트",
+        "price": 8730,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/image_audit/prod/5b8a89df-4e59-4d97-aa74-d4bb6ad09d3d_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6789548230"
+    },
+    {
+        "id": "20251210-03",
+        "date": "20251210",
+        "rank": 3,
+        "name": "크리넥스 순수 소프트 천연펄프 3겹 롤화장지",
+        "price": 20990,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/12571324617795-09dd74a3-3234-4726-a983-2315d2bd0fc3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=306646191"
+    },
+    {
+        "id": "20251210-04",
+        "date": "20251210",
+        "rank": 4,
+        "name": "코코도르 퍼퓸 디퓨저",
+        "price": 20900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/389760576092297-e89bb3bd-1305-4687-a59f-058a97474f1a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7154449918"
+    },
+    {
+        "id": "20251210-05",
+        "date": "20251210",
+        "rank": 5,
+        "name": "삼성전자 Bespoke AI 905L 4도어 냉장고 방문설치",
+        "price": 1881800,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/n9rsmtjo/ba2553037fc34fe983c96bb846912ea0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8734947909"
+    },
+    {
+        "id": "20251210-06",
+        "date": "20251210",
+        "rank": 6,
+        "name": "르엘라 BLDC 미용실 헤어 드라이기",
+        "price": 74000,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/97bb/7b1ffa396d9798145f7a43a9197e5aea158312aa42a4acdca893ad477af1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8642154764"
+    },
+    {
+        "id": "20251210-07",
+        "date": "20251210",
+        "rank": 7,
+        "name": "[색상선택형] 삼성전자 비스포크 313L 스탠드형 3도어 김치냉장고 김치플러스 키친핏 방문설치",
+        "price": 1470380,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/78f9/c728c8411374bfeeb55f8a6005ead5aebf95806524af611ba9c463e217f8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8397541638"
+    },
+    {
+        "id": "20251210-08",
+        "date": "20251210",
+        "rank": 8,
+        "name": "고르고 바른 마스크 대형 성인용",
+        "price": 14800,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/219c/75b9455b71a02e8bd8b0cd1c0e329c9e2cd88553e124b75fa8d6d5aeb3fb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7558245407"
+    },
+    {
+        "id": "20251210-09",
+        "date": "20251210",
+        "rank": 9,
+        "name": "아몬드브리즈 오리지널",
+        "price": 14670,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/3839919669639451-02d9617b-c505-4f85-ae62-4ea8409c1eae.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6654766761"
+    },
+    {
+        "id": "20251210-10",
+        "date": "20251210",
+        "rank": 10,
+        "name": "나우푸드 비오틴 5000mcg 베지 캡슐 비건",
+        "price": 12510,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/208a/3faa9e975981557aeeb7f9721c082bec31bfb19b2631f26f2201fdbd3e95.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1955584555"
+    },
+    {
         "id": "20251209-01",
         "date": "20251209",
         "rank": 1,
