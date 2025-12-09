@@ -225,4 +225,27 @@ def update_html_file(data):
                     const imgPath = `images/${{item.date}}/${{String(item.rank).padStart(2,'0')}}.jpg`;
                     const html = `
                     <div class="card" onclick="window.open('${{item.link}}', '_blank')">
-                        <img src="${{imgPath}}" class="card-img-top" onerror="this.src='
+                        <img src="${{imgPath}}" class="card-img-top" onerror="this.src='https://via.placeholder.com/500?text=Expired'">
+                        <div class="card-body">
+                            <div><span class="rank-badge">${{item.date.substring(4)}} / ${{item.rank}}위</span></div>
+                            <div class="product-title">${{item.name}}</div>
+                            <div class="product-price">${{item.price.toLocaleString()}}원</div>
+                        </div>
+                    </div>`;
+                    container.innerHTML += html;
+                }});
+            }}
+
+            // 실행
+            initApp();
+        </script>
+    </body>
+    </html>
+    """
+    
+    with open(HTML_FILE, "w", encoding="utf-8") as f:
+        f.write(html_content)
+    print("✨ [HTML 업데이트] 디자인이 적용된 index.html 생성 완료!")
+
+if __name__ == "__main__":
+    pass
