@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251211-01",
+        "date": "20251211",
+        "rank": 1,
+        "name": "마이밀 뉴프로틴 고소한맛",
+        "price": 69490,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/60196325275947-60de8422-5657-47a7-9f76-630c6405a017.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6813646287"
+    },
+    {
+        "id": "20251211-02",
+        "date": "20251211",
+        "rank": 2,
+        "name": "크리넥스 실크 소프트 천연펄프 미용티슈 2겹",
+        "price": 11800,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/116598807049848-52ffa047-3350-4005-8bf8-fabe5cb878aa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6122651538"
+    },
+    {
+        "id": "20251211-03",
+        "date": "20251211",
+        "rank": 3,
+        "name": "풀리오 목 어깨 마사지기 V3 N003",
+        "price": 146880,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2025/10/11/14/2/f06b9625-41c4-4a04-a17d-c834d100d62e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9047735345"
+    },
+    {
+        "id": "20251211-04",
+        "date": "20251211",
+        "rank": 4,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 19390,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/e88b/c995889a0ae485a16be33ac09b8d9da69bcd36b0c9f22c84bb6967549a61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20251211-05",
+        "date": "20251211",
+        "rank": 5,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 30420,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/d447/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20251211-06",
+        "date": "20251211",
+        "rank": 6,
+        "name": "나우푸드 글루타티온 500mg 베지 캡슐",
+        "price": 45210,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/9c09/648081aff3bc203d8e0c5c820c511ee3edd3210df119dca8adfbf73ed539.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7951161937"
+    },
+    {
+        "id": "20251211-07",
+        "date": "20251211",
+        "rank": 7,
+        "name": "질스튜어트 CITY 로고 메탈 포인트 미니 크로스백",
+        "price": 104000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/896977842968783-8bdf06b0-6440-489c-8359-3cfa9a89867d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8062337262"
+    },
+    {
+        "id": "20251211-08",
+        "date": "20251211",
+        "rank": 8,
+        "name": "[로켓프레시] 다향오리 다리두배 닭볶음탕용 닭고기 (냉장)",
+        "price": 8790,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/ixaxhtxc/0c23af3a16214a0f9921ef05204eaf0e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8672569936"
+    },
+    {
+        "id": "20251211-09",
+        "date": "20251211",
+        "rank": 9,
+        "name": "퍼울 다크 드럼용 액상세제 본품",
+        "price": 9900,
+        "image_url": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/62df/b6ce1d2b22374e7a2fd02defb7c1801a82818bc3b3f7b20a910a8d3ec4df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8468599000"
+    },
+    {
+        "id": "20251211-10",
+        "date": "20251211",
+        "rank": 10,
+        "name": "ELLE PARIS PDRN 콜라겐 녹는실 탄력 앰플",
+        "price": 9990,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/69213555188033-23b067a6-1117-4cd6-9164-fb7af6731625.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391282858"
+    },
+    {
         "id": "20251210-01",
         "date": "20251210",
         "rank": 1,
