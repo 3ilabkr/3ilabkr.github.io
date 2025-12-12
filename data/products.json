@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251213-01",
+        "date": "20251213",
+        "rank": 1,
+        "name": "하늘보리",
+        "price": 13360,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/45727440574812-19cffff5-3e8b-4576-b7a5-bbe5768894ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7224339339"
+    },
+    {
+        "id": "20251213-02",
+        "date": "20251213",
+        "rank": 2,
+        "name": "부케가르니 딥 클린 초고농축 캡슐세제",
+        "price": 11900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/63243553069423-6dc9da71-5455-46bd-a2d7-33c00c3a188f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7871650750"
+    },
+    {
+        "id": "20251213-03",
+        "date": "20251213",
+        "rank": 3,
+        "name": "아이깨끗해 순 핸드워시 파우더향 리필용",
+        "price": 9740,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/972143961377724-2e942ebf-e1a4-4968-80ab-39a03f9938b9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8802041287"
+    },
+    {
+        "id": "20251213-04",
+        "date": "20251213",
+        "rank": 4,
+        "name": "탐사 스프레이 체인 500ml x 2개",
+        "price": 10110,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/146842517138875-cc6c4971-c0ee-402b-8e3e-e4e81d42872b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8955679535"
+    },
+    {
+        "id": "20251213-05",
+        "date": "20251213",
+        "rank": 5,
+        "name": "비에스엔 신타-6 프로틴 파우더 드링크 믹스 단백질 보충제 초콜릿 밀크셰이크",
+        "price": 150190,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/0473/7c51fe6d86859ab550f3e8bebab517497c335ffbfd651e24d2eb69e298b8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6546197727"
+    },
+    {
+        "id": "20251213-06",
+        "date": "20251213",
+        "rank": 6,
+        "name": "널담 마카롱 사랑세트 8종 (냉동)",
+        "price": 8700,
+        "image_url": "https://img4a.coupangcdn.com/image/1025_amir_coupang_oct_80k/1d62/0face1741fb7fabdeb0a384cd5bdb4fc709602c87eb0034753dc86674333.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6630857148"
+    },
+    {
+        "id": "20251213-07",
+        "date": "20251213",
+        "rank": 7,
+        "name": "영라뉴 장용성 파비플로라 다이어트 프로",
+        "price": 23960,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/22986652980697-54c95c2b-8641-4f4b-9898-fb01c67372a6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9016315013"
+    },
+    {
+        "id": "20251213-08",
+        "date": "20251213",
+        "rank": 8,
+        "name": "코멧 홈 베이직 롱 바디 필로우",
+        "price": 12440,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/644503101747706-36aa764d-f304-4fe7-a0ff-9cc579c4b5c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8151230354"
+    },
+    {
+        "id": "20251213-09",
+        "date": "20251213",
+        "rank": 9,
+        "name": "PAT 여성용 퀼팅 램스퍼 카라탈착 롱 패딩 점퍼",
+        "price": 118900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2025/09/29/17/6/91d84615-6e1f-4d7f-8498-c95a3f8f52cc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9097055152"
+    },
+    {
+        "id": "20251213-10",
+        "date": "20251213",
+        "rank": 10,
+        "name": "곰곰 한알육수 4g 40입",
+        "price": 6220,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/10789133551262-f9886b98-c812-4c29-94ec-3f7f586285e5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8137821270"
+    },
+    {
         "id": "20251212-01",
         "date": "20251212",
         "rank": 1,
