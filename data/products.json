@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251214-01",
+        "date": "20251214",
+        "rank": 1,
+        "name": "가그린 제로 구강청결제",
+        "price": 13800,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20251214-02",
+        "date": "20251214",
+        "rank": 2,
+        "name": "Kipnos 책상 컴퓨터책상 게이밍책상 컴퓨터 책상 세트 게이밍 책상 컴퓨터 책상 다기능 다용도 책상 선반",
+        "price": 44500,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/b179/308618f652cf7d2a04f69dc7213cef038b4a39a6a818de8f9845e43d38a8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8888178167"
+    },
+    {
+        "id": "20251214-03",
+        "date": "20251214",
+        "rank": 3,
+        "name": "하이피러브 사무용 메쉬 컴퓨터 의자",
+        "price": 47970,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/1860/a53fadecececd4fd968e0409878f8bbeff3d0c4572d296d5d6e033dec211.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8643013214"
+    },
+    {
+        "id": "20251214-04",
+        "date": "20251214",
+        "rank": 4,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 131630,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/036c/f514aee9a938c5ba622a7827ab173d8d1949dd4b11cf7af0b17c82676bcb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758565034"
+    },
+    {
+        "id": "20251214-05",
+        "date": "20251214",
+        "rank": 5,
+        "name": "크라운포드 2인 식기세트 14p",
+        "price": 17900,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/669b/16fa09eb30b3d21a61c715aac5e20b3218474d241dbcb9d36e98bee9d484.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=304387060"
+    },
+    {
+        "id": "20251214-06",
+        "date": "20251214",
+        "rank": 6,
+        "name": "티즐 제로 피치얼그레이",
+        "price": 15470,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2577147305555512-acdf0e8f-fab1-4f16-aa54-e84da87c6726.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7194539627"
+    },
+    {
+        "id": "20251214-07",
+        "date": "20251214",
+        "rank": 7,
+        "name": "한샘 메쉬형 양날개 플러스 건조대",
+        "price": 70900,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/27d8/19b45dee5dbbde76989dbf142256958596e4030086b0e73491ea37aebf9a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5048371657"
+    },
+    {
+        "id": "20251214-08",
+        "date": "20251214",
+        "rank": 8,
+        "name": "스포드 포트메리온 크리스마스트리 사이드접시",
+        "price": 45900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2025/04/15/14/3/0399d41e-c603-4bf5-a824-e375c65ef92a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717594989"
+    },
+    {
+        "id": "20251214-09",
+        "date": "20251214",
+        "rank": 9,
+        "name": "쿤달 딥 클린 항균 이중 미세모 부드러운 칫솔",
+        "price": 19130,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/4185935819193721-6acac437-8fc2-46ed-9c80-12ea8058f50c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1847088562"
+    },
+    {
+        "id": "20251214-10",
+        "date": "20251214",
+        "rank": 10,
+        "name": "애드스윗 스테비아 토마토",
+        "price": 9730,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/86118433214946-6b394a15-a4ea-4444-8f76-1b9b218bf296.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5816347859"
+    },
+    {
         "id": "20251213-01",
         "date": "20251213",
         "rank": 1,
