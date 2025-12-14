@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251215-01",
+        "date": "20251215",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/117770274866378-f2423e3f-70de-43ca-8c8f-5de45ffc6def.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20251215-02",
+        "date": "20251215",
+        "rank": 2,
+        "name": "하이뮨 프로틴 밸런스 L 캔",
+        "price": 36000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8290332640"
+    },
+    {
+        "id": "20251215-03",
+        "date": "20251215",
+        "rank": 3,
+        "name": "하늘보리 에코 무라벨",
+        "price": 14290,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/349660261908388-58633ed6-33d5-4132-9dad-c0f941817901.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20251215-04",
+        "date": "20251215",
+        "rank": 4,
+        "name": "스너글 실내건조 섬유유연제 허거블 선샤인 본품",
+        "price": 16900,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/17612216138383-46ac9b6f-f751-4a57-8106-c63913b92bbc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6046174321"
+    },
+    {
+        "id": "20251215-05",
+        "date": "20251215",
+        "rank": 5,
+        "name": "신일 PTC히터",
+        "price": 239000,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/4e09/89829071b838595fa57abcc3ca926e4fac85610bd7c745b8999cd4174490.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8449362315"
+    },
+    {
+        "id": "20251215-06",
+        "date": "20251215",
+        "rank": 6,
+        "name": "2025년 프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 279900,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20251215-07",
+        "date": "20251215",
+        "rank": 7,
+        "name": "ELLE PARIS 오떼르말 그린베일리 클렌징폼",
+        "price": 5990,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/341515a7-8929-49e9-b46e-5862f271f47a4124734833393989553.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8350617056"
+    },
+    {
+        "id": "20251215-08",
+        "date": "20251215",
+        "rank": 8,
+        "name": "르크루제 원형 무쇠 양손냄비",
+        "price": 235900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/457060236240367-88901fa4-0d39-4f2f-a56c-6882145d0fa4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1570576"
+    },
+    {
+        "id": "20251215-09",
+        "date": "20251215",
+        "rank": 9,
+        "name": "코멧 홈 이염방지 세탁시트 200매",
+        "price": 9990,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2455349644484977-9e29b192-13a7-4597-ae1e-3bf6507cc4cf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7755865565"
+    },
+    {
+        "id": "20251215-10",
+        "date": "20251215",
+        "rank": 10,
+        "name": "미즈노 스피드 미드 스포츠 양말",
+        "price": 16500,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2023/05/03/11/4/21c8ca2a-f5fc-411d-a636-23bd02523b2f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8521878013"
+    },
+    {
         "id": "20251214-01",
         "date": "20251214",
         "rank": 1,
