@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251216-01",
+        "date": "20251216",
+        "rank": 1,
+        "name": "테팔 매트 프라이팬 세트",
+        "price": 75500,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/941245883729726-3ee81dfd-48fc-4563-8c06-04acfcfdf03d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4917534787"
+    },
+    {
+        "id": "20251216-02",
+        "date": "20251216",
+        "rank": 2,
+        "name": "17차 몸이 가벼워지는 시간",
+        "price": 14590,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/63395036849612-6960b0da-4537-4d86-baa2-4c06ed567c46.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1461602580"
+    },
+    {
+        "id": "20251216-03",
+        "date": "20251216",
+        "rank": 3,
+        "name": "이니스프리 유채꿀 립밤",
+        "price": 5400,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/80223861917274-eed1b681-b8a8-4535-969e-18d0f400258c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8502038937"
+    },
+    {
+        "id": "20251216-04",
+        "date": "20251216",
+        "rank": 4,
+        "name": "라인어디션 여성용 체크패턴 트위드 울 롱자켓",
+        "price": 175700,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/957076558484937-91c46062-835a-4d99-b6a3-95c00b4aad19.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9059543718"
+    },
+    {
+        "id": "20251216-05",
+        "date": "20251216",
+        "rank": 5,
+        "name": "크리스마스 스노우 워터볼 무드등 인테리어 장식",
+        "price": 9900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1051520126363934-aaa71e5a-fccb-461d-9945-60f1d183a1a7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7562860708"
+    },
+    {
+        "id": "20251216-06",
+        "date": "20251216",
+        "rank": 6,
+        "name": "마틸라 빌리호텔 세미 극세사 이불베개세트",
+        "price": 56900,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/fdgxmh4i/bf06098eafdd47b295e478e58cd31e8e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8356155640"
+    },
+    {
+        "id": "20251216-07",
+        "date": "20251216",
+        "rank": 7,
+        "name": "이지홀릭 통세탁 사계절 반반 침대 토퍼 매트리스",
+        "price": 26800,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/a5f2/4d158e5693000996f6335f4c08e18c8304d4597d1f46d003382bb9aeea7d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9123862541"
+    },
+    {
+        "id": "20251216-08",
+        "date": "20251216",
+        "rank": 8,
+        "name": "삼성전자 비스포크 그랑데 AI 건조기 DV20CB8600BV 20kg 방문설치",
+        "price": 1052800,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/20578539376068-03ad09ad-485a-4270-b7b8-99a600df24d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7655266727"
+    },
+    {
+        "id": "20251216-09",
+        "date": "20251216",
+        "rank": 9,
+        "name": "스페리탑사이더 아동용 스토퍼 글루 패딩 부츠 S1FFKKBG03DN",
+        "price": 39900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/65373185753012-f26f975f-1c6e-4ebe-b5de-bd716e0af8d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9114611400"
+    },
+    {
+        "id": "20251216-10",
+        "date": "20251216",
+        "rank": 10,
+        "name": "게스 노엘 사피아노 카메라 크로스바디 백 RO3A32J",
+        "price": 89000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/87946241782723-f7d01a34-3563-4179-9cd4-168d134a7693.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9185579958"
+    },
+    {
         "id": "20251215-01",
         "date": "20251215",
         "rank": 1,
