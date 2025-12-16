@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251217-01",
+        "date": "20251217",
+        "rank": 1,
+        "name": "세타필 모이스춰라이징 크림",
+        "price": 17010,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/1923336006129784-f9551469-bb18-4abc-8153-1e177a66b6b7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6453223223"
+    },
+    {
+        "id": "20251217-02",
+        "date": "20251217",
+        "rank": 2,
+        "name": "HanilMedical 온돌마루 전기매트 난초",
+        "price": 146470,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/a67d/9b13c3cfc4c069575b26072dd357046cc017e583a230eab7d44a700b09ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7075593686"
+    },
+    {
+        "id": "20251217-03",
+        "date": "20251217",
+        "rank": 3,
+        "name": "하우쎈스 크리스마스트리 풀세트",
+        "price": 39600,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1385366728352072-eed6faf7-6461-4756-9927-3ff92ef5c544.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6761140003"
+    },
+    {
+        "id": "20251217-04",
+        "date": "20251217",
+        "rank": 4,
+        "name": "휘슬러 비타빗 프리미엄 압력솥 쿼트로 세트 7인용",
+        "price": 606620,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/bd83/5f0a2af00f8441eca317a3c5e1bfe067eaf9950e0eb0d7fc6404885f257c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8032795912"
+    },
+    {
+        "id": "20251217-05",
+        "date": "20251217",
+        "rank": 5,
+        "name": "하이피러브 속깊은 확장 튼새맞춤 드레스룸 서랍형 시스템 행거",
+        "price": 89500,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/0a35/a51cf61d48dcabd5d9458f0934f4fcb09a753bdf78c9afbdbbc9de143725.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9041668533"
+    },
+    {
+        "id": "20251217-06",
+        "date": "20251217",
+        "rank": 6,
+        "name": "비에스엔 신타-6 아이솔레이트 프로틴 파우더 드링크 믹스 단백질 보충제 초콜릿 밀크쉐이크",
+        "price": 96320,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/fa51/dd0093ba9db8a62c96c01729a1578a02b6522a5b56e76e0c2343bd233a0a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8289044097"
+    },
+    {
+        "id": "20251217-07",
+        "date": "20251217",
+        "rank": 7,
+        "name": "오리고 플리스 블랭킷",
+        "price": 30620,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/08/28/12/7/b7be487b-bd06-4f1f-9692-fd0646a87648.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327441340"
+    },
+    {
+        "id": "20251217-08",
+        "date": "20251217",
+        "rank": 8,
+        "name": "오뚜기 든든쌀밥",
+        "price": 34980,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/04/03/15/7/32afeea1-b510-4dec-934b-98edb204ffd4.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8693275579"
+    },
+    {
+        "id": "20251217-09",
+        "date": "20251217",
+        "rank": 9,
+        "name": "쌤소나이트레드 BAYNES 토트백",
+        "price": 96300,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/151661471702005-aba4495f-fbf1-46c6-bca5-488055feff99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5567157934"
+    },
+    {
+        "id": "20251217-10",
+        "date": "20251217",
+        "rank": 10,
+        "name": "참미소떡볶이 쌀가래떡",
+        "price": 7230,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/image_audit/prod/1599d32f-f0df-4072-8888-a7dd18b7f722_composition_base_0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5609204706"
+    },
+    {
         "id": "20251216-01",
         "date": "20251216",
         "rank": 1,
