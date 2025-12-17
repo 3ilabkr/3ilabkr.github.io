@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251218-01",
+        "date": "20251218",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향 탄산음료",
+        "price": 14300,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2025/11/07/12/0/95dd2574-d65e-4790-9668-683d907fc880.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8323333308"
+    },
+    {
+        "id": "20251218-02",
+        "date": "20251218",
+        "rank": 2,
+        "name": "LG전자 오브제컬렉션 ALL NEW 스타일러 SC5MBR4E 방문설치",
+        "price": 1318950,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/726c/ec8fbeb1655e6645e553f60a2ca7ed2eaddf1b7d1321d062bc97866e0736.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8035267483"
+    },
+    {
+        "id": "20251218-03",
+        "date": "20251218",
+        "rank": 3,
+        "name": "크리넥스 보습 에센스 로션 미용티슈 3겹",
+        "price": 16900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/241294812479748-b1a90326-70c9-44fa-b17a-5a1bab3e2dfe.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8712595688"
+    },
+    {
+        "id": "20251218-04",
+        "date": "20251218",
+        "rank": 4,
+        "name": "하이피러브 독립스프링 매트리스",
+        "price": 79000,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/68fd/c65d181c4b2b2bbf871724a64688e721913d662056484dedda977f59c95d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8653612334"
+    },
+    {
+        "id": "20251218-05",
+        "date": "20251218",
+        "rank": 5,
+        "name": "아텍스 메디랩 콜로이드에이 습윤밴드",
+        "price": 7900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/262727352424155-9cde613c-01c5-49d2-ac6e-69479d8dd0c7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8706727051"
+    },
+    {
+        "id": "20251218-06",
+        "date": "20251218",
+        "rank": 6,
+        "name": "키플링 리리 크로스백",
+        "price": 105000,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/c71e/eba114aef36e49e397cdf9e6f17ff2b4664b9ebf617dc94a1d17c9e76ecb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7785803347"
+    },
+    {
+        "id": "20251218-07",
+        "date": "20251218",
+        "rank": 7,
+        "name": "[로켓프레시] 삼진어묵 7가지 모듬어묵 (냉동)",
+        "price": 10820,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/dd832745-5b68-4070-9a5d-1495512cad4e6642429381411413516.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7432509432"
+    },
+    {
+        "id": "20251218-08",
+        "date": "20251218",
+        "rank": 8,
+        "name": "쥬시쥬디 여성용 J 배색 코듀로이 더플 하프 다운점퍼 JYDJ720D",
+        "price": 159000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/41156992446675-1c02a93e-0e7e-47b7-b113-d471c869f238.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8457564072"
+    },
+    {
+        "id": "20251218-09",
+        "date": "20251218",
+        "rank": 9,
+        "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동)",
+        "price": 8700,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/985133115146452-ee8c41e7-4ab7-4c59-bb2d-39afc574450b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7107434987"
+    },
+    {
+        "id": "20251218-10",
+        "date": "20251218",
+        "rank": 10,
+        "name": "IQ베이비: 손감각 발달토이",
+        "price": 16770,
+        "image_url": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/95c2/db14fc990b3168596ffd0fa9bdd38c244e06d150e4d2b58e91ca067f6a31.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1487703230"
+    },
+    {
         "id": "20251217-01",
         "date": "20251217",
         "rank": 1,
