@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251219-01",
+        "date": "20251219",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 수딩플러스 천연펄프 3겹 고급롤화장지",
+        "price": 20050,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/13791393968848-f19acff4-c8cd-47b9-86ba-5a7807253a9e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253356297"
+    },
+    {
+        "id": "20251219-02",
+        "date": "20251219",
+        "rank": 2,
+        "name": "일리윤 울트라 리페어 바디로션",
+        "price": 15400,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/1957009326676-89bacc20-56db-4e0c-aae3-6256966f8e8a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=344528374"
+    },
+    {
+        "id": "20251219-03",
+        "date": "20251219",
+        "rank": 3,
+        "name": "바이탈프로그램 비타민C 1000mg",
+        "price": 28350,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/356520294251232-c73ad7c0-54a6-4a56-a26a-9a2fd48e46cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6903873562"
+    },
+    {
+        "id": "20251219-04",
+        "date": "20251219",
+        "rank": 4,
+        "name": "하이피러브 드레스룸 선반 철제 시스템 행거",
+        "price": 58900,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/f7ba/4faa460afb5bac7caada665e0b46e73362c0230fea07241cbe0f471b360d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631725383"
+    },
+    {
+        "id": "20251219-05",
+        "date": "20251219",
+        "rank": 5,
+        "name": "비에스엔 신타-6 프로틴 파우더 드링크 믹스 단백질 보충제",
+        "price": 153860,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/11c6/bd4a6e08dbf83f9015a0b31ef92a886bdacbd20e8115175b6da1b6c205d9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8184394972"
+    },
+    {
+        "id": "20251219-06",
+        "date": "20251219",
+        "rank": 6,
+        "name": "미쟝센 살롱 10 단백질 샴푸 극손상 모발용",
+        "price": 17900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/1150675272925321-c5e93504-1d74-40e8-ba06-a64cad54f2c1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8136917225"
+    },
+    {
+        "id": "20251219-07",
+        "date": "20251219",
+        "rank": 7,
+        "name": "스타우브 인덕션 꼬꼬떼 오발 법랑냄비",
+        "price": 188400,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/09/17/16/5/6c7b28cd-e969-4caf-b399-e78155c9a6cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9069325365"
+    },
+    {
+        "id": "20251219-08",
+        "date": "20251219",
+        "rank": 8,
+        "name": "한국을 빛낸 100명의 위인들 CQ 놀이 3종 세트",
+        "price": 24730,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2024/07/02/17/7/daa7df2f-ae94-45c5-99b3-c76e870d4037.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8147687388"
+    },
+    {
+        "id": "20251219-09",
+        "date": "20251219",
+        "rank": 9,
+        "name": "마이키즈 밀크맛",
+        "price": 32900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/45521566597147-7d0341f3-4aef-4c43-817c-1c8e165c45f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8039993424"
+    },
+    {
+        "id": "20251219-10",
+        "date": "20251219",
+        "rank": 10,
+        "name": "맞춤법 박사가 되는 초등 필수 맞춤법 따라쓰기 전 2권 세트",
+        "price": 13720,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/ce96/e5b02a57bfccd1fcc300f2222a7e13cc43ceb356eda0990560acc5888110.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1494279598"
+    },
+    {
         "id": "20251218-01",
         "date": "20251218",
         "rank": 1,
