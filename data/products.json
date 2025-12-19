@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251220-01",
+        "date": "20251220",
+        "rank": 1,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 16980,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/94761968167687-71f42b05-dc5e-4c35-8b00-fceda1c2809a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20251220-02",
+        "date": "20251220",
+        "rank": 2,
+        "name": "닥터린 하이퍼셀 알티지 오메가3 알파",
+        "price": 42500,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/977b/31dbde1eb35c27adac53791b9d69c466102c94b02f4ec4f2aa5950422f2d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8349288599"
+    },
+    {
+        "id": "20251220-03",
+        "date": "20251220",
+        "rank": 3,
+        "name": "닥터디퍼런트 311 모이스처라이저",
+        "price": 25260,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/137838933161957-a418bee0-5b89-44cf-91cf-8af48c7f0c09.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4632447894"
+    },
+    {
+        "id": "20251220-04",
+        "date": "20251220",
+        "rank": 4,
+        "name": "슈피겐 블루투스 조명 셀카봉",
+        "price": 22860,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2020/05/28/19/6/725821cb-916c-4fe3-bf1e-7eed6b19b0e6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=247883629"
+    },
+    {
+        "id": "20251220-05",
+        "date": "20251220",
+        "rank": 5,
+        "name": "국내산 울팜 특품 흙감자 제철 수미 햇 감자",
+        "price": 4270,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/bc84/6d23150d37227d40bfc0e623bc78334f8af5e207beb804768addb728ed5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9017258144"
+    },
+    {
+        "id": "20251220-06",
+        "date": "20251220",
+        "rank": 6,
+        "name": "질스튜어트 여성용 조던 스트링 나일론 노트북 수납 보부상 백팩",
+        "price": 89000,
+        "image_url": "https://image14.coupangcdn.com/image/rs_quotation_api/gddbksrj/a4c43e7ab0bd46a282f84f4662d4fcb6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8790157153"
+    },
+    {
+        "id": "20251220-07",
+        "date": "20251220",
+        "rank": 7,
+        "name": "마이키즈 초코맛",
+        "price": 32810,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/940992104724616-4f652f70-c8cf-4a0b-9173-5e720cfa81ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8313229289"
+    },
+    {
+        "id": "20251220-08",
+        "date": "20251220",
+        "rank": 8,
+        "name": "스파크 스마트 클린 분말세제 리필",
+        "price": 23350,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2171362764223657-8bd315e8-0845-422a-ab3f-95efcbeb9fc8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7771910038"
+    },
+    {
+        "id": "20251220-09",
+        "date": "20251220",
+        "rank": 9,
+        "name": "인라이프 마이 프렌즈 핫팩 100g",
+        "price": 7200,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/5308646270039-205f5ef7-7ceb-4c53-a47f-23ece5ba3d94.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8232744164"
+    },
+    {
+        "id": "20251220-10",
+        "date": "20251220",
+        "rank": 10,
+        "name": "해피콜 몬드 IH 궁중팬",
+        "price": 41780,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/211936255900378-f0e86fa9-aeb4-4344-a300-3fbe824e6d19.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5472262631"
+    },
+    {
         "id": "20251219-01",
         "date": "20251219",
         "rank": 1,
