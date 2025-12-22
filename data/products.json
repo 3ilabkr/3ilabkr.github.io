@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251223-01",
+        "date": "20251223",
+        "rank": 1,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 15900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20251223-02",
+        "date": "20251223",
+        "rank": 2,
+        "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD",
+        "price": 25970,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9057383530"
+    },
+    {
+        "id": "20251223-03",
+        "date": "20251223",
+        "rank": 3,
+        "name": "스탠리 퀜처 H2.0 플로우스테이트 텀블러",
+        "price": 48000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2624298715776047-0f535469-fef4-40cb-b380-87eb3e400467.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6792297030"
+    },
+    {
+        "id": "20251223-04",
+        "date": "20251223",
+        "rank": 4,
+        "name": "프레시지 더큰 블랙라벨 스테이크 세트 2인분",
+        "price": 19900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/229581415140624-09a8d902-cd76-4e5a-a07c-899125554f45.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=273882898"
+    },
+    {
+        "id": "20251223-05",
+        "date": "20251223",
+        "rank": 5,
+        "name": "재로우 커큐민 피토솜 메리바 500mg 베지 캡",
+        "price": 66760,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/44d4/106d39ba7740a2f676f2c43cc1304d7dea654bb4e392df03b1f84bd07bab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=416201"
+    },
+    {
+        "id": "20251223-06",
+        "date": "20251223",
+        "rank": 6,
+        "name": "쿠쿠 레스티노 안마의자 방문설치",
+        "price": 2082500,
+        "image_url": "https://image2.coupangcdn.com/image/1025_amir_coupang_oct_80k/6309/07772975c72030f5b8abbec4a6cf31fa4b776cbdcff3ae4761a6bd2965ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7047286046"
+    },
+    {
+        "id": "20251223-07",
+        "date": "20251223",
+        "rank": 7,
+        "name": "삼형제 돼지갈비 1등급 한돈 수제 양념",
+        "price": 22800,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/image_audit/prod/585540cb-5493-45c3-8dab-67c1bf0073cb_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8180545401"
+    },
+    {
+        "id": "20251223-08",
+        "date": "20251223",
+        "rank": 8,
+        "name": "미즈노 플레이 더블 쿠션 미드 스포츠 양말",
+        "price": 17400,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/5117356446552592-f265496c-4241-4c67-bce6-68a029fd29df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6643644946"
+    },
+    {
+        "id": "20251223-09",
+        "date": "20251223",
+        "rank": 9,
+        "name": "쾌발 Q 냄새먹는 풋케어 패드",
+        "price": 14500,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/b06d/d6c630e9290e3262872df6f76d30609d47a0c2007417b8c7919bb09d26d0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8377923935"
+    },
+    {
+        "id": "20251223-10",
+        "date": "20251223",
+        "rank": 10,
+        "name": "앗뜨곰 국내생산 손에 안묻는 포켓용 손난로 핫팩",
+        "price": 51500,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/5d74626d410dc70d33d0ad824f33ad6da5588a5c39ea93564624def706be_1764579874451.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9099609287"
+    },
+    {
         "id": "20251222-01",
         "date": "20251222",
         "rank": 1,
