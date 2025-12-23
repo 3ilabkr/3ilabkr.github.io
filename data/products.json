@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251224-01",
+        "date": "20251224",
+        "rank": 1,
+        "name": "르무통 메이트 발 편한 메리노울 운동화",
+        "price": 115000,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/5adf/56af04084c3ad1a27c0dceb23c70e8b4dc1f2e4d3a4f226ef620e45496b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20251224-02",
+        "date": "20251224",
+        "rank": 2,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20251224-03",
+        "date": "20251224",
+        "rank": 3,
+        "name": "2장세트 남사 기모 트레이닝바지 가을 겨울 츄리닝바지 스트레이트 일자 팬츠 남녀공용 Tanlz-609",
+        "price": 24900,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/c31a/8db12755aaf7592bcbae3d4c13c327961b82ffe16306ef2c7c8b1894018c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9072743191"
+    },
+    {
+        "id": "20251224-04",
+        "date": "20251224",
+        "rank": 4,
+        "name": "폴딩 수납장 리빙박스 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함 길이 38cm",
+        "price": 31000,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/5f8f/c5fe193a7b17c8d8bfc4e5e4e526fae819c8156a5f785e64ef90fd753ee6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906599125"
+    },
+    {
+        "id": "20251224-05",
+        "date": "20251224",
+        "rank": 5,
+        "name": "기꼬만 진한육수 가쓰오부시 육수 쯔유 일본 1L x 2개",
+        "price": 14270,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/3fd5/f2f6e12924dc7e9ef27dbf5a999eb0eb1a9dec44d4a65967f88c907af7ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7815970716"
+    },
+    {
+        "id": "20251224-06",
+        "date": "20251224",
+        "rank": 6,
+        "name": "오야니 로티 새들 크로스바디백",
+        "price": 79900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/262295210658007-23a794f2-bfc3-40df-9346-83c4c59759f2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8609349779"
+    },
+    {
+        "id": "20251224-07",
+        "date": "20251224",
+        "rank": 7,
+        "name": "곰곰 유기농 작두콩차 생분해 삼각티백",
+        "price": 6030,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/image_audit/prod/8e4023d3-c2b1-4436-b1ce-f77c20ca3bf5_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7715947094"
+    },
+    {
+        "id": "20251224-08",
+        "date": "20251224",
+        "rank": 8,
+        "name": "메디트리 파워업 마시는 알부민",
+        "price": 11740,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/280311442435845-44185efd-1714-4568-9d88-44f7fa58373f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8805275366"
+    },
+    {
+        "id": "20251224-09",
+        "date": "20251224",
+        "rank": 9,
+        "name": "골드팡 여성용 18k 달링하트통통 목걸이",
+        "price": 189000,
+        "image_url": "https://image6.coupangcdn.com/image/rs_quotation_api/roiyfhec/84fff0faba5549feacc264fb74d1d070.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7802479783"
+    },
+    {
+        "id": "20251224-10",
+        "date": "20251224",
+        "rank": 10,
+        "name": "테크 딥클린 초고농축 캡슐세제",
+        "price": 10900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/157599221988000-90867aa0-dfb0-4f8e-b94a-d2ab154de1f7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8710604087"
+    },
+    {
         "id": "20251223-01",
         "date": "20251223",
         "rank": 1,
