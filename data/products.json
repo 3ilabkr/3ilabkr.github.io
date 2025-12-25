@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251226-01",
+        "date": "20251226",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 12900,
+        "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20251226-02",
+        "date": "20251226",
+        "rank": 2,
+        "name": "HanilMedical 탄소열선 고급 전기요 HL-D205",
+        "price": 30900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/213106184456189-3078eb08-02fd-42a5-b9d2-5d00d03628c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150828084"
+    },
+    {
+        "id": "20251226-03",
+        "date": "20251226",
+        "rank": 3,
+        "name": "바세린 힐링 젤리 올-오버 바디 밤 스틱",
+        "price": 8560,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/0dcc/087c5b72493b02b7069be5487aa75ae1a31b64dbfa86c4d8031344557064.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8520321467"
+    },
+    {
+        "id": "20251226-04",
+        "date": "20251226",
+        "rank": 4,
+        "name": "에라토 크림모노 4인 그릇 홈세트 24p",
+        "price": 32900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/177938303859436-de1a2c1b-44bb-42d1-aaa1-bf72b95bc04a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=216738074"
+    },
+    {
+        "id": "20251226-05",
+        "date": "20251226",
+        "rank": 5,
+        "name": "곰곰 알리오 올리오 파스타 소스",
+        "price": 4220,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/118233357898788-4337f8cc-882d-44db-8d20-51d9f98a6c75.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8871633913"
+    },
+    {
+        "id": "20251226-06",
+        "date": "20251226",
+        "rank": 6,
+        "name": "르엘라 BLDC 미용실 헤어 드라이기",
+        "price": 74000,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/d71c/317c70cba9bb9a6d0637438b8362b5de976a4e86b71546f1928f1a64c233.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8642154764"
+    },
+    {
+        "id": "20251226-07",
+        "date": "20251226",
+        "rank": 7,
+        "name": "울샴푸 다운워시 본품",
+        "price": 8050,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/d9dc/a1e909b5c3c8a5297be7fae638d14b7bfca24d64620b589efc6e01332ae0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1292114"
+    },
+    {
+        "id": "20251226-08",
+        "date": "20251226",
+        "rank": 8,
+        "name": "르까프 방한 모자 BS-149 + 파우치 세트",
+        "price": 24900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/197828072402478-3deded77-138d-4277-b99b-b1d80002be6a.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9153763225"
+    },
+    {
+        "id": "20251226-09",
+        "date": "20251226",
+        "rank": 9,
+        "name": "엠토이 x UFORU 컵 정리 선반 ZW-176 물빠짐 컵 그릇 식기 보관 트레이 수납 선반 건조대",
+        "price": 9440,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/6d60/0f8a9ed954a69e34fd3187dfe0bdb80d42d13beb2a8b076721bd5b5d4477.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8520766522"
+    },
+    {
+        "id": "20251226-10",
+        "date": "20251226",
+        "rank": 10,
+        "name": "르까프 남녀공용 보아 퍼 슬리퍼 LE4S227BLK",
+        "price": 29000,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/485496478146461-e93434b4-acfa-4ddf-9ce9-90011072059e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8443579397"
+    },
+    {
         "id": "20251225-01",
         "date": "20251225",
         "rank": 1,
