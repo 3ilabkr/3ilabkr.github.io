@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251227-01",
+        "date": "20251227",
+        "rank": 1,
+        "name": "마이밀 뉴프로틴 오리지널 드링크",
+        "price": 55210,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/43954471874375-f93ab182-0d58-4c4b-92fb-751ff7f07b24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20251227-02",
+        "date": "20251227",
+        "rank": 2,
+        "name": "하림 텐더스틱 (냉동)",
+        "price": 13800,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/16970808331699412-ab86b0c6-7908-4d0a-aa2f-37091959dba7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2287357991"
+    },
+    {
+        "id": "20251227-03",
+        "date": "20251227",
+        "rank": 3,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 24300,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/e88b/c995889a0ae485a16be33ac09b8d9da69bcd36b0c9f22c84bb6967549a61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20251227-04",
+        "date": "20251227",
+        "rank": 4,
+        "name": "나우푸드 CoQ10 100mg 소프트젤",
+        "price": 35340,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/3f88/46b70fb8699caad75e9defd8c5f10535d8dce60f93b2ab4cd9d22dc8745d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=66083126"
+    },
+    {
+        "id": "20251227-05",
+        "date": "20251227",
+        "rank": 5,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 58800,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/0ff9/6890f59f89702251e9855eb8cf256e14afc31284ae9fdf22cd3b441f4485.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20251227-06",
+        "date": "20251227",
+        "rank": 6,
+        "name": "국내산 울팜 특품 흙감자 제철 수미 햇 감자",
+        "price": 15900,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/bc84/6d23150d37227d40bfc0e623bc78334f8af5e207beb804768addb728ed5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9017258144"
+    },
+    {
+        "id": "20251227-07",
+        "date": "20251227",
+        "rank": 7,
+        "name": "스페리탑사이더 아동용 싱글 벨크로 글루 패딩 부츠 S1FFKKBG02SV",
+        "price": 39900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/65392022477362-204e89f2-d342-4185-9ddc-6c39c8dda20b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9114611399"
+    },
+    {
+        "id": "20251227-08",
+        "date": "20251227",
+        "rank": 8,
+        "name": "프렌치카페 카페믹스 마일드",
+        "price": 14780,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/3840680715666506-b5ec8650-ced1-47f6-b2ad-22a66c380943.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9257719390"
+    },
+    {
+        "id": "20251227-09",
+        "date": "20251227",
+        "rank": 9,
+        "name": "한국을 빛낸 100명의 위인들 개정판 + 멜로디박스 세트",
+        "price": 22500,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2022/12/30/13/2/66e0184c-8020-4d0c-8572-7ff7f0db97fa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7032921401"
+    },
+    {
+        "id": "20251227-10",
+        "date": "20251227",
+        "rank": 10,
+        "name": "엔클레어 여성용 모이사나이트 랩다이아몬드 6프롱 1캐럿 18k 골드필드 목걸이",
+        "price": 140720,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/3091/ef91daadf5443b7d79fa81b5b72a801e84f6ca60ae1c211c348378c699f9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7699975577"
+    },
+    {
         "id": "20251226-01",
         "date": "20251226",
         "rank": 1,
