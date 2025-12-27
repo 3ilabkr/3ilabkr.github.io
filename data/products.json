@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251228-01",
+        "date": "20251228",
+        "rank": 1,
+        "name": "셀렉스 프로틴 오리지널",
+        "price": 25970,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/image_audit/prod/333def01-f0e5-4c4f-8f9d-f89b21f50659_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6734201320"
+    },
+    {
+        "id": "20251228-02",
+        "date": "20251228",
+        "rank": 2,
+        "name": "하늘보리",
+        "price": 13030,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/79479265239800-c820a2df-dc69-46f7-b834-ffe615e4df2c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7224339339"
+    },
+    {
+        "id": "20251228-03",
+        "date": "20251228",
+        "rank": 3,
+        "name": "리큐 진한겔 하이브리드 일반용 액상세제 리필",
+        "price": 18900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6616908158"
+    },
+    {
+        "id": "20251228-04",
+        "date": "20251228",
+        "rank": 4,
+        "name": "폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 31500,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/c135/13516d0e7fd3b47dc1548952584820bd9a069610fe9db4f3a5f288c2e4f5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20251228-05",
+        "date": "20251228",
+        "rank": 5,
+        "name": "2025년형 프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 99900,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/662a/c4d429d76192d4dba32a871d25dd80cc3c76e6b4b57d9e7c53345c469347.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20251228-06",
+        "date": "20251228",
+        "rank": 6,
+        "name": "삼형제 돼지갈비 1등급 한돈 수제 양념",
+        "price": 29920,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/2f19/3a079d01f37addcb6abe842c94ac8560c37b37d1d2f5d8ddf45fd39b2876.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8180545401"
+    },
+    {
+        "id": "20251228-07",
+        "date": "20251228",
+        "rank": 7,
+        "name": "아브카 아토 100시간 초고보습 베이비 크림",
+        "price": 7900,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/cb91/785d775996dfd6043cd6c308ca753d350954f457efe913f8be012a549796.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8451209447"
+    },
+    {
+        "id": "20251228-08",
+        "date": "20251228",
+        "rank": 8,
+        "name": "신형 무선 진공청소기 차이슨 46KPA 강력 흡력 60분 장시간 사용 다기능 액세서리 구성",
+        "price": 119000,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/ec3c/75f453d8d9fdc6b85e16a15e6a9ccf5e71006affa51dc7aeb4e11ab035db.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8974056437"
+    },
+    {
+        "id": "20251228-09",
+        "date": "20251228",
+        "rank": 9,
+        "name": "차오차이 짜장 혼합 5종 x 2p 세트",
+        "price": 17900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/977501233009505-018f9fba-ca69-499e-89c2-4d20ad5d632a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8628890600"
+    },
+    {
+        "id": "20251228-10",
+        "date": "20251228",
+        "rank": 10,
+        "name": "윌리브 국산 304스텐 수저세트",
+        "price": 12790,
+        "image_url": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/1379/8a10cd0ecb520874ea0268986f0dc10c1be749d68f872e031e390198c2ae.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7143428240"
+    },
+    {
         "id": "20251227-01",
         "date": "20251227",
         "rank": 1,
