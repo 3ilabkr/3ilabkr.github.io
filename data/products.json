@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251229-01",
+        "date": "20251229",
+        "rank": 1,
+        "name": "Bebeen 시그니처 영유아물티슈 캡형",
+        "price": 12500,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/3ddb/b66cdb13f827f551239be433ba46c6efa97b581a94efe686835c7cad17c7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9192836484"
+    },
+    {
+        "id": "20251229-02",
+        "date": "20251229",
+        "rank": 2,
+        "name": "닥스 여성용 타탄체크 자카드 토트백, 블랙, 26 X 22 X 12cm",
+        "price": 239000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2025/06/09/18/7/505d7bbb-9975-41a3-8e02-284f93224a0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8826385422"
+    },
+    {
+        "id": "20251229-03",
+        "date": "20251229",
+        "rank": 3,
+        "name": "케이맥스 고속충전 10W 보조배터리 10000mAh 멀티단자 + C타입 케이블 세트",
+        "price": 10700,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/60204805837513-e89d1721-0bb9-4fa4-bc12-c63f74bbf31f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8976546110"
+    },
+    {
+        "id": "20251229-04",
+        "date": "20251229",
+        "rank": 4,
+        "name": "스마텍 LED 3포트 여행용 고속 충전 보조배터리 20000mAh 케이블",
+        "price": 14900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/108629646580061-46e64702-78f0-4598-9895-9f6a8cca08a6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8639482507"
+    },
+    {
+        "id": "20251229-05",
+        "date": "20251229",
+        "rank": 5,
+        "name": "쁘리엘르 몬스 솜누빔 바람막이 방한 커튼",
+        "price": 35900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/318234751545417-778a8f8c-e288-439c-be85-b3c5eed08fa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6922408748"
+    },
+    {
+        "id": "20251229-06",
+        "date": "20251229",
+        "rank": 6,
+        "name": "엠앤엠즈 밀크 픽앤믹스 초콜릿",
+        "price": 13410,
+        "image_url": "https://image11.coupangcdn.com/image/1025_amir_coupang_oct_80k/0ebd/baa69dcd5dc1731003c7f1ecdfabc812f3d5e8525f76ae52d382d3783158.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7124855"
+    },
+    {
+        "id": "20251229-07",
+        "date": "20251229",
+        "rank": 7,
+        "name": "브랜든 여행용 세이프 플러스 크로스백",
+        "price": 75000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2211493285071-f7dd5edf-df4f-4767-b03b-d20fc6bfd826.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9194316225"
+    },
+    {
+        "id": "20251229-08",
+        "date": "20251229",
+        "rank": 8,
+        "name": "닥터펠리스 퓨저나이트 슈퍼볼 고양이 모래",
+        "price": 14400,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2025/09/12/13/2/371ad8da-2fd2-4050-a14d-e664556fe06f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9057928582"
+    },
+    {
+        "id": "20251229-09",
+        "date": "20251229",
+        "rank": 9,
+        "name": "헤이홈 Pro 5MP 스마트 홈카메라 실내용",
+        "price": 62900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2025/02/07/19/5/ff050694-2200-433e-820b-3e16fbe99f53.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586910495"
+    },
+    {
+        "id": "20251229-10",
+        "date": "20251229",
+        "rank": 10,
+        "name": "[로켓프레시] 하이포크 한돈 고추장 제육볶음",
+        "price": 10900,
+        "image_url": "https://image14.coupangcdn.com/image/rs_quotation_api/qypda431/c66821ebb9434959850d26773988fb67.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8987385839"
+    },
+    {
         "id": "20251228-01",
         "date": "20251228",
         "rank": 1,
