@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251230-01",
+        "date": "20251230",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/117770274866378-f2423e3f-70de-43ca-8c8f-5de45ffc6def.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20251230-02",
+        "date": "20251230",
+        "rank": 2,
+        "name": "쿡셀 인덕션 7세대 세라믹 블랙에디션 프라이팬 세트 8개",
+        "price": 248000,
+        "image_url": "https://img1c.coupangcdn.com/image/rs_quotation_api/h8igbslu/b9243a865872435eb1ca517d129bc59e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8670234158"
+    },
+    {
+        "id": "20251230-03",
+        "date": "20251230",
+        "rank": 3,
+        "name": "에스더 프리미엄 일본 샤워타올 3종 세트 하드타입",
+        "price": 13500,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/f48d/1eab431ba1917bc8c046e7aa91962fc02b46d43698456fa7ced6cbd606f6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8352987087"
+    },
+    {
+        "id": "20251230-04",
+        "date": "20251230",
+        "rank": 4,
+        "name": "하이피러브 허리편한 호텔식 숙면 포켓스프링 필로우탑 매트리스",
+        "price": 249000,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/f499/f71f8e9947a039e19d9cebc704d31fbb7a062bd5af273cdcfd827c23d6ef.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9012154904"
+    },
+    {
+        "id": "20251230-05",
+        "date": "20251230",
+        "rank": 5,
+        "name": "오트리 고메넛츠",
+        "price": 42000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1767520973711315-377f4091-cd76-4e86-ac91-de79f6d2eb98.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=64553251"
+    },
+    {
+        "id": "20251230-06",
+        "date": "20251230",
+        "rank": 6,
+        "name": "코멧 심플 메모리폼 발매트",
+        "price": 6190,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/378987272177028-8a970903-0181-4799-894b-1f7792d783d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8409044567"
+    },
+    {
+        "id": "20251230-07",
+        "date": "20251230",
+        "rank": 7,
+        "name": "오븐에 직접구운 수제 두부과자",
+        "price": 11210,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/image_audit/prod/07c18d7d-a2eb-4d06-b9b9-e48ad6093ab1_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8244247885"
+    },
+    {
+        "id": "20251230-08",
+        "date": "20251230",
+        "rank": 8,
+        "name": "널담 마카롱 사랑세트 8종 (냉동)",
+        "price": 9900,
+        "image_url": "https://img5a.coupangcdn.com/image/1025_amir_coupang_oct_80k/1d62/0face1741fb7fabdeb0a384cd5bdb4fc709602c87eb0034753dc86674333.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6630857148"
+    },
+    {
+        "id": "20251230-09",
+        "date": "20251230",
+        "rank": 9,
+        "name": "하늘보리 에코 무라벨",
+        "price": 14250,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/94906645455938-22d605d1-d494-4736-b83c-f2633f95420c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20251230-10",
+        "date": "20251230",
+        "rank": 10,
+        "name": "라뽐므 라울 양모 60수 호텔 이불",
+        "price": 117900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/801383818382937-87a3b0d3-9d48-4e7f-8a9c-e7fd0e2773ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8249949904"
+    },
+    {
         "id": "20251229-01",
         "date": "20251229",
         "rank": 1,
