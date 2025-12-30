@@ -1,5 +1,95 @@
 [
     {
+        "id": "20251231-01",
+        "date": "20251231",
+        "rank": 1,
+        "name": "뉴케어 올프로틴 고소한맛",
+        "price": 36500,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/123238061122879-a7bae556-6441-4b75-be91-a9e0e17f4fe8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391180879"
+    },
+    {
+        "id": "20251231-02",
+        "date": "20251231",
+        "rank": 2,
+        "name": "스카치브라이트 프리미엄 고무장갑 5개입",
+        "price": 15900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/40114703834722-f4d34b2d-f2e1-4108-b141-e6610fc93412.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8441525461"
+    },
+    {
+        "id": "20251231-03",
+        "date": "20251231",
+        "rank": 3,
+        "name": "이지홀릭 통세탁 사계절 반반 침대 토퍼 매트리스",
+        "price": 34800,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/a5f2/4d158e5693000996f6335f4c08e18c8304d4597d1f46d003382bb9aeea7d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9123862541"
+    },
+    {
+        "id": "20251231-04",
+        "date": "20251231",
+        "rank": 4,
+        "name": "바겐슈타이거 인덕션 IH 미니팟 양수냄비",
+        "price": 13200,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2025/06/11/13/1/e40152f7-918e-4792-aeb0-9e8b63559465.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8888782843"
+    },
+    {
+        "id": "20251231-05",
+        "date": "20251231",
+        "rank": 5,
+        "name": "닥터비타 비타 B 포어 앤 세범 밸런싱 모공패드 180g",
+        "price": 16000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/07/25/15/8/d81d1de2-5e81-456f-8f82-c2d9d3183592.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7579338633"
+    },
+    {
+        "id": "20251231-06",
+        "date": "20251231",
+        "rank": 6,
+        "name": "온앤온 여성용 클래식 테일러드 카라 핸드메이드 울코트 NEW3WHA29",
+        "price": 212980,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/337590431861865-626c173b-414b-4167-9c6d-74d11fd2675c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8574501850"
+    },
+    {
+        "id": "20251231-07",
+        "date": "20251231",
+        "rank": 7,
+        "name": "진뚝배기 직화 설렁탕기A 2호 + 멜라민 받침 세트",
+        "price": 7760,
+        "image_url": "https://img3c.coupangcdn.com/image/1025_amir_coupang_oct_80k/7e36/da402e7596a26cc39d2dff2baff15fa1dc0939cd704e4abec109841972ec.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6654125875"
+    },
+    {
+        "id": "20251231-08",
+        "date": "20251231",
+        "rank": 8,
+        "name": "하리보 방한 젤리 팝 털 부츠 HRB-254B0002",
+        "price": 46000,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/125043450882917-9700cd17-c022-4806-9d00-6928beb982cf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9167202706"
+    },
+    {
+        "id": "20251231-09",
+        "date": "20251231",
+        "rank": 9,
+        "name": "하이피러브 입시 공부 독서 수납 선번형 컴퓨터 책상",
+        "price": 68900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/b470/183e41b937e7bb3c5cee5cb974e5df0ebf1b80deba2b66adc8d1c21f9ab1.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9141057254"
+    },
+    {
+        "id": "20251231-10",
+        "date": "20251231",
+        "rank": 10,
+        "name": "디어커스 오발레 욕실화",
+        "price": 21370,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2025/09/08/17/7/80527551-17de-44d8-935b-75b365f741b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9031839532"
+    },
+    {
         "id": "20251230-01",
         "date": "20251230",
         "rank": 1,
