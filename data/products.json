@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260101-01",
+        "date": "20260101",
+        "rank": 1,
+        "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품",
+        "price": 16530,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1703093047"
+    },
+    {
+        "id": "20260101-02",
+        "date": "20260101",
+        "rank": 2,
+        "name": "크리넥스 실크 소프트 천연펄프 미용티슈 2겹",
+        "price": 11800,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/116598807049848-52ffa047-3350-4005-8bf8-fabe5cb878aa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6122651538"
+    },
+    {
+        "id": "20260101-03",
+        "date": "20260101",
+        "rank": 3,
+        "name": "온더바디 발을씻자 코튼 풋샴푸 레몬민트향",
+        "price": 14670,
+        "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/50f8/01d40015f48e20a422db2b9db6b0b20dfca5c5eca674b561199f82061792.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=116651697"
+    },
+    {
+        "id": "20260101-04",
+        "date": "20260101",
+        "rank": 4,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 159900,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/1aa8/28389a72f57dd8c0ac89f4c78867c8c2779f84b1411669b32f748997a1db.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586269611"
+    },
+    {
+        "id": "20260101-05",
+        "date": "20260101",
+        "rank": 5,
+        "name": "코페르 보습장벽 광채탄력 멜더 SOS 시스템 20ea",
+        "price": 182400,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/images/20425d2a-913a-465a-85c8-8d0b869706dc12527151139537052982.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7927677440"
+    },
+    {
+        "id": "20260101-06",
+        "date": "20260101",
+        "rank": 6,
+        "name": "행복미트 스지 원육 알스지 곰탕용 스지탕용 앞스지",
+        "price": 26900,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/2912/f57ecd1dd36917228acbae8f54b03d49b1276f118ceea188f526f7f33ec7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8322627809"
+    },
+    {
+        "id": "20260101-07",
+        "date": "20260101",
+        "rank": 7,
+        "name": "비에스엔 신타-6 프로틴 파우더 드링크 믹스 단백질 보충제 초콜릿 밀크셰이크",
+        "price": 84140,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/0a03/17eac59c7bd71083c40bd80ef2acb9f31b6a1f4bed5b9f49a4b9fa90e19f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6573832879"
+    },
+    {
+        "id": "20260101-08",
+        "date": "20260101",
+        "rank": 8,
+        "name": "캉골 레트로코어 스탠다드 백팩 II 1470",
+        "price": 61000,
+        "image_url": "https://img5a.coupangcdn.com/image/rs_quotation_api/tayf1ap2/a54ecd59cdfa4256946700f358bab66a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8969677470"
+    },
+    {
+        "id": "20260101-09",
+        "date": "20260101",
+        "rank": 9,
+        "name": "다이슨 싸이클론 스틱청소기 V8 226622-01",
+        "price": 499000,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2025/09/08/15/0/f8eb9ba5-5ce2-44ee-8fec-9c561714b060.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9047595182"
+    },
+    {
+        "id": "20260101-10",
+        "date": "20260101",
+        "rank": 10,
+        "name": "하기스 퓨어그린 아기물티슈 캡형",
+        "price": 13500,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/46452575628319-21d2e3f2-f8a6-404e-9cbf-fb755636916c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6615096004"
+    },
+    {
         "id": "20251231-01",
         "date": "20251231",
         "rank": 1,
