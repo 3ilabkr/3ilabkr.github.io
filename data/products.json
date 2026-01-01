@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260102-01",
+        "date": "20260102",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 화이트 천연펄프 3겹 고급롤화장지",
+        "price": 25350,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/98145334917948-8aef7415-788b-4929-b171-588caee5b279.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677618842"
+    },
+    {
+        "id": "20260102-02",
+        "date": "20260102",
+        "rank": 2,
+        "name": "보몽드 마이크로화이버 극세사 고정밴드 누빔패드 겸 카페트",
+        "price": 21900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/14800092409575-07c70a19-ab52-42da-bcb0-54b2d2690d9e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=126289261"
+    },
+    {
+        "id": "20260102-03",
+        "date": "20260102",
+        "rank": 3,
+        "name": "테팔 인덕션 티타늄 1X 스테인리스 스틸 트렌디쿡 프라이팬",
+        "price": 35250,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/1749488813712139-f2f4d98c-5f1e-4cbc-905c-78e328141600.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527026341"
+    },
+    {
+        "id": "20260102-04",
+        "date": "20260102",
+        "rank": 4,
+        "name": "까사니 인덕션 쿠치나 멀티팟 냄비 4.3L",
+        "price": 25990,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/110337044539427-c591bed9-880c-49f7-86c1-31586e8e6dd6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5347363309"
+    },
+    {
+        "id": "20260102-05",
+        "date": "20260102",
+        "rank": 5,
+        "name": "HanilMedical 황토 탄소순환 전기매트",
+        "price": 69000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/169187851363995-a3989487-d172-4ba2-9ad6-ab17aa4ba142.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7663024716"
+    },
+    {
+        "id": "20260102-06",
+        "date": "20260102",
+        "rank": 6,
+        "name": "투에스리빙 모던 드레스룸 시스템 행거 옷장",
+        "price": 77800,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/4f42/425513b697005cbfd98d6002187091969b93529680d027f49bcea6bdc044.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8499641790"
+    },
+    {
+        "id": "20260102-07",
+        "date": "20260102",
+        "rank": 7,
+        "name": "프로베스트 고양이 그린 전연령 기능성 사료",
+        "price": 39800,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2345056335641207-1695ec95-bd0a-418e-a281-4387403ffe3e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6113370508"
+    },
+    {
+        "id": "20260102-08",
+        "date": "20260102",
+        "rank": 8,
+        "name": "하이피러브 사무용 메쉬 컴퓨터 의자",
+        "price": 42950,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/18b0/dbf20f8948c2a16c910f29d14c2f6792b9be95e7b45e1fbc6bf3d25e7d33.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8643013214"
+    },
+    {
+        "id": "20260102-09",
+        "date": "20260102",
+        "rank": 9,
+        "name": "2025년 프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 271500,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260102-10",
+        "date": "20260102",
+        "rank": 10,
+        "name": "옵티멈뉴트리션 플래티넘 하이드로 웨이 프로틴 아이솔레이트 터보 초콜릿",
+        "price": 61250,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/318e/15081242a84d231cd0af6f55522e7deb57c85d77ca7310ceab8b6d7181a5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7320778906"
+    },
+    {
         "id": "20260101-01",
         "date": "20260101",
         "rank": 1,
