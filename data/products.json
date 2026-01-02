@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260103-01",
+        "date": "20260103",
+        "rank": 1,
+        "name": "마이비데 클린케어 화장실용 물티슈 캡형",
+        "price": 23780,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/955002757207791-5da504cc-65af-4418-a3b9-85a33ebf7bc2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6964996972"
+    },
+    {
+        "id": "20260103-02",
+        "date": "20260103",
+        "rank": 2,
+        "name": "투에스리빙 풀메쉬 인체공학 3D 허리 편한 게이밍 컴퓨터 의자",
+        "price": 79900,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/a343/80b96f50044f00561e03588f718c1cad9cb2b3f3141001559e960d8b1ee6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9227057983"
+    },
+    {
+        "id": "20260103-03",
+        "date": "20260103",
+        "rank": 3,
+        "name": "[로켓프레시] 다복 당도선별 알뜰 나주배",
+        "price": 16900,
+        "image_url": "https://image15.coupangcdn.com/image/rs_quotation_api/bmy2qlvp/fa3b9073533346b78a8fffe2feddc7d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9031925748"
+    },
+    {
+        "id": "20260103-04",
+        "date": "20260103",
+        "rank": 4,
+        "name": "공간27 스킵피티 두뇌트레이닝게임",
+        "price": 31200,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/678409121209904-684befec-c57b-449d-b243-03c223630cf1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8176854323"
+    },
+    {
+        "id": "20260103-05",
+        "date": "20260103",
+        "rank": 5,
+        "name": "디어커스 누볼라 EVA 욕실화",
+        "price": 23900,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/image_audit/prod/6aea6cbf-e90c-4766-a942-3addaeb33e44_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=167720774"
+    },
+    {
+        "id": "20260103-06",
+        "date": "20260103",
+        "rank": 6,
+        "name": "비네이쳐스 마디에데 관절 쿨패치",
+        "price": 12500,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/586337020604564-f8fc5530-aed4-49d7-9acb-b7b0074f6702.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8880536594"
+    },
+    {
+        "id": "20260103-07",
+        "date": "20260103",
+        "rank": 7,
+        "name": "스탠리 퀜처 H2.0 플루티드 텀블러",
+        "price": 61000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/431720369808758-7f26cce5-56c8-4e78-991f-8bdb33fe0de1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771777265"
+    },
+    {
+        "id": "20260103-08",
+        "date": "20260103",
+        "rank": 8,
+        "name": "광동제약 타우린 2000",
+        "price": 11110,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/865394199192148-4ced6c30-f624-46d2-ac5f-a89ba702e753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5490639891"
+    },
+    {
+        "id": "20260103-09",
+        "date": "20260103",
+        "rank": 9,
+        "name": "데보코 통세탁 사계절 침대 토퍼 매트리스",
+        "price": 24600,
+        "image_url": "https://image11.coupangcdn.com/image/rs_quotation_api/gu2paotm/a5c02577f1854d35a2dbf9fa143ef16e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8304501179"
+    },
+    {
+        "id": "20260103-10",
+        "date": "20260103",
+        "rank": 10,
+        "name": "하림 자연실록 무항생제 인증 볶음탕용 닭고기 (냉장)",
+        "price": 6980,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/667131794502332-5ee476c5-430e-46eb-bdee-bda76dd99d8a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=162464623"
+    },
+    {
         "id": "20260102-01",
         "date": "20260102",
         "rank": 1,
