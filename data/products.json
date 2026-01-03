@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260104-01",
+        "date": "20260104",
+        "rank": 1,
+        "name": "Bebeen 120 영유아물티슈 캡형",
+        "price": 12300,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260104-02",
+        "date": "20260104",
+        "rank": 2,
+        "name": "크리넥스 데코 앤 소프트 수딩플러스 천연펄프 3겹 고급롤화장지",
+        "price": 20050,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/35fc/cf2a133ac2aab0108d84edb339b77fb219c471eb49333988c761d386d58d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253356297"
+    },
+    {
+        "id": "20260104-03",
+        "date": "20260104",
+        "rank": 3,
+        "name": "하이피러브 드레스룸 선반 철제 시스템 행거",
+        "price": 58900,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/f7ba/4faa460afb5bac7caada665e0b46e73362c0230fea07241cbe0f471b360d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631725383"
+    },
+    {
+        "id": "20260104-04",
+        "date": "20260104",
+        "rank": 4,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 99990,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1766457527044/06b2905e-cf5a-4133-b8c0-8af14fad86b2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
+        "id": "20260104-05",
+        "date": "20260104",
+        "rank": 5,
+        "name": "더샘 커버 퍼펙션 컨실러 듀오 세트 A",
+        "price": 12000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/09/18/12/5/05cd87e5-7104-410d-940a-1d4a504b1357.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9071743763"
+    },
+    {
+        "id": "20260104-06",
+        "date": "20260104",
+        "rank": 6,
+        "name": "고세핸드백 오번빅 호보백 KC2456C",
+        "price": 45000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2025/09/02/17/1/a21a88e1-f8a0-4aaa-b53c-5aa228e60370.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9034781025"
+    },
+    {
+        "id": "20260104-07",
+        "date": "20260104",
+        "rank": 7,
+        "name": "엔클레어 여성용 6프롱 Simulant Diamond 2캐럿 귀걸이 8mm",
+        "price": 13300,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/459476685019633-84cfc376-523f-469c-91ef-314c5d75aa21.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7316877611"
+    },
+    {
+        "id": "20260104-08",
+        "date": "20260104",
+        "rank": 8,
+        "name": "코리아푸드 백옥콘 강냉이 box포장",
+        "price": 9980,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/2c244ac39b00d713750353cdf6260a6297ae0a51b9c1072b11d11c16959f_1754463632341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6485234574"
+    },
+    {
+        "id": "20260104-09",
+        "date": "20260104",
+        "rank": 9,
+        "name": "템테이션 고양이 워너비 간식 3종 세트",
+        "price": 19400,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/151750239979399-5a8605f5-cafa-469f-9d94-a77dbbf92dc7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5618801816"
+    },
+    {
+        "id": "20260104-10",
+        "date": "20260104",
+        "rank": 10,
+        "name": "실크테라피 오리지널 라이트 헤어에센스",
+        "price": 15120,
+        "image_url": "https://static.coupangcdn.com/image/1025_amir_coupang_oct_80k/6d4a/c6f61093757ac2eb899cfe679ad3f3f2b81b629a7006828d2cc877a38fa8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7589619121"
+    },
+    {
         "id": "20260103-01",
         "date": "20260103",
         "rank": 1,
