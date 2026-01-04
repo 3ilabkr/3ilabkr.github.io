@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260105-01",
+        "date": "20260105",
+        "rank": 1,
+        "name": "2080 진지발리스 허벌민트 잇몸치약",
+        "price": 16250,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/64754923373701-0560b2ce-0f9f-4eb0-a9d4-31b93b5c93dc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7106536128"
+    },
+    {
+        "id": "20260105-02",
+        "date": "20260105",
+        "rank": 2,
+        "name": "가그린 제로 구강청결제",
+        "price": 13800,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260105-03",
+        "date": "20260105",
+        "rank": 3,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 129900,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/9d29/1b9e9f3b49cdab86f87cb06f5323b81fbbd2b6441a3cd4a6180b62558cca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260105-04",
+        "date": "20260105",
+        "rank": 4,
+        "name": "삼성전자 Bespoke AI 905L 4도어 냉장고 방문설치",
+        "price": 1920000,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/n9rsmtjo/ba2553037fc34fe983c96bb846912ea0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8734947909"
+    },
+    {
+        "id": "20260105-05",
+        "date": "20260105",
+        "rank": 5,
+        "name": "헬시오리진스 피크노제놀 150mg 베지 캡",
+        "price": 285820,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/e857/4d5f3bf98d05703a33a3d711bcff1c14556f3d16846226fa358cceff819f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2810064"
+    },
+    {
+        "id": "20260105-06",
+        "date": "20260105",
+        "rank": 6,
+        "name": "나우푸드 글루타티온 500mg 베지 캡슐",
+        "price": 45210,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/9c09/648081aff3bc203d8e0c5c820c511ee3edd3210df119dca8adfbf73ed539.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=208403063"
+    },
+    {
+        "id": "20260105-07",
+        "date": "20260105",
+        "rank": 7,
+        "name": "로킷아메리카 NMN + 프테로스틸벤 500mg 캡슐",
+        "price": 33280,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/9472/60f36fd638cea289161e5c334254138b5f60573a7370f8508bd66026ff0f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7830558357"
+    },
+    {
+        "id": "20260105-08",
+        "date": "20260105",
+        "rank": 8,
+        "name": "메트로시티 숄더백 미듐 M243MO1053Z",
+        "price": 244900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2025/12/11/14/4/78db085c-646c-44dd-8340-daf858056e29.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9236949431"
+    },
+    {
+        "id": "20260105-09",
+        "date": "20260105",
+        "rank": 9,
+        "name": "코페르 진정 아크네 트러블흔적 분사형 미스트 더마앰플",
+        "price": 93200,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/images/a623b2e8-e201-4f9a-ab05-b5b7dddcc2c518132604260058918287.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7443189948"
+    },
+    {
+        "id": "20260105-10",
+        "date": "20260105",
+        "rank": 10,
+        "name": "에스프레소스틱 로얄 헤이즐넛",
+        "price": 14500,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/3410366628818350-609dc06b-96aa-4dfe-a623-d2522d742734.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7858510883"
+    },
+    {
         "id": "20260104-01",
         "date": "20260104",
         "rank": 1,
