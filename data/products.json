@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260107-01",
+        "date": "20260107",
+        "rank": 1,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 15900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260107-02",
+        "date": "20260107",
+        "rank": 2,
+        "name": "휘슬러 인덕션 비타퀵 프리미엄 압력솥 22cm 쿼트로 4.5L + 2.5L 11인용",
+        "price": 293650,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2025/06/27/15/2/407567bb-3d7a-4488-a95f-ce3e7aeaa5cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8873841938"
+    },
+    {
+        "id": "20260107-03",
+        "date": "20260107",
+        "rank": 3,
+        "name": "나우푸드 커큐브레인 400mg 베지 캡슐",
+        "price": 52360,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/e584/ced822f3bee23c0222f5f3c88a771a560c8ae3eff0612215ec5f7689a404.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5335326780"
+    },
+    {
+        "id": "20260107-04",
+        "date": "20260107",
+        "rank": 4,
+        "name": "스와로브스키 여성용 Una 로듐 목걸이 5286137 +쇼핑백+메시지카드+품질보증서 백화점A/S",
+        "price": 209000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/1154164263211522-cdedab55-ad10-4556-bbe4-2e4922e29c09.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6541472681"
+    },
+    {
+        "id": "20260107-05",
+        "date": "20260107",
+        "rank": 5,
+        "name": "코멧 욕실청소 SUS 스테인리스 스프레이 건 + 코일 호스 3m 세트",
+        "price": 14990,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/60568709926636-7878791d-34d1-4614-8b23-9c842a8d4a58.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8844278774"
+    },
+    {
+        "id": "20260107-06",
+        "date": "20260107",
+        "rank": 6,
+        "name": "곰곰 맑은 누룽지차",
+        "price": 10660,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/609312812664640-4dd003cf-d440-41b0-adb0-b2d7ce0b4006.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8201714342"
+    },
+    {
+        "id": "20260107-07",
+        "date": "20260107",
+        "rank": 7,
+        "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동)",
+        "price": 8700,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/985133115146452-ee8c41e7-4ab7-4c59-bb2d-39afc574450b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7107434987"
+    },
+    {
+        "id": "20260107-08",
+        "date": "20260107",
+        "rank": 8,
+        "name": "황금농원 서귀포 고당도 조생 귤 첫출하",
+        "price": 8960,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/9561/d30abd088650a07c8a538c826d0ba9ef451fcc1da7a1247e63efbdf08ac1.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9085072640"
+    },
+    {
+        "id": "20260107-09",
+        "date": "20260107",
+        "rank": 9,
+        "name": "쌤소나이트레드 Airette 백팩",
+        "price": 119000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/332006346321541-6c00d5c1-0688-47d5-8f5d-d16f942d54f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4923212025"
+    },
+    {
+        "id": "20260107-10",
+        "date": "20260107",
+        "rank": 10,
+        "name": "삼성전자 AI 세탁기 25kg 방문설치",
+        "price": 999000,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/51448725927100-f5fbeddc-72e8-4c95-8400-5d501cda74da.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8645024939"
+    },
+    {
         "id": "20260106-01",
         "date": "20260106",
         "rank": 1,
