@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260108-01",
+        "date": "20260108",
+        "rank": 1,
+        "name": "헤트라스 프리미엄 대용량 디퓨저",
+        "price": 25800,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/8edc/bb33732483f5cdac3d83dfcc506a07c7765e973bd4be8971f29297325a73.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6991217590"
+    },
+    {
+        "id": "20260108-02",
+        "date": "20260108",
+        "rank": 2,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 16240,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/94761968167687-71f42b05-dc5e-4c35-8b00-fceda1c2809a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20260108-03",
+        "date": "20260108",
+        "rank": 3,
+        "name": "스탠리 퀜처 H2.0 플로우스테이트 텀블러",
+        "price": 62490,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/546431400333345-045c410e-d40c-491b-bf2c-8a11e3401ea1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6792297030"
+    },
+    {
+        "id": "20260108-04",
+        "date": "20260108",
+        "rank": 4,
+        "name": "삼성전자 BESPOKE AI 식기세척기 빌트인 12인용",
+        "price": 838920,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2025/03/05/15/6/ce235943-a843-4712-8615-85548f7336de.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631844677"
+    },
+    {
+        "id": "20260108-05",
+        "date": "20260108",
+        "rank": 5,
+        "name": "곰곰 베트남 고운 고춧가루 매운맛",
+        "price": 4140,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/191512588692504-0ecf0d9c-f80e-4694-a68b-b0f7db3a25b1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8106639854"
+    },
+    {
+        "id": "20260108-06",
+        "date": "20260108",
+        "rank": 6,
+        "name": "르크루제 원형 무쇠 양손냄비",
+        "price": 235900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/457060236240367-88901fa4-0d39-4f2f-a56c-6882145d0fa4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1570576"
+    },
+    {
+        "id": "20260108-07",
+        "date": "20260108",
+        "rank": 7,
+        "name": "에스트라 아토베리어 365 로션 플러스",
+        "price": 32910,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/e778/ce2847b87ef27d06cd19587e81f7b3c93f2abfe4cd4ec8b8365d2257d78f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7673796268"
+    },
+    {
+        "id": "20260108-08",
+        "date": "20260108",
+        "rank": 8,
+        "name": "삼성전자 Bespoke 651L 양문형 냉장고 방문설치",
+        "price": 1450000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2025/08/13/18/2/f08076b4-0905-4147-b838-cfc52dd667e0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8660047964"
+    },
+    {
+        "id": "20260108-09",
+        "date": "20260108",
+        "rank": 9,
+        "name": "나우푸드 데일리 비츠 멀티비타민 & 미네랄 타블렛",
+        "price": 28830,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/fd90/f5286e25fc26ad8c2602862517887078764c6d2a863141ca5fa8f9a0c364.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=209272"
+    },
+    {
+        "id": "20260108-10",
+        "date": "20260108",
+        "rank": 10,
+        "name": "미즈노 스피드 미드 스포츠 양말",
+        "price": 16500,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2023/05/03/11/4/21c8ca2a-f5fc-411d-a636-23bd02523b2f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8521878013"
+    },
+    {
         "id": "20260107-01",
         "date": "20260107",
         "rank": 1,
