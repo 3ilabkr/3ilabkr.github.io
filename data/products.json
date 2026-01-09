@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260110-01",
+        "date": "20260110",
+        "rank": 1,
+        "name": "다우니 실내건조 초고농축 섬유유연제 프레시 클린 본품",
+        "price": 18340,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/26295874963026-2f633fa0-adeb-457f-8d6d-da61312b9973.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906970157"
+    },
+    {
+        "id": "20260110-02",
+        "date": "20260110",
+        "rank": 2,
+        "name": "포카리스웨트 무라벨",
+        "price": 14700,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/419385647338911-86003985-7e85-4193-975e-acd880c1fa7e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544933292"
+    },
+    {
+        "id": "20260110-03",
+        "date": "20260110",
+        "rank": 3,
+        "name": "쿄릭 숙성마늘 추출물 포뮬러 100 카디오베스큘러 타블렛",
+        "price": 57290,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/654b/e38f63bf4097e7ac37157159b6995320ad7759c14869bc70fea93bea66e5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261772411"
+    },
+    {
+        "id": "20260110-04",
+        "date": "20260110",
+        "rank": 4,
+        "name": "모토벨로 TX7 듀얼 전기자전거 350W 36V 5.2Ah",
+        "price": 648000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/57747339275148-5ab1a87c-aaa2-484f-b18b-9e30902c7eb5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8277285643"
+    },
+    {
+        "id": "20260110-05",
+        "date": "20260110",
+        "rank": 5,
+        "name": "락키홈즈 게이밍 컴퓨터 책상 1200",
+        "price": 46000,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/b915/8a4e637db3d07025a247d90a8998e607d03e3970c7a74e3da24e888498d3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7800192807"
+    },
+    {
+        "id": "20260110-06",
+        "date": "20260110",
+        "rank": 6,
+        "name": "Kipnos 행거 이동식행거 스탠드 옷걸이행거 이동식 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 27100,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/862c/009b12418f97b80ac4603d64bf032e5172fc62dc3e2896fe3c2b26772ea6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8817531233"
+    },
+    {
+        "id": "20260110-07",
+        "date": "20260110",
+        "rank": 7,
+        "name": "위시헬씨 하루엔진 이뮨 부스터샷",
+        "price": 57400,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/35807016702734-15982153-6ab4-4432-8de8-4ae6494aec5f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7923051218"
+    },
+    {
+        "id": "20260110-08",
+        "date": "20260110",
+        "rank": 8,
+        "name": "2025년 통관 미국산 구운땅콩 대용량 부드러운 식감 최상급 견과류",
+        "price": 18790,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/9dd5/cd8ff4706ea5f0c7f4c7158f9229c087e98c78c5ad0c434d5667a000073f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7281459708"
+    },
+    {
+        "id": "20260110-09",
+        "date": "20260110",
+        "rank": 9,
+        "name": "코믈리 원터치 다용도 접이식 간편폴딩 철제선반",
+        "price": 33900,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/ca50/2aa5bcea33aa2d99bc4f1d61f4def207ccd2152051c453f9d1aa598623be.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8454901855"
+    },
+    {
+        "id": "20260110-10",
+        "date": "20260110",
+        "rank": 10,
+        "name": "라이프익스텐션 어드벤스드 밀크시슬",
+        "price": 88090,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/46dd/145bff4cf7493535be001f05c0870ca98b96f65728d06ff94b94479d3238.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2365823"
+    },
+    {
         "id": "20260109-01",
         "date": "20260109",
         "rank": 1,
