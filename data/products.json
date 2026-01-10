@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260111-01",
+        "date": "20260111",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260111-02",
+        "date": "20260111",
+        "rank": 2,
+        "name": "크리넥스 안심 3겹 키친타올",
+        "price": 14900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/140933971829284-243c469f-6291-447f-887d-7345c66c3259.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8425779247"
+    },
+    {
+        "id": "20260111-03",
+        "date": "20260111",
+        "rank": 3,
+        "name": "삼성전자 김치플러스 328L 스탠드형 3도어 냉장고 방문설치",
+        "price": 1180000,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/dcb2/61b617c92a0a8d0c69738ee06b17bbbf7e2ca56bd768a646cdf9d4bb725e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8321229633"
+    },
+    {
+        "id": "20260111-04",
+        "date": "20260111",
+        "rank": 4,
+        "name": "홈럭스 파워수압 필터 샤워기 + 필터 5개 + 샤워호스 1.5M + 거치데 안마 샤워기세트 8pcs",
+        "price": 15300,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/cc0a/4f9a7f8b278323bc98d918f3d748a2aea818b717fafc835eb744b1606662.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150861959"
+    },
+    {
+        "id": "20260111-05",
+        "date": "20260111",
+        "rank": 5,
+        "name": "곰곰 알리오 올리오 파스타 소스",
+        "price": 4220,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/118233357898788-4337f8cc-882d-44db-8d20-51d9f98a6c75.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8871633913"
+    },
+    {
+        "id": "20260111-06",
+        "date": "20260111",
+        "rank": 6,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 28890,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/d447/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20260111-07",
+        "date": "20260111",
+        "rank": 7,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 68800,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/0bef/905d0cc4b21b61a5d75b416a962791b9d45558e4581c481ba5c8a8c931dc.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20260111-08",
+        "date": "20260111",
+        "rank": 8,
+        "name": "라뽐므 노르빅 극세사 스트라이프 겨울 차렵이불",
+        "price": 69900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/634901621555588-04336cb5-2cc4-48c2-9f11-226da339c8c6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4703009349"
+    },
+    {
+        "id": "20260111-09",
+        "date": "20260111",
+        "rank": 9,
+        "name": "바이오가이아 프로텍티스 이지드롭 프로바이오틱스 + 비타민 D 영양제",
+        "price": 62480,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/79359488406183-b1444139-e293-4af7-8306-7b06bd279d9e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8746727694"
+    },
+    {
+        "id": "20260111-10",
+        "date": "20260111",
+        "rank": 10,
+        "name": "마이디어 레트로 냉장고 93L",
+        "price": 190890,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/2bbc/b520accce2197274ea6cfb5ababb48352af005def06f0a08f553d8321b1c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7636609694"
+    },
+    {
         "id": "20260110-01",
         "date": "20260110",
         "rank": 1,
