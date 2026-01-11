@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260112-01",
+        "date": "20260112",
+        "rank": 1,
+        "name": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지",
+        "price": 18610,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/9acc/6ef26f1c139841b2255f389632ac9a77e03eb5241448cd257f084467b9fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=34846576"
+    },
+    {
+        "id": "20260112-02",
+        "date": "20260112",
+        "rank": 2,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 12900,
+        "image_url": "https://image1.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260112-03",
+        "date": "20260112",
+        "rank": 3,
+        "name": "케라시스 케라마이드 극손상 헤어트리트먼트",
+        "price": 8900,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/image_audit/prod/5b8a89df-4e59-4d97-aa74-d4bb6ad09d3d_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6789548230"
+    },
+    {
+        "id": "20260112-04",
+        "date": "20260112",
+        "rank": 4,
+        "name": "행복미트 프리미엄 소 스지 수육 탕 전골용",
+        "price": 26700,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/654e/fd5245cbb4710fe44bf56ae7446e8623320614ded2644dc3be0978cac547.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484261404"
+    },
+    {
+        "id": "20260112-05",
+        "date": "20260112",
+        "rank": 5,
+        "name": "르크루제 레인보우 시리얼볼 세트 16cm",
+        "price": 154900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2024/09/29/18/2/53e98472-0432-4f22-9661-5d4a0250f078.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8369878359"
+    },
+    {
+        "id": "20260112-06",
+        "date": "20260112",
+        "rank": 6,
+        "name": "2025년형 프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 94900,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/662a/c4d429d76192d4dba32a871d25dd80cc3c76e6b4b57d9e7c53345c469347.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260112-07",
+        "date": "20260112",
+        "rank": 7,
+        "name": "삼성전자 BESPOKE AI 빌트인 열풍건조 식기세척기 14인용",
+        "price": 999000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/03/05/10/9/4a53af70-d32d-44b2-81a1-c6c114ed8252.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631451331"
+    },
+    {
+        "id": "20260112-08",
+        "date": "20260112",
+        "rank": 8,
+        "name": "휘슬러 인덕션 샌프란시스코 냄비세트",
+        "price": 254150,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/1417435666694598-d8a3e330-3652-4f97-9618-341fc19bd80f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5398455946"
+    },
+    {
+        "id": "20260112-09",
+        "date": "20260112",
+        "rank": 9,
+        "name": "착한구두 여성용 컬리지 퍼안감 숏 어그부츠 WTSDR4d250",
+        "price": 31900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/213949325440667-c1a2b9d1-77ce-4141-a44f-77ca17e672e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6945179990"
+    },
+    {
+        "id": "20260112-10",
+        "date": "20260112",
+        "rank": 10,
+        "name": "나우푸드 비오틴 5000mcg 베지 캡슐 비건",
+        "price": 12880,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/208a/3faa9e975981557aeeb7f9721c082bec31bfb19b2631f26f2201fdbd3e95.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1955584555"
+    },
+    {
         "id": "20260111-01",
         "date": "20260111",
         "rank": 1,
