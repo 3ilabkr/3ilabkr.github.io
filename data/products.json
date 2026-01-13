@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260114-01",
+        "date": "20260114",
+        "rank": 1,
+        "name": "마이키즈 초코맛",
+        "price": 32130,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/940992104724616-4f652f70-c8cf-4a0b-9173-5e720cfa81ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8313229289"
+    },
+    {
+        "id": "20260114-02",
+        "date": "20260114",
+        "rank": 2,
+        "name": "푸드올로지 정품 톡스올로지 클렌즈 48시간 abc 주스",
+        "price": 47500,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/61462623280656-35be59f6-341d-403d-bf01-8ae3a9a65506.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8726545794"
+    },
+    {
+        "id": "20260114-03",
+        "date": "20260114",
+        "rank": 3,
+        "name": "닥스 악세서리 라이트 버킹엄 나일론 크로스백 DCBA6E851BK",
+        "price": 228000,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/11/28/14/6/43450f25-07e3-4bff-ba17-6b6d3f95fd05.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9212615547"
+    },
+    {
+        "id": "20260114-04",
+        "date": "20260114",
+        "rank": 4,
+        "name": "탐사 x 솔루엠 (삼성전기 스핀오프) PD25W PPS C타입 1포트 초고속 충전기 + CtoC 케이블",
+        "price": 7990,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/466531309736370-64283a63-7461-468d-beaa-0a7156f6a415.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8234573407"
+    },
+    {
+        "id": "20260114-05",
+        "date": "20260114",
+        "rank": 5,
+        "name": "곰곰 유기농 페퍼민트차 생분해 삼각티백",
+        "price": 6500,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/545797585024137-428d3442-8e74-4d64-998e-2e96deea0736.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7715947081"
+    },
+    {
+        "id": "20260114-06",
+        "date": "20260114",
+        "rank": 6,
+        "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
+        "price": 74000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/30913420310505-3da28b40-fdad-47ee-9019-d936b6276bad.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8248049594"
+    },
+    {
+        "id": "20260114-07",
+        "date": "20260114",
+        "rank": 7,
+        "name": "코멧 홈 코듀로이 극세사 담요",
+        "price": 9990,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/227632133090703-1a51f3ea-a42b-479d-8949-d5e048321b33.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9039135663"
+    },
+    {
+        "id": "20260114-08",
+        "date": "20260114",
+        "rank": 8,
+        "name": "파스퇴르 무항생제 인증 바른목장 우유",
+        "price": 19800,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/248778302537683-5b819360-c70b-4b5a-99f8-f3fc9a08245c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7836219133"
+    },
+    {
+        "id": "20260114-09",
+        "date": "20260114",
+        "rank": 9,
+        "name": "국내산 울팜 제주 햇당근 흙당근 당근",
+        "price": 5710,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/0687/262255e9b0244679bf5d2d3983b420d4b7eae8547130f0259a198974a77e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8386793628"
+    },
+    {
+        "id": "20260114-10",
+        "date": "20260114",
+        "rank": 10,
+        "name": "위드림 생크림 스퀴시 카페 만들기 놀이",
+        "price": 19400,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/1a46/9f6455f5d95961b8ecf5bd5def89bc5dc9ca7d4381e4a3ec6b6041b9ffb2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8321338630"
+    },
+    {
         "id": "20260113-01",
         "date": "20260113",
         "rank": 1,
