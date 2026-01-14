@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260115-01",
+        "date": "20260115",
+        "rank": 1,
+        "name": "하이뮨 프로틴 밸런스 L 캔",
+        "price": 36000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8290332640"
+    },
+    {
+        "id": "20260115-02",
+        "date": "20260115",
+        "rank": 2,
+        "name": "헌터 여성 인아웃 인슐레이티드 슬립온 방한화 WFF1007WWU",
+        "price": 129000,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/286d/e50c9cadbf2080ad3178e81f450253ac9a28b42ed9efe3a8dff65a4148c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9115590749"
+    },
+    {
+        "id": "20260115-03",
+        "date": "20260115",
+        "rank": 3,
+        "name": "나우푸드 마그네슘 글리시네이트 타블렛",
+        "price": 42400,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/588b/1ca088f79d2b45adab4066e2b86dd1b5e8685a9cb5e96d78f314968deeda.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1366689007"
+    },
+    {
+        "id": "20260115-04",
+        "date": "20260115",
+        "rank": 4,
+        "name": "LG전자 트롬 오브제컬렉션 워시타워 W20WHN 드럼세탁기 + 건조기 24kg+20kg 방문설치",
+        "price": 2576400,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/3039/0e27a9b7e065527cec224274706aca76600b2d7c830a8015bc1e3315c734.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7398176845"
+    },
+    {
+        "id": "20260115-05",
+        "date": "20260115",
+        "rank": 5,
+        "name": "스테니 인덕션 무연마제 통5중 스테인리스 냄비세트 4개",
+        "price": 279800,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/03/20/10/4/9f928301-89c0-4689-b525-c24414121173.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8662723812"
+    },
+    {
+        "id": "20260115-06",
+        "date": "20260115",
+        "rank": 6,
+        "name": "르엘라 저소음 초음파 미니가습기",
+        "price": 21910,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/100c/153d440601be224c7d4bcd630f3eeaf2c7bbe9b66217f7adc6efcb7e00ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9174216794"
+    },
+    {
+        "id": "20260115-07",
+        "date": "20260115",
+        "rank": 7,
+        "name": "실바트 인덕션 까리노 사각 계란말이팬",
+        "price": 23900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/180471819912806-90f7d83d-f64b-4016-a242-5ab5e05250d9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8112472076"
+    },
+    {
+        "id": "20260115-08",
+        "date": "20260115",
+        "rank": 8,
+        "name": "헬스헬퍼 맥스컷 프로 54g",
+        "price": 38900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2025/05/07/18/0/a39bc234-3436-40c6-8263-199d1c331065.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7381159190"
+    },
+    {
+        "id": "20260115-09",
+        "date": "20260115",
+        "rank": 9,
+        "name": "아이뮤즈 LTE 안드로이드 태블릿PC 뮤패드 21.3cm K8",
+        "price": 190650,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/07/17/13/0/7dc20c08-3179-423c-aa37-82e0d0adec4c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8680364865"
+    },
+    {
+        "id": "20260115-10",
+        "date": "20260115",
+        "rank": 10,
+        "name": "그린모먼트랩 목주름 케어 울플렉스 넥필로우 경추베개",
+        "price": 49000,
+        "image_url": "https://image8.coupangcdn.com/image/rs_quotation_api/sstaklzx/05e6276782d64050a1141072da1306b2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9208915004"
+    },
+    {
         "id": "20260114-01",
         "date": "20260114",
         "rank": 1,
