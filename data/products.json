@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260116-01",
+        "date": "20260116",
+        "rank": 1,
+        "name": "마이밀 뉴프로틴 오리지널 드링크",
+        "price": 55660,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/43954471874375-f93ab182-0d58-4c4b-92fb-751ff7f07b24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20260116-02",
+        "date": "20260116",
+        "rank": 2,
+        "name": "루아베 알러지케어 순면 60수 호텔 침구세트",
+        "price": 69350,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/ea43/0b129fed185cde3970a38f4ffa33d8107b706dd10d1b7e6319f96fd59a8c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8658285771"
+    },
+    {
+        "id": "20260116-03",
+        "date": "20260116",
+        "rank": 3,
+        "name": "한일스텐레스 인덕션 뉴아델리오 통5중 냄비세트",
+        "price": 247840,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/260612077581055-fe836c81-f78e-4b7f-b791-23de29434e93.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=199297056"
+    },
+    {
+        "id": "20260116-04",
+        "date": "20260116",
+        "rank": 4,
+        "name": "락피도 철분 키즈",
+        "price": 32200,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/6c19076c-c272-4663-a08d-04234da5d7415333564917386777006_1752051505623.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6853758942"
+    },
+    {
+        "id": "20260116-05",
+        "date": "20260116",
+        "rank": 5,
+        "name": "농협 [25년산 햇곡] 치악산 국산 찰기장",
+        "price": 16980,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/3f98/83f9570cb025de465bc191fcdddd6488ce6f2f532651c7107b40f774fd47.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8941666805"
+    },
+    {
+        "id": "20260116-06",
+        "date": "20260116",
+        "rank": 6,
+        "name": "[로켓프레시] 쉐프스토리 갓성비 치즈 핫도그 (냉동)",
+        "price": 9900,
+        "image_url": "https://img1a.coupangcdn.com/image/rs_quotation_api/ujzukznj/ebbeb08bf0394fc2b48e15e4429f7a6c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8816166947"
+    },
+    {
+        "id": "20260116-07",
+        "date": "20260116",
+        "rank": 7,
+        "name": "지리산수 무라벨",
+        "price": 10300,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/3646448824876-2cbf8382-b58b-4806-9fbd-013e7537c713.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1357560685"
+    },
+    {
+        "id": "20260116-08",
+        "date": "20260116",
+        "rank": 8,
+        "name": "[로켓프레시] 수플린 항공직송 페루 애플망고 세트 4~5개입",
+        "price": 32900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/6602225325428948-74866da1-503c-4799-a9a6-a7377055f70b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7240123533"
+    },
+    {
+        "id": "20260116-09",
+        "date": "20260116",
+        "rank": 9,
+        "name": "나르왈 Freo Z10 Ultra 흡입 물걸레 겸용 스마트 올인원 로봇청소기 + 직배수 키트5.0 세트 방문설치",
+        "price": 1190000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/956304863547901-52f3351f-60d1-4a01-8898-f32f80afb20a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8810330186"
+    },
+    {
+        "id": "20260116-10",
+        "date": "20260116",
+        "rank": 10,
+        "name": "락토필듀오 덴마크 유산균 2개월분 60캡슐 국내 최초 여성 질유산균",
+        "price": 42900,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/82610fbf169d3ed3ac22bc13a12f6c49e4567904fb1fc86936c59ee1cc95_1750827351591.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7006789918"
+    },
+    {
         "id": "20260115-01",
         "date": "20260115",
         "rank": 1,
