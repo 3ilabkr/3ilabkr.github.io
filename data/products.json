@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260117-01",
+        "date": "20260117",
+        "rank": 1,
+        "name": "하이피러브 독립스프링 매트리스",
+        "price": 79000,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/68fd/c65d181c4b2b2bbf871724a64688e721913d662056484dedda977f59c95d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8653612334"
+    },
+    {
+        "id": "20260117-02",
+        "date": "20260117",
+        "rank": 2,
+        "name": "하이피러브 사무용 메쉬 컴퓨터 의자",
+        "price": 42970,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/1860/a53fadecececd4fd968e0409878f8bbeff3d0c4572d296d5d6e033dec211.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8643013214"
+    },
+    {
+        "id": "20260117-03",
+        "date": "20260117",
+        "rank": 3,
+        "name": "쁘리엘르 몬스 솜누빔 바람막이 방한 커튼",
+        "price": 35900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/194813301120971-f2a38af6-50e3-4aa2-b33f-fd826f48f7b7.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9264070195"
+    },
+    {
+        "id": "20260117-04",
+        "date": "20260117",
+        "rank": 4,
+        "name": "행복미트 미국산 초이스 등급 소고기 아롱사태",
+        "price": 28320,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/9427/568c80384a7fbad164e27bee81608b41edf3fb62324b4e0c1ac4827891b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7575840832"
+    },
+    {
+        "id": "20260117-05",
+        "date": "20260117",
+        "rank": 5,
+        "name": "하늘보리 에코 무라벨",
+        "price": 14250,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/94906645455938-22d605d1-d494-4736-b83c-f2633f95420c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20260117-06",
+        "date": "20260117",
+        "rank": 6,
+        "name": "비타그램 파워 온열 미니 종아리 발마사지기",
+        "price": 33900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/295791168718141-a355e26e-41ba-41d4-8c16-157e4667735b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7778398303"
+    },
+    {
+        "id": "20260117-07",
+        "date": "20260117",
+        "rank": 7,
+        "name": "키즈팡 워크북 만 2세 전8권",
+        "price": 14870,
+        "image_url": "https://img3c.coupangcdn.com/image/product/image/vendoritem/2018/11/20/3554128446/f4121f9c-a9fa-4ee1-901e-aad196006dde.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6335453368"
+    },
+    {
+        "id": "20260117-08",
+        "date": "20260117",
+        "rank": 8,
+        "name": "오뚜기 수향미밥",
+        "price": 15900,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/ece7/aeee97411a1398939afb45a7c693722383ac7cf87b188ab4199153636d5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7243430420"
+    },
+    {
+        "id": "20260117-09",
+        "date": "20260117",
+        "rank": 9,
+        "name": "프로그 레인보우 극세사 행주",
+        "price": 12900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/93790728688057-5266f899-ef10-42e3-9520-fe434f5a0aa9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=35799091"
+    },
+    {
+        "id": "20260117-10",
+        "date": "20260117",
+        "rank": 10,
+        "name": "온앤온 여성용 클래식 테일러드 카라 핸드메이드 울코트 NEW3WHA29",
+        "price": 211580,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1823530523765-fbbfd042-a79c-4d7b-af31-94d089458f63.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8574501850"
+    },
+    {
         "id": "20260116-01",
         "date": "20260116",
         "rank": 1,
