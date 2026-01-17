@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260118-01",
+        "date": "20260118",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260118-02",
+        "date": "20260118",
+        "rank": 2,
+        "name": "닥터린 정품 하이퍼셀 알티지 rTG 오메가3 알파",
+        "price": 54520,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/84767930985975-7a24deb5-2a02-4f83-93fd-bcb2be3ef05f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8349288599"
+    },
+    {
+        "id": "20260118-03",
+        "date": "20260118",
+        "rank": 3,
+        "name": "키루에 의자 사무용의자 컴퓨터의자 책상의자 공부의자 인체공학 메쉬 의자 사무실 회의실 독서실",
+        "price": 42000,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/99cd/dd5f843bd739a8884a1dca0c4c2df8e109b875e901b7686903242bf135b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886194377"
+    },
+    {
+        "id": "20260118-04",
+        "date": "20260118",
+        "rank": 4,
+        "name": "핫방 프리미엄 원터치 모던 난방텐트 2인용 + 보관가방",
+        "price": 27570,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2181968393962286-12bc892e-536f-4dba-aa71-3b36fd200efd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7719434524"
+    },
+    {
+        "id": "20260118-05",
+        "date": "20260118",
+        "rank": 5,
+        "name": "25년산햅쌀 삼광미 20kg 상등급 단일품종 정미소김씨(GAP인증시설 도정)",
+        "price": 64800,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/ab19/9e7e02cd58e3567647c673666c1f3f6feb3689e1e75137db8c291c4f63a8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7832997817"
+    },
+    {
+        "id": "20260118-06",
+        "date": "20260118",
+        "rank": 6,
+        "name": "[로켓프레시] 싱싱특구 손질된 한마리 대게 (냉동)",
+        "price": 34900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2023/05/02/15/8/240a5399-8d4e-4363-90df-1db5c6501e77.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310822542"
+    },
+    {
+        "id": "20260118-07",
+        "date": "20260118",
+        "rank": 7,
+        "name": "[로켓프레시] 영주마실 못난이 사과 소과 26~30개입",
+        "price": 19660,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/spgntivu/a5fb005ae3cc44509c7c04384feaf098.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8274982913"
+    },
+    {
+        "id": "20260118-08",
+        "date": "20260118",
+        "rank": 8,
+        "name": "잇츠스킨 시크릿 솔루션 웨딩드레스 퓨어 톤업크림 100ml",
+        "price": 7380,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/34440412941436-37a9f7b3-49a3-4515-9967-cfabadcc8123.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8907019514"
+    },
+    {
+        "id": "20260118-09",
+        "date": "20260118",
+        "rank": 9,
+        "name": "위드맘 산양 제왕 분유 2단계",
+        "price": 38900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/171120920731258-1b8ff05b-5810-4bf3-b794-2f80b408c009.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8775959217"
+    },
+    {
+        "id": "20260118-10",
+        "date": "20260118",
+        "rank": 10,
+        "name": "쿠첸 121 플러스 올스테인레스 전기압력밥솥 10인용",
+        "price": 319000,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/2916/283966426344aadfa7830be80e11f6fb581cbd1d1646f9d3530aeb98092c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8635655737"
+    },
+    {
         "id": "20260117-01",
         "date": "20260117",
         "rank": 1,
