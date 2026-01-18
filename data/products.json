@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260119-01",
+        "date": "20260119",
+        "rank": 1,
+        "name": "온더바디 코튼풋 발을 씻자 풋샴푸 자몽 민트향",
+        "price": 13800,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/343560602784647-13456a8e-ad49-44c2-872c-84d39964cde5.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8417162030"
+    },
+    {
+        "id": "20260119-02",
+        "date": "20260119",
+        "rank": 2,
+        "name": "하림 텐더스틱 (냉동)",
+        "price": 13800,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/16970808331699412-ab86b0c6-7908-4d0a-aa2f-37091959dba7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2287357991"
+    },
+    {
+        "id": "20260119-03",
+        "date": "20260119",
+        "rank": 3,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 99990,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/3ea8/752f12381976f0f367a9119bb369304bdbbfe3ee7d7de4d63e3a1a4e60f8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
+        "id": "20260119-04",
+        "date": "20260119",
+        "rank": 4,
+        "name": "나우푸드 아연 50mg",
+        "price": 11580,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/4553/1b3252124dc55ad0a529351865657d2d415e0dd73b9e35c2c91498554b1e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6395389697"
+    },
+    {
+        "id": "20260119-05",
+        "date": "20260119",
+        "rank": 5,
+        "name": "블라우풍트 에어이지 프로 에어홀 BLDC 드라이기 BLP-HD7300 1500W",
+        "price": 79150,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/78030725445339-d3c1142f-fc01-43b3-ab17-6eb9443ae94c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9050485070"
+    },
+    {
+        "id": "20260119-06",
+        "date": "20260119",
+        "rank": 6,
+        "name": "마스마룰즈 리본 스트링 레더 미니 백팩 + 파우치세트",
+        "price": 88000,
+        "image_url": "https://image7.coupangcdn.com/image/rs_quotation_api/qrvhmq13/a4ec8821302447beb551734d679eab5b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9128779388"
+    },
+    {
+        "id": "20260119-07",
+        "date": "20260119",
+        "rank": 7,
+        "name": "밀크바오밥 바디워시 화이트머스크향",
+        "price": 13950,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/4709/a80a478346e3acc36a52a2e26bde375c27592b4dae8b9776c8b25b3cbc88.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=181699807"
+    },
+    {
+        "id": "20260119-08",
+        "date": "20260119",
+        "rank": 8,
+        "name": "유닉스 이온 접이식 드라이어 1600W",
+        "price": 14690,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/cc79/e3e41442b0f12b8b8ce21462f29a1732cc4756824aae9c5a24893c9f9907.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8260758738"
+    },
+    {
+        "id": "20260119-09",
+        "date": "20260119",
+        "rank": 9,
+        "name": "스빈또 NEW 스웨덴 수세미 100g",
+        "price": 10800,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/61398692072417-1bf5bd59-5c09-4711-8910-dbfe6fc756b7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6919535470"
+    },
+    {
+        "id": "20260119-10",
+        "date": "20260119",
+        "rank": 10,
+        "name": "프리메라 오가니언스 기초 화장품 2종",
+        "price": 44210,
+        "image_url": "https://image8.coupangcdn.com/image/1025_amir_coupang_oct_80k/a27a/03b791bc9f92feeba8b24123af896bdfb6609b31d1110a3b430fecd71316.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1546913076"
+    },
+    {
         "id": "20260118-01",
         "date": "20260118",
         "rank": 1,
