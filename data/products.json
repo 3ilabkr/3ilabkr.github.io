@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260120-01",
+        "date": "20260120",
+        "rank": 1,
+        "name": "크리넥스 순수소프트 쿠션 알로에 화장지",
+        "price": 20030,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/81858691287341-116c9aea-3d2e-4faa-a7b8-70471524fbdb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9268693596"
+    },
+    {
+        "id": "20260120-02",
+        "date": "20260120",
+        "rank": 2,
+        "name": "[비건라이프] 비트 실내건조 캡슐세제 그린플로럴향",
+        "price": 16900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2023/10/24/17/0/cc515edc-00f7-43ab-9681-457e68e987f6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7674477942"
+    },
+    {
+        "id": "20260120-03",
+        "date": "20260120",
+        "rank": 3,
+        "name": "CJ맛밤",
+        "price": 12930,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/78d2/0b39407006f1cf259644d563951a9e9defcfd0b751fb6bb010bee29a4c27.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6855917521"
+    },
+    {
+        "id": "20260120-04",
+        "date": "20260120",
+        "rank": 4,
+        "name": "매일두유 렌틸콩 저당두유",
+        "price": 16900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/161859160592485-d7e9acef-90e7-4f71-bacf-4b3ad01c837b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8890159701"
+    },
+    {
+        "id": "20260120-05",
+        "date": "20260120",
+        "rank": 5,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자 학생 사무실의자 시디즈 공부의자 사무실 회의실 독서실 사무용 컴퓨터 의자 푹신한 메쉬 의자",
+        "price": 73500,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/3024/a0cf84e01929e1bcc6f2950b776db8c38f12e1fa29b821740bce425e0aaa.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260120-06",
+        "date": "20260120",
+        "rank": 6,
+        "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러",
+        "price": 57000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/226138408130152-f16ed5d2-77f5-422d-8120-b9bd468f0d1f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6792297030"
+    },
+    {
+        "id": "20260120-07",
+        "date": "20260120",
+        "rank": 7,
+        "name": "마이셰프 인덕션 포레스타 실속 프라이팬 세트",
+        "price": 124900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2025/10/15/13/5/a9a784e7-abad-4300-b563-911a8088c0af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6998044787"
+    },
+    {
+        "id": "20260120-08",
+        "date": "20260120",
+        "rank": 8,
+        "name": "삼진어묵 옛날모듬어묵",
+        "price": 11600,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/63399217696152-526afebd-4c8a-4242-b09d-3db710f91baf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=203456530"
+    },
+    {
+        "id": "20260120-09",
+        "date": "20260120",
+        "rank": 9,
+        "name": "투에스리빙 풀메쉬 인체공학 3D 허리 편한 게이밍 컴퓨터 의자",
+        "price": 79900,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/a343/80b96f50044f00561e03588f718c1cad9cb2b3f3141001559e960d8b1ee6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9227057983"
+    },
+    {
+        "id": "20260120-10",
+        "date": "20260120",
+        "rank": 10,
+        "name": "마르헨제이 렉시 버킷백",
+        "price": 99000,
+        "image_url": "https://image12.coupangcdn.com/image/rs_quotation_api/oslarwbf/0d21fb5808cb426cbe4b89e29d384574.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8627033297"
+    },
+    {
         "id": "20260119-01",
         "date": "20260119",
         "rank": 1,
