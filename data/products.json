@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260121-01",
+        "date": "20260121",
+        "rank": 1,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 11360,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/82039840121472-c3367702-68b2-4904-8169-dd12472b1de4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260121-02",
+        "date": "20260121",
+        "rank": 2,
+        "name": "하이피러브 드레스룸 선반 철제 시스템 행거",
+        "price": 58900,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/f7ba/4faa460afb5bac7caada665e0b46e73362c0230fea07241cbe0f471b360d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631725383"
+    },
+    {
+        "id": "20260121-03",
+        "date": "20260121",
+        "rank": 3,
+        "name": "쁘리엘르 윈즈 바람막이 방한 커튼",
+        "price": 30900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2649248479314-3f333c8d-3eb6-47a4-9884-85693f10d5ef.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7610965239"
+    },
+    {
+        "id": "20260121-04",
+        "date": "20260121",
+        "rank": 4,
+        "name": "마스마룰즈 여성용 플럼피 패딩 크로스백 + 파우치 세트",
+        "price": 70000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2904389213196097-0d8dfc44-044a-477c-bd9b-c26ca0346fc1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9124793369"
+    },
+    {
+        "id": "20260121-05",
+        "date": "20260121",
+        "rank": 5,
+        "name": "네오플램피카 인덕션 사각 전골팬 + 다이얼 인덕션 세트 2종",
+        "price": 137900,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/22dd/0c021956872983808755ddd3b827c73c65447f887ae6d4ccddedf6cc6130.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6785266406"
+    },
+    {
+        "id": "20260121-06",
+        "date": "20260121",
+        "rank": 6,
+        "name": "큐피 딥 로스티드 참깨 드레싱",
+        "price": 9510,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2025/04/10/16/2/4c3dee12-4ccb-42af-8791-87df4f0cd0ed.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8390774013"
+    },
+    {
+        "id": "20260121-07",
+        "date": "20260121",
+        "rank": 7,
+        "name": "케라시스 히트 액티브 극손상 바르는 트리트먼트",
+        "price": 13900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/397001284240191-dd08572a-bb3f-4481-899c-860a1541f2d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=96727001"
+    },
+    {
+        "id": "20260121-08",
+        "date": "20260121",
+        "rank": 8,
+        "name": "라뽐므 노르빅 호텔식 차렵이불",
+        "price": 35700,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/1063136929810361-59154506-f400-4298-a31e-8d544aa0f48c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=73841079"
+    },
+    {
+        "id": "20260121-09",
+        "date": "20260121",
+        "rank": 9,
+        "name": "센카 스피디 퍼펙트 휩",
+        "price": 23380,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/cdb1/fd96c4d18e3c374f1e82fdd5e8fb18baa6d68262816e58b0cf86150b14e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7863343475"
+    },
+    {
+        "id": "20260121-10",
+        "date": "20260121",
+        "rank": 10,
+        "name": "어린이과학동아 1호 26년 1월 1일 : 2026년 붉은 말의 해, 아마존",
+        "price": 13300,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2025/12/23/10/7/866bcff6-eb85-427b-8031-94f3e674211e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9261863806"
+    },
+    {
         "id": "20260120-01",
         "date": "20260120",
         "rank": 1,
