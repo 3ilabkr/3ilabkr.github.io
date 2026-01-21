@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260122-01",
+        "date": "20260122",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14400,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9274048526"
+    },
+    {
+        "id": "20260122-02",
+        "date": "20260122",
+        "rank": 2,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 15900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260122-03",
+        "date": "20260122",
+        "rank": 3,
+        "name": "헤드앤숄더 두피 토탈 솔루션 샴푸 쿨 멘솔",
+        "price": 13070,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/125622933282601-487a171d-85dc-4610-81ab-7682d36a4156.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6499998087"
+    },
+    {
+        "id": "20260122-04",
+        "date": "20260122",
+        "rank": 4,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 129900,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/9d29/1b9e9f3b49cdab86f87cb06f5323b81fbbd2b6441a3cd4a6180b62558cca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260122-05",
+        "date": "20260122",
+        "rank": 5,
+        "name": "캉골 레트로코어 스튜던트 백팩 1469 + 에코백",
+        "price": 94000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/10/31/10/6/1214118b-26e4-45f9-a4ed-1f65ff571af9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9160239644"
+    },
+    {
+        "id": "20260122-06",
+        "date": "20260122",
+        "rank": 6,
+        "name": "올리비아하슬러 여성용 천연모피 캐시미어 혼방 보온 코트 OHCWCT301",
+        "price": 182720,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/08/20/16/4/94b74b5e-ed83-4762-b0e2-73b05e30144e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9004083078"
+    },
+    {
+        "id": "20260122-07",
+        "date": "20260122",
+        "rank": 7,
+        "name": "휠라 시그니처 더블 쿠션 미드 양말 5켤레",
+        "price": 15900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/328907831583053-9592c4e7-952b-440c-b6bb-fd17e831b45e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8519721168"
+    },
+    {
+        "id": "20260122-08",
+        "date": "20260122",
+        "rank": 8,
+        "name": "LG전자 2025 그램 16 코어Ultra5",
+        "price": 1896000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/30415310862731-9323e97e-0364-4661-afc4-aab5e5f8c3bc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8518435269"
+    },
+    {
+        "id": "20260122-09",
+        "date": "20260122",
+        "rank": 9,
+        "name": "생각 쑥쑥 스티커북 한글, 숫자 세트",
+        "price": 10400,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2024/10/30/17/7/fe2fbdde-069e-42a4-b94f-c7042cbe5171.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8420861312"
+    },
+    {
+        "id": "20260122-10",
+        "date": "20260122",
+        "rank": 10,
+        "name": "다이어트학교 소음 지압 리압스텝퍼 + 에어 펌프 + 공기제거 핀",
+        "price": 34400,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2024/06/20/12/6/c9b96f6b-00cf-4d26-bf30-6f1a62012ed7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910532479"
+    },
+    {
         "id": "20260121-01",
         "date": "20260121",
         "rank": 1,
