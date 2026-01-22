@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260123-01",
+        "date": "20260123",
+        "rank": 1,
+        "name": "2080 퓨어치약 핑크마일드민트향",
+        "price": 8750,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/1842737200743764-732d396e-3133-4196-b15d-063b78dfbf57.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=84025689"
+    },
+    {
+        "id": "20260123-02",
+        "date": "20260123",
+        "rank": 2,
+        "name": "Apple USB-C 커넥터 EarPods",
+        "price": 25000,
+        "image_url": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/f4ad/0b8783dc665eaa6b7088efd8152d14d08f51878a3a5bb80b1eb67a60a775.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8300107736"
+    },
+    {
+        "id": "20260123-03",
+        "date": "20260123",
+        "rank": 3,
+        "name": "스너글 섬유유연제 블루스파클 플러스 리필",
+        "price": 12630,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/1072834815350089-981380da-3b3d-472b-8c85-545f8a46c186.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757704253"
+    },
+    {
+        "id": "20260123-04",
+        "date": "20260123",
+        "rank": 4,
+        "name": "곰곰 베트남 고운 고춧가루 매운맛",
+        "price": 4140,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/191512588692504-0ecf0d9c-f80e-4694-a68b-b0f7db3a25b1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8106639854"
+    },
+    {
+        "id": "20260123-05",
+        "date": "20260123",
+        "rank": 5,
+        "name": "나이키 줌 하이퍼스피드 코트 배구화 DJ4476-170",
+        "price": 129000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2024/08/07/16/4/61733273-25c4-4e0e-9104-3e524bcb35b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7335062601"
+    },
+    {
+        "id": "20260123-06",
+        "date": "20260123",
+        "rank": 6,
+        "name": "루이까또즈 여성용 숄더백 HS4SD91",
+        "price": 169900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/12/23/12/1/a8c1ba1b-5fbd-4137-925b-a5ba4cea7b77.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9228900056"
+    },
+    {
+        "id": "20260123-07",
+        "date": "20260123",
+        "rank": 7,
+        "name": "한울 촉촉 고구마 스틱",
+        "price": 18900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/180458637308376-25aff1af-03a4-45b4-9afc-22cac28e1865.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1082876317"
+    },
+    {
+        "id": "20260123-08",
+        "date": "20260123",
+        "rank": 8,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 22600,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260123-09",
+        "date": "20260123",
+        "rank": 9,
+        "name": "니가드키즈 4 프리미엄 카시트 발판 발받침대",
+        "price": 71300,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/1467830825458019-ba9d2ac9-5dd4-4071-a79a-77834cfde56d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=133131416"
+    },
+    {
+        "id": "20260123-10",
+        "date": "20260123",
+        "rank": 10,
+        "name": "미니막스 정글 멀티비타민 미네랄",
+        "price": 33690,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/441109161864666-36d6caf9-ba43-4f6d-b088-5dcf5c3a7a33.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7121722339"
+    },
+    {
         "id": "20260122-01",
         "date": "20260122",
         "rank": 1,
