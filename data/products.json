@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260124-01",
+        "date": "20260124",
+        "rank": 1,
+        "name": "비트 드럼용 액상세제  본품",
+        "price": 30000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/64186985635334-febf7661-50cd-4ad3-b775-45af45a9ba11.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=159696"
+    },
+    {
+        "id": "20260124-02",
+        "date": "20260124",
+        "rank": 2,
+        "name": "투에스리빙 사무용 푹신한 컴퓨터 의자",
+        "price": 45800,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/0a8b/216225f0cb01ecf3de45e5c48f9754d9e2301b8f44f04fe3264e4ccc05dd.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8322787236"
+    },
+    {
+        "id": "20260124-03",
+        "date": "20260124",
+        "rank": 3,
+        "name": "2026년 프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 279900,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260124-04",
+        "date": "20260124",
+        "rank": 4,
+        "name": "행복미트 갈비탕용 등갈비 5cm절단 호주산 목초육 청정우",
+        "price": 30940,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/92d9/cd55817239265ba95e22944897261274b53541d5f36c5279813608134afe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261506323"
+    },
+    {
+        "id": "20260124-05",
+        "date": "20260124",
+        "rank": 5,
+        "name": "스위치 슬림 브리프케이스 001",
+        "price": 104000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2305742981334023-873cc7d4-2306-44db-964b-ca0238a0b80f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8492653278"
+    },
+    {
+        "id": "20260124-06",
+        "date": "20260124",
+        "rank": 6,
+        "name": "스카치 포장용 테이프 3650 48mm x 50m 8p + 디스펜서 세트",
+        "price": 13400,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/4331285474616447-b537b44a-0fb1-4377-a251-3bf1338d50b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6870672615"
+    },
+    {
+        "id": "20260124-07",
+        "date": "20260124",
+        "rank": 7,
+        "name": "밴프 자충 에어매트 8T",
+        "price": 32800,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/151267161633746-be8dd6a4-4ad8-4805-9521-ac5d7f10812a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7706872899"
+    },
+    {
+        "id": "20260124-08",
+        "date": "20260124",
+        "rank": 8,
+        "name": "국내산 울팜 남해 해풍노지 시금치",
+        "price": 10900,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/492f/ecfd081e6416e34cd77137f17ebccc9699556c88c5bb3558f51735d403d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9237207000"
+    },
+    {
+        "id": "20260124-09",
+        "date": "20260124",
+        "rank": 9,
+        "name": "아우구스티누스바더 더 틴티드 립밤",
+        "price": 60450,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2025/08/04/17/8/e9443629-d90c-4bac-8c75-267c15cec7ef.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8966540418"
+    },
+    {
+        "id": "20260124-10",
+        "date": "20260124",
+        "rank": 10,
+        "name": "[로켓프레시] 다복 당도선별 나주배",
+        "price": 20990,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/soo0muwd/492fe09921684c1ba6290c07b30ce94e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9039289343"
+    },
+    {
         "id": "20260123-01",
         "date": "20260123",
         "rank": 1,
