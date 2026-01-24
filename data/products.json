@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260125-01",
+        "date": "20260125",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 19400,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/491160655625651-74fe91fe-0f6d-42c1-b830-d6c75e8a8b52.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260125-02",
+        "date": "20260125",
+        "rank": 2,
+        "name": "부케가르니 딥 클린 초고농축 캡슐세제",
+        "price": 11900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/63243553069423-6dc9da71-5455-46bd-a2d7-33c00c3a188f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7871650750"
+    },
+    {
+        "id": "20260125-03",
+        "date": "20260125",
+        "rank": 3,
+        "name": "포카리스웨트 무라벨",
+        "price": 14920,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/419385647338911-86003985-7e85-4193-975e-acd880c1fa7e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544933292"
+    },
+    {
+        "id": "20260125-04",
+        "date": "20260125",
+        "rank": 4,
+        "name": "아이깨끗해 순 핸드워시 파우더향 리필용",
+        "price": 19700,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/943976918757108-379f34b2-ab8d-426d-9172-13a692f83766.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8802041287"
+    },
+    {
+        "id": "20260125-05",
+        "date": "20260125",
+        "rank": 5,
+        "name": "행복미트 돼지 통목살 부드럽고 맛좋은 왕목살 목전지 수욕 찜 국거리용",
+        "price": 23900,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/33ce/64274c16120f065835992723746dde45b60134b1a45c2d37fa5710107755.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8147985725"
+    },
+    {
+        "id": "20260125-06",
+        "date": "20260125",
+        "rank": 6,
+        "name": "[모던하우스] ON 바람막이 패딩 3중방한 3도씨커튼 1장",
+        "price": 25900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/7efb/68b02ad9a01b6572638ed5c14e08f695e2db01898768827c6b89ba993e53.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6115104906"
+    },
+    {
+        "id": "20260125-07",
+        "date": "20260125",
+        "rank": 7,
+        "name": "네오플램 인덕션 대니쉬 냄비세트 3종",
+        "price": 117900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/967763576768803-6bb9dc13-45dc-4b8e-be4c-0fb42095cf2d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9316353848"
+    },
+    {
+        "id": "20260125-08",
+        "date": "20260125",
+        "rank": 8,
+        "name": "[로켓프레시] 쉐프스토리 갓성비 핫도그 (냉동)",
+        "price": 9900,
+        "image_url": "https://img3c.coupangcdn.com/image/rs_quotation_api/nr5cbb38/621e231b80694ecca59810550519e24e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8816166931"
+    },
+    {
+        "id": "20260125-09",
+        "date": "20260125",
+        "rank": 9,
+        "name": "산리오캐릭터즈 뜯어 만들기: 소꿉놀이 하우스",
+        "price": 11440,
+        "image_url": "https://image12.coupangcdn.com/image/1025_amir_coupang_oct_80k/a96e/1b07159a629e669274f82d87a28499d1f3588695f47ef94f7121d0b8d882.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8128594196"
+    },
+    {
+        "id": "20260125-10",
+        "date": "20260125",
+        "rank": 10,
+        "name": "리큐 진한겔 하이브리드 일반용 액상세제 리필",
+        "price": 18900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6616908158"
+    },
+    {
         "id": "20260124-01",
         "date": "20260124",
         "rank": 1,
