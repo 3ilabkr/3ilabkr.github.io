@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260126-01",
+        "date": "20260126",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260126-02",
+        "date": "20260126",
+        "rank": 2,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260126-03",
+        "date": "20260126",
+        "rank": 3,
+        "name": "액츠 퍼펙트 실내건조 액상세제 본품",
+        "price": 9900,
+        "image_url": "https://image4.coupangcdn.com/image/1025_amir_coupang_oct_80k/0829/260d17d59cc0cb5ffd9c1525ab37a6aea82ea05f5a09b047c32c7a1ebe16.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7353339051"
+    },
+    {
+        "id": "20260126-04",
+        "date": "20260126",
+        "rank": 4,
+        "name": "헤트라스 프리미엄 대용량 디퓨저",
+        "price": 25800,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/05/13/14/6/50d470c2-d755-4bbe-ae03-ab17926b85dd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6991217590"
+    },
+    {
+        "id": "20260126-05",
+        "date": "20260126",
+        "rank": 5,
+        "name": "쁘리엘르 유어메이트 항균 워싱 세미마이크로 차렵이불 세트",
+        "price": 51900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/30992292758650-4d1e7c12-1af1-40ed-9b84-5431d685a822.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7776267040"
+    },
+    {
+        "id": "20260126-06",
+        "date": "20260126",
+        "rank": 6,
+        "name": "베네통 여성용 심볼 로고 장목 양말 5종 세트",
+        "price": 16500,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2025/09/08/11/0/64f56b96-a2b0-4a5e-8e9c-0ebbacf7f996.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8700735203"
+    },
+    {
+        "id": "20260126-07",
+        "date": "20260126",
+        "rank": 7,
+        "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈",
+        "price": 8810,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/67558851664189-c0ce92d3-9e30-4cb5-9d64-a8453707f263.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8609013279"
+    },
+    {
+        "id": "20260126-08",
+        "date": "20260126",
+        "rank": 8,
+        "name": "레이윙 디스커버리 접이식 전기자전거 ENTRY-F14E-5",
+        "price": 489000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2024/07/25/14/9/e299f832-0089-4aa4-a1ff-008f80d164b7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253742076"
+    },
+    {
+        "id": "20260126-09",
+        "date": "20260126",
+        "rank": 9,
+        "name": "생활백서 암막커튼 올인원 세트 ver 4",
+        "price": 44900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2031393669944540-4343b4c2-851c-4d40-a13f-a1fe7454d932.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6472952479"
+    },
+    {
+        "id": "20260126-10",
+        "date": "20260126",
+        "rank": 10,
+        "name": "뷰티풀데코센스 생화 프리저브드 꽃다발 + 쇼핑백",
+        "price": 26900,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/879b/48a994c82a4cfec5222cd5705cc55ac426dc1e51c6b8c75eaa70e4dc482e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7501506065"
+    },
+    {
         "id": "20260125-01",
         "date": "20260125",
         "rank": 1,
