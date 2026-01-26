@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260127-01",
+        "date": "20260127",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 12900,
+        "image_url": "https://image9.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260127-02",
+        "date": "20260127",
+        "rank": 2,
+        "name": "세노비스 트리플러스 3in1 프리미엄 멀티비타민",
+        "price": 39200,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/958093856363818-1b1466e4-330f-45a7-8934-226e0ad08e3c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8204162643"
+    },
+    {
+        "id": "20260127-03",
+        "date": "20260127",
+        "rank": 3,
+        "name": "리큐 진한겔 하이브리드 드럼세탁기용 액상세제 리필",
+        "price": 18900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/4180078129401006-76d1ae19-f0bc-4ea4-88fa-d0a089ba538a.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235489530"
+    },
+    {
+        "id": "20260127-04",
+        "date": "20260127",
+        "rank": 4,
+        "name": "2080 슈퍼클린 초극세모 칫솔",
+        "price": 14900,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/4475/a452fdfbad3c0f3df76ef365f9e074944249c2a218ca18fa448ae7f5a581.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7582017945"
+    },
+    {
+        "id": "20260127-05",
+        "date": "20260127",
+        "rank": 5,
+        "name": "테크 베이킹소다 플러스 구연산 실내건조 액체세제 리필",
+        "price": 19900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/66036864223445-e2044035-2615-458b-ba24-982848534adb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7825605298"
+    },
+    {
+        "id": "20260127-06",
+        "date": "20260127",
+        "rank": 6,
+        "name": "도브 센스티브 뷰티 바 비누 무향",
+        "price": 12300,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2025/02/13/17/5/ddc1e96b-3a51-4ff4-a9b0-5c6687378a3a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6526221792"
+    },
+    {
+        "id": "20260127-07",
+        "date": "20260127",
+        "rank": 7,
+        "name": "바세린 프로텍팅 젤리 멀티밤",
+        "price": 8290,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/95008265290425-181be482-2096-4da2-aacc-4f1734c9f88b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4310015590"
+    },
+    {
+        "id": "20260127-08",
+        "date": "20260127",
+        "rank": 8,
+        "name": "부케가르니 딥퍼퓸 섬유유연제 화이트머스크향 리필",
+        "price": 14900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/147716021078148-1a64400f-fb95-47ae-9f31-de42ecef319e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660179971"
+    },
+    {
+        "id": "20260127-09",
+        "date": "20260127",
+        "rank": 9,
+        "name": "아브카 아토 저자극 시카 가려움 케어 로션",
+        "price": 7900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/9e90/f31b91abdb5a33939dd58cba10a37aa132b4028cab996ee7aa606fe14352.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8513740623"
+    },
+    {
+        "id": "20260127-10",
+        "date": "20260127",
+        "rank": 10,
+        "name": "슈퍼대디 유아용 미피 해피스쿨 물티슈 엠보싱 캡형",
+        "price": 15900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/2e11/c8de56acddda41b261b244e7efa22f7610bb312a33987f4ebf4add3aed0c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7927986611"
+    },
+    {
         "id": "20260126-01",
         "date": "20260126",
         "rank": 1,
