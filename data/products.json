@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260128-01",
+        "date": "20260128",
+        "rank": 1,
+        "name": "가그린 제로 구강청결제",
+        "price": 13560,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260128-02",
+        "date": "20260128",
+        "rank": 2,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 16140,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/94761968167687-71f42b05-dc5e-4c35-8b00-fceda1c2809a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20260128-03",
+        "date": "20260128",
+        "rank": 3,
+        "name": "라뽐므 마들렌 차렵이불",
+        "price": 25900,
+        "image_url": "https://image10.coupangcdn.com/image/rs_quotation_api/wjlbmqwt/33ba6b46e5984c8f9574758ad9264bf6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6528326412"
+    },
+    {
+        "id": "20260128-04",
+        "date": "20260128",
+        "rank": 4,
+        "name": "르엘라 BLDC 미용실 헤어 드라이기",
+        "price": 58800,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/9ab6/612d87d45360aede0e592c09e488f648902269c7114f87788ebf6da8167a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8642154764"
+    },
+    {
+        "id": "20260128-05",
+        "date": "20260128",
+        "rank": 5,
+        "name": "2025년형 프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 94900,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/662a/c4d429d76192d4dba32a871d25dd80cc3c76e6b4b57d9e7c53345c469347.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260128-06",
+        "date": "20260128",
+        "rank": 6,
+        "name": "[로켓프레시] 효성어묵 부산옛날어묵 종합 (냉동)",
+        "price": 8000,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/z5d49ujj/f031e83369fc4e12abaf31c8b06deb8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7759434526"
+    },
+    {
+        "id": "20260128-07",
+        "date": "20260128",
+        "rank": 7,
+        "name": "베네통 데일리 랩탑 백팩",
+        "price": 58000,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/fbln6nb9/16aa5219127940aeace83fd7cd29b2da.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8709610613"
+    },
+    {
+        "id": "20260128-08",
+        "date": "20260128",
+        "rank": 8,
+        "name": "풀무원샘물 무라벨 생수",
+        "price": 10240,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/93285627029423-d55492e6-8566-4d29-8d8e-f40bea5a8a13.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6239512369"
+    },
+    {
+        "id": "20260128-09",
+        "date": "20260128",
+        "rank": 9,
+        "name": "맞춤법 박사가 되는 초등 필수 맞춤법 따라쓰기 전 2권 세트",
+        "price": 13720,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/ce96/e5b02a57bfccd1fcc300f2222a7e13cc43ceb356eda0990560acc5888110.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1494279598"
+    },
+    {
+        "id": "20260128-10",
+        "date": "20260128",
+        "rank": 10,
+        "name": "듀플렉스 유리 전기포트",
+        "price": 21300,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/61e1/3a608177e2e1b0e8668f25b72de7995f2a3bc04a8035d5cc5977200cd512.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8137206381"
+    },
+    {
         "id": "20260127-01",
         "date": "20260127",
         "rank": 1,
