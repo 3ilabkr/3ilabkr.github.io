@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260129-01",
+        "date": "20260129",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/117770274866378-f2423e3f-70de-43ca-8c8f-5de45ffc6def.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260129-02",
+        "date": "20260129",
+        "rank": 2,
+        "name": "코카콜라 제로",
+        "price": 16080,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/23103282589396-86aa575a-80ec-4486-8ab7-a381c556474a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260129-03",
+        "date": "20260129",
+        "rank": 3,
+        "name": "ELLE PARIS PDRN 콜라겐 녹는실 탄력 앰플",
+        "price": 9990,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/69213555188033-23b067a6-1117-4cd6-9164-fb7af6731625.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391282858"
+    },
+    {
+        "id": "20260129-04",
+        "date": "20260129",
+        "rank": 4,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 130310,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/036c/f514aee9a938c5ba622a7827ab173d8d1949dd4b11cf7af0b17c82676bcb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758565034"
+    },
+    {
+        "id": "20260129-05",
+        "date": "20260129",
+        "rank": 5,
+        "name": "먹는샘물산수 에브리데이 산수 무라벨",
+        "price": 8750,
+        "image_url": "https://image4.coupangcdn.com/image/1025_amir_coupang_oct_80k/f895/6a7307dd9f6ec1c7856735e7f3da081196cd32fcfe7e9ab31e2c109257ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771829605"
+    },
+    {
+        "id": "20260129-06",
+        "date": "20260129",
+        "rank": 6,
+        "name": "청정원 토마토 스파게티소스",
+        "price": 12240,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/945804703908908-adc22565-460e-4f6c-85ec-281fa92d202a.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7679648178"
+    },
+    {
+        "id": "20260129-07",
+        "date": "20260129",
+        "rank": 7,
+        "name": "스맥스코리아 풀카본 초경량 배드민턴 라켓 68g",
+        "price": 38250,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/36044814920674-10f9a5be-abb4-4f5c-aeb4-8bf9fe483fc2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7635131931"
+    },
+    {
+        "id": "20260129-08",
+        "date": "20260129",
+        "rank": 8,
+        "name": "한일의료기 탄소매트 EMF 전자파없는 원적외선 무자극 아토피케어 카본 전기 매트 전기요 전기장판",
+        "price": 138000,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/30ab/716fe63f47e9067de08610b48945868f80d3057852589e561e168fdbe427.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9037015743"
+    },
+    {
+        "id": "20260129-09",
+        "date": "20260129",
+        "rank": 9,
+        "name": "줌 베이직 베이킹소다 담은 액체 세탁세제 본품",
+        "price": 10890,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/1077506870917173-e308d857-1fdc-44ac-9ef7-776dc57b277d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=181981575"
+    },
+    {
+        "id": "20260129-10",
+        "date": "20260129",
+        "rank": 10,
+        "name": "Hisense 4K ULED Mini LED 스마트TV",
+        "price": 1398600,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/327080453814462-4d02f114-39cd-4d53-a007-808efbd97181.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8333895328"
+    },
+    {
         "id": "20260128-01",
         "date": "20260128",
         "rank": 1,
