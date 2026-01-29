@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260130-01",
+        "date": "20260130",
+        "rank": 1,
+        "name": "마이밀 정품 뉴프로틴 고소한맛",
+        "price": 65900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/60196325275947-60de8422-5657-47a7-9f76-630c6405a017.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6813646287"
+    },
+    {
+        "id": "20260130-02",
+        "date": "20260130",
+        "rank": 2,
+        "name": "데보코 통세탁 사계절 침대 토퍼 매트리스",
+        "price": 24600,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/gu2paotm/a5c02577f1854d35a2dbf9fa143ef16e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8304501179"
+    },
+    {
+        "id": "20260130-03",
+        "date": "20260130",
+        "rank": 3,
+        "name": "Kipnos 행거 이동식행거 스탠드 옷걸이행거 이동식 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 27100,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/0c00/6f28255682d940e83e55df40c487035a7bcf054a2f98a2b9267ef5d3f182.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8817531233"
+    },
+    {
+        "id": "20260130-04",
+        "date": "20260130",
+        "rank": 4,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 59800,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/0ff9/6890f59f89702251e9855eb8cf256e14afc31284ae9fdf22cd3b441f4485.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20260130-05",
+        "date": "20260130",
+        "rank": 5,
+        "name": "르엘라 저소음 초음파 미니가습기",
+        "price": 21910,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/100c/153d440601be224c7d4bcd630f3eeaf2c7bbe9b66217f7adc6efcb7e00ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9174216794"
+    },
+    {
+        "id": "20260130-06",
+        "date": "20260130",
+        "rank": 6,
+        "name": "쁘리엘르 제이드2 아일렛 암막 커튼 2장",
+        "price": 19800,
+        "image_url": "https://img5a.coupangcdn.com/image/rs_quotation_api/9gajpcye/db5621a9137f47e6a649e0bc82c6b864.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8364222134"
+    },
+    {
+        "id": "20260130-07",
+        "date": "20260130",
+        "rank": 7,
+        "name": "푸마 남성용 맨체스터 시티 윈터 자켓 77755312",
+        "price": 99000,
+        "image_url": "https://img2c.coupangcdn.com/image/rs_quotation_api/52fboel5/763f6e4deae245afa504051c044ae394.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9050477061"
+    },
+    {
+        "id": "20260130-08",
+        "date": "20260130",
+        "rank": 8,
+        "name": "크리넥스 99 플러스 핸드워시 리필 허브파우더",
+        "price": 12820,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/34c4/8643f4923a2430c012cb60fad6462716375bd60c2ed5cd8c632a587ea685.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6344669572"
+    },
+    {
+        "id": "20260130-09",
+        "date": "20260130",
+        "rank": 9,
+        "name": "신형 무선 진공청소기 차이슨 46KPA 강력 흡력 60분 장시간 사용 다기능 액세서리 구성",
+        "price": 114560,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/ec3c/75f453d8d9fdc6b85e16a15e6a9ccf5e71006affa51dc7aeb4e11ab035db.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8974056437"
+    },
+    {
+        "id": "20260130-10",
+        "date": "20260130",
+        "rank": 10,
+        "name": "마이노멀 알룰로스",
+        "price": 14230,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/07/09/14/1/73c50ac0-3ac2-451e-9f72-8c6abfbd3525.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1198717200"
+    },
+    {
         "id": "20260129-01",
         "date": "20260129",
         "rank": 1,
