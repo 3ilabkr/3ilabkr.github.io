@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260201-01",
+        "date": "20260201",
+        "rank": 1,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11990,
+        "image_url": "https://img2c.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260201-02",
+        "date": "20260201",
+        "rank": 2,
+        "name": "닥터린 초임계 알티지 오메가3 알파 30.21g",
+        "price": 29600,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2025/12/08/15/5/dcc952a5-160f-4854-b81e-84d6e7e65ba1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8230302231"
+    },
+    {
+        "id": "20260201-03",
+        "date": "20260201",
+        "rank": 3,
+        "name": "하림 치킨너겟 (냉동)",
+        "price": 12310,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/874879245005147-0d71026b-1d2d-4c2b-9228-fccd444be4b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4567751809"
+    },
+    {
+        "id": "20260201-04",
+        "date": "20260201",
+        "rank": 4,
+        "name": "비피아이스포츠 아이소 HD 퓨어 아이솔레이트 프로틴 초콜릿 브라우니",
+        "price": 65740,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/8c75/88f32b3dfb87fb4ecea31ed432c1a14524761d4083f46061ba48a791f571.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6573823331"
+    },
+    {
+        "id": "20260201-05",
+        "date": "20260201",
+        "rank": 5,
+        "name": "곰곰 리얼 100% 땅콩버터 스무스",
+        "price": 5450,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/15220182645792-1ba9ed54-3c9a-44bb-ac3a-af9478bd6f07.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8674836892"
+    },
+    {
+        "id": "20260201-06",
+        "date": "20260201",
+        "rank": 6,
+        "name": "오야니 여성용 테일러 미니 크로스바디 백 OCSBCB08",
+        "price": 99900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/254678453321913-bbc57f82-0d60-432b-a7d1-9835e4df4f24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8882709715"
+    },
+    {
+        "id": "20260201-07",
+        "date": "20260201",
+        "rank": 7,
+        "name": "네파키즈 아동용 스칼라 러닝 슈즈 KLG7607",
+        "price": 56900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/58911544799373-1f840fcf-14f8-4382-a1e0-9fc00ba684c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8642306397"
+    },
+    {
+        "id": "20260201-08",
+        "date": "20260201",
+        "rank": 8,
+        "name": "롯데웰푸드 크런키볼",
+        "price": 12900,
+        "image_url": "https://image7.coupangcdn.com/image/product/image/vendoritem/2017/11/21/3071855062/c7e18298-f649-4486-83bb-0acc1c07faeb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8287385251"
+    },
+    {
+        "id": "20260201-09",
+        "date": "20260201",
+        "rank": 9,
+        "name": "까사니 인덕션 쿠치나 멀티팟 냄비 4.3L",
+        "price": 30000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/110337044539427-c591bed9-880c-49f7-86c1-31586e8e6dd6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5347363309"
+    },
+    {
+        "id": "20260201-10",
+        "date": "20260201",
+        "rank": 10,
+        "name": "비오비타 배배 골드 유산균",
+        "price": 48000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/40167227530177-f6d85468-9997-4e24-ae4a-2a82957ced1f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660924794"
+    },
+    {
         "id": "20260131-01",
         "date": "20260131",
         "rank": 1,
