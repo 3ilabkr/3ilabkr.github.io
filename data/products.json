@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260203-01",
+        "date": "20260203",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260203-02",
+        "date": "20260203",
+        "rank": 2,
+        "name": "Bebeen 120 영유아물티슈 캡형",
+        "price": 12300,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260203-03",
+        "date": "20260203",
+        "rank": 3,
+        "name": "바이탈 플랜트 인덕션 뉴오리지널 롤팬 그레이",
+        "price": 119800,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/311842535806587-16613cc6-7376-4fb9-82cf-0791a12f08b1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8266336555"
+    },
+    {
+        "id": "20260203-04",
+        "date": "20260203",
+        "rank": 4,
+        "name": "크리넥스 안심 3겹 키친타올",
+        "price": 14900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/140933971829284-243c469f-6291-447f-887d-7345c66c3259.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8425779247"
+    },
+    {
+        "id": "20260203-05",
+        "date": "20260203",
+        "rank": 5,
+        "name": "포트메리온 오발 그라탕 접시",
+        "price": 40900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/13719909716657-c9070c7a-b9a7-4c4c-9227-5d67066af0c6.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8446820394"
+    },
+    {
+        "id": "20260203-06",
+        "date": "20260203",
+        "rank": 6,
+        "name": "해피데이 [국내생산] 따뜻해 포켓형 핫팩 100g",
+        "price": 20800,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/c56e/3cebbd348903d2efa480cc1d0bf1cb7600c6604dced65602f73961dff9bc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9032104227"
+    },
+    {
+        "id": "20260203-07",
+        "date": "20260203",
+        "rank": 7,
+        "name": "[로켓프레시] 떡미당 두바이 초코 찹쌀떡 (냉동)",
+        "price": 13400,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/127595604200168-33d90a10-0731-4c3a-b96e-d8a226c9a874.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8584790719"
+    },
+    {
+        "id": "20260203-08",
+        "date": "20260203",
+        "rank": 8,
+        "name": "[모던하우스] ON마리 이중레이스 암막커튼 2장세트 2color 2size",
+        "price": 59900,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/gqs7mjyu/19886c2193a4429bb2e943266c026e0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7104943027"
+    },
+    {
+        "id": "20260203-09",
+        "date": "20260203",
+        "rank": 9,
+        "name": "네파키즈 HYPE 23 운동화 KLGEC60",
+        "price": 49800,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/624423100469676-98fd0e77-c4da-40fb-9574-d9fbaf1f471f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8986990486"
+    },
+    {
+        "id": "20260203-10",
+        "date": "20260203",
+        "rank": 10,
+        "name": "닥터자르트 세라마이딘 스킨 베리어 모이스처라이징 크림",
+        "price": 43100,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/13921927650690-b57ab373-8018-421b-9a74-4b894c766117.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7762632860"
+    },
+    {
         "id": "20260202-01",
         "date": "20260202",
         "rank": 1,
