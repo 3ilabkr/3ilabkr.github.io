@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260204-01",
+        "date": "20260204",
+        "rank": 1,
+        "name": "퍼실 라벤더젤 플러스 드럼용 액상세제 리필",
+        "price": 14000,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/159584257506068-59202014-2351-4623-b49d-fea48d5e2afc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8505512562"
+    },
+    {
+        "id": "20260204-02",
+        "date": "20260204",
+        "rank": 2,
+        "name": "다우니 퍼퓸 쥬얼 에메랄드 브리즈 향기부스터",
+        "price": 28200,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/418698527131169-dad6b8e0-4a6e-4fb1-b07d-01f9349b8213.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7119749377"
+    },
+    {
+        "id": "20260204-03",
+        "date": "20260204",
+        "rank": 3,
+        "name": "청정원 행복 6호 세트 + 쇼핑백",
+        "price": 21630,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2025/08/12/15/8/a080ea98-4bf4-4bbd-99c8-571fb1a61cb2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8985016799"
+    },
+    {
+        "id": "20260204-04",
+        "date": "20260204",
+        "rank": 4,
+        "name": "Ruesious 투명 플라스틱 신발 정리함 아크릴 신발 케이스",
+        "price": 37000,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/0f82/17f7d62426b82aa3e16040e5b1c2fb11dcb77598ea4482cc2ff17bb8104c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8192588207"
+    },
+    {
+        "id": "20260204-05",
+        "date": "20260204",
+        "rank": 5,
+        "name": "Novatech S1 창문 로봇청소기 5800Pa 초강흡입력 자동 분수 유리창 로봇청소기 초슬림 창문 청소기",
+        "price": 149000,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/b20b/868c70df9d18707b6de53e6c8f8b4f7480fd0d7d59f1cd77541d49130105.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9204971165"
+    },
+    {
+        "id": "20260204-06",
+        "date": "20260204",
+        "rank": 6,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 96000,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/d3c0/2bd5419410aad227a01a3df7705bc678a8c4d63b163ee741ffe9a8a702d9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
+        "id": "20260204-07",
+        "date": "20260204",
+        "rank": 7,
+        "name": "네파키즈 주메로 운동화 KLGEC57",
+        "price": 51900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/624415018756025-d7fbd391-45fa-4f36-a0bd-698fb484231c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8982857611"
+    },
+    {
+        "id": "20260204-08",
+        "date": "20260204",
+        "rank": 8,
+        "name": "천지인 홍삼정 예작 + 쇼핑백",
+        "price": 79900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/624796672982629-cc9dedec-2e0f-4c73-832b-c710f0f32103.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7283606228"
+    },
+    {
+        "id": "20260204-09",
+        "date": "20260204",
+        "rank": 9,
+        "name": "TS 대용량 지디 샴푸 포걸 핑크 복숭아향",
+        "price": 25580,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/03/06/15/3/bde0a7ed-ebe3-4ea3-b86e-81c1d715585a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8201134637"
+    },
+    {
+        "id": "20260204-10",
+        "date": "20260204",
+        "rank": 10,
+        "name": "네이처리퍼블릭 쉐어버터 모이스트 스팀 크림 중건성용",
+        "price": 12470,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/354994998221021-81b5d3c3-8877-49b7-9e17-4522c6178e7d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7749161821"
+    },
+    {
         "id": "20260203-01",
         "date": "20260203",
         "rank": 1,
