@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260205-01",
+        "date": "20260205",
+        "rank": 1,
+        "name": "르샤트라1802 인퓨전 초고농축 섬유유연제 피오니부케향 본품",
+        "price": 20800,
+        "image_url": "https://image3.coupangcdn.com/image/1025_amir_coupang_oct_80k/ff8a/c3f4a6c454da67b60a4e10c816ea365a79807b9ffbe5c1101416acce82ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8367276124"
+    },
+    {
+        "id": "20260205-02",
+        "date": "20260205",
+        "rank": 2,
+        "name": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐",
+        "price": 43390,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/image_audit/prod/268246bc-4b00-41ac-9fde-689cdf82333e_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=202217052"
+    },
+    {
+        "id": "20260205-03",
+        "date": "20260205",
+        "rank": 3,
+        "name": "공간27 스킵피티 두뇌트레이닝게임",
+        "price": 29250,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/678409121209904-684befec-c57b-449d-b243-03c223630cf1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8176854323"
+    },
+    {
+        "id": "20260205-04",
+        "date": "20260205",
+        "rank": 4,
+        "name": "쿠쿠 스피드팟 멀티쿠커",
+        "price": 73420,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/1fa2/37b86d39c9c61491879eb498ef20bff7447eb298a5533a806858719ee514.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5547523965"
+    },
+    {
+        "id": "20260205-05",
+        "date": "20260205",
+        "rank": 5,
+        "name": "나우푸드 커큐브레인 400mg 베지 캡슐",
+        "price": 91600,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/3198/234dba261acdfaf70652844e7e377e242c4b8df2b75f8c59083ace25c04a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5335326780"
+    },
+    {
+        "id": "20260205-06",
+        "date": "20260205",
+        "rank": 6,
+        "name": "삼성전자 Bespoke AI 김치플러스 490L 스탠드형 4도어 김치냉장고 방문설치",
+        "price": 1990000,
+        "image_url": "https://img3c.coupangcdn.com/image/rs_quotation_api/sjpclqds/9b378f9e28fb41d7b1453fb9bcde9df5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9066428092"
+    },
+    {
+        "id": "20260205-07",
+        "date": "20260205",
+        "rank": 7,
+        "name": "삼성전자 Bespoke 905L AI 4도어 냉장고 방문설치",
+        "price": 1852880,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2025/03/28/11/4/3aaf337e-a793-4d80-8584-c6767e1c7372.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8734947909"
+    },
+    {
+        "id": "20260205-08",
+        "date": "20260205",
+        "rank": 8,
+        "name": "헤지스 나일론 퍼피 로고 숄더백",
+        "price": 120000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/11/20/14/6/019952ee-79bc-4be5-8587-30b9b398e4d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9198405380"
+    },
+    {
+        "id": "20260205-09",
+        "date": "20260205",
+        "rank": 9,
+        "name": "[로켓프레시] 미국산 우삼겹 바로구이 (냉동)",
+        "price": 22900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/17011765543039-6874b29a-22c2-4c74-8b78-6ea428bc726b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8830008997"
+    },
+    {
+        "id": "20260205-10",
+        "date": "20260205",
+        "rank": 10,
+        "name": "[로켓프레시] 주문진어시장건어물 맛진미 오징어채 (냉동)",
+        "price": 14990,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2022/05/11/13/9/c55dc0b1-e542-4859-bcaa-a1b275244af2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6631700799"
+    },
+    {
         "id": "20260204-01",
         "date": "20260204",
         "rank": 1,
