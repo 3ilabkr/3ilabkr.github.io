@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260206-01",
+        "date": "20260206",
+        "rank": 1,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 14900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260206-02",
+        "date": "20260206",
+        "rank": 2,
+        "name": "코카콜라 제로 무라벨",
+        "price": 22800,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6955197525"
+    },
+    {
+        "id": "20260206-03",
+        "date": "20260206",
+        "rank": 3,
+        "name": "삼성전자 BESPOKE AI 빌트인 열풍건조 식기세척기 14인용",
+        "price": 980000,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2025/03/05/10/9/4a53af70-d32d-44b2-81a1-c6c114ed8252.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631451331"
+    },
+    {
+        "id": "20260206-04",
+        "date": "20260206",
+        "rank": 4,
+        "name": "알뜨리 사계절 3중직 암막 커튼",
+        "price": 22900,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/d4x29th2/9109ef012f184ea2b43e7f2ee7632f56.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1079972454"
+    },
+    {
+        "id": "20260206-05",
+        "date": "20260206",
+        "rank": 5,
+        "name": "스타벅스 카페모먼트 선물세트",
+        "price": 36900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2025/08/28/11/8/4b982a67-6415-4885-9d3b-ec7896619b6f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8996081308"
+    },
+    {
+        "id": "20260206-06",
+        "date": "20260206",
+        "rank": 6,
+        "name": "마스마룰즈 여성용 304 레더 숄더백 + 파우치 세트",
+        "price": 72000,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/536253205444512-91f75d1f-5983-44a8-8d03-789b88a8e889.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9103772713"
+    },
+    {
+        "id": "20260206-07",
+        "date": "20260206",
+        "rank": 7,
+        "name": "크로커다일 남성용 밴딩 무지 중목 아소트 양말 8족 세트 CD282 앤 287",
+        "price": 12900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2025/06/18/11/1/722b3289-3e28-4467-929c-b06fd58e7125.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6819810657"
+    },
+    {
+        "id": "20260206-08",
+        "date": "20260206",
+        "rank": 8,
+        "name": "마더케이 허긴 인텐시브 아토 유아 크림 무향",
+        "price": 14000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/217455642319401-c3f9b023-cc4d-404d-a067-078bf57a5fcd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8300345772"
+    },
+    {
+        "id": "20260206-09",
+        "date": "20260206",
+        "rank": 9,
+        "name": "파로마 에일리 수납 화장대 800 + 원목쿠션스툴 방문설치",
+        "price": 191000,
+        "image_url": "https://image7.coupangcdn.com/image/rs_quotation_api/5lxwked4/8f61c568492b43b39b15a1bbbf23ef76.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7690144260"
+    },
+    {
+        "id": "20260206-10",
+        "date": "20260206",
+        "rank": 10,
+        "name": "미즈노 러쉬 더블 쿠션 단목 양말",
+        "price": 16500,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/5032266503025215-56f4c045-ccf8-4a5c-ac82-f63fd36740f6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6638406272"
+    },
+    {
         "id": "20260205-01",
         "date": "20260205",
         "rank": 1,
