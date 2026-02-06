@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260207-01",
+        "date": "20260207",
+        "rank": 1,
+        "name": "닥터린 하이퍼셀 알티지 오메가3 알파",
+        "price": 42100,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2025/12/08/12/8/5af30df3-2833-4a6a-ab38-fa46f76ae513.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8349288599"
+    },
+    {
+        "id": "20260207-02",
+        "date": "20260207",
+        "rank": 2,
+        "name": "청정원 행복 7호 세트",
+        "price": 56340,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/6eca54c2-f239-4b05-b28a-eb98af81b4b712381265150265794988.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8563683829"
+    },
+    {
+        "id": "20260207-03",
+        "date": "20260207",
+        "rank": 3,
+        "name": "[로켓프레시] 고메 소바바치킨 소이허니 순살 (냉동)",
+        "price": 11960,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/176681838793622-5e05b5a5-0975-40a2-88c7-e7bd06e2e3dc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8262847619"
+    },
+    {
+        "id": "20260207-04",
+        "date": "20260207",
+        "rank": 4,
+        "name": "키루에 의자 사무용의자 컴퓨터의자 책상의자 공부의자 인체공학 메쉬 의자 사무실 회의실 독서실",
+        "price": 43500,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/d65b/df7931155b5a2d1455e93b2b73f077df286579da28ae66d7de2fb2af5fc5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886194377"
+    },
+    {
+        "id": "20260207-05",
+        "date": "20260207",
+        "rank": 5,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 129900,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/9d29/1b9e9f3b49cdab86f87cb06f5323b81fbbd2b6441a3cd4a6180b62558cca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260207-06",
+        "date": "20260207",
+        "rank": 6,
+        "name": "드리미 X50s Pro Master 올인원 로봇청소기",
+        "price": 1990000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2025/11/18/15/1/83f49fb8-4408-4f4b-889b-0fd977934c86.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9194668251"
+    },
+    {
+        "id": "20260207-07",
+        "date": "20260207",
+        "rank": 7,
+        "name": "바세린 힐링 젤리 올-오버 바디 밤 스틱",
+        "price": 11120,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/0dcc/087c5b72493b02b7069be5487aa75ae1a31b64dbfa86c4d8031344557064.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8520321467"
+    },
+    {
+        "id": "20260207-08",
+        "date": "20260207",
+        "rank": 8,
+        "name": "삼성전자 블루스카이 3100 공기청정기 33.1㎡",
+        "price": 219000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/04/10/10/3/9a307cc8-0370-48ff-a58a-1da4da8e44bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8707431315"
+    },
+    {
+        "id": "20260207-09",
+        "date": "20260207",
+        "rank": 9,
+        "name": "SKY 핏 버스트 ANC 노이즈캔슬링 무선충전 TWS 블루투스 5.4 커널형 무선이어폰",
+        "price": 15990,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/93924116589070-f3034710-ac36-4df4-9aea-e783cba27988.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8389972287"
+    },
+    {
+        "id": "20260207-10",
+        "date": "20260207",
+        "rank": 10,
+        "name": "코코리 스피드 압력솥 2인용",
+        "price": 72400,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/1138062645595475-eab63933-e192-4321-aa3a-139834371e83.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7975746216"
+    },
+    {
         "id": "20260206-01",
         "date": "20260206",
         "rank": 1,
