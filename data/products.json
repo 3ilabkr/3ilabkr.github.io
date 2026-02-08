@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260209-01",
+        "date": "20260209",
+        "rank": 1,
+        "name": "동원 튜나리챔 O-48호 + 부직포백 선물세트",
+        "price": 31800,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1549160989570446-8a2bea12-5d55-45e8-a2c4-8dce6a260846.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6303948015"
+    },
+    {
+        "id": "20260209-02",
+        "date": "20260209",
+        "rank": 2,
+        "name": "크리넥스 데코 앤 소프트 수딩플러스 천연펄프 3겹 고급롤화장지",
+        "price": 20050,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/13791393968848-f19acff4-c8cd-47b9-86ba-5a7807253a9e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253356297"
+    },
+    {
+        "id": "20260209-03",
+        "date": "20260209",
+        "rank": 3,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14500,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9359905459"
+    },
+    {
+        "id": "20260209-04",
+        "date": "20260209",
+        "rank": 4,
+        "name": "코멧 오리지널 유아용 아기물티슈 캡형",
+        "price": 10890,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/44344613265746-312dd5ae-8844-4536-80c8-4110a24dd8c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=188227098"
+    },
+    {
+        "id": "20260209-05",
+        "date": "20260209",
+        "rank": 5,
+        "name": "포카리스웨트 무라벨",
+        "price": 15140,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/419385647338911-86003985-7e85-4193-975e-acd880c1fa7e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544933292"
+    },
+    {
+        "id": "20260209-06",
+        "date": "20260209",
+        "rank": 6,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자 학생 사무실의자 공부의자 사무실 회의실 독서실 사무용 컴퓨터 의자 푹신한 메쉬 의자",
+        "price": 73500,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/9d36/64d53b2c96b1e71db5ea47496af49d1f807837fc1886bd331862fa4a7b97.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260209-07",
+        "date": "20260209",
+        "rank": 7,
+        "name": "밀바랩 제주 대나무 모공 타이트닝 앰플 에센스",
+        "price": 15900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/66999854218877-4baf19d4-4642-4438-8679-af79f4d74300.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9063800371"
+    },
+    {
+        "id": "20260209-08",
+        "date": "20260209",
+        "rank": 8,
+        "name": "뷰하우스 루시드 사계절 베이직 암막커튼 실속 커튼봉 세트",
+        "price": 58000,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/bon4ofbn/19ec95fba5de4a9cbc991aabfec9ab99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7683355214"
+    },
+    {
+        "id": "20260209-09",
+        "date": "20260209",
+        "rank": 9,
+        "name": "닥스 악세서리 버킹엄 나일론 크로스백 DCBA6E852BK",
+        "price": 232000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2025/11/28/14/8/12de58f4-4526-40f6-a20c-c9b066d4c46a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9212614051"
+    },
+    {
+        "id": "20260209-10",
+        "date": "20260209",
+        "rank": 10,
+        "name": "[2026년형] NICESUN 차이슨 무선 스틱 청소기 BLDC 모터 30KPa 초강력 흡입력 셀프 스탠딩 다양한 구성품 MS109D",
+        "price": 95900,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/bf0c/0d0502849d3ce5af84ec4b66c2f5734c436513a1a15458c10b694f0f8741.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9126488343"
+    },
+    {
         "id": "20260208-01",
         "date": "20260208",
         "rank": 1,
