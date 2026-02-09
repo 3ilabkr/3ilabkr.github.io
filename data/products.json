@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260210-01",
+        "date": "20260210",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260210-02",
+        "date": "20260210",
+        "rank": 2,
+        "name": "청정원 행복 8호 선물세트",
+        "price": 36000,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2025/08/12/16/9/d88fd736-208c-46d2-a374-376ae921fbcc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7530695899"
+    },
+    {
+        "id": "20260210-03",
+        "date": "20260210",
+        "rank": 3,
+        "name": "투데이넛 너트한줌 패밀리 견과 6종 선물세트 600g",
+        "price": 38500,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/110210876427152-936448ae-2048-4230-9b07-03dec37f9bf4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8239467690"
+    },
+    {
+        "id": "20260210-04",
+        "date": "20260210",
+        "rank": 4,
+        "name": "스너글 섬유유연제 햇빛건조향 허거블 선샤인 본품",
+        "price": 16900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/17612216138383-46ac9b6f-f751-4a57-8106-c63913b92bbc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150772617"
+    },
+    {
+        "id": "20260210-05",
+        "date": "20260210",
+        "rank": 5,
+        "name": "곰곰 리얼 100% 땅콩버터 크런치",
+        "price": 5450,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/14810240411230-72ec444d-e9a1-49a3-b230-2e14b71672c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8674836894"
+    },
+    {
+        "id": "20260210-06",
+        "date": "20260210",
+        "rank": 6,
+        "name": "먹는샘물산수 가벼운샘 무라벨",
+        "price": 7750,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/a19a/e5a13327f306fb9ea2b23ac1d1e456769d3858a5289990f488d3553d53ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8267592020"
+    },
+    {
+        "id": "20260210-07",
+        "date": "20260210",
+        "rank": 7,
+        "name": "코멧 원형 2겹 아크릴 수세미 9개입",
+        "price": 8840,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/89687250764833-557f17c9-769c-4c40-a2aa-3e7adccdfce5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4968755756"
+    },
+    {
+        "id": "20260210-08",
+        "date": "20260210",
+        "rank": 8,
+        "name": "그린모먼트랩 목주름 케어 울플렉스 넥필로우 경추베개",
+        "price": 49000,
+        "image_url": "https://image11.coupangcdn.com/image/rs_quotation_api/sstaklzx/05e6276782d64050a1141072da1306b2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9208915004"
+    },
+    {
+        "id": "20260210-09",
+        "date": "20260210",
+        "rank": 9,
+        "name": "닥스 DD로고 소가죽 카드지갑 + 케이스 동봉",
+        "price": 103550,
+        "image_url": "https://image15.coupangcdn.com/image/rs_quotation_api/9uybkipb/d3cc9977038446e3a3f1fcce9ef1dbf4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7788160512"
+    },
+    {
+        "id": "20260210-10",
+        "date": "20260210",
+        "rank": 10,
+        "name": "탐사 더 두꺼워진 이염방지 먼지흡착 세탁티슈",
+        "price": 6890,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/571768474158581-a1cb8bcb-69b8-4638-a0d3-9220071a38b8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8610784625"
+    },
+    {
         "id": "20260209-01",
         "date": "20260209",
         "rank": 1,
