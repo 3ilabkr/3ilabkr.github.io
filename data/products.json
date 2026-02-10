@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260211-01",
+        "date": "20260211",
+        "rank": 1,
+        "name": "CJ제일제당 스팸 복합 E호 선물세트",
+        "price": 26900,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/image_audit/prod/93ef8033-53d1-4dff-bb3d-83f151a85aa9_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7561476036"
+    },
+    {
+        "id": "20260211-02",
+        "date": "20260211",
+        "rank": 2,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 12900,
+        "image_url": "https://img5a.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260211-03",
+        "date": "20260211",
+        "rank": 3,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 21400,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/e88b/c995889a0ae485a16be33ac09b8d9da69bcd36b0c9f22c84bb6967549a61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20260211-04",
+        "date": "20260211",
+        "rank": 4,
+        "name": "도루코 슬릭 엣지 면도기 세트",
+        "price": 32900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/60549833215084-05f7cd1e-b467-40b3-b549-b88317003b03.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9068725519"
+    },
+    {
+        "id": "20260211-05",
+        "date": "20260211",
+        "rank": 5,
+        "name": "곰곰 김자반",
+        "price": 8490,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/278445172655177-7f460698-c985-4865-9a2c-e0af24fc3846.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328377858"
+    },
+    {
+        "id": "20260211-06",
+        "date": "20260211",
+        "rank": 6,
+        "name": "르번 아동용 슈팅스타 캐치티니핑 알찬 교정 젓가락 세트",
+        "price": 10760,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/1420765431548570-8c8b6590-5bfe-4033-9bba-de39e7ff0a44.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8510760144"
+    },
+    {
+        "id": "20260211-07",
+        "date": "20260211",
+        "rank": 7,
+        "name": "뷰티풀데코센스 생화 프리저브드 꽃다발 + 쇼핑백",
+        "price": 26900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/79d5/5a72d646907144b4726f3c53ac48aa9adc82ef43624b8d9cb85456cd4232.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7501506065"
+    },
+    {
+        "id": "20260211-08",
+        "date": "20260211",
+        "rank": 8,
+        "name": "롯데웰푸드 크런키 초콜릿",
+        "price": 12460,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/17e0/fbd8a68185e665826e4d0ec09fda854dcd6deae06cdd2a2e5406668ce7d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6062899457"
+    },
+    {
+        "id": "20260211-09",
+        "date": "20260211",
+        "rank": 9,
+        "name": "지나홈 여성 기모 라운드 긴팔 티셔츠 2P",
+        "price": 14400,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/fc3c/a0d34569cdfab091727d3f6f2a2f9fc492b1aca50e00ce36814e7cb010cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8418301911"
+    },
+    {
+        "id": "20260211-10",
+        "date": "20260211",
+        "rank": 10,
+        "name": "깨끗한나라 벚꽃 로맨틱 천연펄프 3겹 고급롤화장지",
+        "price": 15630,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2159034107554856-af28941e-245f-4729-acf6-7d36dd5b122f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1207037903"
+    },
+    {
         "id": "20260210-01",
         "date": "20260210",
         "rank": 1,
