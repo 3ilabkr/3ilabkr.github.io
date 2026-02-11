@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260212-01",
+        "date": "20260212",
+        "rank": 1,
+        "name": "종근당 침향환 골드",
+        "price": 58620,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/33305798274524-92acde7d-0396-4c04-8ca3-80c741e172e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8203535204"
+    },
+    {
+        "id": "20260212-02",
+        "date": "20260212",
+        "rank": 2,
+        "name": "동원 참치 O-12호 선물세트 + 쇼핑백",
+        "price": 23000,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/884550612640584-e34c962d-294b-4712-a841-84e532d0f9d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9075589061"
+    },
+    {
+        "id": "20260212-03",
+        "date": "20260212",
+        "rank": 3,
+        "name": "오설록 블루밍 티 기프트 세트",
+        "price": 29390,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/2f9f/01ef72f7a34729324ef1e240191484cdb10f3f6859f0a6dc1afb43acc5a7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8515116261"
+    },
+    {
+        "id": "20260212-04",
+        "date": "20260212",
+        "rank": 4,
+        "name": "일리윤 울트라 리페어 바디로션",
+        "price": 15860,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/1957009326676-89bacc20-56db-4e0c-aae3-6256966f8e8a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=344528374"
+    },
+    {
+        "id": "20260212-05",
+        "date": "20260212",
+        "rank": 5,
+        "name": "미라클 샘물 무라벨",
+        "price": 7490,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/acf6/58c0acb97c4b898dbeb37b96fd06eb4121cdbea0c28e992fcea9fbbe3e6b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9341601738"
+    },
+    {
+        "id": "20260212-06",
+        "date": "20260212",
+        "rank": 6,
+        "name": "생활백서 암막커튼 올인원 세트 ver 4",
+        "price": 44900,
+        "image_url": "https://image9.coupangcdn.com/image/rs_quotation_api/icav2wfp/6190032a15db42628f5229440aefd69b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6472952479"
+    },
+    {
+        "id": "20260212-07",
+        "date": "20260212",
+        "rank": 7,
+        "name": "[색상선택형] LG전자 오브제컬렉션 870L 베이직 상냉장 하냉동 프리스탠딩 4도어 메탈 디오스 냉장고 방문설치",
+        "price": 1900000,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/f1dc/cd252825e4adf69ed2e246d6674139f632bf27a4a1ee05bfeed35b5c5ee8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8476917170"
+    },
+    {
+        "id": "20260212-08",
+        "date": "20260212",
+        "rank": 8,
+        "name": "네오플램피카 인덕션 사각 전골팬 + 다이얼 인덕션 세트 2종",
+        "price": 131000,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/22dd/0c021956872983808755ddd3b827c73c65447f887ae6d4ccddedf6cc6130.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6785266406"
+    },
+    {
+        "id": "20260212-09",
+        "date": "20260212",
+        "rank": 9,
+        "name": "착한구두 여성용 샌더슨 페니 레더 로퍼 LFLTR3e851",
+        "price": 39900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/63005121970665-6c55d0fd-1765-424d-a95d-73fbb34ca193.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6868009336"
+    },
+    {
+        "id": "20260212-10",
+        "date": "20260212",
+        "rank": 10,
+        "name": "스타벅스 카페모먼트 스무스 커피 + 그린 머그 세트",
+        "price": 23900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2025/07/02/10/3/fccff9f5-807f-41b3-b391-b4ee182bca0a.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9032831413"
+    },
+    {
         "id": "20260211-01",
         "date": "20260211",
         "rank": 1,
