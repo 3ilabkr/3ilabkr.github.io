@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260213-01",
+        "date": "20260213",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260213-02",
+        "date": "20260213",
+        "rank": 2,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 15900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/94761968167687-71f42b05-dc5e-4c35-8b00-fceda1c2809a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20260213-03",
+        "date": "20260213",
+        "rank": 3,
+        "name": "ELLE PARIS PDRN 콜라겐 녹는실 탄력 앰플",
+        "price": 9990,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/69213555188033-23b067a6-1117-4cd6-9164-fb7af6731625.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391282858"
+    },
+    {
+        "id": "20260213-04",
+        "date": "20260213",
+        "rank": 4,
+        "name": "닥스 여성용 힐튼 나일론 백팩 DCBA6EC10",
+        "price": 301000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/34003921757531-d088645c-3bad-49ef-a4cf-231e0d3ed851.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9185288315"
+    },
+    {
+        "id": "20260213-05",
+        "date": "20260213",
+        "rank": 5,
+        "name": "2025년형 프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 94900,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/662a/c4d429d76192d4dba32a871d25dd80cc3c76e6b4b57d9e7c53345c469347.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260213-06",
+        "date": "20260213",
+        "rank": 6,
+        "name": "레노버 2025 아이디어패드 슬림 3 15ARP10 라이젠5 라이젠 7000 시리즈",
+        "price": 799000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2025/12/22/11/0/57c44ac3-85c0-4845-ba22-b373f1dae722.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9259849839"
+    },
+    {
+        "id": "20260213-07",
+        "date": "20260213",
+        "rank": 7,
+        "name": "비타할로 석류 콜라겐 스틱 30개입",
+        "price": 23990,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2100593298218333-3daf17c0-e44f-4225-a87e-319b7c1edca0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1848157110"
+    },
+    {
+        "id": "20260213-08",
+        "date": "20260213",
+        "rank": 8,
+        "name": "쿄릭 숙성마늘 추출물 포뮬러 100 카디오베스큘러 타블렛",
+        "price": 58170,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/654b/e38f63bf4097e7ac37157159b6995320ad7759c14869bc70fea93bea66e5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261772411"
+    },
+    {
+        "id": "20260213-09",
+        "date": "20260213",
+        "rank": 9,
+        "name": "로만손 남성용 오디에 뉴 데이트 38 레더 시계 RWTLMM4BF008WHGR0",
+        "price": 249000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/01/23/12/7/66934a82-5c66-4ff4-b6d2-f9b252184e8e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8565517207"
+    },
+    {
+        "id": "20260213-10",
+        "date": "20260213",
+        "rank": 10,
+        "name": "키볼리 한식 파스텔 옻칠 나무 수저 4인 세트",
+        "price": 11600,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/62e5/c1bb6e91506da171d5f8168ea037d9e1e8f5e07fa9310c9fb42028cdc96a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8249828552"
+    },
+    {
         "id": "20260212-01",
         "date": "20260212",
         "rank": 1,
