@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260215-01",
+        "date": "20260215",
+        "rank": 1,
+        "name": "르무통 메이트 발 편한 메리노울 운동화",
+        "price": 118000,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/9245/92445be2b3c5957080967b3959a89e5d40dd7ac17fba6cb35d187aa95f98.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20260215-02",
+        "date": "20260215",
+        "rank": 2,
+        "name": "코카콜라 제로",
+        "price": 19240,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/491160655625651-74fe91fe-0f6d-42c1-b830-d6c75e8a8b52.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260215-03",
+        "date": "20260215",
+        "rank": 3,
+        "name": "나이키 프로 파텔라 밴드 스포츠 무릎아대",
+        "price": 23000,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2024/05/31/9/7/07f7fe97-b0c5-4e72-b842-c086afe635d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8136930121"
+    },
+    {
+        "id": "20260215-04",
+        "date": "20260215",
+        "rank": 4,
+        "name": "레스포색 리사이클드  디럭스 크로스 바디 백 1293.R086",
+        "price": 98170,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/305536698564759-a54816b7-c4c7-4376-be3e-952a98497321.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8463424333"
+    },
+    {
+        "id": "20260215-05",
+        "date": "20260215",
+        "rank": 5,
+        "name": "샤바스 부드러운 플랫 물빠짐 욕실화 2종",
+        "price": 15900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2025/07/17/14/1/ecdc9bad-4087-42f3-aa0e-8ec29a6f28b7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7695015309"
+    },
+    {
+        "id": "20260215-06",
+        "date": "20260215",
+        "rank": 6,
+        "name": "불스원 불스원샷 하이브리드 연료첨가제 가솔린",
+        "price": 15570,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/64922936245375-cf7258ad-6a11-4202-903f-0536c6190b04.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7323153217"
+    },
+    {
+        "id": "20260215-07",
+        "date": "20260215",
+        "rank": 7,
+        "name": "에이플심플 겨울 기모바지 블랙",
+        "price": 10750,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/1ac4/ed42b6529fbef4be3908dc96669968cbb0a0d57007063be6e90e5e2406a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7694166109"
+    },
+    {
+        "id": "20260215-08",
+        "date": "20260215",
+        "rank": 8,
+        "name": "닥터머콜라 리포솜 비타민 C 1000mg 캡슐",
+        "price": 72150,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/cb54/a2041644fd06170164536d33ad0c89a3ce48d8c75baebdacea4c6e26da0a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=983942"
+    },
+    {
+        "id": "20260215-09",
+        "date": "20260215",
+        "rank": 9,
+        "name": "EVLUTIONNUTRITION 웨이 프로틴 바닐라 아이스 크림 맛",
+        "price": 85590,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/1b93/954838fca6775adbbea63d8037c09204683cd3db8a67494f8934cff1dfc8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6422282209"
+    },
+    {
+        "id": "20260215-10",
+        "date": "20260215",
+        "rank": 10,
+        "name": "라입 어드밴스드 2X 아르간오일 헤어에센스",
+        "price": 11920,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/0f79/a80787761edb167baae97a659c39f064ea5a49c7dc2863a5a2d9f2d4dcff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8416670559"
+    },
+    {
         "id": "20260214-01",
         "date": "20260214",
         "rank": 1,
