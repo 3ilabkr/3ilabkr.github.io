@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260216-01",
+        "date": "20260216",
+        "rank": 1,
+        "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 인증",
+        "price": 11690,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/9084091501221-f02120d0-8bf3-41b1-81ab-44740731e905.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=252301180"
+    },
+    {
+        "id": "20260216-02",
+        "date": "20260216",
+        "rank": 2,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11990,
+        "image_url": "https://img5a.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260216-03",
+        "date": "20260216",
+        "rank": 3,
+        "name": "스프라이트 제로 사이다",
+        "price": 15670,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/114758953175362-29e24f15-785d-42ec-a9c7-d4fb85fbca2e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544115940"
+    },
+    {
+        "id": "20260216-04",
+        "date": "20260216",
+        "rank": 4,
+        "name": "나우푸드 메가 D-3 5000 lU & MK-7 180mcg 캡슐",
+        "price": 27330,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/7cd5/31df0d5eddd2e868a575f093f40d31d1a940ee170ac1100ab5668e80d075.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7951161811"
+    },
+    {
+        "id": "20260216-05",
+        "date": "20260216",
+        "rank": 5,
+        "name": "기브앤고 누구나 쉽게 붙이는 암막커튼 + 벨크로 2개",
+        "price": 17220,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/321365651154489-bdb3a2bd-2ab8-4e3b-a8ed-0685adbdb468.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8356313480"
+    },
+    {
+        "id": "20260216-06",
+        "date": "20260216",
+        "rank": 6,
+        "name": "스위치 HELMET BAG Black L",
+        "price": 87000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/12/26/11/1/7c1cf990-0978-4273-9647-1d0e9d1ed1ed.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9268171706"
+    },
+    {
+        "id": "20260216-07",
+        "date": "20260216",
+        "rank": 7,
+        "name": "삼익가구 에클레르 프리미엄 3인용 가죽 소파 + 쿠션 방문설치",
+        "price": 299000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1810272899428441-a470bfff-4e8d-4347-b620-5f4ce5b43dcc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7657684704"
+    },
+    {
+        "id": "20260216-08",
+        "date": "20260216",
+        "rank": 8,
+        "name": "주리에떼 14K/18K 여성용 돌고래 럭키비키 금 목걸이 + 사은품 반지 + 쇼핑백",
+        "price": 259000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/8392527129808-0fc9b926-392a-4697-863e-f821cfd16370.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8487621680"
+    },
+    {
+        "id": "20260216-09",
+        "date": "20260216",
+        "rank": 9,
+        "name": "[로켓프레시] 롯데제로 미니바이트 밀크 앤 초코 아이스크림 (냉동)",
+        "price": 7290,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/682118155383874-c6c5a9b2-a81e-4b3b-8e2d-7982a76c8d11.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7412614393"
+    },
+    {
+        "id": "20260216-10",
+        "date": "20260216",
+        "rank": 10,
+        "name": "[로켓프레시] 베리밸리 트리플베리 (냉동)",
+        "price": 11900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/1431557775027903-4518a40a-54b0-429d-a560-f4fc94776357.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757712078"
+    },
+    {
         "id": "20260215-01",
         "date": "20260215",
         "rank": 1,
