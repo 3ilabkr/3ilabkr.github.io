@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260217-01",
+        "date": "20260217",
+        "rank": 1,
+        "name": "마이밀 정품 뉴프로틴 고소한맛",
+        "price": 58990,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/60196325275947-60de8422-5657-47a7-9f76-630c6405a017.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6813646287"
+    },
+    {
+        "id": "20260217-02",
+        "date": "20260217",
+        "rank": 2,
+        "name": "나랑드사이다 제로",
+        "price": 24790,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/410685843612079-5023e304-58f0-461a-a009-0a9531afdfc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7447842898"
+    },
+    {
+        "id": "20260217-03",
+        "date": "20260217",
+        "rank": 3,
+        "name": "아몬드브리즈 언스위트",
+        "price": 16120,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=329389373"
+    },
+    {
+        "id": "20260217-04",
+        "date": "20260217",
+        "rank": 4,
+        "name": "프리티케어 물걸레 먼지비움 로봇청소기 LDS 센서 지도 그리기 기능 포함",
+        "price": 259900,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/278a/4060656ba756f388d17554cfd55d5f105d02e2c6409f61f319072244ba47.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9210782815"
+    },
+    {
+        "id": "20260217-05",
+        "date": "20260217",
+        "rank": 5,
+        "name": "오늘부터 슬림카페PRO",
+        "price": 14800,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/83416318442493-6744980b-398d-40e1-a7dc-5c235ba60253.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8541042738"
+    },
+    {
+        "id": "20260217-06",
+        "date": "20260217",
+        "rank": 6,
+        "name": "베네통 여성용 데일리 미니 백팩",
+        "price": 49000,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/79176880520143-a23d3f4a-3c7b-4f24-b2bd-7cc0d879bd08.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8710521134"
+    },
+    {
+        "id": "20260217-07",
+        "date": "20260217",
+        "rank": 7,
+        "name": "레토 슬림핏 얇은 허리보호대",
+        "price": 14800,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/suj8qget/81b17d494b374d159799e986cd38dbbc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8599336876"
+    },
+    {
+        "id": "20260217-08",
+        "date": "20260217",
+        "rank": 8,
+        "name": "웅진빅토리아 더 빅토리아 플레인 탄산수 에코 무라벨",
+        "price": 10600,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1053536170695551-c4cd5331-46ca-41bb-ba4b-0413ec0365a8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8267614598"
+    },
+    {
+        "id": "20260217-09",
+        "date": "20260217",
+        "rank": 9,
+        "name": "[비건라이프] 비트 실내건조 캡슐세제 그린플로럴향",
+        "price": 16900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2023/10/24/17/0/cc515edc-00f7-43ab-9681-457e68e987f6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7674477942"
+    },
+    {
+        "id": "20260217-10",
+        "date": "20260217",
+        "rank": 10,
+        "name": "KCC숲으로 탄성방수재 페인트",
+        "price": 83000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/626774267051925-7c4725e3-f9ca-400a-bb6c-fb656a43447d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6256584724"
+    },
+    {
         "id": "20260216-01",
         "date": "20260216",
         "rank": 1,
