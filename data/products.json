@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260218-01",
+        "date": "20260218",
+        "rank": 1,
+        "name": "Kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 100000,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/dbf7/1460980714ab9a6e5226d15a945010f8f082aacef5c9bce282c2be4d2af6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260218-02",
+        "date": "20260218",
+        "rank": 2,
+        "name": "모던하우스 ON마리 이중레이스 암막커튼",
+        "price": 59900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2023/07/17/10/0/cc4ce180-3378-42f5-960e-d208187f4bd9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7104943027"
+    },
+    {
+        "id": "20260218-03",
+        "date": "20260218",
+        "rank": 3,
+        "name": "헬시오리진스 내추럴 유비퀴놀 200mg 소프트젤",
+        "price": 112260,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/8cb3/d8092778682595aa8da63d8bdd4378c66a2e435e809d616db547a7090c3a.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2810068"
+    },
+    {
+        "id": "20260218-04",
+        "date": "20260218",
+        "rank": 4,
+        "name": "청정원순창 우리쌀로 만든 100% 국산 고추장",
+        "price": 15820,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2099550543706664-ded0047d-f362-4a96-ab7e-b3a7855bb5d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6529883355"
+    },
+    {
+        "id": "20260218-05",
+        "date": "20260218",
+        "rank": 5,
+        "name": "LG전자 통돌이 세탁기 15kg 방문설치",
+        "price": 499000,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/c6fc/ff6bd1e87ed81b36d9f782a36b40dee795fe073432557690dc246ed367b2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8449903853"
+    },
+    {
+        "id": "20260218-06",
+        "date": "20260218",
+        "rank": 6,
+        "name": "가뿐한끼 현미밥",
+        "price": 25190,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/352334257197018-1f2a6f03-14ca-4781-8fd9-24de58384e05.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7809979471"
+    },
+    {
+        "id": "20260218-07",
+        "date": "20260218",
+        "rank": 7,
+        "name": "유멜 프리미엄 실내용 디퓨저",
+        "price": 19800,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/09/29/16/7/94a6fddb-10ed-447e-a118-93fc10bc0c3b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8215328141"
+    },
+    {
+        "id": "20260218-08",
+        "date": "20260218",
+        "rank": 8,
+        "name": "홈스타 퍼펙트 세탁조 클리너",
+        "price": 9380,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2498609003701319-6df6ccc4-e090-415f-b3c8-87abc2af83fc.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6939161968"
+    },
+    {
+        "id": "20260218-09",
+        "date": "20260218",
+        "rank": 9,
+        "name": "휠라 시그니처 더블 쿠션 앵클 스포츠 양말 5족",
+        "price": 16000,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/328906532292056-386d040a-bbef-4de5-8ea6-88fb02d522a3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8522096997"
+    },
+    {
+        "id": "20260218-10",
+        "date": "20260218",
+        "rank": 10,
+        "name": "송림라이프 빨아쓰는 푹신한 숙면 베개 + 베개솜",
+        "price": 18900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/129578681975995-31a8a1e0-20f8-48f6-ac2b-a35f9b7dec51.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8518641218"
+    },
+    {
         "id": "20260217-01",
         "date": "20260217",
         "rank": 1,
