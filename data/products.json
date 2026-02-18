@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260219-01",
+        "date": "20260219",
+        "rank": 1,
+        "name": "크리넥스 3겹 데코 앤 소프트 화장지",
+        "price": 21410,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/13788868253264-bf4b5354-e2d6-4aad-9f3a-047d37cbf888.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=307020051"
+    },
+    {
+        "id": "20260219-02",
+        "date": "20260219",
+        "rank": 2,
+        "name": "르엘라 BLDC 미용실 헤어 드라이기",
+        "price": 74000,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/9ab6/612d87d45360aede0e592c09e488f648902269c7114f87788ebf6da8167a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8642154764"
+    },
+    {
+        "id": "20260219-03",
+        "date": "20260219",
+        "rank": 3,
+        "name": "홈럭스 파워수압 필터 샤워기 + 필터 5개 + 샤워호스 1.5M + 거치데 안마 샤워기세트 8pcs",
+        "price": 13890,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/e601/94496c87614b880068c33065f2e4b0fd782d6c8da7dacbe3bb1b71efc1b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150861959"
+    },
+    {
+        "id": "20260219-04",
+        "date": "20260219",
+        "rank": 4,
+        "name": "Aurevit 저주파 미세전류 발마사지기 안마기 족저 마사지",
+        "price": 23890,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/f8c2/49fc3f4366b6adf98185d3d616ef7dfc86c12b4ce693fb3c0e31ed497905.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7252430501"
+    },
+    {
+        "id": "20260219-05",
+        "date": "20260219",
+        "rank": 5,
+        "name": "아띠래빗 까꿍놀이 아기 병풍 + 토끼 거울 세트",
+        "price": 39900,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/3a21/2859cfb362dc6864471fea39c3a19191a415777568fadee63a0526766910.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9254886289"
+    },
+    {
+        "id": "20260219-06",
+        "date": "20260219",
+        "rank": 6,
+        "name": "그린리필 매직캔 호환 리필 쓰레기 봉투 280, 절약팩 포함",
+        "price": 15900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/337606734414866-9856e529-7a20-49fd-b01e-408228f05019.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9345937851"
+    },
+    {
+        "id": "20260219-07",
+        "date": "20260219",
+        "rank": 7,
+        "name": "스케쳐스 남성 라이프스타일 위드 에어쿨 메모리폼 운동화 58362",
+        "price": 47690,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/4119/de6fa065f73769e3f4434046faeed0466d434c4654c027bdc83e5310a9c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8190499008"
+    },
+    {
+        "id": "20260219-08",
+        "date": "20260219",
+        "rank": 8,
+        "name": "돈키호테 순식간에 어디서나 TKG? 간장계란밥 소스",
+        "price": 16380,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/eb1a/a5b1dec8b12c9e63b8edf0d26b2fb2d242087c7ef2944c1bd436a84761c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8520949118"
+    },
+    {
+        "id": "20260219-09",
+        "date": "20260219",
+        "rank": 9,
+        "name": "리큐 진한겔 꿉꿉한 냄새 원인물질 싹 일반드럼겸용 프레시 런드리향 액상세제 리필",
+        "price": 28900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/36624579664596-bad199ba-5649-4101-8717-67cf86ac03d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6746052927"
+    },
+    {
+        "id": "20260219-10",
+        "date": "20260219",
+        "rank": 10,
+        "name": "미즈노 컴피트 더블 쿠션 크루 스포츠 양말",
+        "price": 17900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2023/05/03/11/8/0dca9650-e86f-4020-98b6-0bbb3411cf84.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310230793"
+    },
+    {
         "id": "20260218-01",
         "date": "20260218",
         "rank": 1,
