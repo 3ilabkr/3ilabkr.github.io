@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260220-01",
+        "date": "20260220",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260220-02",
+        "date": "20260220",
+        "rank": 2,
+        "name": "가그린 제로 구강청결제",
+        "price": 13560,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260220-03",
+        "date": "20260220",
+        "rank": 3,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 58800,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/2a35/5be669fc9d869a4b56342923e0b675018f85e698f9d81f169fc6400b623e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20260220-04",
+        "date": "20260220",
+        "rank": 4,
+        "name": "서울소호 무빙 리클라이너 슬라이드 4인용 소파 방문설치",
+        "price": 1079000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/310586445083551-5fb4cf2a-a119-4af8-bb97-58301a1d2fcf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9055179154"
+    },
+    {
+        "id": "20260220-05",
+        "date": "20260220",
+        "rank": 5,
+        "name": "코믈리 원터치 다용도 접이식 간편폴딩 철제선반",
+        "price": 32900,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/ca50/2aa5bcea33aa2d99bc4f1d61f4def207ccd2152051c453f9d1aa598623be.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8454901855"
+    },
+    {
+        "id": "20260220-06",
+        "date": "20260220",
+        "rank": 6,
+        "name": "LG전자 2025 그램 16 코어Ultra5",
+        "price": 1896000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/30415310862731-9323e97e-0364-4661-afc4-aab5e5f8c3bc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8518435269"
+    },
+    {
+        "id": "20260220-07",
+        "date": "20260220",
+        "rank": 7,
+        "name": "조선문방구 명품 삼겹살 지우개",
+        "price": 10500,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/07/15/9/3/183e05eb-8949-4aba-9898-749a40678c23.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8878219327"
+    },
+    {
+        "id": "20260220-08",
+        "date": "20260220",
+        "rank": 8,
+        "name": "쁘리엘르 비비 항균 워싱 차렵 침구세트",
+        "price": 26900,
+        "image_url": "https://image3.coupangcdn.com/image/rs_quotation_api/013vdnzy/a3243a487ee6418db5665723be565008.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8430754274"
+    },
+    {
+        "id": "20260220-09",
+        "date": "20260220",
+        "rank": 9,
+        "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
+        "price": 44900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2025/05/07/12/9/98cfc449-abb0-420a-b008-91063e4c7ef7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758755740"
+    },
+    {
+        "id": "20260220-10",
+        "date": "20260220",
+        "rank": 10,
+        "name": "조은리빙 높이조절 10단계 스탠드 다리미판",
+        "price": 29900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1745773178231314-9efec805-9f3f-4f22-bebd-bea9f9ac6150.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8524218737"
+    },
+    {
         "id": "20260219-01",
         "date": "20260219",
         "rank": 1,
