@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260222-01",
+        "date": "20260222",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 23430,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/97157453364183-8be52b06-cebe-44b1-88b7-8fad5587234c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260222-02",
+        "date": "20260222",
+        "rank": 2,
+        "name": "2080 퓨어치약 핑크마일드민트향",
+        "price": 8750,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/1842737200743764-732d396e-3133-4196-b15d-063b78dfbf57.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=84025689"
+    },
+    {
+        "id": "20260222-03",
+        "date": "20260222",
+        "rank": 3,
+        "name": "[25년산] 삼광미 20kg 상등급 국내산 단일품종 정미소김씨(GAP인증시설 도정)",
+        "price": 64850,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/ab19/9e7e02cd58e3567647c673666c1f3f6feb3689e1e75137db8c291c4f63a8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9380092434"
+    },
+    {
+        "id": "20260222-04",
+        "date": "20260222",
+        "rank": 4,
+        "name": "크린조 무선 청소기 초강력 흡입력 + 셀프 스탠딩 + 다양한 구성품 WC01",
+        "price": 69900,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/9542/36fe9a4bba3d7de0423d660703a70b4c0b33d24b596ddf63974effdfa68c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8873777185"
+    },
+    {
+        "id": "20260222-05",
+        "date": "20260222",
+        "rank": 5,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 29580,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/d447/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20260222-06",
+        "date": "20260222",
+        "rank": 6,
+        "name": "끌래망스 사계절 암막커튼 2p",
+        "price": 50900,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/xlrx5nhq/a3114e93bffd4ea799630c634280d9c5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8915668201"
+    },
+    {
+        "id": "20260222-07",
+        "date": "20260222",
+        "rank": 7,
+        "name": "맨하탄토이 윈켈 클래식 박스 치발기",
+        "price": 18900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/111718882038138-83dfa068-a11a-4fc0-ab41-9e8fb6e1d306.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1556548"
+    },
+    {
+        "id": "20260222-08",
+        "date": "20260222",
+        "rank": 8,
+        "name": "에디슨 국산 프리미엄 실리콘 트레이닝 컵",
+        "price": 12400,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2621834313676064-648965fb-380e-49e4-9629-c7bcbad88ce4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6615548304"
+    },
+    {
+        "id": "20260222-09",
+        "date": "20260222",
+        "rank": 9,
+        "name": "웰퍼니쳐 리우 전동 리클라이너 1인 소파 방문설치",
+        "price": 276000,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1118450755678901-5e791b16-64b0-4b96-a048-e5d246254b7c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8032290517"
+    },
+    {
+        "id": "20260222-10",
+        "date": "20260222",
+        "rank": 10,
+        "name": "비오비타 배배 유아 유산균",
+        "price": 26900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/330445655658067-91adc691-9da0-4a48-805f-49154760d55c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7185633375"
+    },
+    {
         "id": "20260221-01",
         "date": "20260221",
         "rank": 1,
