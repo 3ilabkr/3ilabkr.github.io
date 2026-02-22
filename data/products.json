@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260223-01",
+        "date": "20260223",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 16800,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/23103282589396-86aa575a-80ec-4486-8ab7-a381c556474a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260223-02",
+        "date": "20260223",
+        "rank": 2,
+        "name": "나랑드사이다 제로",
+        "price": 12860,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/80870368036782-dc973a90-7102-44fc-9689-b902862ddd29.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7447842898"
+    },
+    {
+        "id": "20260223-03",
+        "date": "20260223",
+        "rank": 3,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 고급롤화장지",
+        "price": 15900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260223-04",
+        "date": "20260223",
+        "rank": 4,
+        "name": "마이비데 클린케어 화장실용 물티슈 캡형",
+        "price": 24170,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/955002757207791-5da504cc-65af-4418-a3b9-85a33ebf7bc2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6964996972"
+    },
+    {
+        "id": "20260223-05",
+        "date": "20260223",
+        "rank": 5,
+        "name": "다이마타이즈 ISO 100 웨이 프로틴 파우더 단백질 보충제 고메 초콜릿(Gourmet Chocolate)",
+        "price": 115290,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/e729f9fd42a93d6127ee002c623bf6676c95caf565a2f3521c5d96c40ec9_1750990779614.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7788595839"
+    },
+    {
+        "id": "20260223-06",
+        "date": "20260223",
+        "rank": 6,
+        "name": "[로켓프레시] 쉐프스토리 갓성비 치즈 핫도그 (냉동)",
+        "price": 9990,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/ujzukznj/ebbeb08bf0394fc2b48e15e4429f7a6c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8816166947"
+    },
+    {
+        "id": "20260223-07",
+        "date": "20260223",
+        "rank": 7,
+        "name": "네이처리퍼블릭 쉐어버터 울트라 스팀 크림 극건성용",
+        "price": 12310,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/400621452049691-1c4191b0-dd8a-4f78-9f4d-e6cdb766f93a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7749162738"
+    },
+    {
+        "id": "20260223-08",
+        "date": "20260223",
+        "rank": 8,
+        "name": "락피도 아연가득 면역젤리 15p",
+        "price": 25090,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/64401590705145-8d09494e-6017-450e-847a-f243e4857281.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7854052596"
+    },
+    {
+        "id": "20260223-09",
+        "date": "20260223",
+        "rank": 9,
+        "name": "테팔 인덕션 티타늄 1X 원픽 냄비팬 꿀고구마 옐로",
+        "price": 35900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/1381848859681366-4b79b70f-6e8d-46dc-b884-3cf7d715024c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7664690949"
+    },
+    {
+        "id": "20260223-10",
+        "date": "20260223",
+        "rank": 10,
+        "name": "LG 트롬 워시타워 W20WAN 세탁기 23kg + 건조기 20kg 릴리 화이트 방문설치",
+        "price": 2450000,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/2835/29aff164adbc6de9e814be6f2aa1489c499a2141314f4765722e8df96ffe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7940026711"
+    },
+    {
         "id": "20260222-01",
         "date": "20260222",
         "rank": 1,
