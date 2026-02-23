@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260224-01",
+        "date": "20260224",
+        "rank": 1,
+        "name": "포카리스웨트 무라벨",
+        "price": 14900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/419385647338911-86003985-7e85-4193-975e-acd880c1fa7e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544933292"
+    },
+    {
+        "id": "20260224-02",
+        "date": "20260224",
+        "rank": 2,
+        "name": "시디즈 T50 컴퓨터 책상 의자 HDA 방문설치",
+        "price": 349000,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/0687/573cde61234f6dc6e956308c7e4743e38cc4d1c8043e1d3706848b4337e8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7830801595"
+    },
+    {
+        "id": "20260224-03",
+        "date": "20260224",
+        "rank": 3,
+        "name": "라이프란스 3중쿠션 면 층간소음 무소음 거실화",
+        "price": 13900,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/lngriaws/408b2aedca044435b14fa90020f94cba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812509839"
+    },
+    {
+        "id": "20260224-04",
+        "date": "20260224",
+        "rank": 4,
+        "name": "뷰하우스 메이즈 원톤 암막커튼 2개 + 커튼봉 세트",
+        "price": 73200,
+        "image_url": "https://image7.coupangcdn.com/image/1025_amir_coupang_oct_80k/0054/2aee897b50f6d58db86e2abd203774365f4517e2063fcb05db026dc52066.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5372913328"
+    },
+    {
+        "id": "20260224-05",
+        "date": "20260224",
+        "rank": 5,
+        "name": "미즈노 리버스 더블 쿠션 크루 양말",
+        "price": 16900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/5031185318529978-dd9c812d-0280-400f-a922-55713da31d8a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6638254235"
+    },
+    {
+        "id": "20260224-06",
+        "date": "20260224",
+        "rank": 6,
+        "name": "뉴발란스 남성용 플라잉로고 나일론 볼캡",
+        "price": 26900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/77425496294548-38f4ff7c-d33f-4fbf-9eb5-e5b901c6ac41.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8847280872"
+    },
+    {
+        "id": "20260224-07",
+        "date": "20260224",
+        "rank": 7,
+        "name": "쁘리엘르 유어메이트 항균 워싱 차렵이불 세트",
+        "price": 27400,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2026/01/05/14/5/71cf0179-90d9-4d42-be6d-fb2559c185d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7776267040"
+    },
+    {
+        "id": "20260224-08",
+        "date": "20260224",
+        "rank": 8,
+        "name": "지에스비케이스 갤럭시탭 아이패드 태블릿 스탠드 휴대용 거치대",
+        "price": 14900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/06/24/12/8/3d38e5bd-8daa-4080-a16e-f89ed9233047.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7375416415"
+    },
+    {
+        "id": "20260224-09",
+        "date": "20260224",
+        "rank": 9,
+        "name": "웅진 맑게 우려낸 누룽지차",
+        "price": 13740,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/d722/abea27175694d6c5db6e940bca4400967a1cd20f2bc7caa939e6e6d19a0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=10294558"
+    },
+    {
+        "id": "20260224-10",
+        "date": "20260224",
+        "rank": 10,
+        "name": "더페이스샵 미감수 브라이트 클렌징 크림 대용량",
+        "price": 9150,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/968164644755723-c4b0632b-b730-467c-bf13-0b6017488a8b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7589484923"
+    },
+    {
         "id": "20260223-01",
         "date": "20260223",
         "rank": 1,
