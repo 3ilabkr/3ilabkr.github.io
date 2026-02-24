@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260225-01",
+        "date": "20260225",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260225-02",
+        "date": "20260225",
+        "rank": 2,
+        "name": "Bebeen 120 영유아물티슈 캡형",
+        "price": 12300,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260225-03",
+        "date": "20260225",
+        "rank": 3,
+        "name": "원더바스 리뉴얼 조성아 슈퍼베지톡스 그린 팩클렌저",
+        "price": 19400,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/06/04/18/2/25e267ea-97f1-4f1a-8e12-fbfd154adc67.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8405380866"
+    },
+    {
+        "id": "20260225-04",
+        "date": "20260225",
+        "rank": 4,
+        "name": "오비안 모던 규조토 욕실 주방 발매트 대형",
+        "price": 12800,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/8cae/15b926324c9fbc35029bad0bec86d30c851f6de24610ba4cecb09a982b2f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7936248000"
+    },
+    {
+        "id": "20260225-05",
+        "date": "20260225",
+        "rank": 5,
+        "name": "스카치브라이트 프리미엄 고무장갑 5개입",
+        "price": 15300,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/f485/f8c94655b9d1a17cb5d85db0b73a371d3f84a07e78afa82bf8f99b70dff5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8441525461"
+    },
+    {
+        "id": "20260225-06",
+        "date": "20260225",
+        "rank": 6,
+        "name": "코멧 홈 프리미엄 소프트 고중량 호텔 수건 200g 40수",
+        "price": 35150,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/498195492159780-99129a8a-29ee-41b2-af6d-a75e58992002.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8115731357"
+    },
+    {
+        "id": "20260225-07",
+        "date": "20260225",
+        "rank": 7,
+        "name": "듀플렉스 초음파 미니 가습기",
+        "price": 27500,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/1400283775619091-88f0e1de-1170-4d0c-9e45-bac7c5355eb3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7790316322"
+    },
+    {
+        "id": "20260225-08",
+        "date": "20260225",
+        "rank": 8,
+        "name": "코멧 홈 차렵이불+패드+베개커버 세트",
+        "price": 20890,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/4874602596880575-8e93357f-3844-43c7-8b0b-e2dd8883224d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6375150002"
+    },
+    {
+        "id": "20260225-09",
+        "date": "20260225",
+        "rank": 9,
+        "name": "자이스 렌즈 와이프 클리너",
+        "price": 8230,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/7a5e/88aff42180100e5b7a0c15ed5e424ca25eb617ad8cdd63395c61c2f8bbf1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=120358812"
+    },
+    {
+        "id": "20260225-10",
+        "date": "20260225",
+        "rank": 10,
+        "name": "행복미트 국내산 돈갈비 한돈 찜갈비 총 당일발송",
+        "price": 30940,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/6673/b68e759248cbf21dbec66c9ac92c7aad80791bfc2362d9099536513ebd5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8405640997"
+    },
+    {
         "id": "20260224-01",
         "date": "20260224",
         "rank": 1,
