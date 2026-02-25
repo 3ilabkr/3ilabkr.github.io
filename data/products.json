@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260226-01",
+        "date": "20260226",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 17100,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260226-02",
+        "date": "20260226",
+        "rank": 2,
+        "name": "뉴발란스 남녀공용 플라잉 로고 스트링 백팩",
+        "price": 95200,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2024/12/18/16/3/64a549bd-cda1-40ee-b43b-ae0326b97497.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8512561628"
+    },
+    {
+        "id": "20260226-03",
+        "date": "20260226",
+        "rank": 3,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자 학생 사무실의자 공부의자 사무실 회의실 독서실 사무용 컴퓨터 의자 푹신한 메쉬 의자",
+        "price": 82000,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/21ad/72b137b463e480c7587efdea2ce52622852a0784c2d74834e0485b56d564.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260226-04",
+        "date": "20260226",
+        "rank": 4,
+        "name": "2026년 프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 279900,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260226-05",
+        "date": "20260226",
+        "rank": 5,
+        "name": "[로켓프레시] 효성어묵 부산옛날어묵 종합 (냉동)",
+        "price": 8500,
+        "image_url": "https://img4a.coupangcdn.com/image/rs_quotation_api/z5d49ujj/f031e83369fc4e12abaf31c8b06deb8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7759434526"
+    },
+    {
+        "id": "20260226-06",
+        "date": "20260226",
+        "rank": 6,
+        "name": "농사꾼 찰흑미",
+        "price": 15900,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/2e36/b41ca06d9fbcae1a243ea242b456a82c17359d0fead2421bb1a267184741.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7457773866"
+    },
+    {
+        "id": "20260226-07",
+        "date": "20260226",
+        "rank": 7,
+        "name": "락앤락 로즈골드 인덕션 웍",
+        "price": 20300,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/6816199616945956-11c79533-8c56-4006-aefe-ce801cf3e0a3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1187283827"
+    },
+    {
+        "id": "20260226-08",
+        "date": "20260226",
+        "rank": 8,
+        "name": "다슈 데일리 볼륨픽 헤어클립",
+        "price": 12670,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/331003300926640-89bc3848-3054-44fd-b3c7-5c8aa4b7472c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8514091791"
+    },
+    {
+        "id": "20260226-09",
+        "date": "20260226",
+        "rank": 9,
+        "name": "주니 유아용 뚜껑 일체형 2세대 자기주도컵",
+        "price": 25000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/62245712627003-608214e4-dc49-411a-a602-41caf7d778c7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8688096911"
+    },
+    {
+        "id": "20260226-10",
+        "date": "20260226",
+        "rank": 10,
+        "name": "테팔 티타늄 1X 심플쿡 프라이팬",
+        "price": 20900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/1380575324144735-b228bd35-f408-41c4-af1c-c23252da896c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7694553980"
+    },
+    {
         "id": "20260225-01",
         "date": "20260225",
         "rank": 1,
