@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260227-01",
+        "date": "20260227",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 12900,
+        "image_url": "https://image5.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260227-02",
+        "date": "20260227",
+        "rank": 2,
+        "name": "캉골 레트로코어 스탠다드 스플릿 백팩 1471",
+        "price": 71200,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2025/10/27/14/8/0fa76b42-9fb2-4f05-b84b-1a4617461c91.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9151361876"
+    },
+    {
+        "id": "20260227-03",
+        "date": "20260227",
+        "rank": 3,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 129900,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/ceff/12de58bfec67d377e87630d7bddb589d5703b8d134bf3bcb445479b613af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260227-04",
+        "date": "20260227",
+        "rank": 4,
+        "name": "착한구두 여성용 샌더슨 페니 레더 로퍼 LFLTR3e851",
+        "price": 39900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/63005121970665-6c55d0fd-1765-424d-a95d-73fbb34ca193.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6868009336"
+    },
+    {
+        "id": "20260227-05",
+        "date": "20260227",
+        "rank": 5,
+        "name": "생활백서 암막커튼 올인원 세트 ver 4",
+        "price": 78900,
+        "image_url": "https://image10.coupangcdn.com/image/rs_quotation_api/40dmxmx8/8d2ba47901c24a4da123b79026960166.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6472952479"
+    },
+    {
+        "id": "20260227-06",
+        "date": "20260227",
+        "rank": 6,
+        "name": "블라우풍트 에어이지 프로 에어홀 BLDC 드라이기 BLP-HD7300 1500W",
+        "price": 71820,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/78030725445339-d3c1142f-fc01-43b3-ab17-6eb9443ae94c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9050485070"
+    },
+    {
+        "id": "20260227-07",
+        "date": "20260227",
+        "rank": 7,
+        "name": "락앤락 데일리 슬림핏 원터치 텀블러",
+        "price": 15400,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/ce0a/6901f0374571d4530244a635779c6fd6e99b98235bd42b93efa11cadcae8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7704497949"
+    },
+    {
+        "id": "20260227-08",
+        "date": "20260227",
+        "rank": 8,
+        "name": "태양생활건강 뽀로로 키디밀 아기두유",
+        "price": 26180,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/1hclkdh5/296c0866764247d8a3d353389d885224.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6750842633"
+    },
+    {
+        "id": "20260227-09",
+        "date": "20260227",
+        "rank": 9,
+        "name": "바세린 힐링 젤리 올-오버 바디 밤 스틱",
+        "price": 34990,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/fa44/8655f5b9e711bfb7dc921380039f5941cd2e68811ab0d27b412aeae62d6c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8520321467"
+    },
+    {
+        "id": "20260227-10",
+        "date": "20260227",
+        "rank": 10,
+        "name": "쏘내추럴 올 데이 타이트 메이크업 세팅 픽서",
+        "price": 30750,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/1796402938754541-5a47f99a-d782-4fef-86ad-9e2742602019.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1716575378"
+    },
+    {
         "id": "20260226-01",
         "date": "20260226",
         "rank": 1,
