@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260228-01",
+        "date": "20260228",
+        "rank": 1,
+        "name": "YALE THINK PACK 백팩 37L",
+        "price": 52900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2026/02/12/14/2/df764b46-9ba0-4ca8-8e6b-9689e55558da.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8833303213"
+    },
+    {
+        "id": "20260228-02",
+        "date": "20260228",
+        "rank": 2,
+        "name": "Kipnos 폴딩 수납장 리빙박스 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함 길이 40cm",
+        "price": 31500,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/0e0c/941a523a7d25386df29b21db25d907f2901ddbca71b77dd4ee88d8b9b1a9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906599125"
+    },
+    {
+        "id": "20260228-03",
+        "date": "20260228",
+        "rank": 3,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 159900,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/036c/f514aee9a938c5ba622a7827ab173d8d1949dd4b11cf7af0b17c82676bcb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758565034"
+    },
+    {
+        "id": "20260228-04",
+        "date": "20260228",
+        "rank": 4,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 95600,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1769065074495/ef5d862d-82c5-473a-b0b2-f138073ec9f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
+        "id": "20260228-05",
+        "date": "20260228",
+        "rank": 5,
+        "name": "스페리탑사이더 키즈 다이얼 러너 운동화 S2SFKKSC01",
+        "price": 49900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/403054780695992-446ebe62-b1dd-4113-aaae-01b9cec14cf1.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9325322137"
+    },
+    {
+        "id": "20260228-06",
+        "date": "20260228",
+        "rank": 6,
+        "name": "나우푸드 슈퍼 엔자임 캡슐",
+        "price": 32900,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/c800/0908b2d1ff6abfb57aa7a1d0ab87a3fa89c64192936c1440521bf0e422cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8673673748"
+    },
+    {
+        "id": "20260228-07",
+        "date": "20260228",
+        "rank": 7,
+        "name": "워너빈 시그니쳐 블랜디드 원두커피",
+        "price": 24800,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/805166898672482-db95e563-d0f6-412e-92b0-0d56e7eaec8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8244144521"
+    },
+    {
+        "id": "20260228-08",
+        "date": "20260228",
+        "rank": 8,
+        "name": "코디 코튼화이트 3겹 천연펄프 롤화장지",
+        "price": 16900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/456805679674784-6dd10938-db89-4aca-8b86-e31900c6fc1e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6678809"
+    },
+    {
+        "id": "20260228-09",
+        "date": "20260228",
+        "rank": 9,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 22800,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260228-10",
+        "date": "20260228",
+        "rank": 10,
+        "name": "비타할로 석류 콜라겐 스틱 30개입",
+        "price": 23990,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2100593298218333-3daf17c0-e44f-4225-a87e-319b7c1edca0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1848157110"
+    },
+    {
         "id": "20260227-01",
         "date": "20260227",
         "rank": 1,
