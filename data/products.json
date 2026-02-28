@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260301-01",
+        "date": "20260301",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260301-02",
+        "date": "20260301",
+        "rank": 2,
+        "name": "그린핑거 유아용품 소독 물티슈 캡형",
+        "price": 20200,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/65520699668856-99ff34dd-2ae0-4509-971d-414398aca54d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7147519066"
+    },
+    {
+        "id": "20260301-03",
+        "date": "20260301",
+        "rank": 3,
+        "name": "나우푸드 마그네슘 글리시네이트 타블렛",
+        "price": 22910,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/image_audit/prod/925e0208-93b9-4455-954e-36fb41a12e24_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1366689007"
+    },
+    {
+        "id": "20260301-04",
+        "date": "20260301",
+        "rank": 4,
+        "name": "미즈노 남성용 플립 단목 양말 7족 세트",
+        "price": 16900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/1589179267875638-38568dbc-375a-4983-9208-fc3fd42a48d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6643662185"
+    },
+    {
+        "id": "20260301-05",
+        "date": "20260301",
+        "rank": 5,
+        "name": "헬시오리진스 내추럴 프로바이오틱 유산균 300억 CFU 브이캡",
+        "price": 48570,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/fcbd/f70b743521d19fa659e73b623649b5b6e34c7cb75926696e3a2d664133fb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6988822689"
+    },
+    {
+        "id": "20260301-06",
+        "date": "20260301",
+        "rank": 6,
+        "name": "아띠홈 밀프렙 1단 도시락",
+        "price": 14900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2024/10/11/16/3/daa148e2-48b4-4aa4-9ddd-50d1b397634e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8106610010"
+    },
+    {
+        "id": "20260301-07",
+        "date": "20260301",
+        "rank": 7,
+        "name": "삼진어묵 옛날모듬어묵",
+        "price": 11600,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/63399217696152-526afebd-4c8a-4242-b09d-3db710f91baf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=203456530"
+    },
+    {
+        "id": "20260301-08",
+        "date": "20260301",
+        "rank": 8,
+        "name": "뷰티풀데코센스 생화 프리저브드 꽃다발 + 쇼핑백",
+        "price": 26900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/237057577395884-037d9856-0f1b-4eb1-9b59-a8cfbd3637c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7501506065"
+    },
+    {
+        "id": "20260301-09",
+        "date": "20260301",
+        "rank": 9,
+        "name": "탐사 소중한 코를위한 소프트 시카 로션티슈",
+        "price": 6440,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/235970948194854-52a90151-81c0-4e47-b534-8548dbd3f075.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8847097615"
+    },
+    {
+        "id": "20260301-10",
+        "date": "20260301",
+        "rank": 10,
+        "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
+        "price": 74000,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/107816112443470-d95fd692-5032-431e-8bd9-4b36c56d0f46.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8248049594"
+    },
+    {
         "id": "20260228-01",
         "date": "20260228",
         "rank": 1,
