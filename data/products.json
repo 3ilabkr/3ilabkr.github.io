@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260302-01",
+        "date": "20260302",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 화이트 천연펄프 3겹 고급롤화장지",
+        "price": 25350,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/98145334917948-8aef7415-788b-4929-b171-588caee5b279.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677618842"
+    },
+    {
+        "id": "20260302-02",
+        "date": "20260302",
+        "rank": 2,
+        "name": "하이뮨 프로틴 밸런스 L 캔",
+        "price": 36000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20260302-03",
+        "date": "20260302",
+        "rank": 3,
+        "name": "비비고 왕교자 (냉동)",
+        "price": 12440,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/255585839262937-c3771d16-db7f-4ff3-b110-21d84d66fa7c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=158010844"
+    },
+    {
+        "id": "20260302-04",
+        "date": "20260302",
+        "rank": 4,
+        "name": "테팔 인덕션 티타늄 1X 스테인리스 스틸 트렌디쿡 프라이팬",
+        "price": 41900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/1749488813712139-f2f4d98c-5f1e-4cbc-905c-78e328141600.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527026341"
+    },
+    {
+        "id": "20260302-05",
+        "date": "20260302",
+        "rank": 5,
+        "name": "베네통 데일리 랩탑 백팩",
+        "price": 55900,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/hqdopuvx/e48edde0def340b4a8b517fbf2c71857.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8709610613"
+    },
+    {
+        "id": "20260302-06",
+        "date": "20260302",
+        "rank": 6,
+        "name": "삼성전자 Bespoke AI 905L 4도어 냉장고 방문설치",
+        "price": 1920000,
+        "image_url": "https://image14.coupangcdn.com/image/rs_quotation_api/n9rsmtjo/ba2553037fc34fe983c96bb846912ea0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8734947909"
+    },
+    {
+        "id": "20260302-07",
+        "date": "20260302",
+        "rank": 7,
+        "name": "뷰하우스 루시드 사계절 베이직 암막커튼 커튼봉 세트",
+        "price": 77000,
+        "image_url": "https://img4c.coupangcdn.com/image/rs_quotation_api/73k3slig/cb522c20e075482ea9cb2350ea0451ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7683355214"
+    },
+    {
+        "id": "20260302-08",
+        "date": "20260302",
+        "rank": 8,
+        "name": "두뇌 UP 오리지널 스도쿠 세트",
+        "price": 17850,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/170277169707975-47a7b201-38a7-44e4-8ecf-c4bea0f2c403.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=104719176"
+    },
+    {
+        "id": "20260302-09",
+        "date": "20260302",
+        "rank": 9,
+        "name": "나드 약산성 필링 토너 패드 140ml",
+        "price": 9900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2172526817919427-1eb4c4c5-28c6-442c-9c04-3addecd87478.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6344834228"
+    },
+    {
+        "id": "20260302-10",
+        "date": "20260302",
+        "rank": 10,
+        "name": "세타필 모이스춰라이징 크림",
+        "price": 16350,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/532347830926603-16104846-617f-44b3-ba5f-51ff3d63cd44.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9303936790"
+    },
+    {
         "id": "20260301-01",
         "date": "20260301",
         "rank": 1,
