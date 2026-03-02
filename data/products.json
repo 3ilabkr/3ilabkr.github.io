@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260303-01",
+        "date": "20260303",
+        "rank": 1,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11990,
+        "image_url": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260303-02",
+        "date": "20260303",
+        "rank": 2,
+        "name": "퍼실 라벤더젤 플러스 드럼용 액상세제 리필",
+        "price": 14000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/159584257506068-59202014-2351-4623-b49d-fea48d5e2afc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8505512562"
+    },
+    {
+        "id": "20260303-03",
+        "date": "20260303",
+        "rank": 3,
+        "name": "램프쿡 인덕션 자동회전냄비 HS-0010",
+        "price": 105800,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/a6d8/4c2b28fb5a7fe2bd49c17ea624f99d56824d107b07d0289d8e60f1a108c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1301604496"
+    },
+    {
+        "id": "20260303-04",
+        "date": "20260303",
+        "rank": 4,
+        "name": "삼성전자 BESPOKE 그랑데 AI 세탁기 21kg 방문설치",
+        "price": 956370,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/51452411118249-2f890cbd-2214-498e-9b46-f4487389a3fa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8054479889"
+    },
+    {
+        "id": "20260303-05",
+        "date": "20260303",
+        "rank": 5,
+        "name": "벳플 동아제약 반려동물 락토덴탈 영양제",
+        "price": 27900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/05/30/15/8/969440d1-9676-4e11-a4bc-15177425c071.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8805640432"
+    },
+    {
+        "id": "20260303-06",
+        "date": "20260303",
+        "rank": 6,
+        "name": "나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡슐",
+        "price": 28710,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/e864/11b9f6b38a90dd8446a0fb5fb4328ce5b3a6ba9b4d33f3002f13c9cdde0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7156986260"
+    },
+    {
+        "id": "20260303-07",
+        "date": "20260303",
+        "rank": 7,
+        "name": "하기스 퓨어그린 아기물티슈 캡형",
+        "price": 13500,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/46452575628319-21d2e3f2-f8a6-404e-9cbf-fb755636916c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6615096004"
+    },
+    {
+        "id": "20260303-08",
+        "date": "20260303",
+        "rank": 8,
+        "name": "곰곰 한알육수 분말",
+        "price": 7290,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2867875119355-a69ea4f2-f8cb-4018-b0db-4b5fcca00fbb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9048019604"
+    },
+    {
+        "id": "20260303-09",
+        "date": "20260303",
+        "rank": 9,
+        "name": "듀오백 사무용 컴퓨터 책상 메쉬의자 Q1 에어로",
+        "price": 254000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/44431251900804-50d118d5-039c-4de8-bb09-4b15feac0966.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8492989806"
+    },
+    {
+        "id": "20260303-10",
+        "date": "20260303",
+        "rank": 10,
+        "name": "코멧 국내생산 건전지&USB-C타입 UV-C LED 휴대용 칫솔 살균기",
+        "price": 10690,
+        "image_url": "https://img4c.coupangcdn.com/image/1025_amir_coupang_oct_80k/9d8f/a52d6767d18deaed4950fbaff514661eb232db2671667e65e0162ffe196d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8115506297"
+    },
+    {
         "id": "20260302-01",
         "date": "20260302",
         "rank": 1,
