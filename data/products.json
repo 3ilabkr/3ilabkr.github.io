@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260304-01",
+        "date": "20260304",
+        "rank": 1,
+        "name": "테팔 인덕션 매직핸즈 스테인리스 컬렉션 트라이미 프라이팬세트 3개",
+        "price": 80400,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/552866890985248-c312f232-3033-4899-a095-545fa6ff1d0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7163822999"
+    },
+    {
+        "id": "20260304-02",
+        "date": "20260304",
+        "rank": 2,
+        "name": "코카콜라 오리지널",
+        "price": 20180,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/33597756644270-a896be4b-096d-4ab8-94c7-8d5adf8f1762.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8114968257"
+    },
+    {
+        "id": "20260304-03",
+        "date": "20260304",
+        "rank": 3,
+        "name": "마스마룰즈 남녀공용 래빗에코백 + 파우치 세트",
+        "price": 39900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/331657537066570-7569155e-ddf7-4a23-a591-81431415d88d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631563688"
+    },
+    {
+        "id": "20260304-04",
+        "date": "20260304",
+        "rank": 4,
+        "name": "키루에 스펀지매트리스 전셋집용 매트리스 다다미 매트리스 기숙사 쿠션",
+        "price": 67900,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/2f54/02ea3ebbc0ad2bd25115dd57c651e35fffdf9850d572ca6604faf25d9835.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9209283928"
+    },
+    {
+        "id": "20260304-05",
+        "date": "20260304",
+        "rank": 5,
+        "name": "스페리탑사이더 키즈 코트 클래식 운동화 S2SFKKSC02",
+        "price": 49900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/195569893458492-c2f74c18-f2be-448f-b9a0-0989a5dde546.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9325322310"
+    },
+    {
+        "id": "20260304-06",
+        "date": "20260304",
+        "rank": 6,
+        "name": "르샤트라1802 건조기 시트 섬유유연제 피오니부케 본품",
+        "price": 10380,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/934573637270894-6a0b2e9c-171c-4d0a-a0b1-6dd8f169eb04.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7025862521"
+    },
+    {
+        "id": "20260304-07",
+        "date": "20260304",
+        "rank": 7,
+        "name": "쉬즈홈 트루디 아일렛 암막 커튼 2p",
+        "price": 64900,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/9a0xi9nu/0789da5ef9d0467f9d0cfa5371871436.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5581290949"
+    },
+    {
+        "id": "20260304-08",
+        "date": "20260304",
+        "rank": 8,
+        "name": "타포 400만 화소 QHD 주야간 감시 스마트 WiFi 홈 CCTV 실외용",
+        "price": 65010,
+        "image_url": "https://image1.coupangcdn.com/image/1025_amir_coupang_oct_80k/2159/17b192bdf5ec159570593595e3c7bab26d068b5e9c1a7469fd83d477ed76.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660655062"
+    },
+    {
+        "id": "20260304-09",
+        "date": "20260304",
+        "rank": 9,
+        "name": "쿤달 스칼프 마사지 샴푸 브러쉬",
+        "price": 5400,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/8774992804084805-06eed9d2-29ad-4d62-a09b-18b48bf341ee_1752743125813.PNG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6806892955"
+    },
+    {
+        "id": "20260304-10",
+        "date": "20260304",
+        "rank": 10,
+        "name": "[로켓프레시] GAP 인증 산청 장희딸기 대",
+        "price": 10990,
+        "image_url": "https://img1c.coupangcdn.com/image/rs_quotation_api/hzongp7n/171df509afe54d5495285d868a448e24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9174346854"
+    },
+    {
         "id": "20260303-01",
         "date": "20260303",
         "rank": 1,
