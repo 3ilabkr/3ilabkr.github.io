@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260305-01",
+        "date": "20260305",
+        "rank": 1,
+        "name": "코카콜라 제로 무라벨",
+        "price": 22180,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6955197525"
+    },
+    {
+        "id": "20260305-02",
+        "date": "20260305",
+        "rank": 2,
+        "name": "일리윤 세라마이드 아토 로션 무향",
+        "price": 15000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/76383476284976-beeac87e-878a-434d-9b87-acc1ecbc6961.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9039379842"
+    },
+    {
+        "id": "20260305-03",
+        "date": "20260305",
+        "rank": 3,
+        "name": "이니스프리 그린티 씨드 히알루론산 세럼 80ml + 10ml 세트",
+        "price": 14970,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/7128178532575-dfd39168-9558-445d-8da2-320767e40b16.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8137835304"
+    },
+    {
+        "id": "20260305-04",
+        "date": "20260305",
+        "rank": 4,
+        "name": "2025년형 프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 89900,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/662a/c4d429d76192d4dba32a871d25dd80cc3c76e6b4b57d9e7c53345c469347.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260305-05",
+        "date": "20260305",
+        "rank": 5,
+        "name": "듣고 말하고 쓰면서 떼는 사운드 한글 카드 240",
+        "price": 27970,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/2002/bfc35f4842c998c1b89c45b13f0db115e92e9120bd56cc600a5b3a3e4b74.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8104123351"
+    },
+    {
+        "id": "20260305-06",
+        "date": "20260305",
+        "rank": 6,
+        "name": "2080 진지발리스 허벌민트 잇몸치약",
+        "price": 16000,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/64754923373701-0560b2ce-0f9f-4eb0-a9d4-31b93b5c93dc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7106536128"
+    },
+    {
+        "id": "20260305-07",
+        "date": "20260305",
+        "rank": 7,
+        "name": "에리쏭 대용량 와인병 디퓨저 750ml",
+        "price": 59500,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/kbr9futa/bc8e2d666fad40e785ebba7659565516.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9128411583"
+    },
+    {
+        "id": "20260305-08",
+        "date": "20260305",
+        "rank": 8,
+        "name": "피지오겔 레드 수딩 AI 리페어 크림",
+        "price": 26790,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/840122960879407-f7004f1e-fb57-4cc7-909f-3c3bf73c817c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7827676779"
+    },
+    {
+        "id": "20260305-09",
+        "date": "20260305",
+        "rank": 9,
+        "name": "마루코메 요리정의 맛 모듬 파 + 두부 + 미역 + 유부 24개입",
+        "price": 13190,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/bf21/e986dbb9040ac7403c9449b01caae824719be6305199eb67229f02f520c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8677035262"
+    },
+    {
+        "id": "20260305-10",
+        "date": "20260305",
+        "rank": 10,
+        "name": "리지 현미유 플러스",
+        "price": 12900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/30229893411245-0bf5ae8a-9fb5-4728-864f-7feacee59175.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8179795850"
+    },
+    {
         "id": "20260304-01",
         "date": "20260304",
         "rank": 1,
