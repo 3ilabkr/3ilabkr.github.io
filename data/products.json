@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260307-01",
+        "date": "20260307",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 19400,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/491160655625651-74fe91fe-0f6d-42c1-b830-d6c75e8a8b52.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260307-02",
+        "date": "20260307",
+        "rank": 2,
+        "name": "쏜리서치 버버린 1000mg 캡슐",
+        "price": 48180,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/image_audit/prod/74577e5f-6d82-4454-9dbe-f5329ef1d079_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=433059"
+    },
+    {
+        "id": "20260307-03",
+        "date": "20260307",
+        "rank": 3,
+        "name": "하이피러브 이동식 트롤리 수납 선반",
+        "price": 18900,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/5fb5/d1aabb1d5b6eb5df0ed454ded71b2b78e4cb005f72fcc4e5e5735debf99d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9322986123"
+    },
+    {
+        "id": "20260307-04",
+        "date": "20260307",
+        "rank": 4,
+        "name": "삼성전자 블루스카이 3100 공기청정기 33.1㎡",
+        "price": 199950,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2025/04/10/10/3/9a307cc8-0370-48ff-a58a-1da4da8e44bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8707431315"
+    },
+    {
+        "id": "20260307-05",
+        "date": "20260307",
+        "rank": 5,
+        "name": "산리오캐릭터즈 뜯어 만들기: 소꿉놀이 하우스",
+        "price": 11140,
+        "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/a96e/1b07159a629e669274f82d87a28499d1f3588695f47ef94f7121d0b8d882.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8128594196"
+    },
+    {
+        "id": "20260307-06",
+        "date": "20260307",
+        "rank": 6,
+        "name": "프린세스 캐치티니핑 스티커로색칠 프린세스티니핑",
+        "price": 10800,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/10/30/14/5/8c8d5177-4b27-441c-b14c-afdd797a7931.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9158784215"
+    },
+    {
+        "id": "20260307-07",
+        "date": "20260307",
+        "rank": 7,
+        "name": "[모던하우스] ON마리 이중레이스 암막커튼 2장세트 2color 2size",
+        "price": 59900,
+        "image_url": "https://image15.coupangcdn.com/image/rs_quotation_api/gqs7mjyu/19886c2193a4429bb2e943266c026e0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7104943027"
+    },
+    {
+        "id": "20260307-08",
+        "date": "20260307",
+        "rank": 8,
+        "name": "뉴발란스키즈 아동용 EXCLUSIVE 에센셜 솔리드 바람막이 NK9AGB212U",
+        "price": 68700,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2026/02/24/17/9/3ac80ed3-d155-4b2f-9ae0-e87aca6bd4af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9396049814"
+    },
+    {
+        "id": "20260307-09",
+        "date": "20260307",
+        "rank": 9,
+        "name": "산리오 캐릭터즈 스퀴시 만들기",
+        "price": 12700,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/86c5/689ec6b92a7f8a4908a2573e5fa04ebc075a6f68f7a96ff3b1f49ba06501.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7828582093"
+    },
+    {
+        "id": "20260307-10",
+        "date": "20260307",
+        "rank": 10,
+        "name": "이자녹스 셀 리뉴 컨실링 쿠션 케이스 + 리필 2p + 퍼프 2p",
+        "price": 42220,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2435071985110376-d1b2d516-0ad0-4c6e-b016-9013f130ef8e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8319252119"
+    },
+    {
         "id": "20260306-01",
         "date": "20260306",
         "rank": 1,
