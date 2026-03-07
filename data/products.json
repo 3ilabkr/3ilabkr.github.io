@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260308-01",
+        "date": "20260308",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260308-02",
+        "date": "20260308",
+        "rank": 2,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 14900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260308-03",
+        "date": "20260308",
+        "rank": 3,
+        "name": "[색상선택형] 삼성전자 비스포크 313L 스탠드형 3도어 김치냉장고 김치플러스 키친핏 방문설치",
+        "price": 1408000,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/78f9/c728c8411374bfeeb55f8a6005ead5aebf95806524af611ba9c463e217f8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8397541638"
+    },
+    {
+        "id": "20260308-04",
+        "date": "20260308",
+        "rank": 4,
+        "name": "베네통 코튼 볼캡",
+        "price": 39000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/9945595893653-5fd5ac54-9136-410e-ac9b-f074f3f8a2ad.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8708434148"
+    },
+    {
+        "id": "20260308-05",
+        "date": "20260308",
+        "rank": 5,
+        "name": "나우푸드 글루타티온 500mg 베지 캡슐",
+        "price": 48850,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/9c09/648081aff3bc203d8e0c5c820c511ee3edd3210df119dca8adfbf73ed539.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=208403063"
+    },
+    {
+        "id": "20260308-06",
+        "date": "20260308",
+        "rank": 6,
+        "name": "행복미트 돼지 갈매기살 단막 원육 구이 볶음용 추천 당일발송",
+        "price": 26630,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/c4fa/0c67f7b31086eae00330c216a5139a0880cb0d1cb92f84af81b177eea38d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9137434912"
+    },
+    {
+        "id": "20260308-07",
+        "date": "20260308",
+        "rank": 7,
+        "name": "네이처리퍼블릭 캘리포니아 알로에 보송 선스틱 SPF50+ PA++++",
+        "price": 12000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/07/18/16/1/24415e68-dc3a-4f33-8cb1-f135b51549fc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=71939434"
+    },
+    {
+        "id": "20260308-08",
+        "date": "20260308",
+        "rank": 8,
+        "name": "밸런스온 베타젤 FIT 시트 L + 커버",
+        "price": 49000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/50961744976070-2547aa85-d4da-42fa-9539-a6ec3e87ab1c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8844962951"
+    },
+    {
+        "id": "20260308-09",
+        "date": "20260308",
+        "rank": 9,
+        "name": "타포 360도 회전형 2K 고화질 스마트 WiFi 홈 카메라 실내용",
+        "price": 45650,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/1763070522583045-0a208164-b0b5-4928-afe5-d7897fe052bc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7675548875"
+    },
+    {
+        "id": "20260308-10",
+        "date": "20260308",
+        "rank": 10,
+        "name": "Dreame 드리미 L10s heat 7000 Pa 자동 먼지 비움 58도 온수세척 45도 열풍건조 LDS 레이저 170분 음성 제어 로봇청소기",
+        "price": 559000,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/image_audit/prod/276a805a-6ccd-4d29-a13e-bcbdc4090675_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8461862077"
+    },
+    {
         "id": "20260307-01",
         "date": "20260307",
         "rank": 1,
