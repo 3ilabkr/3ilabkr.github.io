@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260310-01",
+        "date": "20260310",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14800,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20260310-02",
+        "date": "20260310",
+        "rank": 2,
+        "name": "테팔 인덕션 티타늄 1X 스테인리스 스틸 트렌디쿡 볶음팬",
+        "price": 46900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/346890688629726-7cf79afe-13a6-46ad-a6b1-a3e93abfd03d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7396408622"
+    },
+    {
+        "id": "20260310-03",
+        "date": "20260310",
+        "rank": 3,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 고급롤화장지",
+        "price": 14900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260310-04",
+        "date": "20260310",
+        "rank": 4,
+        "name": "나랑드사이다 제로",
+        "price": 12490,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/80870368036782-dc973a90-7102-44fc-9689-b902862ddd29.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7447842898"
+    },
+    {
+        "id": "20260310-05",
+        "date": "20260310",
+        "rank": 5,
+        "name": "Jarrow Formulas 자로우 펨 도피러스 어드밴스드 유산균 100억 CFU 30캡슐 (상온보관용)",
+        "price": 31270,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/23ca/c8a89ce31b158457f0c8785ba5cf28db36e9afac3d982ea7605210d0e3d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7522703123"
+    },
+    {
+        "id": "20260310-06",
+        "date": "20260310",
+        "rank": 6,
+        "name": "아띠래빗 첫 놀이 학습책 마이 퍼니북 헝겁책",
+        "price": 38900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/13783545789295-a461186c-2e28-4372-848c-aa6d7e15bea9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7772401928"
+    },
+    {
+        "id": "20260310-07",
+        "date": "20260310",
+        "rank": 7,
+        "name": "쏜리서치 S.A.T 캡슐",
+        "price": 51450,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/4f32/677c43cd4997ab1fc33df91b7eaceb77010002d8d99fa161277bee963e06.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6432166864"
+    },
+    {
+        "id": "20260310-08",
+        "date": "20260310",
+        "rank": 8,
+        "name": "그린몬스터 헐리우드 48시간",
+        "price": 25600,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/1129891686232247-7b3ed5a6-ae3f-4d18-a513-a88929591ba2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7724332202"
+    },
+    {
+        "id": "20260310-09",
+        "date": "20260310",
+        "rank": 9,
+        "name": "휘슬러 시그니처 밧드 3종 세트",
+        "price": 47900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2026/01/28/10/6/0d99ef0b-fdea-4333-ac9f-d74741663cf8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8262948052"
+    },
+    {
+        "id": "20260310-10",
+        "date": "20260310",
+        "rank": 10,
+        "name": "스카치브라이트 베이킹소다 톡톡 크린스틱 시트타입 본품",
+        "price": 25900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/3489079584027342-88c3ce9e-553a-48ba-aa95-7b5183d4afe7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7759292294"
+    },
+    {
         "id": "20260309-01",
         "date": "20260309",
         "rank": 1,
