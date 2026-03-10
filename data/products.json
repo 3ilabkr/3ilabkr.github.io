@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260311-01",
+        "date": "20260311",
+        "rank": 1,
+        "name": "루메나 무드등 SPACE M1",
+        "price": 74000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/426878843647546-e771c32f-1a81-4920-af9d-d1c9c7ce0802.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527351252"
+    },
+    {
+        "id": "20260311-02",
+        "date": "20260311",
+        "rank": 2,
+        "name": "휘슬러 인덕션 카타니아 프라이팬",
+        "price": 78960,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/e44b/46efd53757cf9672ba6c4c26f1ad6d5987848310b280c85a82603a4513dc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6550033429"
+    },
+    {
+        "id": "20260311-03",
+        "date": "20260311",
+        "rank": 3,
+        "name": "로이드 여성용 쁘띠 담수진주 목걸이",
+        "price": 59900,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/f1gequan/3c39c7749b6743f79a31f8c1f2e56bbe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9325300417"
+    },
+    {
+        "id": "20260311-04",
+        "date": "20260311",
+        "rank": 4,
+        "name": "마이밀 뉴프로틴 오리지널 드링크",
+        "price": 55000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/43954471874375-f93ab182-0d58-4c4b-92fb-751ff7f07b24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20260311-05",
+        "date": "20260311",
+        "rank": 5,
+        "name": "베네통키즈 투톤 코튼 볼캡",
+        "price": 29000,
+        "image_url": "https://image6.coupangcdn.com/image/rs_quotation_api/t5viodzh/182f096721cc430da2ffdd7791394c4d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9342058988"
+    },
+    {
+        "id": "20260311-06",
+        "date": "20260311",
+        "rank": 6,
+        "name": "착한구두 자벳 유니화 펌프스 6cm PPLTT3g146",
+        "price": 31900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/179640712162405-a3d8651f-b81f-4042-a995-300d4c1e8fb2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8312810469"
+    },
+    {
+        "id": "20260311-07",
+        "date": "20260311",
+        "rank": 7,
+        "name": "블라우풍트 Ai ENC 블루핏 본 프로 러닝 골전도 이어폰",
+        "price": 128000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/122482157036975-2fdef1c0-98f7-4189-8cfb-c0fa20dbe07d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9151394929"
+    },
+    {
+        "id": "20260311-08",
+        "date": "20260311",
+        "rank": 8,
+        "name": "위드맘 산양 제왕 분유 2단계",
+        "price": 39900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/171120920731258-1b8ff05b-5810-4bf3-b794-2f80b408c009.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8775959217"
+    },
+    {
+        "id": "20260311-09",
+        "date": "20260311",
+        "rank": 9,
+        "name": "미즈노 러쉬 더블 쿠션 단목 양말",
+        "price": 16500,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/5032193343769941-85542a09-db14-484b-bf23-782047b3dfba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6638406272"
+    },
+    {
+        "id": "20260311-10",
+        "date": "20260311",
+        "rank": 10,
+        "name": "코리아푸드 마카로니 대롱과자 box포장",
+        "price": 9980,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/e9282fe51a7a174822b4385e987fcbfa720566409ec6561758ebe34063f2_1754463601111.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4867000590"
+    },
+    {
         "id": "20260310-01",
         "date": "20260310",
         "rank": 1,
