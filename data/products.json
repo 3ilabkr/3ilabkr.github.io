@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260312-01",
+        "date": "20260312",
+        "rank": 1,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260312-02",
+        "date": "20260312",
+        "rank": 2,
+        "name": "가그린 제로 구강청결제",
+        "price": 13560,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260312-03",
+        "date": "20260312",
+        "rank": 3,
+        "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD",
+        "price": 25200,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9057383530"
+    },
+    {
+        "id": "20260312-04",
+        "date": "20260312",
+        "rank": 4,
+        "name": "Kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 47060,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/eabf/014c6861f9e399bce5ee12576e9a1eab953079709a6366ee0a541fd04f9f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260312-05",
+        "date": "20260312",
+        "rank": 5,
+        "name": "맛꾼 파손보상 촉촉쫄깃 맥반석 구운계란 찜질방",
+        "price": 17120,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/c8e4/c05a7b5b728ea259ce8027b9f63d3fab9a5779c54fb89465bed7e32ae4a2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8529746863"
+    },
+    {
+        "id": "20260312-06",
+        "date": "20260312",
+        "rank": 6,
+        "name": "나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡슐",
+        "price": 33310,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/4842/ea7978b0c72df996b3577518cdca146e74b9aa6348a634902f16838d43c7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9334810162"
+    },
+    {
+        "id": "20260312-07",
+        "date": "20260312",
+        "rank": 7,
+        "name": "쏜리서치 베이직 뉴트리언트 2 데이 캡슐",
+        "price": 39420,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/2b009faaa27090778b17148c7282bee4c5979144680438ca9e7dc7b5a404_1756111373248.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6082733474"
+    },
+    {
+        "id": "20260312-08",
+        "date": "20260312",
+        "rank": 8,
+        "name": "뷰하우스 메이즈 원톤 암막 커튼 2p + 실속 봉 세트",
+        "price": 73200,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/4175094679208699-ceb099a7-ea4d-49e4-9bd9-f8df793fc005.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5372913328"
+    },
+    {
+        "id": "20260312-09",
+        "date": "20260312",
+        "rank": 9,
+        "name": "휘슬러 인덕션 함부르크 메탈 4종",
+        "price": 399000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2025/07/29/15/5/1efcde03-b331-4403-9dc3-bd3d5458ea02.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8953121165"
+    },
+    {
+        "id": "20260312-10",
+        "date": "20260312",
+        "rank": 10,
+        "name": "시디즈 T50 컴퓨터 책상 의자 HDA 방문설치",
+        "price": 317000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2024/01/12/18/7/7e9d67a8-e04f-41e3-a87f-21b5f4934d88.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7830801595"
+    },
+    {
         "id": "20260311-01",
         "date": "20260311",
         "rank": 1,
