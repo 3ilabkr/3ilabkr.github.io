@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260313-01",
+        "date": "20260313",
+        "rank": 1,
+        "name": "스프라이트 제로 사이다",
+        "price": 15370,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/114758953175362-29e24f15-785d-42ec-a9c7-d4fb85fbca2e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9391860017"
+    },
+    {
+        "id": "20260313-02",
+        "date": "20260313",
+        "rank": 2,
+        "name": "셀렉스 프로틴 락토프리 파우더",
+        "price": 32900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/63872012499704-33225140-0eba-4a96-bf41-15e90d45e944.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6825320316"
+    },
+    {
+        "id": "20260313-03",
+        "date": "20260313",
+        "rank": 3,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자 학생 사무실의자 공부의자 사무실 회의실 독서실 사무용 컴퓨터 의자 푹신한 메쉬 의자",
+        "price": 43750,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/e6e6/96daddac84f3c81b9761a2558a5992dedbb9777cf9bb1d3dfc8ce95d9f4c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260313-04",
+        "date": "20260313",
+        "rank": 4,
+        "name": "2026년 프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 271500,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260313-05",
+        "date": "20260313",
+        "rank": 5,
+        "name": "하비티 도톰하고 부드러운 수건 200g 40수 코마사",
+        "price": 35900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/363463538130482-fe2f3215-76ca-4eeb-aca4-feb9a1f3636b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7991806412"
+    },
+    {
+        "id": "20260313-06",
+        "date": "20260313",
+        "rank": 6,
+        "name": "델포유 오븐에 구운 십센치 파운드 케이크 50g",
+        "price": 16900,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/ac64/8fc3231c6713ce3f7f7cf59723d5e009d149d64ea0d0d8bb9d48894d9606.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7679943903"
+    },
+    {
+        "id": "20260313-07",
+        "date": "20260313",
+        "rank": 7,
+        "name": "LG전자 모던엣지 300L 일반형 냉장고 방문설치",
+        "price": 690000,
+        "image_url": "https://img3a.coupangcdn.com/image/1025_amir_coupang_oct_80k/b796/b8a5c44bf59afe58b87255d57d8955aef4820e31f8b7731dc54c31155e24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6159917492"
+    },
+    {
+        "id": "20260313-08",
+        "date": "20260313",
+        "rank": 8,
+        "name": "울팜 아삭 달달 국내산 친환경 양배추 제주 무안 밀양",
+        "price": 8910,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/8a34/741a87cec98a43927698a385ebe91516bdeca50eae559a07f35c80fba258.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8795096974"
+    },
+    {
+        "id": "20260313-09",
+        "date": "20260313",
+        "rank": 9,
+        "name": "스너글 섬유유연제 블루스파클 플러스 리필",
+        "price": 14050,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/1072834815350089-981380da-3b3d-472b-8c85-545f8a46c186.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757704253"
+    },
+    {
+        "id": "20260313-10",
+        "date": "20260313",
+        "rank": 10,
+        "name": "뉴발란스 남성용 UNI 헤리티지 세미오버핏 후드티 NBN0F11243",
+        "price": 79000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/422998857153153-6043e7e2-e8b3-423a-9204-b7a2a1fd1385.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8885000520"
+    },
+    {
         "id": "20260312-01",
         "date": "20260312",
         "rank": 1,
