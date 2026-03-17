@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260318-01",
+        "date": "20260318",
+        "rank": 1,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11890,
+        "image_url": "https://static.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260318-02",
+        "date": "20260318",
+        "rank": 2,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 22800,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260318-03",
+        "date": "20260318",
+        "rank": 3,
+        "name": "푸드올로지 정품 콜레올로지컷 다이어트 유산균",
+        "price": 57000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/69c12070-9fe2-4df1-ae12-9c059d9113a07043021572304029926.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8289138525"
+    },
+    {
+        "id": "20260318-04",
+        "date": "20260318",
+        "rank": 4,
+        "name": "아카페라 심플리 아메리카노 무라벨",
+        "price": 22750,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/8250492549894-95c9e2bc-e63b-4f48-ac0c-6edba2dae5d1.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9069380309"
+    },
+    {
+        "id": "20260318-05",
+        "date": "20260318",
+        "rank": 5,
+        "name": "스너글 섬유유연제 햇빛건조향 허거블 선샤인 본품",
+        "price": 17500,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/17612216138383-46ac9b6f-f751-4a57-8106-c63913b92bbc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150772617"
+    },
+    {
+        "id": "20260318-06",
+        "date": "20260318",
+        "rank": 6,
+        "name": "홍영의 붉은대게 백간장",
+        "price": 9390,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1852130626"
+    },
+    {
+        "id": "20260318-07",
+        "date": "20260318",
+        "rank": 7,
+        "name": "퀘스트뉴트리션 프로틴 바 스모어",
+        "price": 34390,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/0cb6/6735203b0f179154eedc164a510ca1926dbeed839677627e5c06150a1b8e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5546189150"
+    },
+    {
+        "id": "20260318-08",
+        "date": "20260318",
+        "rank": 8,
+        "name": "삭스판다 여성용 발이 편한 카바 밴딩 중목 양말 20켤레 세트",
+        "price": 9900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/1812072059847892-65f52ca3-b5e9-4cd5-acb3-4eb03fffda72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9286547599"
+    },
+    {
+        "id": "20260318-09",
+        "date": "20260318",
+        "rank": 9,
+        "name": "엔클레어 여성용 모이사나이트 랩다이아몬드 6프롱 1캐럿 18k 골드필드 목걸이",
+        "price": 140720,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/3091/ef91daadf5443b7d79fa81b5b72a801e84f6ca60ae1c211c348378c699f9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7699975577"
+    },
+    {
+        "id": "20260318-10",
+        "date": "20260318",
+        "rank": 10,
+        "name": "듀플렉스 무선 미니 탁상용 선풍기",
+        "price": 19800,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/22752977208261-c1b52f41-09d7-4ce7-b13f-7349ff8e39d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8686495362"
+    },
+    {
         "id": "20260317-01",
         "date": "20260317",
         "rank": 1,
