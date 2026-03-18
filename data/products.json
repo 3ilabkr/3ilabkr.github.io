@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260319-01",
+        "date": "20260319",
+        "rank": 1,
+        "name": "리큐 진한겔 꿉꿉한 냄새 원인물질 싹 일반드럼겸용 프레시 런드리향 액상세제 리필",
+        "price": 28400,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/36624579664596-bad199ba-5649-4101-8717-67cf86ac03d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6746052927"
+    },
+    {
+        "id": "20260319-02",
+        "date": "20260319",
+        "rank": 2,
+        "name": "온더바디 코튼풋 발을 씻자 풋샴푸 레몬민트향 에코 리필팩",
+        "price": 9900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/4929043974002499-b02d79ac-0ad6-4a91-8d8e-d9718c4676e6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7398402281"
+    },
+    {
+        "id": "20260319-03",
+        "date": "20260319",
+        "rank": 3,
+        "name": "동원참치 고추 참치",
+        "price": 12830,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/301197346688269-aa38c744-f6fa-4624-b65a-251632b27659.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1145100301"
+    },
+    {
+        "id": "20260319-04",
+        "date": "20260319",
+        "rank": 4,
+        "name": "슈피겐 맥세이프 미니 블루투스 셀카봉 삼각대 원더스냅 맥핏",
+        "price": 37600,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/434106269594684-d2c05056-7d18-4750-b04d-74d652e2488f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8232441666"
+    },
+    {
+        "id": "20260319-05",
+        "date": "20260319",
+        "rank": 5,
+        "name": "[로켓프레시] 고소하게 늘어나는 모짜렐라 슈레드치즈",
+        "price": 13590,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/595790499870890-0c041445-ed62-4192-abde-bf46604911b7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7738003363"
+    },
+    {
+        "id": "20260319-06",
+        "date": "20260319",
+        "rank": 6,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 59800,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/9315/275ebdc10267f80d101b7420f99547448a8dbc1435a7dcbfd467ece4082c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20260319-07",
+        "date": "20260319",
+        "rank": 7,
+        "name": "이디야 아이스아메리카노 스틱커피",
+        "price": 12700,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/7d1d/497b17fd8dfb50f092bc493147141e67cbd6a837e831b99173b53c866803.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7816341185"
+    },
+    {
+        "id": "20260319-08",
+        "date": "20260319",
+        "rank": 8,
+        "name": "아우라 드라이 섬유유연시트 스윗만다린 앤 피오니향 본품",
+        "price": 13180,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/1745820927983147-8fc09e95-97e2-42ad-9525-97c1df393f5c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=312729338"
+    },
+    {
+        "id": "20260319-09",
+        "date": "20260319",
+        "rank": 9,
+        "name": "그린리필 매직캔 호환 리필 쓰레기 봉투 280, 절약팩 포함",
+        "price": 13650,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/337606734414866-9856e529-7a20-49fd-b01e-408228f05019.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9345937851"
+    },
+    {
+        "id": "20260319-10",
+        "date": "20260319",
+        "rank": 10,
+        "name": "헬로베딩 국내 제조 스트라이프 무드 부드러운 촉감 차렵이불",
+        "price": 36900,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/qyr7mo1n/55c23500f4544e2bb38879e27635d9cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8556430975"
+    },
+    {
         "id": "20260318-01",
         "date": "20260318",
         "rank": 1,
