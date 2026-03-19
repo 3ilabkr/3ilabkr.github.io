@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260320-01",
+        "date": "20260320",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16840,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260320-02",
+        "date": "20260320",
+        "rank": 2,
+        "name": "코코도르 프리미엄 디퓨저 + 섬유스틱 7p",
+        "price": 23900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2025/03/07/17/6/de426ae9-7055-4b23-aa02-e28b38f5029b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7342089551"
+    },
+    {
+        "id": "20260320-03",
+        "date": "20260320",
+        "rank": 3,
+        "name": "쿡셀 인덕션 7세대 세라믹 블랙에디션 냄비 프라이팬 세트",
+        "price": 218000,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2026/02/27/14/9/748c3def-53ff-4e5f-a54b-f7022aa1f7f5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9402698672"
+    },
+    {
+        "id": "20260320-04",
+        "date": "20260320",
+        "rank": 4,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 125130,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/036c/f514aee9a938c5ba622a7827ab173d8d1949dd4b11cf7af0b17c82676bcb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758565034"
+    },
+    {
+        "id": "20260320-05",
+        "date": "20260320",
+        "rank": 5,
+        "name": "쁘리엘르 실루엣 쉬폰 나비주름 커튼 높이 조절핀형",
+        "price": 34900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/110078722378673-8c1dc9dc-6af4-4ae0-a2c5-88b9bcbd565e.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8207348001"
+    },
+    {
+        "id": "20260320-06",
+        "date": "20260320",
+        "rank": 6,
+        "name": "질레트 퓨전 5중 서스펜션 면도기 세트",
+        "price": 33490,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/11/21/13/2/aff7a0a3-8853-42f1-9d5a-249a03e54247.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9200427580"
+    },
+    {
+        "id": "20260320-07",
+        "date": "20260320",
+        "rank": 7,
+        "name": "실크테라피 오리지널 라이트 헤어에센스",
+        "price": 16900,
+        "image_url": "https://static.coupangcdn.com/image/1025_amir_coupang_oct_80k/6d4a/c6f61093757ac2eb899cfe679ad3f3f2b81b629a7006828d2cc877a38fa8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7589619121"
+    },
+    {
+        "id": "20260320-08",
+        "date": "20260320",
+        "rank": 8,
+        "name": "스마텍 PD 고속 LED 보조 배터리 20000mAh",
+        "price": 14900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/108629646580061-46e64702-78f0-4598-9895-9f6a8cca08a6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8639482507"
+    },
+    {
+        "id": "20260320-09",
+        "date": "20260320",
+        "rank": 9,
+        "name": "살림의기술 어깨뿔방지 논슬립 스틸 옷걸이",
+        "price": 17900,
+        "image_url": "https://image2.coupangcdn.com/image/rs_quotation_api/awl3sumg/67fd33a5a2a64e82855c1a8fe2af42cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5449205688"
+    },
+    {
+        "id": "20260320-10",
+        "date": "20260320",
+        "rank": 10,
+        "name": "네파키즈 마운티어 운동화 NE6SS51",
+        "price": 54000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/1177510062586972-f921f63f-26c3-44c8-b961-2f1e5f3825fc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9309701805"
+    },
+    {
         "id": "20260319-01",
         "date": "20260319",
         "rank": 1,
