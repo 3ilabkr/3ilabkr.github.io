@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260321-01",
+        "date": "20260321",
+        "rank": 1,
+        "name": "퍼실 딥클린 플러스 액상 세탁세제 라벤더젤 일반용 리필",
+        "price": 13000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/333028745748291-220b2d84-5bfa-49fc-8cdf-e9b7ee1630fb.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9426003360"
+    },
+    {
+        "id": "20260321-02",
+        "date": "20260321",
+        "rank": 2,
+        "name": "삼양라면 120g",
+        "price": 6820,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1058716610398423-28b447a5-b635-41ff-8b22-5304e99669fc.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7460637047"
+    },
+    {
+        "id": "20260321-03",
+        "date": "20260321",
+        "rank": 3,
+        "name": "Kipnos 행거 이동식행거 스탠드 옷걸이행거 이동식 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 27000,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/7050/1e3a290ed9a487b48008d2fb50104706fd494a1c7a51020794d77a904033.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8817531233"
+    },
+    {
+        "id": "20260321-04",
+        "date": "20260321",
+        "rank": 4,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 22800,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/71398767918130-b431ac05-41d7-466f-83e2-c4758d247341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
+        "id": "20260321-05",
+        "date": "20260321",
+        "rank": 5,
+        "name": "Sistema 브릴리언스 트라이탄 밀폐용기",
+        "price": 32900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/4262353535564843-1e23eb02-c58c-4c8a-a0ce-957ad624eab0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8071106221"
+    },
+    {
+        "id": "20260321-06",
+        "date": "20260321",
+        "rank": 6,
+        "name": "헤지스 아이코닉 나일론 퍼피 로고 와이드 쇼퍼백, 카드참",
+        "price": 150000,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2025/11/04/11/7/e4ca621e-5a33-4471-a6f1-2042a0fad445.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8969269288"
+    },
+    {
+        "id": "20260321-07",
+        "date": "20260321",
+        "rank": 7,
+        "name": "[로켓프레시] 이웃마을 태국산 남독마이 망고",
+        "price": 33990,
+        "image_url": "https://img4c.coupangcdn.com/image/rs_quotation_api/sblqmfdp/932cfbb481b348ab8fc1789d53d0fb61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8019534694"
+    },
+    {
+        "id": "20260321-08",
+        "date": "20260321",
+        "rank": 8,
+        "name": "당일발송 제주 구좌 첫수확 국내산 햇 흙당근",
+        "price": 7120,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/44af/5852e413ea9aa0defadda946aa11901d21533deaf15628d147b0553915c5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7696820976"
+    },
+    {
+        "id": "20260321-09",
+        "date": "20260321",
+        "rank": 9,
+        "name": "지프스피릿 캐주얼 스포츠 웨빙 벨트 BT0498 + 케이스 세트",
+        "price": 15470,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2024/06/11/14/2/935a90e0-0dcd-443f-a66a-ff8b6f2a5fe9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8158966911"
+    },
+    {
+        "id": "20260321-10",
+        "date": "20260321",
+        "rank": 10,
+        "name": "하늘보리 유기농 차",
+        "price": 13270,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/5bbd/1c9f1af1645431da7a4c64308f1e1ec9b74746dee8965880421d1065c0a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=611206"
+    },
+    {
         "id": "20260320-01",
         "date": "20260320",
         "rank": 1,
