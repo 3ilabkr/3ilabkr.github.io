@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260322-01",
+        "date": "20260322",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 22170,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/97157453364183-8be52b06-cebe-44b1-88b7-8fad5587234c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260322-02",
+        "date": "20260322",
+        "rank": 2,
+        "name": "투에스리빙 허리탄탄 굿코어 포켓스프링 매트리스",
+        "price": 75750,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/e3e9/94080cca8e0981def2fe7b7bc3e07f95c091f7ddbc2eeb152c08a44b5856.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9061251909"
+    },
+    {
+        "id": "20260322-03",
+        "date": "20260322",
+        "rank": 3,
+        "name": "집밥 10kg 백미 쌀 2025년햅쌀",
+        "price": 31800,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/5666/d4d0a267bd941806f723064313ff81c011a708397fa4b832377bffde8bb9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9155329019"
+    },
+    {
+        "id": "20260322-04",
+        "date": "20260322",
+        "rank": 4,
+        "name": "고릴라랩 더 빵빵해진 이염방지 뚱시트",
+        "price": 15900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2025/03/11/13/9/200a0feb-0b0f-4227-be80-9d7aedea3f67.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7549652625"
+    },
+    {
+        "id": "20260322-05",
+        "date": "20260322",
+        "rank": 5,
+        "name": "에이지투웨니스 시그니처 에센스 커버 팩트 인텐스 케이스 + 리필 14g 2p 세트",
+        "price": 26900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/98766505950490-04fcc157-0afc-4b7f-9182-73bd835dff1f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9165805224"
+    },
+    {
+        "id": "20260322-06",
+        "date": "20260322",
+        "rank": 6,
+        "name": "끄레앙 프리즘 큐브 펄 화장품 파우치 1510",
+        "price": 7920,
+        "image_url": "https://image1.coupangcdn.com/image/rs_quotation_api/bmfvmpmz/9d1ec1e72cdd40538abdcba8f090a452.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5808844936"
+    },
+    {
+        "id": "20260322-07",
+        "date": "20260322",
+        "rank": 7,
+        "name": "맘스럽 퍼팩트 캡슐세제 4챔버 파우치형 국산제조 8배 초고농축 4in1 대용량 실내건조",
+        "price": 8990,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/1291/43abe4e67bcf2a05c06f87014ec2f2483b3faf88a4652a453e4504404386.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8641935458"
+    },
+    {
+        "id": "20260322-08",
+        "date": "20260322",
+        "rank": 8,
+        "name": "가비진 여성용 스판 좋은 핀턱 밴딩 일자 와이드 팬츠 키작녀 바지 빅사이즈까지",
+        "price": 15340,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/d3df/9b800e4185b1b11d30ddb5c872a5cbb030a405525e5c7a81be78ecfbe964.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7872502734"
+    },
+    {
+        "id": "20260322-09",
+        "date": "20260322",
+        "rank": 9,
+        "name": "fmgt 틴트 글로우 4.5g",
+        "price": 8050,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/475400339853001-52efcdac-8154-4787-af57-43b6ef1fb703.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7756237227"
+    },
+    {
+        "id": "20260322-10",
+        "date": "20260322",
+        "rank": 10,
+        "name": "스타우브 에나멜 주철 냄비",
+        "price": 249900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/5427/4a97a2a99b260655ac187f6fe795f07718c17199eed32944df956f2540d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8412947232"
+    },
+    {
         "id": "20260321-01",
         "date": "20260321",
         "rank": 1,
