@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260323-01",
+        "date": "20260323",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 21990,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260323-02",
+        "date": "20260323",
+        "rank": 2,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260323-03",
+        "date": "20260323",
+        "rank": 3,
+        "name": "매일두유 고단백 플레인 두유",
+        "price": 18090,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/18173613690250-8e416156-0a55-413b-9873-1784de864fab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7749071357"
+    },
+    {
+        "id": "20260323-04",
+        "date": "20260323",
+        "rank": 4,
+        "name": "마인드브릿지 남녀공용 통기성 고밀도 20수 순면 기본 반팔티 티셔츠 3팩 MATS0101",
+        "price": 19900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/595992354524873-a301fe67-fb49-4dcc-a508-b7e2a5abe87f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4369073195"
+    },
+    {
+        "id": "20260323-05",
+        "date": "20260323",
+        "rank": 5,
+        "name": "스페리탑사이더 키즈 다이얼 러너 운동화 S2SFKKSC01",
+        "price": 49900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/403054780695992-446ebe62-b1dd-4113-aaae-01b9cec14cf1.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9325322137"
+    },
+    {
+        "id": "20260323-06",
+        "date": "20260323",
+        "rank": 6,
+        "name": "ON 데이 차광 커튼 + 타이백",
+        "price": 25900,
+        "image_url": "https://image8.coupangcdn.com/image/rs_quotation_api/vewxaf17/5fac35ee02e54b889f40d36f69ed716d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7851938937"
+    },
+    {
+        "id": "20260323-07",
+        "date": "20260323",
+        "rank": 7,
+        "name": "크라운포드 2인 식기세트 14p",
+        "price": 18000,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/669b/16fa09eb30b3d21a61c715aac5e20b3218474d241dbcb9d36e98bee9d484.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=304387060"
+    },
+    {
+        "id": "20260323-08",
+        "date": "20260323",
+        "rank": 8,
+        "name": "해피콜 인덕션 이든 냄비세트 4종",
+        "price": 173300,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/176309815555266-3dd4f5e8-d778-46df-bf04-955307d952e5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9072130276"
+    },
+    {
+        "id": "20260323-09",
+        "date": "20260323",
+        "rank": 9,
+        "name": "바이오가이아 프로텍티스 이지드롭 프로바이오틱스 + 비타민 D 영양제",
+        "price": 57950,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/79359488406183-b1444139-e293-4af7-8306-7b06bd279d9e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8746727694"
+    },
+    {
+        "id": "20260323-10",
+        "date": "20260323",
+        "rank": 10,
+        "name": "파르페by알레르망 오프닝 알러지케어 다운필 차렵이불 세트",
+        "price": 95100,
+        "image_url": "https://img1c.coupangcdn.com/image/rs_quotation_api/wkpxhlhz/ec03fc7fb653489fa827ce9c301839fc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8285889030"
+    },
+    {
         "id": "20260322-01",
         "date": "20260322",
         "rank": 1,
