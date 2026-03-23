@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260324-01",
+        "date": "20260324",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260324-02",
+        "date": "20260324",
+        "rank": 2,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 78900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20260324-03",
+        "date": "20260324",
+        "rank": 3,
+        "name": "아몬드브리즈 언스위트",
+        "price": 16500,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=329389373"
+    },
+    {
+        "id": "20260324-04",
+        "date": "20260324",
+        "rank": 4,
+        "name": "연세우유 멸균 흰우유",
+        "price": 14450,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/31743637760094-4bb3ab71-bffa-4f1e-828e-6223ff67f041.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=3955632"
+    },
+    {
+        "id": "20260324-05",
+        "date": "20260324",
+        "rank": 5,
+        "name": "글라스락 렌지쿡 촉촉한 햇밥용기 원형 무드브릭",
+        "price": 24520,
+        "image_url": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/ac56/97ab5df1c6026f1d2bdffb15183fbdfd217d88dee465bb9f5f5e1d01999f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1354114584"
+    },
+    {
+        "id": "20260324-06",
+        "date": "20260324",
+        "rank": 6,
+        "name": "HANYO 방수 작업복 포켓 디자인 등산캠핑용  아웃도어 남녀공용 캐주얼 롱팬츠",
+        "price": 26770,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/17e3/f430931afc2c45cf9ac5044b8b0b8bc609cf4799f3d2f077be587dd65d69.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8304923114"
+    },
+    {
+        "id": "20260324-07",
+        "date": "20260324",
+        "rank": 7,
+        "name": "재로우 우먼 펨-도필러스 유산균 10억 베지테리안 캡슐",
+        "price": 83570,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/8445/8dad8a7f7501ca24aaa27d9e51638c893cbfde66391e5f60fbea237ea58a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8336583914"
+    },
+    {
+        "id": "20260324-08",
+        "date": "20260324",
+        "rank": 8,
+        "name": "지리산수 무라벨",
+        "price": 10200,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/3646448824876-2cbf8382-b58b-4806-9fbd-013e7537c713.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1357560685"
+    },
+    {
+        "id": "20260324-09",
+        "date": "20260324",
+        "rank": 9,
+        "name": "아웃도어프로덕츠 라이트 버킷햇",
+        "price": 26500,
+        "image_url": "https://static.coupangcdn.com/image/rs_quotation_api/hruc0yka/b976407fb52545ed9087d4dada1fd4f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8708434034"
+    },
+    {
+        "id": "20260324-10",
+        "date": "20260324",
+        "rank": 10,
+        "name": "쿡셀 인덕션 IH 세라믹 레드에디션 프라이팬 7종 세트",
+        "price": 238000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2026/02/27/12/6/dfc62777-6372-44e2-a018-514a12eaaa1e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9402446370"
+    },
+    {
         "id": "20260323-01",
         "date": "20260323",
         "rank": 1,
