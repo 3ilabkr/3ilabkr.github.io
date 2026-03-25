@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260326-01",
+        "date": "20260326",
+        "rank": 1,
+        "name": "포카리스웨트 무라벨",
+        "price": 14680,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/419385647338911-86003985-7e85-4193-975e-acd880c1fa7e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544933292"
+    },
+    {
+        "id": "20260326-02",
+        "date": "20260326",
+        "rank": 2,
+        "name": "세브란스에이투 전용목장 단백우유",
+        "price": 21900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/76770692332221-21d75e51-edcd-4f76-bd76-29d964121ed5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660544404"
+    },
+    {
+        "id": "20260326-03",
+        "date": "20260326",
+        "rank": 3,
+        "name": "키루에 두꺼운 시원한 여름 이불 사계절 이불 캠핑 이불 차렵이불",
+        "price": 17900,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/8651/4763c5ffc5f8a0cbd593c95879733ec938e465ad70b964ae53077480c138.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9445699780"
+    },
+    {
+        "id": "20260326-04",
+        "date": "20260326",
+        "rank": 4,
+        "name": "라보토리 사무용 컴퓨터 의자",
+        "price": 39900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/f9b1/002f92fbd83b4be1312d6ad75db1508d539950fa1032fd231a80c8a26464.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9400831545"
+    },
+    {
+        "id": "20260326-05",
+        "date": "20260326",
+        "rank": 5,
+        "name": "오리온 카스타드 딸기 생크림 12p",
+        "price": 5150,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/a90d/e87fda2c7bc81234e613da1a8d78db9bd27cd29c280c11645c4456109b84.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8511096734"
+    },
+    {
+        "id": "20260326-06",
+        "date": "20260326",
+        "rank": 6,
+        "name": "블랙야크 라운드 트리플 반팔티 3p 세트",
+        "price": 49000,
+        "image_url": "https://img3c.coupangcdn.com/image/rs_quotation_api/8g8ypmhf/5fed14bde4ab497bbdd9d8ff5ee7ddb3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9399933195"
+    },
+    {
+        "id": "20260326-07",
+        "date": "20260326",
+        "rank": 7,
+        "name": "헤지스 나일론 미니 크로스백",
+        "price": 84000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/11/20/14/8/226708c1-fd62-46e1-85ca-9f451c7e5355.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9198413417"
+    },
+    {
+        "id": "20260326-08",
+        "date": "20260326",
+        "rank": 8,
+        "name": "스마텍 듀얼포트 슬림보조배터리 20000mAh c타입 케이블",
+        "price": 10900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/178975416918035-c5d1c8ce-ae27-426e-9ff7-90c7991e1ba6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6161843696"
+    },
+    {
+        "id": "20260326-09",
+        "date": "20260326",
+        "rank": 9,
+        "name": "쁘리엘르 제이드2 아일렛 암막 커튼 2장",
+        "price": 29900,
+        "image_url": "https://img4c.coupangcdn.com/image/rs_quotation_api/wzb4e1fk/3aca281d21a047ac8bd4be91a5612d91.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8364222134"
+    },
+    {
+        "id": "20260326-10",
+        "date": "20260326",
+        "rank": 10,
+        "name": "쿤달 허니 앤 마카다미아 헤어트리트먼트 베이비파우더향",
+        "price": 13050,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/201914643784932-edf74146-d46e-4e92-af68-7992f2db3504.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=10349028"
+    },
+    {
         "id": "20260325-01",
         "date": "20260325",
         "rank": 1,
