@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260327-01",
+        "date": "20260327",
+        "rank": 1,
+        "name": "마이밀 뉴프로틴 오리지널 드링크",
+        "price": 55000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/43954471874375-f93ab182-0d58-4c4b-92fb-751ff7f07b24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20260327-02",
+        "date": "20260327",
+        "rank": 2,
+        "name": "쿠쿠 전자레인지 다이얼식 20L",
+        "price": 61970,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1739905866850695-52c0e620-29f6-47c8-9f08-66f8f62b67e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6784715012"
+    },
+    {
+        "id": "20260327-03",
+        "date": "20260327",
+        "rank": 3,
+        "name": "2025년형 프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 89900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/5ad7/19e5b171721883b071c4867088e9ab6ac6390bbf419967f26e1d013ad586.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260327-04",
+        "date": "20260327",
+        "rank": 4,
+        "name": "투에스리빙 컴퓨터 게이밍 책상",
+        "price": 36900,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/af66/e66f46ab9ce92d6260afa6f1a1a3f641f54cdb7036629006ab89e975a9af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9200089838"
+    },
+    {
+        "id": "20260327-05",
+        "date": "20260327",
+        "rank": 5,
+        "name": "에바핏 NBR 프리미엄 요가매트 20mm",
+        "price": 28900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2025/08/06/14/2/0bc74410-af1c-4ddd-9597-db249f32c26e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=25888977"
+    },
+    {
+        "id": "20260327-06",
+        "date": "20260327",
+        "rank": 6,
+        "name": "비오비타 배배 유아 유산균",
+        "price": 25160,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/330445655658067-91adc691-9da0-4a48-805f-49154760d55c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7185633375"
+    },
+    {
+        "id": "20260327-07",
+        "date": "20260327",
+        "rank": 7,
+        "name": "하이피러브 이동식 트롤리 수납 선반",
+        "price": 18900,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/b965/339a608dbef40fdd87fb6657982b5b959493c984fb40ead4346bb91149ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9322986123"
+    },
+    {
+        "id": "20260327-08",
+        "date": "20260327",
+        "rank": 8,
+        "name": "HUTT 창문 로봇청소기 베란다 아파트 유리창 이중창 청소 창문닦이 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 259900,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/0236/9f161a78a55bb8a8b4ca6c35bff42da4b99a00921057b9a76621660cba99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8666001365"
+    },
+    {
+        "id": "20260327-09",
+        "date": "20260327",
+        "rank": 9,
+        "name": "Jarrow Formulas 자로우 펨 도피러스 어드밴스드 유산균 100억 CFU 30캡슐 (상온보관용)",
+        "price": 27070,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/23ca/c8a89ce31b158457f0c8785ba5cf28db36e9afac3d982ea7605210d0e3d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7522703123"
+    },
+    {
+        "id": "20260327-10",
+        "date": "20260327",
+        "rank": 10,
+        "name": "화이트샌즈 트로피컬 냉감 발수 초경량 리버시블 선바이저 코니아",
+        "price": 24180,
+        "image_url": "https://image6.coupangcdn.com/image/rs_quotation_api/qklwqapm/d5d31567f1ce4d03b0e6f6bf4297623d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8785334845"
+    },
+    {
         "id": "20260326-01",
         "date": "20260326",
         "rank": 1,
