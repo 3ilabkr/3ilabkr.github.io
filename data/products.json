@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260328-01",
+        "date": "20260328",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 18760,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/491160655625651-74fe91fe-0f6d-42c1-b830-d6c75e8a8b52.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260328-02",
+        "date": "20260328",
+        "rank": 2,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자 학생 사무실의자 공부의자 컴퓨터 의자 푹신한 메쉬 의자",
+        "price": 67900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/21ad/72b137b463e480c7587efdea2ce52622852a0784c2d74834e0485b56d564.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260328-03",
+        "date": "20260328",
+        "rank": 3,
+        "name": "베네통키즈 투톤 코튼 볼캡",
+        "price": 28000,
+        "image_url": "https://image8.coupangcdn.com/image/rs_quotation_api/vrrakpuv/f878382ec5284a7490b49db4decb1042.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9342058988"
+    },
+    {
+        "id": "20260328-04",
+        "date": "20260328",
+        "rank": 4,
+        "name": "스폰텍스 드라이 셀룰로스 스펀지 2 트레디션 수세미",
+        "price": 8790,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/5638628707537-680ab0c3-adf5-4f6d-868a-869a271b7f23.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4775573887"
+    },
+    {
+        "id": "20260328-05",
+        "date": "20260328",
+        "rank": 5,
+        "name": "모던하우스 ON마리 이중레이스 암막커튼",
+        "price": 59900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2023/07/17/10/0/cc4ce180-3378-42f5-960e-d208187f4bd9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7104943027"
+    },
+    {
+        "id": "20260328-06",
+        "date": "20260328",
+        "rank": 6,
+        "name": "오야니 로티 새들 크로스바디백",
+        "price": 79900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/262295210658007-23a794f2-bfc3-40df-9346-83c4c59759f2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8609349779"
+    },
+    {
+        "id": "20260328-07",
+        "date": "20260328",
+        "rank": 7,
+        "name": "스타벅스 미디엄 로스트 아메리카노 그린 머그 세트",
+        "price": 26600,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2026/01/16/17/6/69d420bd-a1ee-4728-a97e-5f18fc275a11.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9312612467"
+    },
+    {
+        "id": "20260328-08",
+        "date": "20260328",
+        "rank": 8,
+        "name": "베네통 레터링 장목 5켤레",
+        "price": 16500,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/04/07/14/3/7d6d99a9-e252-4427-b40f-22f7050492f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8700735212"
+    },
+    {
+        "id": "20260328-09",
+        "date": "20260328",
+        "rank": 9,
+        "name": "쏘픽 데일리 보건방역 마스크 대형 KF94",
+        "price": 11980,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/09/17/15/1/f76f7cb1-b826-4d48-b9b6-4e0c938d8d3b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9069191266"
+    },
+    {
+        "id": "20260328-10",
+        "date": "20260328",
+        "rank": 10,
+        "name": "비앤씨 핑크퐁 가오리연",
+        "price": 10330,
+        "image_url": "https://image7.coupangcdn.com/image/1025_amir_coupang_oct_80k/2393/e9db1a1a136de307586d73d26a9523c85b074eaa0571f9119a3908d873aa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=293183601"
+    },
+    {
         "id": "20260327-01",
         "date": "20260327",
         "rank": 1,
