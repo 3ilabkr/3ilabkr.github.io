@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260329-01",
+        "date": "20260329",
+        "rank": 1,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 16110,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260329-02",
+        "date": "20260329",
+        "rank": 2,
+        "name": "하늘보리 에코 무라벨",
+        "price": 14900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/94906645455938-22d605d1-d494-4736-b83c-f2633f95420c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20260329-03",
+        "date": "20260329",
+        "rank": 3,
+        "name": "kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 80000,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/210f/e4d8d294007bceb6998a4b0687dab4296dcc66166fba2a94b0760a754238.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20260329-04",
+        "date": "20260329",
+        "rank": 4,
+        "name": "콘티고 바이론 2.0 텀블러",
+        "price": 23900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/08/05/13/6/8a95bc3b-fde2-4c30-976f-dfc03804bfef.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8969135992"
+    },
+    {
+        "id": "20260329-05",
+        "date": "20260329",
+        "rank": 5,
+        "name": "스페리탑사이더 키즈 메리제인 샌들 운동화 S2SFKKSC03",
+        "price": 49900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/39867343606378-a2fbc024-d63c-48d6-a60f-a7a8c0d75769.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9325322245"
+    },
+    {
+        "id": "20260329-06",
+        "date": "20260329",
+        "rank": 6,
+        "name": "777 루이본 모노톤 부드럽게 잘리는 튐방지 튼튼한 고급 손톱깎이",
+        "price": 8120,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/936620072629326-dc581b4a-f51e-43c1-825f-525ab250fded.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9171648760"
+    },
+    {
+        "id": "20260329-07",
+        "date": "20260329",
+        "rank": 7,
+        "name": "쿠쿠 타워형 W8200 공기청정기 84.7㎡",
+        "price": 288150,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/fab8/44dcd76ecda3afe4be2e61c061f3c1ccd4bb35b069008bedd9959e05b2b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5049764805"
+    },
+    {
+        "id": "20260329-08",
+        "date": "20260329",
+        "rank": 8,
+        "name": "아이핏코리아 강아지 수라상 건조사사미",
+        "price": 11900,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/image_audit/prod/16928e7c-544c-4215-9d54-5b44a32e114d_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8428421353"
+    },
+    {
+        "id": "20260329-09",
+        "date": "20260329",
+        "rank": 9,
+        "name": "케라시스 히트 액티브 극손상 헤어 바르는 트리트먼트",
+        "price": 13100,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/397001284240191-dd08572a-bb3f-4481-899c-860a1541f2d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=96727001"
+    },
+    {
+        "id": "20260329-10",
+        "date": "20260329",
+        "rank": 10,
+        "name": "락피도 철분 키즈",
+        "price": 35200,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/6c19076c-c272-4663-a08d-04234da5d7415333564917386777006_1752051505623.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6853758942"
+    },
+    {
         "id": "20260328-01",
         "date": "20260328",
         "rank": 1,
