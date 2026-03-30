@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260331-01",
+        "date": "20260331",
+        "rank": 1,
+        "name": "케라시스 어드밴스드 케라마이드 극손상 헤어트리트먼트",
+        "price": 8550,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/362371860498169-f23b65ac-3728-446b-b7d9-8e199b6fb865.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6789548230"
+    },
+    {
+        "id": "20260331-02",
+        "date": "20260331",
+        "rank": 2,
+        "name": "베이블퓨어리 트라이크 유모차 T2",
+        "price": 53900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/58734222294237-d64edf4b-a6d1-4658-8e70-7641b17434f4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2045552663"
+    },
+    {
+        "id": "20260331-03",
+        "date": "20260331",
+        "rank": 3,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 129900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/9d29/1b9e9f3b49cdab86f87cb06f5323b81fbbd2b6441a3cd4a6180b62558cca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260331-04",
+        "date": "20260331",
+        "rank": 4,
+        "name": "울팜 아삭 달달 국내산 친환경 양배추 제주 무안 밀양",
+        "price": 14500,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/8a34/741a87cec98a43927698a385ebe91516bdeca50eae559a07f35c80fba258.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8795096974"
+    },
+    {
+        "id": "20260331-05",
+        "date": "20260331",
+        "rank": 5,
+        "name": "휠라 스포츠 힙색",
+        "price": 27900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2026/02/20/13/3/97e27343-9aa6-44ef-b230-80104d41787c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9388107789"
+    },
+    {
+        "id": "20260331-06",
+        "date": "20260331",
+        "rank": 6,
+        "name": "부케가르니 습기제거제 본품",
+        "price": 9900,
+        "image_url": "https://image5.coupangcdn.com/image/1025_amir_coupang_oct_80k/ed4c/dac0933f403254fff9933a943f120e4aa9fa8e9fed0bb792a28f83e03133.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6590915563"
+    },
+    {
+        "id": "20260331-07",
+        "date": "20260331",
+        "rank": 7,
+        "name": "아카페라 심플리 디카페인 아메리카노 무라벨",
+        "price": 21880,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/35187806279173-0ffcdb04-fc55-4dc0-b8b0-5a88691c9fae.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7777553121"
+    },
+    {
+        "id": "20260331-08",
+        "date": "20260331",
+        "rank": 8,
+        "name": "예일키즈 아동용 핸섬댄 맨투맨 + 반팔 티셔츠 + 조거팬츠 세트 YJCCSEF13427",
+        "price": 65900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/02/12/14/3/29ef1294-5650-4695-8331-b6bb8d6c142b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9373804582"
+    },
+    {
+        "id": "20260331-09",
+        "date": "20260331",
+        "rank": 9,
+        "name": "생활백서 암막커튼 올인원 세트 ver 4",
+        "price": 78900,
+        "image_url": "https://image2.coupangcdn.com/image/rs_quotation_api/40dmxmx8/8d2ba47901c24a4da123b79026960166.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6472952479"
+    },
+    {
+        "id": "20260331-10",
+        "date": "20260331",
+        "rank": 10,
+        "name": "케라시스 티트리 오일 샴푸",
+        "price": 8900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/7460/c9a3fc59e239cdb968cd731afb03882565ccc75afdfe05bfafc0752fadef.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1441071272"
+    },
+    {
         "id": "20260330-01",
         "date": "20260330",
         "rank": 1,
