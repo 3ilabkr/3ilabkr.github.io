@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260402-01",
+        "date": "20260402",
+        "rank": 1,
+        "name": "바이탈 플랜트 인덕션 뉴오리지널 롤팬 그레이",
+        "price": 119800,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/311842535806587-16613cc6-7376-4fb9-82cf-0791a12f08b1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8266336555"
+    },
+    {
+        "id": "20260402-02",
+        "date": "20260402",
+        "rank": 2,
+        "name": "퍼실 딥클린 라벤더젤 플러스 드럼용 액상세제 라벤더 코튼향 리필",
+        "price": 13500,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/159584257506068-59202014-2351-4623-b49d-fea48d5e2afc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8505512562"
+    },
+    {
+        "id": "20260402-03",
+        "date": "20260402",
+        "rank": 3,
+        "name": "코카콜라 제로",
+        "price": 16170,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/23103282589396-86aa575a-80ec-4486-8ab7-a381c556474a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260402-04",
+        "date": "20260402",
+        "rank": 4,
+        "name": "이브아띠 스트라이프 워싱 알러지케어 차렵이불 세트",
+        "price": 39880,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/5bf5/b8786a59d1d075bb3525e0bde15994fb7dcf0d78c1757d179ff78cb0b5f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9378258116"
+    },
+    {
+        "id": "20260402-05",
+        "date": "20260402",
+        "rank": 5,
+        "name": "라온르 에어 유무선 서큘레이터 +리모컨",
+        "price": 49900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2025/05/27/15/4/898e39c1-078e-42b8-9014-4ce88ac88d57.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8769371055"
+    },
+    {
+        "id": "20260402-06",
+        "date": "20260402",
+        "rank": 6,
+        "name": "자연은 더말린 제로 복숭아 음료",
+        "price": 15400,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2577478947818461-4abf07a1-843f-4043-a0b7-fc65b47bca5c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7159361460"
+    },
+    {
+        "id": "20260402-07",
+        "date": "20260402",
+        "rank": 7,
+        "name": "햇반 식후 혈당조절에 도움을 줄 수 있는 밥",
+        "price": 11840,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/image_audit/prod/08e0a94f-b107-480c-a9fb-ef29581b19d6_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8243929471"
+    },
+    {
+        "id": "20260402-08",
+        "date": "20260402",
+        "rank": 8,
+        "name": "롯데웰푸드 칙촉",
+        "price": 5960,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/117567703277434-c77cafd7-45c6-4598-8b9b-5d37ad64adf7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6813176799"
+    },
+    {
+        "id": "20260402-09",
+        "date": "20260402",
+        "rank": 9,
+        "name": "닥스 남성용 솔리드 가죽 크로스백",
+        "price": 223910,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2024/03/04/11/8/9b90ef5e-b135-4938-9702-728137dfb8ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7934731402"
+    },
+    {
+        "id": "20260402-10",
+        "date": "20260402",
+        "rank": 10,
+        "name": "[로켓프레시] 소바바 바삭 황금홀릭 후라이드 순살치킨 (냉동)",
+        "price": 8890,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/448741160130428-52c1b146-99e6-47fa-8188-1b45fb907fd3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9440621860"
+    },
+    {
         "id": "20260401-01",
         "date": "20260401",
         "rank": 1,
