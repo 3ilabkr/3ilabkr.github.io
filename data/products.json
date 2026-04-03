@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260404-01",
+        "date": "20260404",
+        "rank": 1,
+        "name": "르무통 메이트 발 편한 운동화",
+        "price": 118000,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/0352/ff3cb92dcb7a26acd61c1f4581e5d7fb63ee3888cb90a91e47c5b53f083d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20260404-02",
+        "date": "20260404",
+        "rank": 2,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 16120,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/94761968167687-71f42b05-dc5e-4c35-8b00-fceda1c2809a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20260404-03",
+        "date": "20260404",
+        "rank": 3,
+        "name": "나우푸드 글루타티온 500mg 베지 캡슐",
+        "price": 44810,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/9c09/648081aff3bc203d8e0c5c820c511ee3edd3210df119dca8adfbf73ed539.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=208403063"
+    },
+    {
+        "id": "20260404-04",
+        "date": "20260404",
+        "rank": 4,
+        "name": "라보토리 아치형 벽걸이 스탠드 전신거울",
+        "price": 17900,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/844a/dae016cbf31c3709f8e319107321818ad5541474d635e6ec6eb080e5b95c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9417069239"
+    },
+    {
+        "id": "20260404-05",
+        "date": "20260404",
+        "rank": 5,
+        "name": "브랜든 아우터 압축 파우치 라이트 그레이",
+        "price": 59000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2025/09/16/12/8/840bae0e-423b-4df8-b087-89a37797e56b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8853642366"
+    },
+    {
+        "id": "20260404-06",
+        "date": "20260404",
+        "rank": 6,
+        "name": "엘르 포레스트 배드민턴 라켓 2p + 풀커버 세트",
+        "price": 22900,
+        "image_url": "https://image6.coupangcdn.com/image/1025_amir_coupang_oct_80k/17a7/492f7f6148129ba3960502107703f39b49e0cfdf83595b362a54e7710c1e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7473829615"
+    },
+    {
+        "id": "20260404-07",
+        "date": "20260404",
+        "rank": 7,
+        "name": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐",
+        "price": 45400,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/image_audit/prod/268246bc-4b00-41ac-9fde-689cdf82333e_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=202217052"
+    },
+    {
+        "id": "20260404-08",
+        "date": "20260404",
+        "rank": 8,
+        "name": "닌자 프로페셔널 블렌더 2.0",
+        "price": 178470,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/f7ee/58733c65d36d6bf1c3a7f350038027eaf0748804d94deae13900cdc4d385.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527603747"
+    },
+    {
+        "id": "20260404-09",
+        "date": "20260404",
+        "rank": 9,
+        "name": "[로켓프레시] 무연골 돌돌말이 대패삼겹살 (냉동)",
+        "price": 12500,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1417773117971752-b5593ce2-9d71-4636-9327-1fdf81d7d8f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7784271976"
+    },
+    {
+        "id": "20260404-10",
+        "date": "20260404",
+        "rank": 10,
+        "name": "오야니 여성용 로티 캔버스 크로스바디백 O2SBCB83",
+        "price": 109000,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2026/03/17/10/1/8c5cb94e-e791-4e13-b603-d5c22808869c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9439836949"
+    },
+    {
         "id": "20260403-01",
         "date": "20260403",
         "rank": 1,
