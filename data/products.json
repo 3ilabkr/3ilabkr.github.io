@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260405-01",
+        "date": "20260405",
+        "rank": 1,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11890,
+        "image_url": "https://image5.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260405-02",
+        "date": "20260405",
+        "rank": 2,
+        "name": "포카리스웨트 무라벨",
+        "price": 29140,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/13294234308776-6a4a8922-4a8c-47b6-9950-370da86a67d5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544933292"
+    },
+    {
+        "id": "20260405-03",
+        "date": "20260405",
+        "rank": 3,
+        "name": "kipnos 폴딩 수납장 리빙박스 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함 길이 40cm",
+        "price": 60000,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/0e0c/941a523a7d25386df29b21db25d907f2901ddbca71b77dd4ee88d8b9b1a9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906599125"
+    },
+    {
+        "id": "20260405-04",
+        "date": "20260405",
+        "rank": 4,
+        "name": "라보토리 프리미엄 원터치 다용도 접이식 간편 폴딩 철제선반",
+        "price": 37900,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/8b79/2d860f01230875984f8e2ae8517bdd86435f7f41df2a2dc442dc42cf5c1b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9400653695"
+    },
+    {
+        "id": "20260405-05",
+        "date": "20260405",
+        "rank": 5,
+        "name": "에스콰이아 여성용 에이블레더 컬렉션 버킷 토트백",
+        "price": 102000,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2026/03/02/17/6/208b2a46-286b-4a42-a0bf-b2039e7b3756.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9407936118"
+    },
+    {
+        "id": "20260405-06",
+        "date": "20260405",
+        "rank": 6,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 21900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20260405-07",
+        "date": "20260405",
+        "rank": 7,
+        "name": "질레트 프로쉴드 옐로우 파워 면도기 핸들 + 면도날 4입",
+        "price": 39900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/40646887320717-97b9b564-65a8-4306-9dd4-6368123b517c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8096167617"
+    },
+    {
+        "id": "20260405-08",
+        "date": "20260405",
+        "rank": 8,
+        "name": "세노비스 키즈 멀티비타민 미네랄",
+        "price": 29920,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/860f/3a75791cf3010a3320b46e6c6caa3457159d3c77545090bae3fe7f2e36ed.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7828194275"
+    },
+    {
+        "id": "20260405-09",
+        "date": "20260405",
+        "rank": 9,
+        "name": "블랙야크 남성용 윈드세이퍼 자켓 1BYJKSU002",
+        "price": 110000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2025/02/24/13/3/ef7db1e2-630a-451e-8f53-874cf6728cb5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8578134976"
+    },
+    {
+        "id": "20260405-10",
+        "date": "20260405",
+        "rank": 10,
+        "name": "휠라골프 UV 차단 메쉬 쿨 마스크",
+        "price": 12900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2174647613703982-e4e12376-ecfa-4007-9693-67156fafd865.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544565229"
+    },
+    {
         "id": "20260404-01",
         "date": "20260404",
         "rank": 1,
