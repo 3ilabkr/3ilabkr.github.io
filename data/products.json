@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260406-01",
+        "date": "20260406",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 12900,
+        "image_url": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260406-02",
+        "date": "20260406",
+        "rank": 2,
+        "name": "테팔 인덕션 매직핸즈 스테인리스 컬렉션 트라이미 프라이팬세트 3개",
+        "price": 80400,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/552866890985248-c312f232-3033-4899-a095-545fa6ff1d0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7163822999"
+    },
+    {
+        "id": "20260406-03",
+        "date": "20260406",
+        "rank": 3,
+        "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
+        "price": 74000,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/117138285283753-5b90273e-310b-4160-8683-558a52d899c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8248049594"
+    },
+    {
+        "id": "20260406-04",
+        "date": "20260406",
+        "rank": 4,
+        "name": "아몬드브리즈 오리지널",
+        "price": 15890,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/174045005217980-17af970b-b5b8-44e5-b02a-b089c4bcf50d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6654766761"
+    },
+    {
+        "id": "20260406-05",
+        "date": "20260406",
+        "rank": 5,
+        "name": "동원참치 고추 참치",
+        "price": 12980,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/301197346688269-aa38c744-f6fa-4624-b65a-251632b27659.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1145100301"
+    },
+    {
+        "id": "20260406-06",
+        "date": "20260406",
+        "rank": 6,
+        "name": "삼성전자 비스포크 그랑데 AI 건조기 20kg 방문설치",
+        "price": 1034100,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/20578539376068-03ad09ad-485a-4270-b7b8-99a600df24d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7655266727"
+    },
+    {
+        "id": "20260406-07",
+        "date": "20260406",
+        "rank": 7,
+        "name": "[로켓프레시] 비비고 얇은피 진한 고기만두 (냉동)",
+        "price": 8960,
+        "image_url": "https://image8.coupangcdn.com/image/rs_quotation_api/4xqueqw9/8a01db8aa5f14c2a9e35b34f57fc2921.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9086699899"
+    },
+    {
+        "id": "20260406-08",
+        "date": "20260406",
+        "rank": 8,
+        "name": "아디다스 남성 X9000L1 운동화 FZ2044",
+        "price": 59900,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/1ae7/62e23dcef71785118a5c30580e757a44821a5ff6fa0e4e32560325d84f27.jpeg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9096291490"
+    },
+    {
+        "id": "20260406-09",
+        "date": "20260406",
+        "rank": 9,
+        "name": "쌤소나이트 남성용 LITE GEO LITE 백팩 14인치 BLACK",
+        "price": 114000,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/451179091405014-60111114-8d3c-44d2-bb8c-71883ef73ca5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9452230324"
+    },
+    {
+        "id": "20260406-10",
+        "date": "20260406",
+        "rank": 10,
+        "name": "뷰하우스 루시드 사계절 베이직 암막커튼 실속 커튼봉 세트",
+        "price": 58000,
+        "image_url": "https://image13.coupangcdn.com/image/rs_quotation_api/bon4ofbn/19ec95fba5de4a9cbc991aabfec9ab99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7683355214"
+    },
+    {
         "id": "20260405-01",
         "date": "20260405",
         "rank": 1,
