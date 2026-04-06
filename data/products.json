@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260407-01",
+        "date": "20260407",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260407-02",
+        "date": "20260407",
+        "rank": 2,
+        "name": "부케가르니 딥 클린 초고농축 캡슐세제",
+        "price": 11900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/63243553069423-6dc9da71-5455-46bd-a2d7-33c00c3a188f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7871650750"
+    },
+    {
+        "id": "20260407-03",
+        "date": "20260407",
+        "rank": 3,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260407-04",
+        "date": "20260407",
+        "rank": 4,
+        "name": "삼성전자 19.2㎡(5.8평) BESPOKE 무풍 매립형 윈도우핏 에어컨 방문설치",
+        "price": 812320,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/1302019280796700-4b9fd3a1-eeb2-46c3-be4c-48a4fc27f15a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8303085361"
+    },
+    {
+        "id": "20260407-05",
+        "date": "20260407",
+        "rank": 5,
+        "name": "뉴에라 아동용 MLB 빅 로고 긴팔 티셔츠 14721876",
+        "price": 33000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/226100742622033-33e8b226-5d86-405f-aea5-2d9088cb6dc4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8690491154"
+    },
+    {
+        "id": "20260407-06",
+        "date": "20260407",
+        "rank": 6,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 89900,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1769065074495/ef5d862d-82c5-473a-b0b2-f138073ec9f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
+        "id": "20260407-07",
+        "date": "20260407",
+        "rank": 7,
+        "name": "라운드랩 1025 독도 클렌저",
+        "price": 10000,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/200499860612620-61d769e9-6f30-4b49-be7e-5ffdbbb5bc77.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1556632809"
+    },
+    {
+        "id": "20260407-08",
+        "date": "20260407",
+        "rank": 8,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 151180,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/1aa8/28389a72f57dd8c0ac89f4c78867c8c2779f84b1411669b32f748997a1db.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586269611"
+    },
+    {
+        "id": "20260407-09",
+        "date": "20260407",
+        "rank": 9,
+        "name": "뉴발란스키즈 에센셜 바람막이 NK9AGB998U",
+        "price": 79900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2026/03/19/10/1/28b8fa41-33b3-4623-b981-6b252621aacf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9444653104"
+    },
+    {
+        "id": "20260407-10",
+        "date": "20260407",
+        "rank": 10,
+        "name": "크리니크 래쉬 파워 컬링 마스카라",
+        "price": 34000,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/3939496025013211-8d73629f-5c7e-4a7a-bb59-d1d3dd350da8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5574247102"
+    },
+    {
         "id": "20260406-01",
         "date": "20260406",
         "rank": 1,
