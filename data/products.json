@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260408-01",
+        "date": "20260408",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16590,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260408-02",
+        "date": "20260408",
+        "rank": 2,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 20500,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260408-03",
+        "date": "20260408",
+        "rank": 3,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 78900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20260408-04",
+        "date": "20260408",
+        "rank": 4,
+        "name": "카프 BLDC모터 빅팬 접이식 빅헤드 스트랩 휴대용 핸디 선풍기 16cm",
+        "price": 24900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2025/04/25/17/5/63bde42e-3215-495c-9502-b9b68e6c29d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8729229302"
+    },
+    {
+        "id": "20260408-05",
+        "date": "20260408",
+        "rank": 5,
+        "name": "센카 퍼펙트 휩 페이셜 워시",
+        "price": 22320,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/423c/d60aa340e262f7411cfa04b345716cc81059fa519d856b0ebca994ec286e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7844808297"
+    },
+    {
+        "id": "20260408-06",
+        "date": "20260408",
+        "rank": 6,
+        "name": "삼성전자 BESPOKE AI 빌트인 열풍건조 식기세척기 14인용",
+        "price": 956000,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2025/03/05/10/9/4a53af70-d32d-44b2-81a1-c6c114ed8252.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631451331"
+    },
+    {
+        "id": "20260408-07",
+        "date": "20260408",
+        "rank": 7,
+        "name": "게스 여성용 아탈리아 크로스바디 버킷백 RP2A37J1BLK",
+        "price": 102000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2026/03/02/18/8/d7b79798-ef09-48df-99e9-9cf423cb91af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8969496129"
+    },
+    {
+        "id": "20260408-08",
+        "date": "20260408",
+        "rank": 8,
+        "name": "재로우 자로-도필러스 EPS 다이제스티브 프로바이오틱 유산균 100억 베지 캡슐",
+        "price": 146580,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/9afe/7202ea038e9bc409de29ce94082105b0b226d065ea61a96af69f0a21b554.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7626263931"
+    },
+    {
+        "id": "20260408-09",
+        "date": "20260408",
+        "rank": 9,
+        "name": "베베루트 링크형 카시트 발판",
+        "price": 69800,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/e349/97a3cea5979779870dff4aec8c8046fa3c0094d808aa5a686cee90357527.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6511949711"
+    },
+    {
+        "id": "20260408-10",
+        "date": "20260408",
+        "rank": 10,
+        "name": "샤오미 올인원 스테이션 로봇청소기",
+        "price": 449000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/130899430582493-c00f17b7-9fc2-4247-b978-3f88c09b72b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7579273306"
+    },
+    {
         "id": "20260407-01",
         "date": "20260407",
         "rank": 1,
