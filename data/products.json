@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260409-01",
+        "date": "20260409",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향 제로카페인 무라벨",
+        "price": 15210,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/04/07/16/7/a3f574df-8125-482f-b30c-171dd071a3d3.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8700921701"
+    },
+    {
+        "id": "20260409-02",
+        "date": "20260409",
+        "rank": 2,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 11360,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260409-03",
+        "date": "20260409",
+        "rank": 3,
+        "name": "리큐 진한겔 하이브리드 플로랄향 일반용 액상세제 리필",
+        "price": 18900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6616908158"
+    },
+    {
+        "id": "20260409-04",
+        "date": "20260409",
+        "rank": 4,
+        "name": "농심 안성탕면 125g",
+        "price": 13980,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/11146136162397-0ea92952-7c58-48eb-95b4-85db2c84bb66.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9447140712"
+    },
+    {
+        "id": "20260409-05",
+        "date": "20260409",
+        "rank": 5,
+        "name": "kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 44180,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/eabf/014c6861f9e399bce5ee12576e9a1eab953079709a6366ee0a541fd04f9f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260409-06",
+        "date": "20260409",
+        "rank": 6,
+        "name": "뉴에라 아동용 MLB 베이직 로고 맨투맨 샌프란시스코 자이언츠",
+        "price": 54000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/08/25/11/3/332b3c8b-51d4-43b3-a7bb-8f5d2f726d1c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9015937556"
+    },
+    {
+        "id": "20260409-07",
+        "date": "20260409",
+        "rank": 7,
+        "name": "TCL 4K QD Mini LED 스마트 TV",
+        "price": 2899000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/573442133301864-ef1940a1-ca81-42cc-a282-78a954f88ccb.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8732296420"
+    },
+    {
+        "id": "20260409-08",
+        "date": "20260409",
+        "rank": 8,
+        "name": "파스퇴르 바른목장 우유",
+        "price": 20920,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/251609515910513-c30ff633-fc98-4586-879e-06284a29a2f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7836219133"
+    },
+    {
+        "id": "20260409-09",
+        "date": "20260409",
+        "rank": 9,
+        "name": "해피바스 오리지널 컬렉션 바디워시 자몽향",
+        "price": 8100,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/721466810230422-d8e2c2ef-cceb-4f49-bd3c-e902634b65be.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6511888487"
+    },
+    {
+        "id": "20260409-10",
+        "date": "20260409",
+        "rank": 10,
+        "name": "ON 데이 차광 커튼 + 타이백",
+        "price": 25900,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/0wamn1va/07ed4f5693cb47c3922b9a4a8b8b5611.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7851938937"
+    },
+    {
         "id": "20260408-01",
         "date": "20260408",
         "rank": 1,
