@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260410-01",
+        "date": "20260410",
+        "rank": 1,
+        "name": "홍영의 붉은대게 백간장",
+        "price": 9400,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/13779973240795-2b82dcf3-28c0-4029-850b-62fc12f35a34.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1852130626"
+    },
+    {
+        "id": "20260410-02",
+        "date": "20260410",
+        "rank": 2,
+        "name": "라보토리 사무용 컴퓨터 의자",
+        "price": 38900,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/f9b1/002f92fbd83b4be1312d6ad75db1508d539950fa1032fd231a80c8a26464.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9400831545"
+    },
+    {
+        "id": "20260410-03",
+        "date": "20260410",
+        "rank": 3,
+        "name": "닥스 여성용 베어 하우스체크 미니 크로스백 DCWA5FC01",
+        "price": 180000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/02/06/14/8/4e81fbcd-045f-40dd-9f97-413c6086668f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8950386332"
+    },
+    {
+        "id": "20260410-04",
+        "date": "20260410",
+        "rank": 4,
+        "name": "에이서 2025 프레데터 헬리오스 네오 16 AI 코어Ultra9 지포스 RTX 5070",
+        "price": 2778990,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2025/06/30/16/2/9e38419d-233e-4652-b0cf-4fda143c3dce.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8880588148"
+    },
+    {
+        "id": "20260410-05",
+        "date": "20260410",
+        "rank": 5,
+        "name": "풀무원샘물 하루귀리 곡물차",
+        "price": 10000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/05/12/15/6/33b56aea-2ad9-4178-88d4-4a843ea6d6b9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8804233295"
+    },
+    {
+        "id": "20260410-06",
+        "date": "20260410",
+        "rank": 6,
+        "name": "새미쥬얼리 여성용 silver925 세리니 모이사나이트 목걸이",
+        "price": 139900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/1009164770851712-28d06435-35ef-458d-b752-29b86f9c4a5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9360616121"
+    },
+    {
+        "id": "20260410-07",
+        "date": "20260410",
+        "rank": 7,
+        "name": "스케쳐스 남성 고 런 라이트 앵커리지 런닝화 220898-GYBK",
+        "price": 65030,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/f80f/cc1ba314dd7f86f43750c9432285ef38e9a5d819c3fd6f224fe5198ae4e8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8635381511"
+    },
+    {
+        "id": "20260410-08",
+        "date": "20260410",
+        "rank": 8,
+        "name": "이지드롭 변기크리너 레몬향",
+        "price": 13300,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1209025925880078-81124ef9-378e-42b0-8d05-7db2027004a5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=220911908"
+    },
+    {
+        "id": "20260410-09",
+        "date": "20260410",
+        "rank": 9,
+        "name": "맘스럽 레몬 주방세제 베이킹소다 특대용량 레몬향 과일 채소용 중성 세제",
+        "price": 7820,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/76a5/be668982842f8a82b413ee18de5a48b7cf974caddc3959893f98017e8e7f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9305171629"
+    },
+    {
+        "id": "20260410-10",
+        "date": "20260410",
+        "rank": 10,
+        "name": "베네통키즈 코튼 볼캡",
+        "price": 27500,
+        "image_url": "https://image10.coupangcdn.com/image/rs_quotation_api/e0zkoedx/3cbf037a6c0c468297ec4ceb1b4193d3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9342058908"
+    },
+    {
         "id": "20260409-01",
         "date": "20260409",
         "rank": 1,
