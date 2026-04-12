@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260413-01",
+        "date": "20260413",
+        "rank": 1,
+        "name": "마이밀 뉴프로틴 오리지널 드링크",
+        "price": 55000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/43954471874375-f93ab182-0d58-4c4b-92fb-751ff7f07b24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20260413-02",
+        "date": "20260413",
+        "rank": 2,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 15840,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260413-03",
+        "date": "20260413",
+        "rank": 3,
+        "name": "[로켓프레시] 팜앤푸드 꼬리 자른 생새우살 61~70입 (냉동)",
+        "price": 15980,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/1871988488973561-67485205-e071-44da-addb-4d8df6f36795.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7647979111"
+    },
+    {
+        "id": "20260413-04",
+        "date": "20260413",
+        "rank": 4,
+        "name": "세브란스에이투 전용목장 단백우유",
+        "price": 21900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/76770692332221-21d75e51-edcd-4f76-bd76-29d964121ed5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660544404"
+    },
+    {
+        "id": "20260413-05",
+        "date": "20260413",
+        "rank": 5,
+        "name": "고로고로 초강력 테이프클리너 리필",
+        "price": 12450,
+        "image_url": "https://img4a.coupangcdn.com/image/1025_amir_coupang_oct_80k/65c6/0869a349b04e0d02bd0f9f2407d877c519e33a674a2e0fa602f58524c3fa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7104758439"
+    },
+    {
+        "id": "20260413-06",
+        "date": "20260413",
+        "rank": 6,
+        "name": "LG전자 16.5㎡ 휘센 오브제컬렉션 엣지 창호형 에어컨 + 설치키트 세트 방문설치",
+        "price": 950000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2026/02/21/17/6/545b19dd-247b-42ce-8bd0-3b4ec6d28b9e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9397574274"
+    },
+    {
+        "id": "20260413-07",
+        "date": "20260413",
+        "rank": 7,
+        "name": "스마텍 미니 맥세이프 보조배터리 10000mAh + C타입 to C타입 스트랩 케이블 세트",
+        "price": 22900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2025/12/12/12/9/85a0de38-61dc-47c1-906c-64cd13635369.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9238742083"
+    },
+    {
+        "id": "20260413-08",
+        "date": "20260413",
+        "rank": 8,
+        "name": "화이트샌즈 라피아 페트라 썬캡",
+        "price": 45030,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/71573684926048-a5a83eca-09a7-4df8-bba9-441b5d481980.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6922599839"
+    },
+    {
+        "id": "20260413-09",
+        "date": "20260413",
+        "rank": 9,
+        "name": "청정원 프리미엄 굴소스",
+        "price": 4590,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/1466706299168762-1a959263-39af-4399-9a67-8404cd7e5e35.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7778963710"
+    },
+    {
+        "id": "20260413-10",
+        "date": "20260413",
+        "rank": 10,
+        "name": "2025년 통관 미국산 구운땅콩 대용량 부드러운 식감 최상급 견과류",
+        "price": 11900,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/9dd5/cd8ff4706ea5f0c7f4c7158f9229c087e98c78c5ad0c434d5667a000073f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7281459708"
+    },
+    {
         "id": "20260412-01",
         "date": "20260412",
         "rank": 1,
