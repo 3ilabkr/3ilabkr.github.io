@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260414-01",
+        "date": "20260414",
+        "rank": 1,
+        "name": "초록매실 스파클링 제로",
+        "price": 12820,
+        "image_url": "https://img5c.coupangcdn.com/image/1025_amir_coupang_oct_80k/6294/d90117616717052133891dbf6ab20b8641cc63506d1be0432378f1e3cb92.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8308921966"
+    },
+    {
+        "id": "20260414-02",
+        "date": "20260414",
+        "rank": 2,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 55760,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/ba62/f15cdf5ba0ef9abbed85480291ff4fc26949419815a35254cc49556b240c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20260414-03",
+        "date": "20260414",
+        "rank": 3,
+        "name": "뉴에라 남녀공용 MLB 샌프란시스코 자이언츠 베이직 로고 맨투맨 148815",
+        "price": 64000,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2025/08/22/12/0/c5fb6002-ba83-4b74-a733-ad9b40c90efd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9009457673"
+    },
+    {
+        "id": "20260414-04",
+        "date": "20260414",
+        "rank": 4,
+        "name": "브랜든 여행용 세이프 플러스 월렛백",
+        "price": 40900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/153141395340309-606f1ba9-de11-429c-8693-3cdefc9b94f0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9194324906"
+    },
+    {
+        "id": "20260414-05",
+        "date": "20260414",
+        "rank": 5,
+        "name": "메디트리 파워업 마시는 알부민",
+        "price": 17760,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/97424771654867-de1c4946-dc41-446a-a9c2-9cb9934078ce.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8805275366"
+    },
+    {
+        "id": "20260414-06",
+        "date": "20260414",
+        "rank": 6,
+        "name": "비타할로 진심을 담은 양배추즙",
+        "price": 10590,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/image_audit/prod/740e4bfb-6d07-46b9-8c36-30c0eddf09df_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7769652419"
+    },
+    {
+        "id": "20260414-07",
+        "date": "20260414",
+        "rank": 7,
+        "name": "[로켓프레시] 농협안심한우 1등급 숙성등심 구이용 (냉장)",
+        "price": 40260,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/17679093419123-26f29413-7147-44c4-b562-d966ece3c3bc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7075134057"
+    },
+    {
+        "id": "20260414-08",
+        "date": "20260414",
+        "rank": 8,
+        "name": "코멧 양면 무흠집 스펀지 수세미 블루",
+        "price": 7740,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/e1f124a0-5437-4de5-8f35-e1d7415a99cf6256101566313227992.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7180954900"
+    },
+    {
+        "id": "20260414-09",
+        "date": "20260414",
+        "rank": 9,
+        "name": "라엘라베어 먀사온 화장품 파우치 RA28-10230",
+        "price": 19900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2025/09/03/11/3/fc4f68e6-df38-4bbe-b743-41716eb8e4ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8866626012"
+    },
+    {
+        "id": "20260414-10",
+        "date": "20260414",
+        "rank": 10,
+        "name": "헤라 에이지 어웨이 에스테틱 BX 워터",
+        "price": 51000,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2024/02/02/17/7/9250b890-4af7-4852-98e5-fdd8739d1a57.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7814755095"
+    },
+    {
         "id": "20260413-01",
         "date": "20260413",
         "rank": 1,
