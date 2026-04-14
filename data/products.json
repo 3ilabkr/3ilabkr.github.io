@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260415-01",
+        "date": "20260415",
+        "rank": 1,
+        "name": "나랑드사이다 제로",
+        "price": 12760,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/80870368036782-dc973a90-7102-44fc-9689-b902862ddd29.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7447842898"
+    },
+    {
+        "id": "20260415-02",
+        "date": "20260415",
+        "rank": 2,
+        "name": "헤지스 퍼피 로고 나일론 토트 겸 숄더백 HIBA6E920BK",
+        "price": 120000,
+        "image_url": "https://image9.coupangcdn.com/image/rs_quotation_api/o7sxluol/61a61c98be9c463fb04d7d9fcf9b7c05.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9346811481"
+    },
+    {
+        "id": "20260415-03",
+        "date": "20260415",
+        "rank": 3,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 123400,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/9d29/1b9e9f3b49cdab86f87cb06f5323b81fbbd2b6441a3cd4a6180b62558cca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260415-04",
+        "date": "20260415",
+        "rank": 4,
+        "name": "네이처리퍼블릭 아프리카 버드 옴므 올인원 모이스처라이저",
+        "price": 15000,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/98040785131971-04f04ccc-726d-459c-9446-589881b38919.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8501132488"
+    },
+    {
+        "id": "20260415-05",
+        "date": "20260415",
+        "rank": 5,
+        "name": "[로켓프레시] 고소하게 늘어나는 모짜렐라 슈레드치즈",
+        "price": 13390,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/595790499870890-0c041445-ed62-4192-abde-bf46604911b7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7738003363"
+    },
+    {
+        "id": "20260415-06",
+        "date": "20260415",
+        "rank": 6,
+        "name": "뷰하우스 메이즈 원톤 암막 커튼 2p + 실속 봉 세트",
+        "price": 73200,
+        "image_url": "https://image7.coupangcdn.com/image/1025_amir_coupang_oct_80k/0054/2aee897b50f6d58db86e2abd203774365f4517e2063fcb05db026dc52066.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5372913328"
+    },
+    {
+        "id": "20260415-07",
+        "date": "20260415",
+        "rank": 7,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11990,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260415-08",
+        "date": "20260415",
+        "rank": 8,
+        "name": "로시앤로우 주니어 와이드 트레이닝 스웻 팬츠 HK001",
+        "price": 13890,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/113863376445850-8152be07-20fa-4723-8da0-e12d454d24b8.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9452855237"
+    },
+    {
+        "id": "20260415-09",
+        "date": "20260415",
+        "rank": 9,
+        "name": "옥소토트 유아용 스푼 포크 세트",
+        "price": 16000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2024/12/20/12/7/b64bbba5-8e9d-4f54-b993-61cf97a0f18f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8342842862"
+    },
+    {
+        "id": "20260415-10",
+        "date": "20260415",
+        "rank": 10,
+        "name": "풀무원건강생활 스팀쿡 마스터 듀얼스팀 오븐 20L",
+        "price": 312420,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/03/10/11/2/8739ed63-ab8f-41ae-bf9b-c7346ca637a7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7855749856"
+    },
+    {
         "id": "20260414-01",
         "date": "20260414",
         "rank": 1,
