@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260416-01",
+        "date": "20260416",
+        "rank": 1,
+        "name": "가그린 제로 구강청결제",
+        "price": 13850,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260416-02",
+        "date": "20260416",
+        "rank": 2,
+        "name": "파워에이드 제로",
+        "price": 18890,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20260416-03",
+        "date": "20260416",
+        "rank": 3,
+        "name": "[로켓프레시] 이웃마을 태국산 망고",
+        "price": 24790,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/1432096075484383-6a77e3a1-b560-4cb7-bb90-560ea437c1a0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8019534694"
+    },
+    {
+        "id": "20260416-04",
+        "date": "20260416",
+        "rank": 4,
+        "name": "블랙야크 남녀공용 라운드 트리플 반팔티 3p 세트 3BYRTXV901",
+        "price": 49000,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/8g8ypmhf/5fed14bde4ab497bbdd9d8ff5ee7ddb3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9399933195"
+    },
+    {
+        "id": "20260416-05",
+        "date": "20260416",
+        "rank": 5,
+        "name": "지프 편광 선글라스 R3073 S5",
+        "price": 69800,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/51664708069836-d0365aab-508a-4d28-a3c8-bcc3b97c976c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7809879976"
+    },
+    {
+        "id": "20260416-06",
+        "date": "20260416",
+        "rank": 6,
+        "name": "쏜리서치 칼슘-마그네슘 말레이트 소프트젤 캡슐",
+        "price": 45800,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/1a91/8948676983e7ee251f59ce8857a77b01e40f7d585763f1045dcfd02f4f40.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1448173155"
+    },
+    {
+        "id": "20260416-07",
+        "date": "20260416",
+        "rank": 7,
+        "name": "해피콜 인덕션 이든 냄비세트 4종",
+        "price": 173300,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/176309815555266-3dd4f5e8-d778-46df-bf04-955307d952e5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9072130276"
+    },
+    {
+        "id": "20260416-08",
+        "date": "20260416",
+        "rank": 8,
+        "name": "브랜든 아우터 압축 파우치 라이트 베이지",
+        "price": 59000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2025/09/16/11/0/8564c388-3ae8-4383-b6b8-15cba421e9f6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8871237035"
+    },
+    {
+        "id": "20260416-09",
+        "date": "20260416",
+        "rank": 9,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 17860,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/71397728034096-53d65aa3-4541-4f11-9d85-ca68db91f9ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
+        "id": "20260416-10",
+        "date": "20260416",
+        "rank": 10,
+        "name": "재로우 우먼스 펨 도피러스 유산균 캡슐",
+        "price": 31780,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/6e93c75c-ebaa-4bfb-a1a9-3571a8f23999_fixing_v2_1751346510416.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6960887991"
+    },
+    {
         "id": "20260415-01",
         "date": "20260415",
         "rank": 1,
