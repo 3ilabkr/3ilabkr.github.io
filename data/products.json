@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260418-01",
+        "date": "20260418",
+        "rank": 1,
+        "name": "하림 치킨너겟 (냉동)",
+        "price": 12600,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/874879245005147-0d71026b-1d2d-4c2b-9228-fccd444be4b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4567751809"
+    },
+    {
+        "id": "20260418-02",
+        "date": "20260418",
+        "rank": 2,
+        "name": "보몽드 국내 제조 시원한 냉감패드",
+        "price": 32900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/251559422679897-bfd04867-45da-4737-ace9-922a78e9b807.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8686264832"
+    },
+    {
+        "id": "20260418-03",
+        "date": "20260418",
+        "rank": 3,
+        "name": "키루에 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 40000,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/3cfd/4f8a909b285860e0fd6f30b5917d5b6bea9bab4edffa0cb41af8a8cbafbb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9501056715"
+    },
+    {
+        "id": "20260418-04",
+        "date": "20260418",
+        "rank": 4,
+        "name": "홈럭스 파워수압 필터 샤워기 + 필터 5개 + 샤워호스 1.5M + 거치데 안마 샤워기세트 8pcs",
+        "price": 11240,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/3d54/037205415b3a59eddb8dad3d12aee90598c37f6e96c51576d90a02b3a892.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150861959"
+    },
+    {
+        "id": "20260418-05",
+        "date": "20260418",
+        "rank": 5,
+        "name": "블라우풍트 에어튠 120단 펠티어 아이스 쿨링 BLDC 핸디 선풍기",
+        "price": 19800,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/7527838253111-1d2d160d-480d-49ed-8c65-646f3c4a9ec9.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9468421869"
+    },
+    {
+        "id": "20260418-06",
+        "date": "20260418",
+        "rank": 6,
+        "name": "다이쇼 오이 탕탕이 중화요리풍 양념",
+        "price": 13500,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/5526/c0d6882f866bc04292ff6dcac1439038dd59991759daacd6048804776a80.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8550021459"
+    },
+    {
+        "id": "20260418-07",
+        "date": "20260418",
+        "rank": 7,
+        "name": "엔클레어 여성용 모이사나이트 랩다이아몬드 6프롱 1캐럿 18k 골드필드 목걸이",
+        "price": 129000,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/3091/ef91daadf5443b7d79fa81b5b72a801e84f6ca60ae1c211c348378c699f9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7699975577"
+    },
+    {
+        "id": "20260418-08",
+        "date": "20260418",
+        "rank": 8,
+        "name": "[2026년형]프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 87200,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/5ad7/19e5b171721883b071c4867088e9ab6ac6390bbf419967f26e1d013ad586.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260418-09",
+        "date": "20260418",
+        "rank": 9,
+        "name": "아띠홈 올더플레이트 접시 볼 세트",
+        "price": 25900,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/b08f/264c4314ba0bf82fd810bdd65ce440b904065645d889180ffe754fe585bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7227749304"
+    },
+    {
+        "id": "20260418-10",
+        "date": "20260418",
+        "rank": 10,
+        "name": "닥터지 블랙 스네일 토너 150ml + 에멀전 150ml 스페셜 2종 세트",
+        "price": 25520,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1746297290432563-cd710986-38cd-4de4-b270-c6c5a2a2d349.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7525760486"
+    },
+    {
         "id": "20260417-01",
         "date": "20260417",
         "rank": 1,
