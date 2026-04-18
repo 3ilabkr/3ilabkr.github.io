@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260419-01",
+        "date": "20260419",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 18890,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/42568997493942-0afd087d-908f-42df-ab7d-7cbe8fd45a5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260419-02",
+        "date": "20260419",
+        "rank": 2,
+        "name": "토레타 제로 이온음료",
+        "price": 18460,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/1e4a/bd2ca75a4db0ec3cfc57c0653202b59bf872979d56ed48916c4ba1073319.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7961386819"
+    },
+    {
+        "id": "20260419-03",
+        "date": "20260419",
+        "rank": 3,
+        "name": "듀라텍스 냉감 쿨매트",
+        "price": 32900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/3995082153289859-f6a93f23-7657-4e5c-8e88-66e4ae63c8a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059466160"
+    },
+    {
+        "id": "20260419-04",
+        "date": "20260419",
+        "rank": 4,
+        "name": "블랑카우 BHA 여드름 기능성 바디워시",
+        "price": 35400,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/000aa8bb-577c-4b1b-9558-cf908a5b00057744361455332294885.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8314804599"
+    },
+    {
+        "id": "20260419-05",
+        "date": "20260419",
+        "rank": 5,
+        "name": "Kipnos 행거 이동식행거 스탠드 옷걸이행거 이동식 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 60000,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/7050/1e3a290ed9a487b48008d2fb50104706fd494a1c7a51020794d77a904033.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8817531233"
+    },
+    {
+        "id": "20260419-06",
+        "date": "20260419",
+        "rank": 6,
+        "name": "스와로브스키 Creativity Circle Small 로듐 이어링 5201707 + 쇼핑백 + 메시지카드 + 품질보증서(백화점AS)",
+        "price": 84000,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/216892824057730-19636da1-25a1-4f4e-8b86-d9f9c31cd097.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6540636465"
+    },
+    {
+        "id": "20260419-07",
+        "date": "20260419",
+        "rank": 7,
+        "name": "네이키드니스 남녀공용 에어립 퍼피 백팩",
+        "price": 76800,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2026/03/11/12/2/bb3f049e-07cf-459f-a158-44f0d71dc287.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9427891930"
+    },
+    {
+        "id": "20260419-08",
+        "date": "20260419",
+        "rank": 8,
+        "name": "위자드조선 누룩밤 트라넥삼산 약국 기미크림 대용량 기미잡티크림",
+        "price": 25700,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/9335/57af78820585d1075c051a78927911ecec456d1348241e45d41dc67ad023.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8359740077"
+    },
+    {
+        "id": "20260419-09",
+        "date": "20260419",
+        "rank": 9,
+        "name": "쿠첸 더핏 슬림 전기 압력밥솥 6인용",
+        "price": 138990,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/936473410487268-493dc6d2-d694-41ce-9636-efec59a6e902.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7883278780"
+    },
+    {
+        "id": "20260419-10",
+        "date": "20260419",
+        "rank": 10,
+        "name": "부케가르니 습기제거제 본품",
+        "price": 9900,
+        "image_url": "https://image2.coupangcdn.com/image/1025_amir_coupang_oct_80k/ed4c/dac0933f403254fff9933a943f120e4aa9fa8e9fed0bb792a28f83e03133.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6590915563"
+    },
+    {
         "id": "20260418-01",
         "date": "20260418",
         "rank": 1,
