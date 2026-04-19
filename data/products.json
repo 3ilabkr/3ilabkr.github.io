@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260420-01",
+        "date": "20260420",
+        "rank": 1,
+        "name": "하이뮨 프로틴 밸런스 L 캔",
+        "price": 36000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20260420-02",
+        "date": "20260420",
+        "rank": 2,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11890,
+        "image_url": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260420-03",
+        "date": "20260420",
+        "rank": 3,
+        "name": "그린핑거 유아용품 소독 물티슈 캡형",
+        "price": 19450,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/65520699668856-99ff34dd-2ae0-4509-971d-414398aca54d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7147519066"
+    },
+    {
+        "id": "20260420-04",
+        "date": "20260420",
+        "rank": 4,
+        "name": "아몬드브리즈 언스위트",
+        "price": 16500,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=329389373"
+    },
+    {
+        "id": "20260420-05",
+        "date": "20260420",
+        "rank": 5,
+        "name": "다우니 초고농축 섬유유연제 화이트티 본품",
+        "price": 19580,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/46308221749423-9d4a36e7-f746-4e8f-b964-08b7171a6cff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9235174023"
+    },
+    {
+        "id": "20260420-06",
+        "date": "20260420",
+        "rank": 6,
+        "name": "Kipnos 폴딩 수납장 리빙박스 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함 길이 40cm",
+        "price": 60000,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/5f8f/c5fe193a7b17c8d8bfc4e5e4e526fae819c8156a5f785e64ef90fd753ee6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906599125"
+    },
+    {
+        "id": "20260420-07",
+        "date": "20260420",
+        "rank": 7,
+        "name": "르크루제 레인보우 마시멜로 머그컵 380ml 2p + 쇼핑백 S(29 x 28 x 13.5 cm) 세트",
+        "price": 36990,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/587596762707449-393bc2a9-173d-424d-8801-9bc9c96937e1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9054179046"
+    },
+    {
+        "id": "20260420-08",
+        "date": "20260420",
+        "rank": 8,
+        "name": "베이블퓨어리 트라이크 유모차 T2",
+        "price": 52260,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/58734222294237-d64edf4b-a6d1-4658-8e70-7641b17434f4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2045552663"
+    },
+    {
+        "id": "20260420-09",
+        "date": "20260420",
+        "rank": 9,
+        "name": "마르디메크르디 여성용 플라워 자르댕 면 티셔츠",
+        "price": 52900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/192494466271948-d1f80f45-e6b9-4741-b03e-39343b6c6f24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9442482920"
+    },
+    {
+        "id": "20260420-10",
+        "date": "20260420",
+        "rank": 10,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 25300,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/71398767918130-b431ac05-41d7-466f-83e2-c4758d247341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
         "id": "20260419-01",
         "date": "20260419",
         "rank": 1,
