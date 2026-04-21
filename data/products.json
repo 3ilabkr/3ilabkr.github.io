@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260422-01",
+        "date": "20260422",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260422-02",
+        "date": "20260422",
+        "rank": 2,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 12900,
+        "image_url": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260422-03",
+        "date": "20260422",
+        "rank": 3,
+        "name": "코카콜라 제로제로",
+        "price": 20050,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/704893215543382-183fd7ca-cc8c-4620-a84b-cb45ab0dcab8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7566747125"
+    },
+    {
+        "id": "20260422-04",
+        "date": "20260422",
+        "rank": 4,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 13630,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/11868540504924-016d965d-d467-4261-9268-8de0f9141612.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260422-05",
+        "date": "20260422",
+        "rank": 5,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260422-06",
+        "date": "20260422",
+        "rank": 6,
+        "name": "뉴에라 남녀공용 MLB 베이직 로고 뉴욕 양키스 반팔 티셔츠 1472130",
+        "price": 39000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/11458411528285-13e6d060-2e86-48c3-89c4-736e48ea90ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8665506025"
+    },
+    {
+        "id": "20260422-07",
+        "date": "20260422",
+        "rank": 7,
+        "name": "그린모먼트랩 목주름 케어 경추베개 울플렉스 양모 필로우",
+        "price": 49000,
+        "image_url": "https://image5.coupangcdn.com/image/rs_quotation_api/sstaklzx/05e6276782d64050a1141072da1306b2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9208915004"
+    },
+    {
+        "id": "20260422-08",
+        "date": "20260422",
+        "rank": 8,
+        "name": "올젠 남성용 에어 메쉬 카라 티셔츠 ZOF3TT1302",
+        "price": 29500,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/432002978986794-f84822a0-2103-4ea2-ba43-8b04b21d35d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9399856835"
+    },
+    {
+        "id": "20260422-09",
+        "date": "20260422",
+        "rank": 9,
+        "name": "이니스프리 화산송이 모공 바하 대용량 클렌징 폼",
+        "price": 8390,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/942452081570612-573891dd-0c8c-4347-baa1-d689567ec71d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8209844068"
+    },
+    {
+        "id": "20260422-10",
+        "date": "20260422",
+        "rank": 10,
+        "name": "라보토리 프리미엄 원터치 다용도 접이식 간편 폴딩 철제선반",
+        "price": 36760,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/7d6c/673c9ee36b64b533af5f8e17315ed2b617b48bc8978ed904b2886f015d37.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9400653695"
+    },
+    {
         "id": "20260421-01",
         "date": "20260421",
         "rank": 1,
