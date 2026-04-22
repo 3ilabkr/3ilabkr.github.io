@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260423-01",
+        "date": "20260423",
+        "rank": 1,
+        "name": "리빙플레이어 스탠딩 헤어드라이어 1700W",
+        "price": 109000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2025/01/23/10/4/fcb7e30d-2a07-436e-97a0-b3d9c2e28716.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8188249118"
+    },
+    {
+        "id": "20260423-02",
+        "date": "20260423",
+        "rank": 2,
+        "name": "끌래망스 사계절 암막커튼 2p",
+        "price": 22400,
+        "image_url": "https://img1c.coupangcdn.com/image/rs_quotation_api/xlrx5nhq/a3114e93bffd4ea799630c634280d9c5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8915668201"
+    },
+    {
+        "id": "20260423-03",
+        "date": "20260423",
+        "rank": 3,
+        "name": "BYO 코어 피부면역 유산균 30p",
+        "price": 12310,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/a7c2/2e520b3d86868928ec9020b6532416dc543820bdeeca23573dfce8d78d9b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7154187085"
+    },
+    {
+        "id": "20260423-04",
+        "date": "20260423",
+        "rank": 4,
+        "name": "나이키 DAWN ASCENT AF 선글라스 DQ4565 012 59",
+        "price": 129000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2807257440949144-af182a67-02df-42ee-aebb-23fb9b3affd2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5790076585"
+    },
+    {
+        "id": "20260423-05",
+        "date": "20260423",
+        "rank": 5,
+        "name": "길팁 토마토 분말 츄어블 샐러드 캔디",
+        "price": 35200,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2026/03/27/10/8/42dac9d6-3c4f-4540-b3e7-822739c24878.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8719433138"
+    },
+    {
+        "id": "20260423-06",
+        "date": "20260423",
+        "rank": 6,
+        "name": "듀플렉스 무선 미니 탁상용 선풍기",
+        "price": 19700,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/22752977208261-c1b52f41-09d7-4ce7-b13f-7349ff8e39d6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8686495362"
+    },
+    {
+        "id": "20260423-07",
+        "date": "20260423",
+        "rank": 7,
+        "name": "착한구두 캐쳐 스틸레토 하이힐 슬링백 7cm SBLTT1f123",
+        "price": 39900,
+        "image_url": "https://image5.coupangcdn.com/image/rs_quotation_api/uhkllu8k/ecb20b7f493e4881bd5c6e1bcc3a30b8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7202019885"
+    },
+    {
+        "id": "20260423-08",
+        "date": "20260423",
+        "rank": 8,
+        "name": "오뚜기 리얼 멕시칸 브리또 페페로니트리플치즈 (냉동)",
+        "price": 7630,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/10143660398305-6a0655e9-f055-4ea7-bed5-be79a3cfda5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6199704507"
+    },
+    {
+        "id": "20260423-09",
+        "date": "20260423",
+        "rank": 9,
+        "name": "마스마룰즈 남녀공용 투 포켓 데일리 백팩 + 파우치 세트",
+        "price": 58000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/790022215529836-b05d359e-107e-41ee-be88-e01110517eea.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150863249"
+    },
+    {
+        "id": "20260423-10",
+        "date": "20260423",
+        "rank": 10,
+        "name": "맘스럽 퍼팩트 캡슐세제 4챔버 파우치형 국산제조 8배 초고농축 4in1 대용량 실내건조",
+        "price": 8720,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/d4a3/ecee0dcef9f80574f2b079f8bb7b8abb53fa3b63f35aa551117ea5c4bb5f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8641935458"
+    },
+    {
         "id": "20260422-01",
         "date": "20260422",
         "rank": 1,
