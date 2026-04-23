@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260424-01",
+        "date": "20260424",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 19710,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/33597756644270-a896be4b-096d-4ab8-94c7-8d5adf8f1762.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8114968257"
+    },
+    {
+        "id": "20260424-02",
+        "date": "20260424",
+        "rank": 2,
+        "name": "코멧 트임형 빨래바구니 2개입",
+        "price": 8360,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/230012357779219-d9e7df88-18ee-402f-acf8-61f7be9568e1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5655445610"
+    },
+    {
+        "id": "20260424-03",
+        "date": "20260424",
+        "rank": 3,
+        "name": "오리온 태양의 맛 썬",
+        "price": 9190,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/ec71/714aa78c194c545af192c71c81b7a780701d9cb084a05aa15c14dd848bbb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=191600841"
+    },
+    {
+        "id": "20260424-04",
+        "date": "20260424",
+        "rank": 4,
+        "name": "지프스피릿 캐주얼 천연 소가죽 벨트 + 지프전용케이스 세트",
+        "price": 28700,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/886291308235523-dd06c28a-f1eb-433b-9b49-e1619455636c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8231816978"
+    },
+    {
+        "id": "20260424-05",
+        "date": "20260424",
+        "rank": 5,
+        "name": "제이픽스 MJ인테리어 식탁의자",
+        "price": 65000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/335622895288887-bad06ec7-6601-4579-865e-5f1da2c0274c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6924856145"
+    },
+    {
+        "id": "20260424-06",
+        "date": "20260424",
+        "rank": 6,
+        "name": "리얼닥터 캐나다산 프리미엄 오메가3 대용량",
+        "price": 21390,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/94c6/7a0513acf68e8c007935120618c9dde3ef62bc6f2e6c8e88cf16431dd78d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7643993961"
+    },
+    {
+        "id": "20260424-07",
+        "date": "20260424",
+        "rank": 7,
+        "name": "하림 IFF 닭가슴살 (냉동)",
+        "price": 18800,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2882595627829337-dda8fe4b-040f-4d3a-9fc2-fa00a275ecf3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=227331483"
+    },
+    {
+        "id": "20260424-08",
+        "date": "20260424",
+        "rank": 8,
+        "name": "스위치 남녀공용 와이드 브리프 토트백 001",
+        "price": 104690,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2026/01/02/17/3/b866e2e7-d860-4efd-aab4-a786c3b9f921.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8699197415"
+    },
+    {
+        "id": "20260424-09",
+        "date": "20260424",
+        "rank": 9,
+        "name": "옥소 굿그립 야채 탈수기 4.0",
+        "price": 46800,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/189125098518878-714333bc-9c7e-4e64-acd1-402268f2c764.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6159972337"
+    },
+    {
+        "id": "20260424-10",
+        "date": "20260424",
+        "rank": 10,
+        "name": "iRoom 싸이클론 차이슨 무선청소기 AST-009 PLUS",
+        "price": 89000,
+        "image_url": "https://img4c.coupangcdn.com/image/1025_amir_coupang_oct_80k/89c7/dea11d98f07230ed8bdde957e9011cd433007527e1a1483ff1b49173cb04.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=38722736"
+    },
+    {
         "id": "20260423-01",
         "date": "20260423",
         "rank": 1,
