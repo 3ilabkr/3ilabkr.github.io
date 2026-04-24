@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260425-01",
+        "date": "20260425",
+        "rank": 1,
+        "name": "닥터린 하이퍼셀 알티지 오메가3 알파",
+        "price": 41500,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2025/12/08/12/8/5af30df3-2833-4a6a-ab38-fa46f76ae513.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8349288599"
+    },
+    {
+        "id": "20260425-02",
+        "date": "20260425",
+        "rank": 2,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 29990,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/c135/13516d0e7fd3b47dc1548952584820bd9a069610fe9db4f3a5f288c2e4f5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20260425-03",
+        "date": "20260425",
+        "rank": 3,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 19500,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/e88b/c995889a0ae485a16be33ac09b8d9da69bcd36b0c9f22c84bb6967549a61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20260425-04",
+        "date": "20260425",
+        "rank": 4,
+        "name": "라보토리 스탠드 부착형 전신거울",
+        "price": 15500,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/75c5/78799a847831a57da834ad7e05d43e9e54babe2ace08e2df02f5d36be6e8.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9417053936"
+    },
+    {
+        "id": "20260425-05",
+        "date": "20260425",
+        "rank": 5,
+        "name": "종가 오래오래 맛있는 열무김치",
+        "price": 15780,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/3122471123407877-2d6f8145-860c-4a95-aea6-8d1784dab6f5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4583661822"
+    },
+    {
+        "id": "20260425-06",
+        "date": "20260425",
+        "rank": 6,
+        "name": "오뚜기 짜슐랭 145g",
+        "price": 7420,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/961188112412245-02ce1153-d6a9-49b7-904c-45c816e171a0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6480900046"
+    },
+    {
+        "id": "20260425-07",
+        "date": "20260425",
+        "rank": 7,
+        "name": "핑크퐁 한글버스",
+        "price": 34900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/7507/c5f064ed5c566efffeddd661bbad1d3ec93c0caf2199b2422742c37c0efb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=53098248"
+    },
+    {
+        "id": "20260425-08",
+        "date": "20260425",
+        "rank": 8,
+        "name": "삼익가구 허리탄탄 굿코어 본넬스프링 매트리스 방문설치",
+        "price": 129000,
+        "image_url": "https://image11.coupangcdn.com/image/rs_quotation_api/vnx3rltl/13abaabef93945f6a9d4f06c25003415.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8120226543"
+    },
+    {
+        "id": "20260425-09",
+        "date": "20260425",
+        "rank": 9,
+        "name": "키플링 여성용 리리 크로스백",
+        "price": 99000,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/528981228822328-27994bc5-3805-4163-b7d8-fb0ce3b7f1c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7785803347"
+    },
+    {
+        "id": "20260425-10",
+        "date": "20260425",
+        "rank": 10,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 12680,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/71398552289343-b41a602e-f62c-4f23-99f5-0a31785c8c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
         "id": "20260424-01",
         "date": "20260424",
         "rank": 1,
