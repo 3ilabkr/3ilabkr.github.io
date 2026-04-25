@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260426-01",
+        "date": "20260426",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260426-02",
+        "date": "20260426",
+        "rank": 2,
+        "name": "코카콜라 제로",
+        "price": 15910,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260426-03",
+        "date": "20260426",
+        "rank": 3,
+        "name": "마이비데 키즈 화장실용 물티슈 캡형",
+        "price": 13710,
+        "image_url": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/5fd4/35f7fb8f4ec961f2a96f8fddf2b2461afb06529264a56cc73a21d41eb334.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8502358197"
+    },
+    {
+        "id": "20260426-04",
+        "date": "20260426",
+        "rank": 4,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 13440,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/5391563659701-787f45d3-a3e9-481a-8244-e8e8cba40c39.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20260426-05",
+        "date": "20260426",
+        "rank": 5,
+        "name": "다이마타이즈 ISO 100 웨이 프로틴 파우더 단백질 보충제 고메 초콜릿(Gourmet Chocolate)",
+        "price": 123800,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/e729f9fd42a93d6127ee002c623bf6676c95caf565a2f3521c5d96c40ec9_1750990779614.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7788595839"
+    },
+    {
+        "id": "20260426-06",
+        "date": "20260426",
+        "rank": 6,
+        "name": "하이피러브 속깊은 확장 튼새맞춤 드레스룸 서랍형 시스템 행거",
+        "price": 86450,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/0a35/a51cf61d48dcabd5d9458f0934f4fcb09a753bdf78c9afbdbbc9de143725.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9041668533"
+    },
+    {
+        "id": "20260426-07",
+        "date": "20260426",
+        "rank": 7,
+        "name": "사봉 샤워오일 자스민 + 펌프 세트",
+        "price": 51300,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1023091507260049-8ccc23cd-99aa-44af-bfc0-be00a05b1938.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9334386805"
+    },
+    {
+        "id": "20260426-08",
+        "date": "20260426",
+        "rank": 8,
+        "name": "한경희생활과학 서큘레이터형 발터치 리모컨 선풍기",
+        "price": 39900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/75817981453106-e9fd5a3a-a714-4c58-954a-6df7cd3622ae.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9461484487"
+    },
+    {
+        "id": "20260426-09",
+        "date": "20260426",
+        "rank": 9,
+        "name": "예일키즈 아동용 예일 클래식 반팔 피케 셋업 YJCCSUF23432",
+        "price": 39900,
+        "image_url": "https://image14.coupangcdn.com/image/rs_quotation_api/dyezgq0z/adfd4695923547daa88bf9413bb3b9b3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9468486404"
+    },
+    {
+        "id": "20260426-10",
+        "date": "20260426",
+        "rank": 10,
+        "name": "[로켓프레시] 그린팜 칠레산 블루베리 (냉동)",
+        "price": 9900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/43890917538520-120e642c-f1f4-44ff-9d42-c52742cf0da2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8564372154"
+    },
+    {
         "id": "20260425-01",
         "date": "20260425",
         "rank": 1,
