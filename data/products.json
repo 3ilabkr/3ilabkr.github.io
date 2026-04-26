@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260427-01",
+        "date": "20260427",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16840,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260427-02",
+        "date": "20260427",
+        "rank": 2,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 11360,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260427-03",
+        "date": "20260427",
+        "rank": 3,
+        "name": "청정원순창 우리쌀로 만든 100% 국산 고추장",
+        "price": 13800,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2099550543706664-ded0047d-f362-4a96-ab7e-b3a7855bb5d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6529883355"
+    },
+    {
+        "id": "20260427-04",
+        "date": "20260427",
+        "rank": 4,
+        "name": "바이탈프로그램 정품 비타민C 1000mg",
+        "price": 25960,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/356520294251232-c73ad7c0-54a6-4a56-a26a-9a2fd48e46cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6903873562"
+    },
+    {
+        "id": "20260427-05",
+        "date": "20260427",
+        "rank": 5,
+        "name": "이플린 어버이날 비누꽃 화분 + 큐빅 카네이션 브로치 세트",
+        "price": 17500,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/3983976325720571-7fe819c7-49cf-4265-9d6c-eb2667d4596b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8490952946"
+    },
+    {
+        "id": "20260427-06",
+        "date": "20260427",
+        "rank": 6,
+        "name": "라보토리 사무용 컴퓨터 의자",
+        "price": 36730,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/8deb/4f0446fe2b7e2a1fc1323b31d591c73928e1b04e6c073965e331ecd66269.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9400831545"
+    },
+    {
+        "id": "20260427-07",
+        "date": "20260427",
+        "rank": 7,
+        "name": "맘스럽 울트라 퍼퓸 캡슐세제 8배 초고농축 국내생산 프리미엄 3in1 대용량 실내건조형",
+        "price": 12840,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/341c/7dd26c82a69ed05062dde53526a358cf4f2a1d84a30702051fd1461adc28.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7826482313"
+    },
+    {
+        "id": "20260427-08",
+        "date": "20260427",
+        "rank": 8,
+        "name": "Hisense하이센스 4K ULED QD Mini LED 스마트TV",
+        "price": 2008280,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/327080040740177-9fa56421-4ac8-4215-9dfc-370c0bb2cc46.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8789673468"
+    },
+    {
+        "id": "20260427-09",
+        "date": "20260427",
+        "rank": 9,
+        "name": "글라스락 베이비 휴대용 가위 집게 세트",
+        "price": 13900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2025/08/08/9/3/61864298-ac05-43d0-bc95-9b4f6e8d4256.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8421209143"
+    },
+    {
+        "id": "20260427-10",
+        "date": "20260427",
+        "rank": 10,
+        "name": "닥터지 그린 마일드 업 선 플러스 SPF50+ PA++++",
+        "price": 23000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/941994092456749-1b0118a5-b44f-43ce-9e7b-8396c0fd02a8.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1473062788"
+    },
+    {
         "id": "20260426-01",
         "date": "20260426",
         "rank": 1,
