@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260428-01",
+        "date": "20260428",
+        "rank": 1,
+        "name": "마이밀 뉴프로틴 오리지널 드링크",
+        "price": 58820,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/43954471874375-f93ab182-0d58-4c4b-92fb-751ff7f07b24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20260428-02",
+        "date": "20260428",
+        "rank": 2,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 15900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260428-03",
+        "date": "20260428",
+        "rank": 3,
+        "name": "비비고 왕교자 (냉동)",
+        "price": 12470,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/255585839262937-c3771d16-db7f-4ff3-b110-21d84d66fa7c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=158010844"
+    },
+    {
+        "id": "20260428-04",
+        "date": "20260428",
+        "rank": 4,
+        "name": "나우푸드 유비퀴놀 200mg 소프트젤",
+        "price": 62040,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/image_audit/prod/5112d65b-6b1d-4825-884f-cb681b50d491_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=3317445"
+    },
+    {
+        "id": "20260428-05",
+        "date": "20260428",
+        "rank": 5,
+        "name": "콩지래빗 리얼 터치 스마트폰",
+        "price": 65500,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/02/18/14/2/f65d32b5-6439-4070-aabd-2d2be0de1088.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8480618444"
+    },
+    {
+        "id": "20260428-06",
+        "date": "20260428",
+        "rank": 6,
+        "name": "헤지스 여성용 위빙 소가죽 벨트 + 선물 케이스",
+        "price": 77000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2026/04/13/17/5/d0f3106b-d6ce-44eb-92a7-9bae5d4bf62e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9492594564"
+    },
+    {
+        "id": "20260428-07",
+        "date": "20260428",
+        "rank": 7,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 85250,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1769065074495/ef5d862d-82c5-473a-b0b2-f138073ec9f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
+        "id": "20260428-08",
+        "date": "20260428",
+        "rank": 8,
+        "name": "길어지는 술자리엔 아사이치케아 ASAICHI-CARE 네제스트 건강식품",
+        "price": 43510,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/aa35/740881697d7daf7acfe02085d52e75cce9838aa1b883286b688141b4a0f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9409472444"
+    },
+    {
+        "id": "20260428-09",
+        "date": "20260428",
+        "rank": 9,
+        "name": "락피도 철분 키즈",
+        "price": 35200,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/6c19076c-c272-4663-a08d-04234da5d7415333564917386777006_1752051505623.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6853758942"
+    },
+    {
+        "id": "20260428-10",
+        "date": "20260428",
+        "rank": 10,
+        "name": "마이셰프 인덕션 포레스타 IH 쿡웨어",
+        "price": 123900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2025/10/15/13/5/a9a784e7-abad-4300-b563-911a8088c0af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9435898503"
+    },
+    {
         "id": "20260427-01",
         "date": "20260427",
         "rank": 1,
