@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260429-01",
+        "date": "20260429",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260429-02",
+        "date": "20260429",
+        "rank": 2,
+        "name": "셀렉스 프로틴 오리지널",
+        "price": 25970,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/image_audit/prod/333def01-f0e5-4c4f-8f9d-f89b21f50659_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9334640009"
+    },
+    {
+        "id": "20260429-03",
+        "date": "20260429",
+        "rank": 3,
+        "name": "클룹 애사비소다 오리지널",
+        "price": 26390,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/24599535340050-cb0e951e-5cc4-46ba-94d2-ddfc455ce91b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8054602080"
+    },
+    {
+        "id": "20260429-04",
+        "date": "20260429",
+        "rank": 4,
+        "name": "닥터스베스트 하이 앱솔션 CoQ10 바이오페린 100mg 소프트젤",
+        "price": 48510,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/3804/6c8c32d57346299452f8dd04b45e3a74b9e607b56392e485716734c7b5ed.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=228822"
+    },
+    {
+        "id": "20260429-05",
+        "date": "20260429",
+        "rank": 5,
+        "name": "구스페리 맥세이프 고속 차량용 무선충전 거치대 MC-WCC-001",
+        "price": 11900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2026/02/23/14/4/056c0bbd-c1dc-449a-b2fc-3901f47c2064.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9393574944"
+    },
+    {
+        "id": "20260429-06",
+        "date": "20260429",
+        "rank": 6,
+        "name": "아로마티카 로즈마리 루트 인핸서 두피 에센스",
+        "price": 10270,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/127110971276284-fe920b33-1940-4653-a36f-21d6d134dc63.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=35316866"
+    },
+    {
+        "id": "20260429-07",
+        "date": "20260429",
+        "rank": 7,
+        "name": "데싱디바 매직프레스 페디팁 세트",
+        "price": 14400,
+        "image_url": "https://img5a.coupangcdn.com/image/rs_quotation_api/axmnemje/aec18be810f04468bd78d2c7a5a14671.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8214396965"
+    },
+    {
+        "id": "20260429-08",
+        "date": "20260429",
+        "rank": 8,
+        "name": "센소브라이트 오리지널 시린이 브라이트닝 치약",
+        "price": 16900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2025/10/21/10/4/09f68ab7-5074-4ea7-bdd5-259c0f82fa5e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9334546684"
+    },
+    {
+        "id": "20260429-09",
+        "date": "20260429",
+        "rank": 9,
+        "name": "모던하우스 ON 높이조절 빛차단 99.9% 암막커튼",
+        "price": 31900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/86697330404041-daed9d5d-c4ec-42c1-884c-3a343ff4edc6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6532600867"
+    },
+    {
+        "id": "20260429-10",
+        "date": "20260429",
+        "rank": 10,
+        "name": "베네통키즈 아동용 쿨 웨이브 캠핑햇 플랩캡",
+        "price": 26900,
+        "image_url": "https://image12.coupangcdn.com/image/rs_quotation_api/i5zpmrkq/e2eff3bc148b491192b4c584830a7bde.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8705246904"
+    },
+    {
         "id": "20260428-01",
         "date": "20260428",
         "rank": 1,
