@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260430-01",
+        "date": "20260430",
+        "rank": 1,
+        "name": "신라면 120g",
+        "price": 15790,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/261218040499787-b954ff07-8bd7-4302-8f14-eb2fa31628fb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7958974"
+    },
+    {
+        "id": "20260430-02",
+        "date": "20260430",
+        "rank": 2,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11990,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260430-03",
+        "date": "20260430",
+        "rank": 3,
+        "name": "뉴케어 정품 액티브 오리지널",
+        "price": 51610,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/391972988229062-bbdb0c4e-dcbd-4c18-843c-6a4a258f5ff0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7821562659"
+    },
+    {
+        "id": "20260430-04",
+        "date": "20260430",
+        "rank": 4,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자 학생 사무실의자 공부의자 사무실 회의실 독서실 사무용 컴퓨터 의자 푹신한 메쉬 의자",
+        "price": 69900,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/c832/b2e7a60de64cc7542eaa78febcbb94a50d8c1b6e2c0f606ef36e08fdc9a6.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9472591955"
+    },
+    {
+        "id": "20260430-05",
+        "date": "20260430",
+        "rank": 5,
+        "name": "라보토리 원터치 다용도 접이식 간편 폴딩 철제선반",
+        "price": 31900,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/3873/f5b839b7b32661987ca0bd16b70de056eaa384eb0a36e6950af2e5741062.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9414101933"
+    },
+    {
+        "id": "20260430-06",
+        "date": "20260430",
+        "rank": 6,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 159900,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/036c/f514aee9a938c5ba622a7827ab173d8d1949dd4b11cf7af0b17c82676bcb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758565034"
+    },
+    {
+        "id": "20260430-07",
+        "date": "20260430",
+        "rank": 7,
+        "name": "2026년 프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 279900,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260430-08",
+        "date": "20260430",
+        "rank": 8,
+        "name": "라부르켓 립 밤",
+        "price": 22950,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2024/12/10/16/0/5114fa64-5e58-4372-9d56-22f7ce29d895.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6425290783"
+    },
+    {
+        "id": "20260430-09",
+        "date": "20260430",
+        "rank": 9,
+        "name": "닥터스베스트, MSM 1500mg 타블렛",
+        "price": 14670,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/125b/41308c9324ba46c8e5df41e0a944b9fc15e6fdf79f80f3d554c8dab74b58.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4791961748"
+    },
+    {
+        "id": "20260430-10",
+        "date": "20260430",
+        "rank": 10,
+        "name": "지리산수 무라벨",
+        "price": 10200,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/3646448824876-2cbf8382-b58b-4806-9fbd-013e7537c713.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1357560685"
+    },
+    {
         "id": "20260429-01",
         "date": "20260429",
         "rank": 1,
