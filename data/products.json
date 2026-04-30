@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260501-01",
+        "date": "20260501",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 수딩플러스 천연펄프 3겹 고급롤화장지",
+        "price": 20050,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/13791393968848-f19acff4-c8cd-47b9-86ba-5a7807253a9e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253356297"
+    },
+    {
+        "id": "20260501-02",
+        "date": "20260501",
+        "rank": 2,
+        "name": "코코도르 카네이션 디퓨저 120ml",
+        "price": 17900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/251703237216285-a4d23774-833c-4b4e-93d7-7339edfbe188.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9456386783"
+    },
+    {
+        "id": "20260501-03",
+        "date": "20260501",
+        "rank": 3,
+        "name": "스와로브스키 Matrix 로듐 크리스털 펄 스터드 귀걸이 세트 5694225",
+        "price": 126420,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2024/12/16/17/3/3bee92a2-7e2e-4287-8ab2-67e7e0a9797d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174542749"
+    },
+    {
+        "id": "20260501-04",
+        "date": "20260501",
+        "rank": 4,
+        "name": "HANYO 남성용 빈티지 워싱 오버핏 데님 팬츠 루즈핏 롱 청바지",
+        "price": 28600,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/0d14/99644860d1162e301e8ae8ee451adf240d1e4ac517f5049071f269365254.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8508042932"
+    },
+    {
+        "id": "20260501-05",
+        "date": "20260501",
+        "rank": 5,
+        "name": "기린 한입쏙 미니만쥬 밤만쥬 대용량 식사대용 빵 30개",
+        "price": 11870,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/174d59c9f899a1f5dbf6b93f6d1f33d53fe81811ec26ec58c0b9c568e117_1773736087787.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9276151831"
+    },
+    {
+        "id": "20260501-06",
+        "date": "20260501",
+        "rank": 6,
+        "name": "라보토리 철제 튼튼한 시스템 드레스룸 옷장 행거",
+        "price": 48900,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/1cd0/5b58ac885cb7502c256ee9ca298b8b4853e0fe8ac05e2349e88b2d7483a8.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9409354647"
+    },
+    {
+        "id": "20260501-07",
+        "date": "20260501",
+        "rank": 7,
+        "name": "캐네디언샌드 응고형 엑스트라케어 고양이 벤토나이트",
+        "price": 42500,
+        "image_url": "https://image2.coupangcdn.com/image/1025_amir_coupang_oct_80k/703c/134fbcec5b6ae36c86843a1e7717673021f7f59b61531dcfc527a794d54e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7151451350"
+    },
+    {
+        "id": "20260501-08",
+        "date": "20260501",
+        "rank": 8,
+        "name": "무로 카바이 차량용 극세사 먼지털이 세트 대형 + 소형 + 전용비닐팩",
+        "price": 12400,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/ff58/528ce6e8068d4df593372f2d9fa00760b898dc98dfaecd30ec47e8067fee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5829337691"
+    },
+    {
+        "id": "20260501-09",
+        "date": "20260501",
+        "rank": 9,
+        "name": "[로켓프레시] 무연골 돌돌말이 대패삼겹살 (냉동)",
+        "price": 11890,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1417773117971752-b5593ce2-9d71-4636-9327-1fdf81d7d8f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7784271976"
+    },
+    {
+        "id": "20260501-10",
+        "date": "20260501",
+        "rank": 10,
+        "name": "프리메라 오가니언스 베리어 리페어 2종 세트",
+        "price": 46560,
+        "image_url": "https://img3c.coupangcdn.com/image/rs_quotation_api/eerjanhp/19878a425fcc468782d3c3db5f92586f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7816332005"
+    },
+    {
         "id": "20260430-01",
         "date": "20260430",
         "rank": 1,
