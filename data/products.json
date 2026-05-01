@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260502-01",
+        "date": "20260502",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 22110,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/68357096027416-cc28db91-a4e9-4842-813a-3687cbff7e07.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260502-02",
+        "date": "20260502",
+        "rank": 2,
+        "name": "[로켓프레시] 다향 훈제오리",
+        "price": 14000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/421766234991410-c1d32fa8-e084-4233-8284-8f92c46cb5bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7243716923"
+    },
+    {
+        "id": "20260502-03",
+        "date": "20260502",
+        "rank": 3,
+        "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬",
+        "price": 38400,
+        "image_url": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/7be5/8b6eee1da3a3375199bfda97eb139d177d505c806e1ea1d1414cc7fe2d5b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5391887777"
+    },
+    {
+        "id": "20260502-04",
+        "date": "20260502",
+        "rank": 4,
+        "name": "뷰티풀데코센스 조화 자이언트 리본장식 카네이션",
+        "price": 13700,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/205577209193170-a9f6b76f-5cdf-43e0-9000-12bdf9c3fc5f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7837583997"
+    },
+    {
+        "id": "20260502-05",
+        "date": "20260502",
+        "rank": 5,
+        "name": "키루에 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 39900,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/cc2d/d59e639217b99e82de266968c6a54b41790e6c7d759377cba66098a0815d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260502-06",
+        "date": "20260502",
+        "rank": 6,
+        "name": "헬시오리진스 내추럴 프로바이오틱 유산균 300억 CFU 브이캡",
+        "price": 34320,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/fcbd/f70b743521d19fa659e73b623649b5b6e34c7cb75926696e3a2d664133fb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6988822689"
+    },
+    {
+        "id": "20260502-07",
+        "date": "20260502",
+        "rank": 7,
+        "name": "기꼬만 진한 육수 혼쯔유",
+        "price": 12840,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/3fd5/f2f6e12924dc7e9ef27dbf5a999eb0eb1a9dec44d4a65967f88c907af7ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8311261941"
+    },
+    {
+        "id": "20260502-08",
+        "date": "20260502",
+        "rank": 8,
+        "name": "블랙 트러플 하몽 크래커",
+        "price": 13110,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/fb47/020b5e3c48434f309c6fd7746daa60bfeb95153e2273c6858083ade04948.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9458994943"
+    },
+    {
+        "id": "20260502-09",
+        "date": "20260502",
+        "rank": 9,
+        "name": "난닝구 여성용 씨켈프 후드 바람막이 점퍼",
+        "price": 22800,
+        "image_url": "https://img4a.coupangcdn.com/image/1025_amir_coupang_oct_80k/b1fa/bbca0de4abada7ab8cf6eb8a79f2a0649e2f469a93d660903d9808c9bfd7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7214184412"
+    },
+    {
+        "id": "20260502-10",
+        "date": "20260502",
+        "rank": 10,
+        "name": "닥스 [MISTY FLOWER] 블랙 가죽 플라워 반지갑 +선물 풀패키지(쇼핑백,상자,리본)",
+        "price": 129000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/138467529716474-c452a2d2-f66c-4ec4-b4ff-a1667cb69684.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9484693846"
+    },
+    {
         "id": "20260501-01",
         "date": "20260501",
         "rank": 1,
