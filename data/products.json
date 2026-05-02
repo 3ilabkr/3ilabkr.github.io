@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260503-01",
+        "date": "20260503",
+        "rank": 1,
+        "name": "다우니 실내건조 초고농축 섬유유연제 프레시 클린 본품",
+        "price": 18900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/42427186099296-e20d18be-a84f-42b3-aa8d-41350b70777f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8938973449"
+    },
+    {
+        "id": "20260503-02",
+        "date": "20260503",
+        "rank": 2,
+        "name": "제이에스티나 여성용 DOUBLE HEART 목걸이 + 쇼핑백 + 메시지카드",
+        "price": 58900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2245491134525762-a4397473-1e71-4710-b60d-b198980f0a7d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9328765287"
+    },
+    {
+        "id": "20260503-03",
+        "date": "20260503",
+        "rank": 3,
+        "name": "무아스 마그넷 탁상용 무선 선풍기",
+        "price": 24800,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2025/04/11/17/6/89866844-f5cf-4258-83f3-b062f7a1a191.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8686193969"
+    },
+    {
+        "id": "20260503-04",
+        "date": "20260503",
+        "rank": 4,
+        "name": "헤지스 여성용 SAVER 퍼피 로고 나일론 와이드 숄더백",
+        "price": 95010,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2024/08/16/10/7/31b34a55-9cce-40ba-9bc6-69034243651b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8291163092"
+    },
+    {
+        "id": "20260503-05",
+        "date": "20260503",
+        "rank": 5,
+        "name": "풀리오 손 손목 마사지기",
+        "price": 88080,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2025/10/28/17/5/504e00cf-3d7f-4f83-98f4-d9fcb5a122fc.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8672753707"
+    },
+    {
+        "id": "20260503-06",
+        "date": "20260503",
+        "rank": 6,
+        "name": "[로켓프레시] 피움 무농약 인증 유러피안 샐러드 꾸러미",
+        "price": 6480,
+        "image_url": "https://image12.coupangcdn.com/image/rs_quotation_api/v7bdznxi/2d51112041a84f51b9f25523d489397d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9398145315"
+    },
+    {
+        "id": "20260503-07",
+        "date": "20260503",
+        "rank": 7,
+        "name": "쿠첸 클래식 레트로 전자레인지 다이얼식 20L",
+        "price": 73000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/978721417876043-6c212a87-c4a2-454d-8cf6-8837e39dba70.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6119944442"
+    },
+    {
+        "id": "20260503-08",
+        "date": "20260503",
+        "rank": 8,
+        "name": "스케쳐스 여성용 고워크 플렉스 샌들 슬리퍼 SP0WSCGM35",
+        "price": 53100,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/12/24/15/6/48100718-3a6e-42a7-b656-1445ffcce678.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9264942919"
+    },
+    {
+        "id": "20260503-09",
+        "date": "20260503",
+        "rank": 9,
+        "name": "노보핀 코쿠보 열 냉각시트  어린이용 무향",
+        "price": 5900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/441289557672097-2c4adaf5-86ef-4702-8ba3-d3b12aa7cb5a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2201875839"
+    },
+    {
+        "id": "20260503-10",
+        "date": "20260503",
+        "rank": 10,
+        "name": "바겐슈타이거 연마제 없는 스텐 사각 트레이 세트",
+        "price": 12900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/85261965402704-72fa6c37-5829-4cde-aca3-1159f05d4cc6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4970215252"
+    },
+    {
         "id": "20260502-01",
         "date": "20260502",
         "rank": 1,
