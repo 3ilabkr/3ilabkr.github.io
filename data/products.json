@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260504-01",
+        "date": "20260504",
+        "rank": 1,
+        "name": "아몬드브리즈 오리지널",
+        "price": 15440,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/62392158900845-db2260a0-1ea8-4145-bcbe-c5e769595991.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6654766761"
+    },
+    {
+        "id": "20260504-02",
+        "date": "20260504",
+        "rank": 2,
+        "name": "테팔 매트 프라이팬 세트",
+        "price": 75000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/941245883729726-3ee81dfd-48fc-4563-8c06-04acfcfdf03d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4917534787"
+    },
+    {
+        "id": "20260504-03",
+        "date": "20260504",
+        "rank": 3,
+        "name": "파워에이드 제로",
+        "price": 18890,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20260504-04",
+        "date": "20260504",
+        "rank": 4,
+        "name": "코카콜라 제로",
+        "price": 20310,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/349121684142854-936d432c-0e7a-4bb3-b935-4459f66df859.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=71444050"
+    },
+    {
+        "id": "20260504-05",
+        "date": "20260504",
+        "rank": 5,
+        "name": "마스마룰즈 남녀공용 래빗에코백 + 파우치 세트",
+        "price": 39900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/1796037066061602-52fc3438-ec2b-47ee-8480-e502c8d8878c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631563688"
+    },
+    {
+        "id": "20260504-06",
+        "date": "20260504",
+        "rank": 6,
+        "name": "Siemzon 무선 5단계 바람 세기 조절 360도 상하 조절 높이 4단계 에어 서큘레이터 플로어팬",
+        "price": 59000,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/8fc6/28c810ed98e3634f793b2c92afbdcf3883ab12aad35cbfda43a0d6ce59a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9466870814"
+    },
+    {
+        "id": "20260504-07",
+        "date": "20260504",
+        "rank": 7,
+        "name": "에너자이저 알카라인 AAA 건전지",
+        "price": 14900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2025/10/15/12/7/86139f95-0c45-4595-95d4-10afa6449e29.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7012051412"
+    },
+    {
+        "id": "20260504-08",
+        "date": "20260504",
+        "rank": 8,
+        "name": "로이드 여성용 실버 퓨어 펄 진주 목걸이 10mm + 쇼핑백",
+        "price": 89900,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/jnfghwf4/20f035ba30ee44fcbf036940be84e538.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9480820441"
+    },
+    {
+        "id": "20260504-09",
+        "date": "20260504",
+        "rank": 9,
+        "name": "브랜든 여행용 세이프 플러스 크로스백",
+        "price": 72500,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/7041304367142-7a5ce443-8ad5-4155-b5cc-8ac40fefbb3a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9194316225"
+    },
+    {
+        "id": "20260504-10",
+        "date": "20260504",
+        "rank": 10,
+        "name": "쿠첸 IH FLEX 대화구 올파워 인덕션 3구 화이트 방문설치",
+        "price": 424000,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/66c2/e0a033b12084c6b64d972bc885521d012c8a40bcb02a149a1f23a0f1257d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8487607453"
+    },
+    {
         "id": "20260503-01",
         "date": "20260503",
         "rank": 1,
