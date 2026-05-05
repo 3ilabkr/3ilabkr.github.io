@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260506-01",
+        "date": "20260506",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 13750,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20260506-02",
+        "date": "20260506",
+        "rank": 2,
+        "name": "스윗토 스테비아 대추방울토마토",
+        "price": 10990,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/148864028641734-ba606a3a-2a5c-4d62-8d3e-e79ea7672375.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4744789493"
+    },
+    {
+        "id": "20260506-03",
+        "date": "20260506",
+        "rank": 3,
+        "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
+        "price": 38890,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2025/05/07/14/3/f4024daf-9035-4009-8450-7123872220d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758755740"
+    },
+    {
+        "id": "20260506-04",
+        "date": "20260506",
+        "rank": 4,
+        "name": "코튼클라우드 호텔수건 200g 40수 코마사",
+        "price": 39800,
+        "image_url": "https://img5a.coupangcdn.com/image/rs_quotation_api/kjkmsyls/d6e83d6da65240c0b1c47d97818da8a1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=48154062"
+    },
+    {
+        "id": "20260506-05",
+        "date": "20260506",
+        "rank": 5,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 123400,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/9d29/1b9e9f3b49cdab86f87cb06f5323b81fbbd2b6441a3cd4a6180b62558cca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260506-06",
+        "date": "20260506",
+        "rank": 6,
+        "name": "키루에 폴딩 대용량 리빙박스 수납박스 대형 가정용 거실 장난감 사물함 간식 선반 옷정리함 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 리빙박",
+        "price": 54390,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/3cfd/4f8a909b285860e0fd6f30b5917d5b6bea9bab4edffa0cb41af8a8cbafbb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8541268926"
+    },
+    {
+        "id": "20260506-07",
+        "date": "20260506",
+        "rank": 7,
+        "name": "듀라텍스 냉감 쿨매트",
+        "price": 32900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/3995082153289859-f6a93f23-7657-4e5c-8e88-66e4ae63c8a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059466160"
+    },
+    {
+        "id": "20260506-08",
+        "date": "20260506",
+        "rank": 8,
+        "name": "프리메라 맨 오가니언스 스페셜 2종 세트",
+        "price": 42900,
+        "image_url": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/b049/2ee9d557ae77372828cbc7c57976600006b550971fa482f76f4c136e46a8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6641213955"
+    },
+    {
+        "id": "20260506-09",
+        "date": "20260506",
+        "rank": 9,
+        "name": "쌤소나이트 남성용 샘 클래식 레더 브리프백",
+        "price": 310000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2026/03/23/10/9/605d92a9-8b9f-43d1-bc73-565dce3c11cf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9452250453"
+    },
+    {
+        "id": "20260506-10",
+        "date": "20260506",
+        "rank": 10,
+        "name": "EZn이지엔 슬라이더 지퍼백",
+        "price": 15430,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/ca64/805d656fee493fae6d8343f9ee1a9cf93bb829d2f1fbe86090939943febe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6988132054"
+    },
+    {
         "id": "20260505-01",
         "date": "20260505",
         "rank": 1,
