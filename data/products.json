@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260507-01",
+        "date": "20260507",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13900,
+        "image_url": "https://image1.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260507-02",
+        "date": "20260507",
+        "rank": 2,
+        "name": "하이뮨 프로틴 밸런스 L 캔",
+        "price": 36000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20260507-03",
+        "date": "20260507",
+        "rank": 3,
+        "name": "리큐 진한겔 하이브리드 플로랄향 일반용 액상세제 리필",
+        "price": 18900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6616908158"
+    },
+    {
+        "id": "20260507-04",
+        "date": "20260507",
+        "rank": 4,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 16900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/94761968167687-71f42b05-dc5e-4c35-8b00-fceda1c2809a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20260507-05",
+        "date": "20260507",
+        "rank": 5,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 66800,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/bf9e/5dfe5b9a27378dc5ecccc38e35ddde7b98457c2951bc3acf8a816dc10f07.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20260507-06",
+        "date": "20260507",
+        "rank": 6,
+        "name": "베스트야옹이 고양이사료 길고양이 대용량",
+        "price": 32800,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/103f/5712569415fc6b3b9c3e000398dc76a39a141a713ccbee021c685ad2bcb6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4958082972"
+    },
+    {
+        "id": "20260507-07",
+        "date": "20260507",
+        "rank": 7,
+        "name": "닥스 DD로고 소가죽 슬림 반지갑",
+        "price": 139000,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/179491338258973-d7b4a2c0-5b10-4cc0-a35f-e9561d324a11.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9510084297"
+    },
+    {
+        "id": "20260507-08",
+        "date": "20260507",
+        "rank": 8,
+        "name": "밀크바오밥 베이비앤키즈 페이셜 폼",
+        "price": 9250,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/301425063615572-23063a90-8a15-44df-9679-23d0e7dcd03f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8750115868"
+    },
+    {
+        "id": "20260507-09",
+        "date": "20260507",
+        "rank": 9,
+        "name": "스와로브스키 Swan 로듐 스터드 귀걸이 XXS 5647873 +쇼핑백+메시지카드+품질보증서(백화점A/S)",
+        "price": 189000,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2024/12/16/17/6/1f936c6c-fa10-48e2-8290-3a713f3a11c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8220481756"
+    },
+    {
+        "id": "20260507-10",
+        "date": "20260507",
+        "rank": 10,
+        "name": "라로슈포제 시카플라스트 멀티 리페어 크림 100ml + 화장솜 30p 세트",
+        "price": 43210,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2509988300864824-52e56954-3c64-4b3c-9bce-cb1b4b419273.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8421170361"
+    },
+    {
         "id": "20260506-01",
         "date": "20260506",
         "rank": 1,
