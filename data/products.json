@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260509-01",
+        "date": "20260509",
+        "rank": 1,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13500,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260509-02",
+        "date": "20260509",
+        "rank": 2,
+        "name": "Kipnos 폴딩 수납장 리빙박스 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함 길이 40cm",
+        "price": 33500,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/f488/e0ca09934122ad4848da792164d024b4be83a489c1ec5b36b24c6d4be455.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906599125"
+    },
+    {
+        "id": "20260509-03",
+        "date": "20260509",
+        "rank": 3,
+        "name": "푸마키즈 여름 트레이닝 반팔 상의 2종+ 반바지 2종 세트",
+        "price": 36900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2026/04/14/18/6/eec5971a-2aa0-443a-b131-ef2b7ae28577.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9494805576"
+    },
+    {
+        "id": "20260509-04",
+        "date": "20260509",
+        "rank": 4,
+        "name": "ANF 고양이 식스프리 인도어 웨이트케어 기능성 사료",
+        "price": 67900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/1985589400158676-eab71cec-b7a3-4e62-a985-78740d7b8faa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9385166133"
+    },
+    {
+        "id": "20260509-05",
+        "date": "20260509",
+        "rank": 5,
+        "name": "코리아푸드 마카로니 대롱과자 box포장",
+        "price": 9980,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/e9282fe51a7a174822b4385e987fcbfa720566409ec6561758ebe34063f2_1754463601111.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4867000590"
+    },
+    {
+        "id": "20260509-06",
+        "date": "20260509",
+        "rank": 6,
+        "name": "리벤스 스페셜 민트 유아물티슈 캡형",
+        "price": 6860,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/ba01/8b6fb48266581dcfdd45663013293753c7bd4f589a8d933b0ab2d5623873.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8466035436"
+    },
+    {
+        "id": "20260509-07",
+        "date": "20260509",
+        "rank": 7,
+        "name": "미즈노 러쉬 더블 쿠션 단목 양말",
+        "price": 15500,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/3210921676143437-bfc8b861-1f51-45bb-a9dd-5b1a42badb20.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6638406272"
+    },
+    {
+        "id": "20260509-08",
+        "date": "20260509",
+        "rank": 8,
+        "name": "아웃도어프로덕츠키즈 아동용 아쿠아 캠핑햇 플랩캡",
+        "price": 26900,
+        "image_url": "https://image3.coupangcdn.com/image/rs_quotation_api/vfixfzwc/e3215c2d2ec348f0a4fc73ae1002e572.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8120937636"
+    },
+    {
+        "id": "20260509-09",
+        "date": "20260509",
+        "rank": 9,
+        "name": "빌리프 아쿠아 밤 프로즌 크림",
+        "price": 25340,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2025/05/13/18/5/f0cb29c2-0904-475c-b00b-242ae08e17a5.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771927150"
+    },
+    {
+        "id": "20260509-10",
+        "date": "20260509",
+        "rank": 10,
+        "name": "이지숨 소프트 입막음 테이프 60p",
+        "price": 13000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/156135520610329-cfd1ea3f-ea7c-49f0-a982-bc3500e8f0db.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6659186232"
+    },
+    {
         "id": "20260508-01",
         "date": "20260508",
         "rank": 1,
