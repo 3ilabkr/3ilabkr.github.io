@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260510-01",
+        "date": "20260510",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 18510,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1109640700619115-fc5f445e-89e7-44bc-bd35-9b75efec1c72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260510-02",
+        "date": "20260510",
+        "rank": 2,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 22990,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260510-03",
+        "date": "20260510",
+        "rank": 3,
+        "name": "스너글 실내건조 섬유유연제 허거블 선샤인 본품",
+        "price": 16900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/17612216138383-46ac9b6f-f751-4a57-8106-c63913b92bbc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6046174321"
+    },
+    {
+        "id": "20260510-04",
+        "date": "20260510",
+        "rank": 4,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 42520,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/0619/4fcf8740ceb41014a9274fe781a8cd3748f087a907c88dfb89710b32e5bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20260510-05",
+        "date": "20260510",
+        "rank": 5,
+        "name": "휠라 스포츠 더플백",
+        "price": 36900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2026/02/20/13/3/2ebb9210-f583-4f5b-b353-ee7c7bfa54d9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9388107838"
+    },
+    {
+        "id": "20260510-06",
+        "date": "20260510",
+        "rank": 6,
+        "name": "나드 약산성 필링 토너 패드 140ml",
+        "price": 9900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2172526817919427-1eb4c4c5-28c6-442c-9c04-3addecd87478.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6344834228"
+    },
+    {
+        "id": "20260510-07",
+        "date": "20260510",
+        "rank": 7,
+        "name": "인스타360 GO Ultra 액션캠 크리에이터 번들",
+        "price": 529878,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/144750041054921-b8fd4e26-89bd-4f71-861f-cbc7b44f3f63.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9141324559"
+    },
+    {
+        "id": "20260510-08",
+        "date": "20260510",
+        "rank": 8,
+        "name": "하루딱100박스 고당도선별 세척사과 껍질째먹는 꿀사과",
+        "price": 13310,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/d799/f435e2e9c3e16b359134ef79f1781e851f0c5d440ea6b29fcf69a851b959.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9398035509"
+    },
+    {
+        "id": "20260510-09",
+        "date": "20260510",
+        "rank": 9,
+        "name": "롯데제과 아몬드초코볼",
+        "price": 16360,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/101697023926572-05226c81-a29f-43fa-b8ab-3f82bd0cb402.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=10617358"
+    },
+    {
+        "id": "20260510-10",
+        "date": "20260510",
+        "rank": 10,
+        "name": "컴배트 진드기 싹 시트",
+        "price": 9000,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/942976173329906-9beb0247-a5ce-4835-b312-a243cf9313e5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7136754195"
+    },
+    {
         "id": "20260509-01",
         "date": "20260509",
         "rank": 1,
