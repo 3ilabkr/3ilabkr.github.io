@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260513-01",
+        "date": "20260513",
+        "rank": 1,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 11200,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260513-02",
+        "date": "20260513",
+        "rank": 2,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 78900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20260513-03",
+        "date": "20260513",
+        "rank": 3,
+        "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
+        "price": 93000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1799456783809647-a2e328d1-7265-4944-820a-468d6915cf80.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8248049594"
+    },
+    {
+        "id": "20260513-04",
+        "date": "20260513",
+        "rank": 4,
+        "name": "세브란스에이투 전용목장 단백우유",
+        "price": 21900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/76770692332221-21d75e51-edcd-4f76-bd76-29d964121ed5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660544404"
+    },
+    {
+        "id": "20260513-05",
+        "date": "20260513",
+        "rank": 5,
+        "name": "오설록 블루밍 티 기프트 세트",
+        "price": 29390,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/2f9f/01ef72f7a34729324ef1e240191484cdb10f3f6859f0a6dc1afb43acc5a7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8515116261"
+    },
+    {
+        "id": "20260513-06",
+        "date": "20260513",
+        "rank": 6,
+        "name": "크리넥스 수프림 소프트 천연펄프 3겹 화장지",
+        "price": 21900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/58433474886307-4c55277d-90c9-41a4-80d0-8ab14328b8d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=322002036"
+    },
+    {
+        "id": "20260513-07",
+        "date": "20260513",
+        "rank": 7,
+        "name": "HANYO 방수 작업복 포켓 디자인 등산캠핑용  아웃도어 남녀공용 캐주얼 롱팬츠",
+        "price": 27600,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/17e3/f430931afc2c45cf9ac5044b8b0b8bc609cf4799f3d2f077be587dd65d69.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8304923114"
+    },
+    {
+        "id": "20260513-08",
+        "date": "20260513",
+        "rank": 8,
+        "name": "HAPPYVIRUS 어린이 무지개 연필 벽시계",
+        "price": 11810,
+        "image_url": "https://image11.coupangcdn.com/image/1025_amir_coupang_oct_80k/39d4/c950d8386bcfa568f1240a655a4bda2e7dee506b7d4cc011b84358a64735.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7047817090"
+    },
+    {
+        "id": "20260513-09",
+        "date": "20260513",
+        "rank": 9,
+        "name": "하늘보리 에코 무라벨",
+        "price": 15580,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/94906645455938-22d605d1-d494-4736-b83c-f2633f95420c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20260513-10",
+        "date": "20260513",
+        "rank": 10,
+        "name": "한우 1등급 불고기/샤브샤브용 (냉장)",
+        "price": 10270,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/1050676095081868-33a6b5a0-9b32-4e0d-82e3-6c1da00d57c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9337550484"
+    },
+    {
         "id": "20260512-01",
         "date": "20260512",
         "rank": 1,
