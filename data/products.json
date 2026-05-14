@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260514-01",
+        "date": "20260514",
+        "rank": 1,
+        "name": "다향 1등급 훈제 오리 슬라이스",
+        "price": 11020,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/5458851699897-3ce4e405-5f06-408a-952b-e424a0a534a1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8830227246"
+    },
+    {
+        "id": "20260514-02",
+        "date": "20260514",
+        "rank": 2,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 15900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260514-03",
+        "date": "20260514",
+        "rank": 3,
+        "name": "르샤트라1802 드라이시트 섬유유연제 피오니부케 본품",
+        "price": 10850,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/934573637270894-6a0b2e9c-171c-4d0a-a0b1-6dd8f169eb04.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7025862521"
+    },
+    {
+        "id": "20260514-04",
+        "date": "20260514",
+        "rank": 4,
+        "name": "Jarrow Formulas 자로우 펨 도피러스 어드밴스드 유산균 100억 CFU 30캡슐 (상온보관용)",
+        "price": 27090,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/23ca/c8a89ce31b158457f0c8785ba5cf28db36e9afac3d982ea7605210d0e3d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7522703123"
+    },
+    {
+        "id": "20260514-05",
+        "date": "20260514",
+        "rank": 5,
+        "name": "투에스리빙 풀메쉬 인체공학 3D 허리 편한 게이밍 컴퓨터 의자",
+        "price": 77500,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/a343/80b96f50044f00561e03588f718c1cad9cb2b3f3141001559e960d8b1ee6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9227057983"
+    },
+    {
+        "id": "20260514-06",
+        "date": "20260514",
+        "rank": 6,
+        "name": "고로고로 초강력 테이프클리너 리필",
+        "price": 11950,
+        "image_url": "https://image9.coupangcdn.com/image/1025_amir_coupang_oct_80k/65c6/0869a349b04e0d02bd0f9f2407d877c519e33a674a2e0fa602f58524c3fa.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7104758439"
+    },
+    {
+        "id": "20260514-07",
+        "date": "20260514",
+        "rank": 7,
+        "name": "듀플렉스 발터치 리모컨 서큘레이터형 선풍기",
+        "price": 39800,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/16631342889504-71023443-c43b-4cdc-8dc4-7f5cc9a2b7ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9507235646"
+    },
+    {
+        "id": "20260514-08",
+        "date": "20260514",
+        "rank": 8,
+        "name": "뉴발란스 여성용 W 경량 우븐 자켓 바람막이 NBNAFB0012",
+        "price": 84990,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2025/05/29/13/6/a5f854f1-10db-4e4b-acf5-3b03547a298c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8803431602"
+    },
+    {
+        "id": "20260514-09",
+        "date": "20260514",
+        "rank": 9,
+        "name": "제니퍼룸 에스프레소 머신",
+        "price": 357930,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/608581256452821-9f5f7fb7-7caa-4829-b8d7-e95980354b8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7694333017"
+    },
+    {
+        "id": "20260514-10",
+        "date": "20260514",
+        "rank": 10,
+        "name": "헤지스 금속로고 소가죽 슬림 반지갑  + 선물 케이스 + 쇼핑백 동봉",
+        "price": 125000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2026/04/15/18/1/35560f8a-6028-46bd-a9ed-3782c53a72e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9497035698"
+    },
+    {
         "id": "20260513-01",
         "date": "20260513",
         "rank": 1,
