@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260515-01",
+        "date": "20260515",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260515-02",
+        "date": "20260515",
+        "rank": 2,
+        "name": "초록매실 스파클링 제로",
+        "price": 13500,
+        "image_url": "https://img5a.coupangcdn.com/image/1025_amir_coupang_oct_80k/6294/d90117616717052133891dbf6ab20b8641cc63506d1be0432378f1e3cb92.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8308921966"
+    },
+    {
+        "id": "20260515-03",
+        "date": "20260515",
+        "rank": 3,
+        "name": "셀렉스 프로틴 오리지널",
+        "price": 25970,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/image_audit/prod/333def01-f0e5-4c4f-8f9d-f89b21f50659_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9334640009"
+    },
+    {
+        "id": "20260515-04",
+        "date": "20260515",
+        "rank": 4,
+        "name": "LG전자 2025 그램 프로 AI 16 코어 Ultra5",
+        "price": 2239000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/590361029837486-b84d9f4a-d007-429d-927e-b8d865349f78.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9254540118"
+    },
+    {
+        "id": "20260515-05",
+        "date": "20260515",
+        "rank": 5,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 26690,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a_1776648106769.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20260515-06",
+        "date": "20260515",
+        "rank": 6,
+        "name": "제스프리 썬골드키위 점보",
+        "price": 14330,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/93565997913554-a53afeb8-032f-4c81-8f03-b3fb3bb5fc04.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1721241140"
+    },
+    {
+        "id": "20260515-07",
+        "date": "20260515",
+        "rank": 7,
+        "name": "쿠쿠 피쳐형 간이 정수기 단순배송상품",
+        "price": 28000,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/d859/a821468ef3fe666d2b25c9d61724627f4229aa34e47a2723a606cc5ca916.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7723723686"
+    },
+    {
+        "id": "20260515-08",
+        "date": "20260515",
+        "rank": 8,
+        "name": "비에스엔 신타-6 프로틴 파우더 드링크 믹스 단백질 보충제 초콜릿 밀크셰이크",
+        "price": 159110,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/0473/7c51fe6d86859ab550f3e8bebab517497c335ffbfd651e24d2eb69e298b8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6546197727"
+    },
+    {
+        "id": "20260515-09",
+        "date": "20260515",
+        "rank": 9,
+        "name": "[로켓프레시] 이웃마을 태국산 마하차녹 망고",
+        "price": 31690,
+        "image_url": "https://img4c.coupangcdn.com/image/rs_quotation_api/5rtm8psa/be977e72e243438dbf608bcf1278f93d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8087780870"
+    },
+    {
+        "id": "20260515-10",
+        "date": "20260515",
+        "rank": 10,
+        "name": "디케이켈슨 무선 전동 임팩 드릴 렌치 드라이버 + 배터리 2p 세트",
+        "price": 159000,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/73894498966631-b6c8b474-00e5-47cd-b110-8f5a375b1b28.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8565446996"
+    },
+    {
         "id": "20260514-01",
         "date": "20260514",
         "rank": 1,
