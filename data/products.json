@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260518-01",
+        "date": "20260518",
+        "rank": 1,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11600,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260518-02",
+        "date": "20260518",
+        "rank": 2,
+        "name": "마이밀 뉴프로틴 오리지널 드링크",
+        "price": 61870,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/43954471874375-f93ab182-0d58-4c4b-92fb-751ff7f07b24.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20260518-03",
+        "date": "20260518",
+        "rank": 3,
+        "name": "매일두유 99.9 플레인",
+        "price": 15800,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/363408805531261-e64f1ef2-13f7-4e46-a10d-82db5ef32a4a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757115239"
+    },
+    {
+        "id": "20260518-04",
+        "date": "20260518",
+        "rank": 4,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 21760,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20260518-05",
+        "date": "20260518",
+        "rank": 5,
+        "name": "[행복미트] 미국산 프리미엄 아롱사태 지방제거된 부드러운 초이스 등급 소고기 찜 수육 전골용 진공포장 1kg+1kg, 총 2kg [당일발송]",
+        "price": 54050,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/6376/a310ad9f4a30c4cc2219e1fdc9637283dc84b228e2b77c13f312d2e29882.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8011505127"
+    },
+    {
+        "id": "20260518-06",
+        "date": "20260518",
+        "rank": 6,
+        "name": "샤오미 4K UHD LED TV A",
+        "price": 570000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/55071733580170-cefa113f-b97e-4a2f-bf7d-ddccc4bf8bf7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8984180869"
+    },
+    {
+        "id": "20260518-07",
+        "date": "20260518",
+        "rank": 7,
+        "name": "베리밸리 애플망고 (냉동)",
+        "price": 12900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/59049028689322-021e999d-0eed-431b-b2e3-d9f808591c13.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6208727179"
+    },
+    {
+        "id": "20260518-08",
+        "date": "20260518",
+        "rank": 8,
+        "name": "AHC 마스터즈 에어리치 선스틱 SPF50+ PA++++",
+        "price": 11500,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/263475224592015-73b460cd-d352-45e5-b6f6-90e8db1086f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7088737172"
+    },
+    {
+        "id": "20260518-09",
+        "date": "20260518",
+        "rank": 9,
+        "name": "베이직하우스 남녀공용 통기성 순면라운드 30수 반팔티 오리지널팩 3p HATS0101",
+        "price": 17900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1153073740054040-c7ef3415-5a35-4835-a1a4-5aed3b31bf7b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5321125086"
+    },
+    {
+        "id": "20260518-10",
+        "date": "20260518",
+        "rank": 10,
+        "name": "생활백서 뽑아쓰는 베게커버 굿나잇 숙면패드 일반형",
+        "price": 17800,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2778330985617392-e1ff0037-550a-43db-aab1-cdc1cb20b8b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8491390383"
+    },
+    {
         "id": "20260517-01",
         "date": "20260517",
         "rank": 1,
