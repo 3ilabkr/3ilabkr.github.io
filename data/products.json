@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260519-01",
+        "date": "20260519",
+        "rank": 1,
+        "name": "에버콜라겐 정품 인앤업 플러스 6주분",
+        "price": 32150,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/222742182556546-890b2d62-349c-4498-9b98-5d8c6efc1bc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6651456353"
+    },
+    {
+        "id": "20260519-02",
+        "date": "20260519",
+        "rank": 2,
+        "name": "칠성사이다 제로 유자",
+        "price": 17050,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2026/03/23/17/9/2319ee3e-08ce-4f6a-b1f3-62181c41fed9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9452978589"
+    },
+    {
+        "id": "20260519-03",
+        "date": "20260519",
+        "rank": 3,
+        "name": "에이지투웨니스 멜라 디펜스 기미 톤업 에센스 선크림 SPF50+ PA++++",
+        "price": 16650,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2026/03/04/17/2/8d1307e4-ff7a-406c-b41a-c2fe19718888.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9412152146"
+    },
+    {
+        "id": "20260519-04",
+        "date": "20260519",
+        "rank": 4,
+        "name": "스카치브라이트 올인원 점착식 청소포 80매",
+        "price": 16900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/4791744861043319-2487251e-c5de-4f9a-9300-1427e212ac4e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=168497732"
+    },
+    {
+        "id": "20260519-05",
+        "date": "20260519",
+        "rank": 5,
+        "name": "탄씨엔쯔 탄스트라이더 접이식 웨건 다용도 아웃도어 캠핑 폴딩 카트",
+        "price": 33060,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/7d65/d8853d91be5464b7ac2ce5b045e2eddcf34d3bc7eedb4cb36de595926987.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7284641430"
+    },
+    {
+        "id": "20260519-06",
+        "date": "20260519",
+        "rank": 6,
+        "name": "토니모리 원더 세라마이드 모찌 토너",
+        "price": 13600,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2026/03/28/13/0/8317c696-4dc4-4473-af8e-b8fa86eadbbd.jpeg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6838552098"
+    },
+    {
+        "id": "20260519-07",
+        "date": "20260519",
+        "rank": 7,
+        "name": "센소다인 멀티케어 시린이개선 치약",
+        "price": 27650,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/c539/ded46ad0a4ed0af34f15b8da274276b3c9b433d226c864dd3971ecf23848.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7596180022"
+    },
+    {
+        "id": "20260519-08",
+        "date": "20260519",
+        "rank": 8,
+        "name": "쿠쿠 타워형 W8200 공기청정기 84.7㎡",
+        "price": 276710,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/fab8/44dcd76ecda3afe4be2e61c061f3c1ccd4bb35b069008bedd9959e05b2b4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5049764805"
+    },
+    {
+        "id": "20260519-09",
+        "date": "20260519",
+        "rank": 9,
+        "name": "LG전자 인버터 18.7㎡(5.7평형) 휘센 벽걸이 에어컨 방문설치",
+        "price": 565460,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2026/02/21/17/9/5f94873c-3aa8-4e37-a9f4-ce92edb4817e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9397567149"
+    },
+    {
+        "id": "20260519-10",
+        "date": "20260519",
+        "rank": 10,
+        "name": "끌래망스 뮤트 에어락 암막커튼",
+        "price": 10000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/38002495942307-fc332053-3fd1-43bc-a575-cd6b5197f30c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9037188353"
+    },
+    {
         "id": "20260518-01",
         "date": "20260518",
         "rank": 1,
