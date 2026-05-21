@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260521-01",
+        "date": "20260521",
+        "rank": 1,
+        "name": "스윗토 스테비아 대추방울토마토",
+        "price": 10660,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/148864028641734-ba606a3a-2a5c-4d62-8d3e-e79ea7672375.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4744789493"
+    },
+    {
+        "id": "20260521-02",
+        "date": "20260521",
+        "rank": 2,
+        "name": "가그린 제로 구강청결제",
+        "price": 13850,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260521-03",
+        "date": "20260521",
+        "rank": 3,
+        "name": "듀라텍스 냉감 쿨매트",
+        "price": 32900,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/3995082153289859-f6a93f23-7657-4e5c-8e88-66e4ae63c8a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059466160"
+    },
+    {
+        "id": "20260521-04",
+        "date": "20260521",
+        "rank": 4,
+        "name": "아베나 프레쉬그립 비닐장갑 플렉스",
+        "price": 15800,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/75092213444189-4d1c0bc7-aebf-4f73-9d0e-510ddf65b730.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6592611276"
+    },
+    {
+        "id": "20260521-05",
+        "date": "20260521",
+        "rank": 5,
+        "name": "다향오리 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장)",
+        "price": 11650,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/925859633293643-50ab81f4-1584-4e3f-8543-cfdb6f5a0f0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6625030243"
+    },
+    {
+        "id": "20260521-06",
+        "date": "20260521",
+        "rank": 6,
+        "name": "풀무원샘물 하루귀리 곡물차",
+        "price": 10760,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/05/12/15/6/33b56aea-2ad9-4178-88d4-4a843ea6d6b9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8804233295"
+    },
+    {
+        "id": "20260521-07",
+        "date": "20260521",
+        "rank": 7,
+        "name": "LG전자 휘센 오브제컬렉션 제습기 20L",
+        "price": 509000,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2025/02/19/14/8/a64d8ace-ffce-45a9-9502-e0efcf7ac960.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8607308762"
+    },
+    {
+        "id": "20260521-08",
+        "date": "20260521",
+        "rank": 8,
+        "name": "아이템톡 하이얀 이불 빨래 건조대",
+        "price": 32700,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/2f87/1ec41da5864821e01b0d459b8f5d3415a18ee6a1f143d32aea5332a6157a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4962292827"
+    },
+    {
+        "id": "20260521-09",
+        "date": "20260521",
+        "rank": 9,
+        "name": "닥스 DD로고 소가죽 장지갑 DCWA6EC50BK+선물 풀패키지(쇼핑백 상자 리본)",
+        "price": 162000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/153021641036389-9cf764c3-a433-43f9-b9d8-8d9b99ad9cee.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9521284467"
+    },
+    {
+        "id": "20260521-10",
+        "date": "20260521",
+        "rank": 10,
+        "name": "아웃도어프로덕츠키즈 아동용 아쿠아 글레이드 플랩캡",
+        "price": 26900,
+        "image_url": "https://img3c.coupangcdn.com/image/rs_quotation_api/qt5slap0/946ecd8a1f0f438b80ad7b192c27c0bc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8708678784"
+    },
+    {
         "id": "20260520-01",
         "date": "20260520",
         "rank": 1,
