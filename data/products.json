@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260522-01",
+        "date": "20260522",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 16900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260522-02",
+        "date": "20260522",
+        "rank": 2,
+        "name": "웅진빅토리아 청포도 탄산음료",
+        "price": 11260,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/32d8/614e6c7c7ec23b29cb07e0bba0e761fd6835461fbc9d08ec9b807876d1c3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6524949215"
+    },
+    {
+        "id": "20260522-03",
+        "date": "20260522",
+        "rank": 3,
+        "name": "로라메르시에 캐비어 아이컬러 스틱 아이섀도 1g",
+        "price": 27000,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2025/05/19/16/6/95613cad-4d32-4cc9-940c-cb5328d0ce03.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8783886529"
+    },
+    {
+        "id": "20260522-04",
+        "date": "20260522",
+        "rank": 4,
+        "name": "트루쿡 인덕션 월넛 4구 세라믹 계란 후라이팬 블랙",
+        "price": 39000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/03/20/17/5/d4aa17ed-d7fc-484e-a63d-3bf6218915fd.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7937364222"
+    },
+    {
+        "id": "20260522-05",
+        "date": "20260522",
+        "rank": 5,
+        "name": "코리아푸드 백옥콘 강냉이 box포장",
+        "price": 9980,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/2c244ac39b00d713750353cdf6260a6297ae0a51b9c1072b11d11c16959f_1754463632341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6485234574"
+    },
+    {
+        "id": "20260522-06",
+        "date": "20260522",
+        "rank": 6,
+        "name": "큐큣토 클리어 주방세제 레몬향",
+        "price": 15440,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/5258/29d1cd0ac99525b0b91bcb72ad7af7233e0a7135772dab6d4fc5b0c32f8a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8339858278"
+    },
+    {
+        "id": "20260522-07",
+        "date": "20260522",
+        "rank": 7,
+        "name": "오휘 미라클 모이스처 핑크 베리어 스킨 150ml + 에멀전 100ml + 크림 25ml",
+        "price": 53860,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2025/12/18/17/3/9d456108-85b1-45ea-a2df-47e0c9fa5123.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7833657672"
+    },
+    {
+        "id": "20260522-08",
+        "date": "20260522",
+        "rank": 8,
+        "name": "네이쳐스웨이 징크골드 아이즈 비건 타블렛",
+        "price": 110500,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/c226/2c95f923520ca67294acfe88e50c4f0111f73735c7343a7879bd0a96e488.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2550358"
+    },
+    {
+        "id": "20260522-09",
+        "date": "20260522",
+        "rank": 9,
+        "name": "프로그 파우더프리 3.0 니트릴장갑",
+        "price": 17900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2987172210777393-56b434f6-c120-402b-9c87-cf1479e9c24f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6522994589"
+    },
+    {
+        "id": "20260522-10",
+        "date": "20260522",
+        "rank": 10,
+        "name": "뉴발란스 남녀공용 베이직 원포켓 백팩 NBGCGBU109",
+        "price": 59900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2026/01/19/16/4/a396ee65-200c-460d-91e1-788a7e464a5b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9318169388"
+    },
+    {
         "id": "20260521-01",
         "date": "20260521",
         "rank": 1,
