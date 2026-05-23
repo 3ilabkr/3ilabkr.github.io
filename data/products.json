@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260523-01",
+        "date": "20260523",
+        "rank": 1,
+        "name": "양반 100밥 현미밥",
+        "price": 17890,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/544519158980276-08d69373-76d0-4534-8f8b-762c10540a8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5829376555"
+    },
+    {
+        "id": "20260523-02",
+        "date": "20260523",
+        "rank": 2,
+        "name": "스프라이트 제로 사이다",
+        "price": 15670,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/32690038751548-a16569db-5913-48c6-ba87-47e61e2236ed.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9391860017"
+    },
+    {
+        "id": "20260523-03",
+        "date": "20260523",
+        "rank": 3,
+        "name": "하림 치킨너겟 (냉동)",
+        "price": 12600,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/469032151932431-287bedd0-fb62-4249-88bd-4f32ba4c2ce5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4567751809"
+    },
+    {
+        "id": "20260523-04",
+        "date": "20260523",
+        "rank": 4,
+        "name": "재로우 자로-도필러스 EPS 다이제스티브 프로바이오틱 유산균 100억 베지 캡슐",
+        "price": 133340,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/9afe/7202ea038e9bc409de29ce94082105b0b226d065ea61a96af69f0a21b554.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7626263931"
+    },
+    {
+        "id": "20260523-05",
+        "date": "20260523",
+        "rank": 5,
+        "name": "[2026년형]프리티케어 무선 청소기 핸디 청소기 W400 하얀색",
+        "price": 89900,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/5ad7/19e5b171721883b071c4867088e9ab6ac6390bbf419967f26e1d013ad586.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260523-06",
+        "date": "20260523",
+        "rank": 6,
+        "name": "국내산 수미 감자 햇감자",
+        "price": 15100,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/aec7/8f4d08fe0cbe8a73abdca1322e498ce1e3c41c02cb9e63ea513fbc532cad.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8802272872"
+    },
+    {
+        "id": "20260523-07",
+        "date": "20260523",
+        "rank": 7,
+        "name": "케라시스 퍼퓸 샴푸 러블리 앤 로맨틱",
+        "price": 11900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/44152460039504-b2bf0694-26c8-4fc7-a991-4fe4d6a74745.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7151994731"
+    },
+    {
+        "id": "20260523-08",
+        "date": "20260523",
+        "rank": 8,
+        "name": "[비비PICK] 리에티 LUNO RT 4056 선글라스",
+        "price": 56900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/1489989814231129-e62b85bd-35a8-4d34-a6d4-7846eee227cf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9461808186"
+    },
+    {
+        "id": "20260523-09",
+        "date": "20260523",
+        "rank": 9,
+        "name": "우리차 콘푸레이크 천마차",
+        "price": 17320,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/86795193934867-6f4bfc2c-de28-4fb8-9e98-f45434c6bab7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5548273115"
+    },
+    {
+        "id": "20260523-10",
+        "date": "20260523",
+        "rank": 10,
+        "name": "더자리 데일리 프레쉬 누빔 침대 패드 고정밴드형",
+        "price": 12800,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2176445351534911-3dbf0afd-95cb-4e39-8481-90009a38cb4a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=284748034"
+    },
+    {
         "id": "20260522-01",
         "date": "20260522",
         "rank": 1,
