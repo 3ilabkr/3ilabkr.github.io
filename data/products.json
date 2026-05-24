@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260524-01",
+        "date": "20260524",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 22660,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/68357096027416-cc28db91-a4e9-4842-813a-3687cbff7e07.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260524-02",
+        "date": "20260524",
+        "rank": 2,
+        "name": "고산지 재배 당도선별 사과",
+        "price": 15490,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2881650750369639-7474526b-53d8-4924-92b7-eede329c178c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1298620713"
+    },
+    {
+        "id": "20260524-03",
+        "date": "20260524",
+        "rank": 3,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 12100,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/42211068249280-1ffef9ec-4be9-4981-8d7f-64ab07894bb9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
+        "id": "20260524-04",
+        "date": "20260524",
+        "rank": 4,
+        "name": "포더홈 실키 고밀도 본넬 스프링 일반형 매트리스 방문설치",
+        "price": 63050,
+        "image_url": "https://img4a.coupangcdn.com/image/rs_quotation_api/5gdoydaz/348bfaaf11354fd38d71023e412ebbee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7198388415"
+    },
+    {
+        "id": "20260524-05",
+        "date": "20260524",
+        "rank": 5,
+        "name": "[로켓프레시] 삼진어묵 미니 어묵꼬치 8개입 (냉동)",
+        "price": 10400,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/1b15a672-3330-41cb-8d6a-70171e38c3818158566844017421427.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8341719079"
+    },
+    {
+        "id": "20260524-06",
+        "date": "20260524",
+        "rank": 6,
+        "name": "재로우 우먼 펨-도필러스 유산균 10억 베지테리안 캡슐",
+        "price": 112680,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/96bd/d253695df9f1aa3dea5fab8756396d946c1f7385d09c3b50329048160e26.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8336583914"
+    },
+    {
+        "id": "20260524-07",
+        "date": "20260524",
+        "rank": 7,
+        "name": "미쟝센 퍼펙트 오리지널 헤어 세럼",
+        "price": 17500,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2916176627518000-a6d44965-5973-4c66-a572-3577c419221c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7650005374"
+    },
+    {
+        "id": "20260524-08",
+        "date": "20260524",
+        "rank": 8,
+        "name": "탐사 체리블라썸 천연펄프 3겹 롤화장지",
+        "price": 11270,
+        "image_url": "https://img4c.coupangcdn.com/image/1025_amir_coupang_oct_80k/236c/0079339b6f237701a630e4de4e5ddc32c9b7b94d04e0634893607373448b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=169735217"
+    },
+    {
+        "id": "20260524-09",
+        "date": "20260524",
+        "rank": 9,
+        "name": "베네통 내추럴 버킷햇",
+        "price": 28900,
+        "image_url": "https://img3c.coupangcdn.com/image/rs_quotation_api/jdked907/c2d05f01be21411591c448f9e6f07d52.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9529010866"
+    },
+    {
+        "id": "20260524-10",
+        "date": "20260524",
+        "rank": 10,
+        "name": "윌리브 국산 304스텐 수저세트",
+        "price": 12790,
+        "image_url": "https://image8.coupangcdn.com/image/1025_amir_coupang_oct_80k/1379/8a10cd0ecb520874ea0268986f0dc10c1be749d68f872e031e390198c2ae.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7143428240"
+    },
+    {
         "id": "20260523-01",
         "date": "20260523",
         "rank": 1,
