@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260526-01",
+        "date": "20260526",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260526-02",
+        "date": "20260526",
+        "rank": 2,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13200,
+        "image_url": "https://image6.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260526-03",
+        "date": "20260526",
+        "rank": 3,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260526-04",
+        "date": "20260526",
+        "rank": 4,
+        "name": "오뚜기 X.O.교자 새우&홍게살 (냉동)",
+        "price": 9740,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/49549866735255-cde0091f-0f76-4972-b7d0-c498884c5993.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1156685943"
+    },
+    {
+        "id": "20260526-05",
+        "date": "20260526",
+        "rank": 5,
+        "name": "퍼실 딥클린 초미세세탁 파워젤 드럼용 액체세제 리필",
+        "price": 12100,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2026/03/05/15/6/aedba417-8060-48c4-952f-94665f2191cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9335235890"
+    },
+    {
+        "id": "20260526-06",
+        "date": "20260526",
+        "rank": 6,
+        "name": "창 탄산수 오리지날",
+        "price": 16900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/eab7/57e5227dd9d15b963ce61914864afb6aa69d2b24771202c6b7272c884c9e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8267602095"
+    },
+    {
+        "id": "20260526-07",
+        "date": "20260526",
+        "rank": 7,
+        "name": "케라시스 퍼퓸 샴푸 체리 블라썸",
+        "price": 12300,
+        "image_url": "https://img1c.coupangcdn.com/image/1025_amir_coupang_oct_80k/9176/ea50663e525d0489f7c8776c6eb375bc7d9df00d5e52700beb10afa9ea3a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6424733410"
+    },
+    {
+        "id": "20260526-08",
+        "date": "20260526",
+        "rank": 8,
+        "name": "[로켓프레시] 당도선별 성주 꼬마참외 8~12입",
+        "price": 8990,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/b6orl8sd/c2f04489b2e5452098a9556c25d2d023.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8112615504"
+    },
+    {
+        "id": "20260526-09",
+        "date": "20260526",
+        "rank": 9,
+        "name": "라뽐므 엔스폴 쿨라이트 냉감 패드",
+        "price": 52900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/447106154547378-3bf803f6-d76a-4181-97cc-283f6d1a53ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8676883653"
+    },
+    {
+        "id": "20260526-10",
+        "date": "20260526",
+        "rank": 10,
+        "name": "베이블퓨어리 트라이크 유모차 T2",
+        "price": 53400,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/58734222294237-d64edf4b-a6d1-4658-8e70-7641b17434f4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2045552663"
+    },
+    {
         "id": "20260525-01",
         "date": "20260525",
         "rank": 1,
