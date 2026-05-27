@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260527-01",
+        "date": "20260527",
+        "rank": 1,
+        "name": "아몬드브리즈 뉴트리플러스 프로틴",
+        "price": 16400,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/image_audit/prod/1ebe2834-7f8b-4be8-924a-da478864d57a_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7485759715"
+    },
+    {
+        "id": "20260527-02",
+        "date": "20260527",
+        "rank": 2,
+        "name": "헤트라스 프리미엄 대용량 디퓨저",
+        "price": 25800,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/4b3c/3638cbeec4e2bc2748da94eb20c3ac9202eb3d413cf3a628a461fc648e63.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6991217590"
+    },
+    {
+        "id": "20260527-03",
+        "date": "20260527",
+        "rank": 3,
+        "name": "에스쁘아 비벨벳 에어 퍼프 7p",
+        "price": 8400,
+        "image_url": "https://image3.coupangcdn.com/image/1025_amir_coupang_oct_80k/9fdc/175581a70fe6183c90afaeb52ab08ac6d91ef9e6bad0eb316552ac6b4dae.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7405989794"
+    },
+    {
+        "id": "20260527-04",
+        "date": "20260527",
+        "rank": 4,
+        "name": "센소브라이트 오리지널 시린이 브라이트닝 치약",
+        "price": 14460,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/10/21/10/4/09f68ab7-5074-4ea7-bdd5-259c0f82fa5e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9334546684"
+    },
+    {
+        "id": "20260527-05",
+        "date": "20260527",
+        "rank": 5,
+        "name": "[브랜드인증] 겐조 NEW 플라워 바이 겐조 오 드 뚜왈렛",
+        "price": 47000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/557659200401333-1c06b810-d07c-4903-a64a-d946bc2fba0b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9479093335"
+    },
+    {
+        "id": "20260527-06",
+        "date": "20260527",
+        "rank": 6,
+        "name": "마틸드비첸지 매그니피코 헤이즐넛 웨이퍼",
+        "price": 17900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/225316061025898-8b3a837c-2624-43b5-be46-0ee701e9374a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8825605285"
+    },
+    {
+        "id": "20260527-07",
+        "date": "20260527",
+        "rank": 7,
+        "name": "도블레 칼집나지 않는 도마세트",
+        "price": 59420,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/306693658418115-dec59fe5-7a00-4a7b-ae65-41b82b10c1f2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7464904073"
+    },
+    {
+        "id": "20260527-08",
+        "date": "20260527",
+        "rank": 8,
+        "name": "신일 에어 써큘레이터",
+        "price": 99000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2020/06/03/10/7/9465d3d0-8d3f-49b4-9793-0b9d97a51bee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9523193052"
+    },
+    {
+        "id": "20260527-09",
+        "date": "20260527",
+        "rank": 9,
+        "name": "데코원 써머쿨링 냉감 차렵 침구 세트",
+        "price": 49900,
+        "image_url": "https://image12.coupangcdn.com/image/rs_quotation_api/yzv1y35u/ace75189d41144efbc20cb9c0789fe67.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8099955732"
+    },
+    {
+        "id": "20260527-10",
+        "date": "20260527",
+        "rank": 10,
+        "name": "[로켓프레시] 영주마실 못난이 사과 소과 23~30개입",
+        "price": 21900,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/spgntivu/a5fb005ae3cc44509c7c04384feaf098.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8274982913"
+    },
+    {
         "id": "20260526-01",
         "date": "20260526",
         "rank": 1,
