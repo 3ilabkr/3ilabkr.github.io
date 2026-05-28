@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260528-01",
+        "date": "20260528",
+        "rank": 1,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 78900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20260528-02",
+        "date": "20260528",
+        "rank": 2,
+        "name": "환타 제로 파인애플 탄산음료",
+        "price": 16050,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/482266311580231-3e48047e-9beb-413c-b8aa-50f348bd3cbe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7272135076"
+    },
+    {
+        "id": "20260528-03",
+        "date": "20260528",
+        "rank": 3,
+        "name": "하림 용가리치킨 (냉동)",
+        "price": 11730,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/231600327765684-604e2111-200b-499d-af3e-fd00a5190b26.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=290174474"
+    },
+    {
+        "id": "20260528-04",
+        "date": "20260528",
+        "rank": 4,
+        "name": "농심 누룽지팝",
+        "price": 14640,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/21169315254549-9010593b-8413-4550-a1d7-1b2d2f1c6386.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8730212699"
+    },
+    {
+        "id": "20260528-05",
+        "date": "20260528",
+        "rank": 5,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 18540,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/393d/8812d95d517585d28eabed38b30dcef0f02a56eccee24cad191b3d1cfb66.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20260528-06",
+        "date": "20260528",
+        "rank": 6,
+        "name": "리큐제트 악취케어 실내건조 캡슐세제",
+        "price": 11900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/334337129387295-18fb7f69-e38e-4f27-9697-d43d32b85a3b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8691085780"
+    },
+    {
+        "id": "20260528-07",
+        "date": "20260528",
+        "rank": 7,
+        "name": "모닝글로리 원링 심플파스텔 스프링노트 10종 세트",
+        "price": 9600,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/2d6f/a31facda47c0a270ed8b87730975b027c0d267d8dc0ee250884eb6d73206.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6684796606"
+    },
+    {
+        "id": "20260528-08",
+        "date": "20260528",
+        "rank": 8,
+        "name": "아웃도어프로덕츠 쉐이드 사파리햇",
+        "price": 26500,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/3118184608209220-05bd821f-e156-4000-bf5c-ae513f4c2c0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8704719332"
+    },
+    {
+        "id": "20260528-09",
+        "date": "20260528",
+        "rank": 9,
+        "name": "쿼드쎄라 휴대용 초음파 피부 마사지기",
+        "price": 273550,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2025/07/08/10/8/cf76592d-d517-48b7-b750-d30714391e29.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8746802886"
+    },
+    {
+        "id": "20260528-10",
+        "date": "20260528",
+        "rank": 10,
+        "name": "더시럽 여성용 컴포트 슬림 캡내장 심리스 끈 나시 브라탑 B 2p",
+        "price": 16720,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2024/04/15/12/2/81cd5d3d-297a-4fd7-837a-d6a43f1f7a8c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8032402142"
+    },
+    {
         "id": "20260527-01",
         "date": "20260527",
         "rank": 1,
