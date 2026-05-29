@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260529-01",
+        "date": "20260529",
+        "rank": 1,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 22880,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260529-02",
+        "date": "20260529",
+        "rank": 2,
+        "name": "이클립스 피치",
+        "price": 13430,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/155740836159107-f9985969-50e9-4a40-bac7-6e3fd3d62958.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4749020270"
+    },
+    {
+        "id": "20260529-03",
+        "date": "20260529",
+        "rank": 3,
+        "name": "스케쳐스 여성용 딜라이트 맥스 샌들 SP0WSCGM39",
+        "price": 84150,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/01/05/17/1/d8b0c197-4286-4827-967d-7852aa701dbc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9287052205"
+    },
+    {
+        "id": "20260529-04",
+        "date": "20260529",
+        "rank": 4,
+        "name": "행복미트 돼지 통목살 부드럽고 맛좋은 왕목살 목전지 수욕 찜 국거리용",
+        "price": 23900,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/3c74/eaccab9323da4c3e064b387a9d8258aa977b14dd9fd6673a14fe45b3c3e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8147985725"
+    },
+    {
+        "id": "20260529-05",
+        "date": "20260529",
+        "rank": 5,
+        "name": "펫또마망 강아지 영양제",
+        "price": 14380,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/1124134456450346-f92a923c-fbcf-4943-b2f7-01bbdf70ee63.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8020472500"
+    },
+    {
+        "id": "20260529-06",
+        "date": "20260529",
+        "rank": 6,
+        "name": "홈플래닛 7단 접이식 높이조절 선풍기 무선 휴대용 폴딩팬",
+        "price": 30090,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/97644249090007-a735b3fb-952a-49c7-a241-5cd75198de12.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9455101914"
+    },
+    {
+        "id": "20260529-07",
+        "date": "20260529",
+        "rank": 7,
+        "name": "아이리버 스톰 터보 냉각 아이스 휴대용 핸디 선풍기",
+        "price": 30000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/04/09/13/7/fbfcb836-5b97-45a9-8060-068daef9c9e2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8688566799"
+    },
+    {
+        "id": "20260529-08",
+        "date": "20260529",
+        "rank": 8,
+        "name": "퍼실 딥클린 초미세세탁 파워젤 일반용 액체세제 본품",
+        "price": 17400,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2026/03/05/13/7/77578046-55f2-4693-be77-2a3a3c4b43de.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9379876484"
+    },
+    {
+        "id": "20260529-09",
+        "date": "20260529",
+        "rank": 9,
+        "name": "무궁화 왕표백 세탁비누",
+        "price": 10680,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/258791456911089-60806574-b66a-45fe-816e-087e0166f104.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=553797"
+    },
+    {
+        "id": "20260529-10",
+        "date": "20260529",
+        "rank": 10,
+        "name": "헤어플러스 단백질 본드 앰플 헤어에센스",
+        "price": 11800,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/630333133659814-fbe25efb-870d-412d-aa76-0558b47aaddf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8239472865"
+    },
+    {
         "id": "20260528-01",
         "date": "20260528",
         "rank": 1,
