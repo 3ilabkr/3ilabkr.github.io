@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260530-01",
+        "date": "20260530",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260530-02",
+        "date": "20260530",
+        "rank": 2,
+        "name": "Kipnos 폴딩 수납장 리빙박스 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함 길이 40cm",
+        "price": 31500,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/f488/e0ca09934122ad4848da792164d024b4be83a489c1ec5b36b24c6d4be455.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906599125"
+    },
+    {
+        "id": "20260530-03",
+        "date": "20260530",
+        "rank": 3,
+        "name": "스카치브라이트 삼중양면 스펀지 수세미 혼합팩",
+        "price": 16580,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/251354297130317-62115b5c-2ef0-4074-9673-ece13892b0c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6148250241"
+    },
+    {
+        "id": "20260530-04",
+        "date": "20260530",
+        "rank": 4,
+        "name": "행복미트 호주산 목초육 청정우 소고기 사태살",
+        "price": 28340,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/32cc/6a8c42224ff7ace2e275b0e28cfbf6721ae4113692d2267e33ae1ed5d2e4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7410636554"
+    },
+    {
+        "id": "20260530-05",
+        "date": "20260530",
+        "rank": 5,
+        "name": "아띠홈 밀프렙 1단 도시락",
+        "price": 14500,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2024/10/11/16/7/0ce27104-37ff-4ad5-a128-ca0721199226.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8106610010"
+    },
+    {
+        "id": "20260530-06",
+        "date": "20260530",
+        "rank": 6,
+        "name": "휴롬 착즙기",
+        "price": 382540,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/1761534372298661-ffbd7c52-d4b5-4d51-9708-f64a9b500822.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7798290805"
+    },
+    {
+        "id": "20260530-07",
+        "date": "20260530",
+        "rank": 7,
+        "name": "[쿠팡직수입] 프레시몬 오렌지 + 오렌지칼",
+        "price": 9840,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/804854058316158-f5437bae-e73a-49dc-8769-47cd589b7e73.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6402361235"
+    },
+    {
+        "id": "20260530-08",
+        "date": "20260530",
+        "rank": 8,
+        "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품",
+        "price": 10500,
+        "image_url": "https://image7.coupangcdn.com/image/1025_amir_coupang_oct_80k/0829/260d17d59cc0cb5ffd9c1525ab37a6aea82ea05f5a09b047c32c7a1ebe16.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7353339051"
+    },
+    {
+        "id": "20260530-09",
+        "date": "20260530",
+        "rank": 9,
+        "name": "오리히로 탱글 곤약젤리 포도맛",
+        "price": 31500,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/3b68/84b0a3f399840e0cb486e603f5b15e6969c9260ab6b4f1fe69f12959eaa0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7536635667"
+    },
+    {
+        "id": "20260530-10",
+        "date": "20260530",
+        "rank": 10,
+        "name": "베네통키즈 아동용 컬러 링글 중목 양말 3종 세트",
+        "price": 12900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/354758199244861-387b545f-55b0-4f43-8394-99269eb5ba73.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8709730201"
+    },
+    {
         "id": "20260529-01",
         "date": "20260529",
         "rank": 1,
