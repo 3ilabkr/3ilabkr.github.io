@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260531-01",
+        "date": "20260531",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 18990,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/1109640700619115-fc5f445e-89e7-44bc-bd35-9b75efec1c72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260531-02",
+        "date": "20260531",
+        "rank": 2,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 15900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260531-03",
+        "date": "20260531",
+        "rank": 3,
+        "name": "햇살담은 두번달여더진한 진간장",
+        "price": 11960,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/252220770399020-be5212dd-2aba-4a71-96e7-35a1b35c67d0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6988712167"
+    },
+    {
+        "id": "20260531-04",
+        "date": "20260531",
+        "rank": 4,
+        "name": "아웃도어프로덕츠키즈 아동용 아쿠아 캠핑햇 플랩캡",
+        "price": 26900,
+        "image_url": "https://image14.coupangcdn.com/image/rs_quotation_api/vfixfzwc/e3215c2d2ec348f0a4fc73ae1002e572.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8120937636"
+    },
+    {
+        "id": "20260531-05",
+        "date": "20260531",
+        "rank": 5,
+        "name": "나랑드사이다 제로",
+        "price": 12500,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/80870368036782-dc973a90-7102-44fc-9689-b902862ddd29.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7447842898"
+    },
+    {
+        "id": "20260531-06",
+        "date": "20260531",
+        "rank": 6,
+        "name": "미즈노 더블 립 손등형 쿨토시 양손착용 세트",
+        "price": 10980,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/1082265736385326-ef718c8f-c42a-4df1-aede-d9fdf66d8976.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544483253"
+    },
+    {
+        "id": "20260531-07",
+        "date": "20260531",
+        "rank": 7,
+        "name": "나이키 DAWN ASCENT AF 선글라스 DQ4565 012 59",
+        "price": 129000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2807257440949144-af182a67-02df-42ee-aebb-23fb9b3affd2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5790076585"
+    },
+    {
+        "id": "20260531-08",
+        "date": "20260531",
+        "rank": 8,
+        "name": "AHC 마스터즈 아쿠아 리치 선크림 SPF50+ PA++++",
+        "price": 14610,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/4119157550861544-e8dcce7c-5071-49c5-81f5-76c7c7bc9070.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7232503577"
+    },
+    {
+        "id": "20260531-09",
+        "date": "20260531",
+        "rank": 9,
+        "name": "퓨어코치 원룸형 펠티어 제습기 300ml",
+        "price": 39900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/8894/4792126e152ba4ec463ce6d028103565c11b3d77556a26c9ac98eb7505bf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1119250188"
+    },
+    {
+        "id": "20260531-10",
+        "date": "20260531",
+        "rank": 10,
+        "name": "한원푸드 소탕갈비 국물용뼈",
+        "price": 12090,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/f5a59cc1d2e7090f210fbd534d3a7a978d6515fe6fe09627918faf12791c_1779069312518.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7760119184"
+    },
+    {
         "id": "20260530-01",
         "date": "20260530",
         "rank": 1,
