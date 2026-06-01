@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260601-01",
+        "date": "20260601",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 수딩플러스 천연펄프 3겹 고급롤화장지",
+        "price": 18600,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/13791393968848-f19acff4-c8cd-47b9-86ba-5a7807253a9e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253356297"
+    },
+    {
+        "id": "20260601-02",
+        "date": "20260601",
+        "rank": 2,
+        "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 인증",
+        "price": 11690,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/9084091501221-f02120d0-8bf3-41b1-81ab-44740731e905.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=252301180"
+    },
+    {
+        "id": "20260601-03",
+        "date": "20260601",
+        "rank": 3,
+        "name": "테팔 매트 프라이팬 세트",
+        "price": 75000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/941245883729726-3ee81dfd-48fc-4563-8c06-04acfcfdf03d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4917534787"
+    },
+    {
+        "id": "20260601-04",
+        "date": "20260601",
+        "rank": 4,
+        "name": "행복미트 호주산 목초육 청정우 소고기 사태살",
+        "price": 47900,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/32cc/6a8c42224ff7ace2e275b0e28cfbf6721ae4113692d2267e33ae1ed5d2e4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7410636554"
+    },
+    {
+        "id": "20260601-05",
+        "date": "20260601",
+        "rank": 5,
+        "name": "Kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 42000,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/eabf/014c6861f9e399bce5ee12576e9a1eab953079709a6366ee0a541fd04f9f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260601-06",
+        "date": "20260601",
+        "rank": 6,
+        "name": "샤오미 4K UHD QLED TV Max",
+        "price": 911240,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/71988579222383-b0076147-b8ab-4683-939d-f3e722473079.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8542589768"
+    },
+    {
+        "id": "20260601-07",
+        "date": "20260601",
+        "rank": 7,
+        "name": "그린핑거 포레스트 워터리 에센스 선크림 SPF50+ PA++++",
+        "price": 14700,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/494427941771779-32839fa6-2e85-4879-9b72-e2c686b73951.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7227727720"
+    },
+    {
+        "id": "20260601-08",
+        "date": "20260601",
+        "rank": 8,
+        "name": "나드 약산성 필링 토너 패드 140ml",
+        "price": 9900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2172526817919427-1eb4c4c5-28c6-442c-9c04-3addecd87478.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6344834228"
+    },
+    {
+        "id": "20260601-09",
+        "date": "20260601",
+        "rank": 9,
+        "name": "아이깨끗해 항균 폼 핸드솝 순 보송보송 파우더향",
+        "price": 13900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1010065041965310-ad4c8906-4bcc-44e9-b345-eaf7b7a40c45.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677840315"
+    },
+    {
+        "id": "20260601-10",
+        "date": "20260601",
+        "rank": 10,
+        "name": "재로우 우먼스 펨 도피러스 유산균 캡슐",
+        "price": 120580,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/3145/2bd32994db1c67fd41263741c80f291a6adf0132d32095597f2f56e8c423.jpeg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6960887991"
+    },
+    {
         "id": "20260531-01",
         "date": "20260531",
         "rank": 1,
