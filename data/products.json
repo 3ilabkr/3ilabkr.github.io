@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260602-01",
+        "date": "20260602",
+        "rank": 1,
+        "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품",
+        "price": 16700,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1703093047"
+    },
+    {
+        "id": "20260602-02",
+        "date": "20260602",
+        "rank": 2,
+        "name": "보몽드 국내 제조 시원한 냉감패드",
+        "price": 45900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/172071968442719-6ad87f67-5fe8-4634-b045-0eb0d01238a3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8686264832"
+    },
+    {
+        "id": "20260602-03",
+        "date": "20260602",
+        "rank": 3,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 13280,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/5391563659701-787f45d3-a3e9-481a-8244-e8e8cba40c39.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20260602-04",
+        "date": "20260602",
+        "rank": 4,
+        "name": "[로켓프레시] 성주 당도선별 실속 미니참외",
+        "price": 21990,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/1692621246370375-13a1deb7-7773-4b33-bd7d-7897bb2e68c1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7905439453"
+    },
+    {
+        "id": "20260602-05",
+        "date": "20260602",
+        "rank": 5,
+        "name": "홈스타 핑크파워 욕실 찌든때 클리너",
+        "price": 11240,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/259610319417673-0c82f803-0be8-4422-af2a-de9110469104.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8165713116"
+    },
+    {
+        "id": "20260602-06",
+        "date": "20260602",
+        "rank": 6,
+        "name": "다향 훈제오리 슬라이스",
+        "price": 6740,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/423454296051743-bbf59560-0dc5-4637-915f-f58174acafd7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8830227272"
+    },
+    {
+        "id": "20260602-07",
+        "date": "20260602",
+        "rank": 7,
+        "name": "가그린 오리지널 구강청결제",
+        "price": 11700,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/247823989174287-50f6a974-15b6-4485-983f-8cee4707fcfb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6583185155"
+    },
+    {
+        "id": "20260602-08",
+        "date": "20260602",
+        "rank": 8,
+        "name": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐",
+        "price": 45740,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/image_audit/prod/268246bc-4b00-41ac-9fde-689cdf82333e_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=202217052"
+    },
+    {
+        "id": "20260602-09",
+        "date": "20260602",
+        "rank": 9,
+        "name": "아카페라 올데이 아메리카노",
+        "price": 17930,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2025/10/09/16/1/13c0aa43-29d1-4782-8dd0-f0a4fcbb3e47.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7522620409"
+    },
+    {
+        "id": "20260602-10",
+        "date": "20260602",
+        "rank": 10,
+        "name": "바리스타룰스 원데이 아메리카노 무라벨",
+        "price": 20900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/537345606117204-95dec1f6-b3f1-4cd3-9204-46803177b59b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8817296521"
+    },
+    {
         "id": "20260601-01",
         "date": "20260601",
         "rank": 1,
