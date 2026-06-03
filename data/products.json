@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260603-01",
+        "date": "20260603",
+        "rank": 1,
+        "name": "차일드라이프 액상 칼슘 마그네슘 오렌지맛",
+        "price": 26800,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/712413295656607-f5bb5f63-1b3c-48bc-bb69-dfa7c5d7025b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7434759210"
+    },
+    {
+        "id": "20260603-02",
+        "date": "20260603",
+        "rank": 2,
+        "name": "AHC 마스터즈 에어리치 선스틱 SPF50+ PA++++",
+        "price": 11510,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/263475224592015-73b460cd-d352-45e5-b6f6-90e8db1086f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7088737172"
+    },
+    {
+        "id": "20260603-03",
+        "date": "20260603",
+        "rank": 3,
+        "name": "종근당건강 프로메가 오메가3 트리플",
+        "price": 19030,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/279864819118520-f6d17681-c8cb-45d3-8211-66f44a8210d0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6586372374"
+    },
+    {
+        "id": "20260603-04",
+        "date": "20260603",
+        "rank": 4,
+        "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
+        "price": 93000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/1799456783809647-a2e328d1-7265-4944-820a-468d6915cf80.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8248049594"
+    },
+    {
+        "id": "20260603-05",
+        "date": "20260603",
+        "rank": 5,
+        "name": "행복미트 미국산 소고기 아롱사태 알사태 수육용 찜용 국거리용",
+        "price": 29900,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/f5d1/c5cdad8bf105cdfc2d571177d8a97a2c82b3069d1f46f8317344ef85c079.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7361432988"
+    },
+    {
+        "id": "20260603-06",
+        "date": "20260603",
+        "rank": 6,
+        "name": "노마진 반려견 배변패드",
+        "price": 28240,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/68948187481693-43b80696-3d06-48fb-ab9d-8396f8bc9bf4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=206038267"
+    },
+    {
+        "id": "20260603-07",
+        "date": "20260603",
+        "rank": 7,
+        "name": "마이리틀타이거 씨 월드 블록",
+        "price": 16900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2025/02/13/14/9/1222da8a-1be8-43a6-92d0-380ca402d5e3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586380489"
+    },
+    {
+        "id": "20260603-08",
+        "date": "20260603",
+        "rank": 8,
+        "name": "파르페by알레르망 페이드 냉감 여름차렵이불 + 베개커버 + 패드 세트",
+        "price": 101310,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/286368210326523-03b9eefe-10dc-405a-b00c-5b01b2da1893.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9492658291"
+    },
+    {
+        "id": "20260603-09",
+        "date": "20260603",
+        "rank": 9,
+        "name": "[로켓프레시] 요리락 대파채가 한웅큼 들어간 소불고기 (냉동)",
+        "price": 10990,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/ifcroipf/3f1371ae412b432e955ee35fbe4631ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906322913"
+    },
+    {
+        "id": "20260603-10",
+        "date": "20260603",
+        "rank": 10,
+        "name": "콘푸로스트 다크초코 시리얼",
+        "price": 10790,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/597443357003536-c09648a0-82b4-4e24-8440-c664bdf37a87.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8131259838"
+    },
+    {
         "id": "20260602-01",
         "date": "20260602",
         "rank": 1,
