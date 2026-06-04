@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260604-01",
+        "date": "20260604",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 화이트 천연펄프 3겹 고급롤화장지",
+        "price": 25350,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/98145334917948-8aef7415-788b-4929-b171-588caee5b279.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677618842"
+    },
+    {
+        "id": "20260604-02",
+        "date": "20260604",
+        "rank": 2,
+        "name": "코카콜라 제로 무라벨",
+        "price": 22200,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6955197525"
+    },
+    {
+        "id": "20260604-03",
+        "date": "20260604",
+        "rank": 3,
+        "name": "일리윤 세라마이드 아토 로션 무향",
+        "price": 15000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/76383476284976-beeac87e-878a-434d-9b87-acc1ecbc6961.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9039379842"
+    },
+    {
+        "id": "20260604-04",
+        "date": "20260604",
+        "rank": 4,
+        "name": "에버콜라겐 정품 인앤업 플러스 6주분",
+        "price": 32150,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/222742182556546-890b2d62-349c-4498-9b98-5d8c6efc1bc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6651456353"
+    },
+    {
+        "id": "20260604-05",
+        "date": "20260604",
+        "rank": 5,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 31900,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a_1776648106769.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20260604-06",
+        "date": "20260604",
+        "rank": 6,
+        "name": "스너글 섬유유연제 블루스파클 플러스 리필",
+        "price": 13920,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/1072834815350089-981380da-3b3d-472b-8c85-545f8a46c186.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757704253"
+    },
+    {
+        "id": "20260604-07",
+        "date": "20260604",
+        "rank": 7,
+        "name": "샤바스 부드러운 플랫 물빠짐 욕실화 2p",
+        "price": 17060,
+        "image_url": "https://image11.coupangcdn.com/image/1025_amir_coupang_oct_80k/ee35/bf307d26d8cd3d9730e1b61223efa0a30bc752aae5b8c450da2259adc664.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7695015309"
+    },
+    {
+        "id": "20260604-08",
+        "date": "20260604",
+        "rank": 8,
+        "name": "앤드스타일 여성용 숏/기본 기장 바스락 경량 A라인 롱스커트 264670",
+        "price": 29900,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/ghqej8zc/23a329fea53c45598d2ee2692407fc0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9466994276"
+    },
+    {
+        "id": "20260604-09",
+        "date": "20260604",
+        "rank": 9,
+        "name": "보니애가구 우터 1400 포세린 세라믹 식탁 + 의자 4P 세트 방문설치",
+        "price": 276000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/336572238123779-f48e0cfc-4ef8-4ecb-8d31-6e485a321bc5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9124449568"
+    },
+    {
+        "id": "20260604-10",
+        "date": "20260604",
+        "rank": 10,
+        "name": "NICESUN 미니 무선 스마트 자동차 어댑터 애플 카플레이 안드로이드 오토 2 in 1 플러그 앤 플레이 M2",
+        "price": 41250,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/055a/dad72181a022020a352569285b4541a60dba0ebb6a3a14b303a019c437d0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9021292554"
+    },
+    {
         "id": "20260603-01",
         "date": "20260603",
         "rank": 1,
