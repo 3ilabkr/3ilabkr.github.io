@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260605-01",
+        "date": "20260605",
+        "rank": 1,
+        "name": "[로켓프레시] 팜앤푸드 꼬리 자른 생새우살 61~70입 (냉동)",
+        "price": 16900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/1871988488973561-67485205-e071-44da-addb-4d8df6f36795.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7647979111"
+    },
+    {
+        "id": "20260605-02",
+        "date": "20260605",
+        "rank": 2,
+        "name": "2080 진지발리스 허벌민트 잇몸치약",
+        "price": 15550,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/64754923373701-0560b2ce-0f9f-4eb0-a9d4-31b93b5c93dc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7106536128"
+    },
+    {
+        "id": "20260605-03",
+        "date": "20260605",
+        "rank": 3,
+        "name": "르샤트라1802 인퓨전 섬유유연제 피오니부케 본품",
+        "price": 20700,
+        "image_url": "https://img3a.coupangcdn.com/image/1025_amir_coupang_oct_80k/ff8a/c3f4a6c454da67b60a4e10c816ea365a79807b9ffbe5c1101416acce82ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8367276124"
+    },
+    {
+        "id": "20260605-04",
+        "date": "20260605",
+        "rank": 4,
+        "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬",
+        "price": 38400,
+        "image_url": "https://image4.coupangcdn.com/image/1025_amir_coupang_oct_80k/7be5/8b6eee1da3a3375199bfda97eb139d177d505c806e1ea1d1414cc7fe2d5b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5391887777"
+    },
+    {
+        "id": "20260605-05",
+        "date": "20260605",
+        "rank": 5,
+        "name": "프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 271500,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260605-06",
+        "date": "20260605",
+        "rank": 6,
+        "name": "에르고바디 벨라핌코어 고관절 마사지기",
+        "price": 42800,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/672639064519360-676a6fe7-3c2d-45a1-b817-02f8c7f2a81a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8204389856"
+    },
+    {
+        "id": "20260605-07",
+        "date": "20260605",
+        "rank": 7,
+        "name": "퀘스트뉴트리션 스택스 프로틴 바 솔티드 캐러멜 플레이버드 12개입",
+        "price": 29800,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/570f/c101d64d795d6b2b66e4863189b090d4f1b73b938650caa45ebb33e4b16b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9434996385"
+    },
+    {
+        "id": "20260605-08",
+        "date": "20260605",
+        "rank": 8,
+        "name": "로이첸 인덕션 아이지글 자동회전롤팬 그레이",
+        "price": 107440,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/405291723387272-75356348-a683-4027-be75-1337a00d6c7c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9057959932"
+    },
+    {
+        "id": "20260605-09",
+        "date": "20260605",
+        "rank": 9,
+        "name": "[로켓프레시] 미국산 헤일로스 만다린",
+        "price": 13280,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/571165351920943-ca078832-4d26-4832-9648-92b2f8e8a78d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910272863"
+    },
+    {
+        "id": "20260605-10",
+        "date": "20260605",
+        "rank": 10,
+        "name": "착! 붙는 자석 가방 부르릉 탈것",
+        "price": 11200,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/aac0/a844f7016785a5e5d6f304b265b484ab1fff12b347a7893a719f92182a41.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=331803016"
+    },
+    {
         "id": "20260604-01",
         "date": "20260604",
         "rank": 1,
