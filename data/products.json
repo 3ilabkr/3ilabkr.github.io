@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260606-01",
+        "date": "20260606",
+        "rank": 1,
+        "name": "마이밀 정품 뉴프로틴 고소한맛",
+        "price": 62600,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/60196325275947-60de8422-5657-47a7-9f76-630c6405a017.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6813646287"
+    },
+    {
+        "id": "20260606-02",
+        "date": "20260606",
+        "rank": 2,
+        "name": "신일 안전터치망 스탠드 리모컨 선풍기",
+        "price": 52900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/373275669181422-f32b5114-5439-4f5f-8215-b89418ff5b38.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8185470223"
+    },
+    {
+        "id": "20260606-03",
+        "date": "20260606",
+        "rank": 3,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 45900,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/0619/4fcf8740ceb41014a9274fe781a8cd3748f087a907c88dfb89710b32e5bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20260606-04",
+        "date": "20260606",
+        "rank": 4,
+        "name": "토레타 이온음료 무라벨",
+        "price": 14010,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/4b17/b3533917ebaf91ba697215b5531c229048a0a3185b015685180f512bd5df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6959793257"
+    },
+    {
+        "id": "20260606-05",
+        "date": "20260606",
+        "rank": 5,
+        "name": "듀플렉스 저소음 1등급 제습기 12L",
+        "price": 328000,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2026/05/26/11/1/2ec7e1d7-2f2e-4ecb-8594-5254ceef4771.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9568562167"
+    },
+    {
+        "id": "20260606-06",
+        "date": "20260606",
+        "rank": 6,
+        "name": "에라토 크림모노 4인 그릇 홈세트 24p",
+        "price": 32900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/96891097729070-63275ed5-f4c3-450e-8423-8b776e0081e2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=216738074"
+    },
+    {
+        "id": "20260606-07",
+        "date": "20260606",
+        "rank": 7,
+        "name": "라뽐므 에어리 냉감 시어서커 여름 차렵이불",
+        "price": 26900,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/8to8x8m6/35d12f27a38942fcb5ddbb8af9bb2f2a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8685838310"
+    },
+    {
+        "id": "20260606-08",
+        "date": "20260606",
+        "rank": 8,
+        "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈",
+        "price": 8700,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/67558851664189-c0ce92d3-9e30-4cb5-9d64-a8453707f263.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8609013279"
+    },
+    {
+        "id": "20260606-09",
+        "date": "20260606",
+        "rank": 9,
+        "name": "닥스 DD로고 소가죽 카드지갑 DBHO6EC03BK",
+        "price": 96500,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2026/05/12/16/8/f0aa0330-dfbd-4f17-949b-afa8eafcdf80.jpeg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9542722693"
+    },
+    {
+        "id": "20260606-10",
+        "date": "20260606",
+        "rank": 10,
+        "name": "더미식 설렁탕",
+        "price": 14400,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/271271356145089-78c5b609-c59e-45d6-873e-4a3d9c92fe83.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7263434372"
+    },
+    {
         "id": "20260605-01",
         "date": "20260605",
         "rank": 1,
