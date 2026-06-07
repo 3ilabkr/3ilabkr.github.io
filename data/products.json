@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260607-01",
+        "date": "20260607",
+        "rank": 1,
+        "name": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지",
+        "price": 18670,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=34846576"
+    },
+    {
+        "id": "20260607-02",
+        "date": "20260607",
+        "rank": 2,
+        "name": "그린핑거 유아용품 소독 물티슈 캡형",
+        "price": 18740,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/65520699668856-99ff34dd-2ae0-4509-971d-414398aca54d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7147519066"
+    },
+    {
+        "id": "20260607-03",
+        "date": "20260607",
+        "rank": 3,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자 학생 사무실의자 공부의자 컴퓨터 의자 푹신한 메쉬 의자",
+        "price": 40100,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/e640/047cb913ccc10471a11c87c88e00f76ac4420c0ca995314490ef4290e6f2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260607-04",
+        "date": "20260607",
+        "rank": 4,
+        "name": "스마텍 고속 충전 도킹형 일체형 보조배터리 10000 C타입",
+        "price": 14900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/11/11/18/3/b281b3b3-00f1-449d-8b62-3c66111bc615.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9181810224"
+    },
+    {
+        "id": "20260607-05",
+        "date": "20260607",
+        "rank": 5,
+        "name": "[Jarrow Formulas] 자로우 포뮬러스 도피러스 EPS 유산균 100억 CFU",
+        "price": 34150,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/cfa2/7dafe44671c57f8be5145390677f5323075274c7f90689288b368766a4e1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7626263931"
+    },
+    {
+        "id": "20260607-06",
+        "date": "20260607",
+        "rank": 6,
+        "name": "닥스 라피아무드 D락 장식 크로스백 DCBA6E984W2",
+        "price": 142680,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2026/03/31/10/8/b31c7320-52ca-4cf4-9ab1-26c5cb6a4ffc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9466485357"
+    },
+    {
+        "id": "20260607-07",
+        "date": "20260607",
+        "rank": 7,
+        "name": "우리홈즈 족저근막 리커버리 무중력 쿠션 샌들 슬리퍼",
+        "price": 14900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/be3b/c126445c0034d4b38a4a982c628960c841b221c1ec85d7ea63c48c7d8172.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7972455419"
+    },
+    {
+        "id": "20260607-08",
+        "date": "20260607",
+        "rank": 8,
+        "name": "팬택 1포트 파스텔 초고속 충전기 25w +  C to C 케이블 45w 2m 세트",
+        "price": 6930,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/322309993974812-83215820-b5bd-4246-9f7a-1d316fd28f3e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9206766889"
+    },
+    {
+        "id": "20260607-09",
+        "date": "20260607",
+        "rank": 9,
+        "name": "삼익가구 로얄 익스클루시브 프리미엄 유로탑 독립스프링 매트리스 방문설치",
+        "price": 300000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/1717970050689155-3ce26824-e5c4-4204-87e8-7eec81c6833f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1829494046"
+    },
+    {
+        "id": "20260607-10",
+        "date": "20260607",
+        "rank": 10,
+        "name": "씽크에어 제습기 12L",
+        "price": 129000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2024/07/03/14/2/dc34c70c-1521-4481-9cad-48e268c3abd1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8054373373"
+    },
+    {
         "id": "20260606-01",
         "date": "20260606",
         "rank": 1,
