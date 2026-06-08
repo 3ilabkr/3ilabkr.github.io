@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260608-01",
+        "date": "20260608",
+        "rank": 1,
+        "name": "매일두유 99.9 플레인",
+        "price": 15850,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/363408805531261-e64f1ef2-13f7-4e46-a10d-82db5ef32a4a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757115239"
+    },
+    {
+        "id": "20260608-02",
+        "date": "20260608",
+        "rank": 2,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11600,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260608-03",
+        "date": "20260608",
+        "rank": 3,
+        "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
+        "price": 38890,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/05/07/14/3/f4024daf-9035-4009-8450-7123872220d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758755740"
+    },
+    {
+        "id": "20260608-04",
+        "date": "20260608",
+        "rank": 4,
+        "name": "스카치브라이트 프리미엄 고무장갑 5개입",
+        "price": 16900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/40115051295936-07e310e3-0ee6-4ef9-8de5-1c340bee0cb5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8441525461"
+    },
+    {
+        "id": "20260608-05",
+        "date": "20260608",
+        "rank": 5,
+        "name": "HANYO 2PCS 남자 여름 빅사이즈 핀턱 와이드 체형커버 밴딩 버뮤다 팬츠 7부 반바지",
+        "price": 33800,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/5d20/0b7f39d5b3ee07b1a67062b6d6ed3eaf6b39553b7edb3f108595cb622dc2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9320324052"
+    },
+    {
+        "id": "20260608-06",
+        "date": "20260608",
+        "rank": 6,
+        "name": "나우푸드 비오틴 5000mcg 베지 캡슐 비건",
+        "price": 13810,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/208a/3faa9e975981557aeeb7f9721c082bec31bfb19b2631f26f2201fdbd3e95.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1955584555"
+    },
+    {
+        "id": "20260608-07",
+        "date": "20260608",
+        "rank": 7,
+        "name": "재로우 펨 도필러스 유산균 서플먼트 10억 CFU 베지 캡슐",
+        "price": 62800,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/9a60/509070e855d54bf1c857fd87c0213649043e232d4a8c4877f2048852f4a8.jpeg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8336583914"
+    },
+    {
+        "id": "20260608-08",
+        "date": "20260608",
+        "rank": 8,
+        "name": "쿠쿠 인스퓨어 BLDC 입체회전 7엽 에어 서큘레이터",
+        "price": 90160,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2025/04/15/11/4/a70e777d-bc81-4a2a-9c47-4d501483bbe1.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717282697"
+    },
+    {
+        "id": "20260608-09",
+        "date": "20260608",
+        "rank": 9,
+        "name": "조르단 스텝 2단계 유아칫솔",
+        "price": 15740,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/1743770807685438-db7c1e82-99df-4bbf-ae84-81a04d2d95cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235518876"
+    },
+    {
+        "id": "20260608-10",
+        "date": "20260608",
+        "rank": 10,
+        "name": "석수 무라벨",
+        "price": 12100,
+        "image_url": "https://img5a.coupangcdn.com/image/1025_amir_coupang_oct_80k/852d/e4c5e5de82d251ddbf3cf1469d6f5f3af48aa806e8637cf4a4962ef0e938.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5408677138"
+    },
+    {
         "id": "20260607-01",
         "date": "20260607",
         "rank": 1,
