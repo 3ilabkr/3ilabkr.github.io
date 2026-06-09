@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260609-01",
+        "date": "20260609",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 21990,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260609-02",
+        "date": "20260609",
+        "rank": 2,
+        "name": "코멧 오리지널 유아용 아기물티슈 캡형",
+        "price": 10890,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/44344613265746-312dd5ae-8844-4536-80c8-4110a24dd8c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=188227098"
+    },
+    {
+        "id": "20260609-03",
+        "date": "20260609",
+        "rank": 3,
+        "name": "크리넥스 안심 3겹 키친타올",
+        "price": 14900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/140933971829284-243c469f-6291-447f-887d-7345c66c3259.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8425779247"
+    },
+    {
+        "id": "20260609-04",
+        "date": "20260609",
+        "rank": 4,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 21880,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20260609-05",
+        "date": "20260609",
+        "rank": 5,
+        "name": "나우푸드 메가 D-3 5000 lU & MK-7 180mcg 캡슐",
+        "price": 25730,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/7cd5/31df0d5eddd2e868a575f093f40d31d1a940ee170ac1100ab5668e80d075.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7951161811"
+    },
+    {
+        "id": "20260609-06",
+        "date": "20260609",
+        "rank": 6,
+        "name": "봉쥬르끌레어 블랙젤 액체세제 라벤더향  실내건조 중성세제",
+        "price": 8970,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/b20a/894891a4f0d028720e8e2079808a1f07cad5fb7b12c32c6f074e7add8d8b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8416837413"
+    },
+    {
+        "id": "20260609-07",
+        "date": "20260609",
+        "rank": 7,
+        "name": "풀무원샘물 하루귀리 곡물차",
+        "price": 10980,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2025/05/12/15/6/33b56aea-2ad9-4178-88d4-4a843ea6d6b9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8804233295"
+    },
+    {
+        "id": "20260609-08",
+        "date": "20260609",
+        "rank": 8,
+        "name": "가성비가브랜드다 이염방지 세탁시트 화이트",
+        "price": 8900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2026/04/10/15/2/6b395e04-e78b-455f-bb7b-1ebb964f4a01.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8966362296"
+    },
+    {
+        "id": "20260609-09",
+        "date": "20260609",
+        "rank": 9,
+        "name": "그린모먼트랩 목주름 케어 경추베개 울플렉스 양모 필로우",
+        "price": 49000,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/sstaklzx/05e6276782d64050a1141072da1306b2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9208915004"
+    },
+    {
+        "id": "20260609-10",
+        "date": "20260609",
+        "rank": 10,
+        "name": "[삼성 감사 페스티벌] [색상선택형] 삼성전자 비스포크 328L 김치플러스 3도어 냉장고 방문설치",
+        "price": 1219680,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2506657537843-5d1b079c-06f5-4729-8ac8-07ecd618da8d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8397541682"
+    },
+    {
         "id": "20260608-01",
         "date": "20260608",
         "rank": 1,
