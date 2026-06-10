@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260610-01",
+        "date": "20260610",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260610-02",
+        "date": "20260610",
+        "rank": 2,
+        "name": "하이뮨 프로틴 밸런스 L",
+        "price": 36000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20260610-03",
+        "date": "20260610",
+        "rank": 3,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260610-04",
+        "date": "20260610",
+        "rank": 4,
+        "name": "듀라텍스 냉감 쿨매트",
+        "price": 42900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/63453985678343-57c0f994-93b5-4efa-8263-8365bf57def2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059466160"
+    },
+    {
+        "id": "20260610-05",
+        "date": "20260610",
+        "rank": 5,
+        "name": "코카콜라 제로제로",
+        "price": 20100,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/704893215543382-183fd7ca-cc8c-4620-a84b-cb45ab0dcab8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7566747125"
+    },
+    {
+        "id": "20260610-06",
+        "date": "20260610",
+        "rank": 6,
+        "name": "맘스럽 퍼팩트 캡슐세제 4챔버 파우치형 국산제조 8배 초고농축 4in1 대용량 실내건조",
+        "price": 9020,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/c1fc/ff80b276ce0a1c7074e4c936216ba40cc13242b19bae79f4a74c31a1ad7f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8641935458"
+    },
+    {
+        "id": "20260610-07",
+        "date": "20260610",
+        "rank": 7,
+        "name": "프리티케어 로봇청소기 LDS 센서 지도 그리기 기능  물걸레 먼지비움",
+        "price": 259900,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/278a/4060656ba756f388d17554cfd55d5f105d02e2c6409f61f319072244ba47.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9557659294"
+    },
+    {
+        "id": "20260610-08",
+        "date": "20260610",
+        "rank": 8,
+        "name": "맛있는우유GT 멸균우유",
+        "price": 11980,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2849256079365995-a3b78a6f-fe87-4e43-890b-f44403e1b8e7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6436856710"
+    },
+    {
+        "id": "20260610-09",
+        "date": "20260610",
+        "rank": 9,
+        "name": "쉐프엠 베이컨까르보나라 파스타 4인분",
+        "price": 10320,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2977586941814999-1cd982d9-6c09-42e8-9316-284ba352fd70.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2010223107"
+    },
+    {
+        "id": "20260610-10",
+        "date": "20260610",
+        "rank": 10,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 22000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/183527831882073-ded2962c-cfa7-407a-ad28-183e4ac05fa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
         "id": "20260609-01",
         "date": "20260609",
         "rank": 1,
