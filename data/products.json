@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260612-01",
+        "date": "20260612",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 28000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2918734753703087-096f0cda-b353-4cae-b267-5146a90df5ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260612-02",
+        "date": "20260612",
+        "rank": 2,
+        "name": "파워에이드 제로",
+        "price": 18740,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20260612-03",
+        "date": "20260612",
+        "rank": 3,
+        "name": "알텐바흐 인덕션 헥사 통5중 프라이팬 세트 3개",
+        "price": 125740,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2023/01/18/9/6/c4a0dbe9-add0-4e80-bf82-efce7d7ec120.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7074592247"
+    },
+    {
+        "id": "20260612-04",
+        "date": "20260612",
+        "rank": 4,
+        "name": "신일 by 더톤 BLDC 리모컨 스탠드형 선풍기",
+        "price": 81400,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2026/04/17/10/1/2934c257-b9c3-45d5-b024-3007d6e10467.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8692849638"
+    },
+    {
+        "id": "20260612-05",
+        "date": "20260612",
+        "rank": 5,
+        "name": "오야니 에그 슬라우치 가죽 숄더백 OBSBSD11",
+        "price": 131000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2026/04/28/17/2/a9ee1277-7305-4bd6-adb3-fa4ea92c2440.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9520200078"
+    },
+    {
+        "id": "20260612-06",
+        "date": "20260612",
+        "rank": 6,
+        "name": "이알하나 ERr731 중년 여성 영양제",
+        "price": 54000,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/images/7d674e5c-5036-439b-9283-f9aa9f8965947783155380947179333.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8472540706"
+    },
+    {
+        "id": "20260612-07",
+        "date": "20260612",
+        "rank": 7,
+        "name": "위드맘 산양 제왕 분유 2단계",
+        "price": 33780,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/171120920731258-1b8ff05b-5810-4bf3-b794-2f80b408c009.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8775959217"
+    },
+    {
+        "id": "20260612-08",
+        "date": "20260612",
+        "rank": 8,
+        "name": "LG전자 인버터 56.9㎡(17.2평형) + 18.7㎡(5.7평형) 휘센 오브제컬렉션 위너 1시리즈 2in1 멀티형 에어컨 방문설치",
+        "price": 1752610,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/04/28/17/5/95064f2e-71fb-4686-bff7-3252a293a2c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9531459384"
+    },
+    {
+        "id": "20260612-09",
+        "date": "20260612",
+        "rank": 9,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 167900,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/1aa8/28389a72f57dd8c0ac89f4c78867c8c2779f84b1411669b32f748997a1db.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717112969"
+    },
+    {
+        "id": "20260612-10",
+        "date": "20260612",
+        "rank": 10,
+        "name": "아브카 뿌리는 다리미 핌 스프레이 500ml",
+        "price": 9800,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/1026944081015615-63da36c1-8aa6-40b0-b4e5-5d4a6af42b20.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8042727154"
+    },
+    {
         "id": "20260611-01",
         "date": "20260611",
         "rank": 1,
