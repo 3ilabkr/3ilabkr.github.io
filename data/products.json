@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260613-01",
+        "date": "20260613",
+        "rank": 1,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 78900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20260613-02",
+        "date": "20260613",
+        "rank": 2,
+        "name": "클룹 애사비소다 오리지널 제로",
+        "price": 18140,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/24599234155900-6a7bf1be-daaf-432d-aa63-4f375a18225f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8452558773"
+    },
+    {
+        "id": "20260613-03",
+        "date": "20260613",
+        "rank": 3,
+        "name": "미닛메이드 레몬에이드 탄산음료",
+        "price": 13680,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2025/03/20/10/8/ff0ae358-aeaa-47bd-9ecf-d984bc25fac7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8187326904"
+    },
+    {
+        "id": "20260613-04",
+        "date": "20260613",
+        "rank": 4,
+        "name": "종가 포기김치",
+        "price": 39800,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2365847090468309-b1603ec6-fdb6-4cbd-aacf-cef07e0eabb0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=188775801"
+    },
+    {
+        "id": "20260613-05",
+        "date": "20260613",
+        "rank": 5,
+        "name": "홈럭스 파워수압 필터 샤워기 + 필터 5개 + 샤워호스 1.5M + 거치데 안마 샤워기세트 8pcs",
+        "price": 12510,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/43f6/9df4c53109eb12cd7559e121649db33d7a4546698b54b03da0a7c247bd66.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150861959"
+    },
+    {
+        "id": "20260613-06",
+        "date": "20260613",
+        "rank": 6,
+        "name": "헬시오리진스 퍼포먼스 크레아틴",
+        "price": 36940,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/dd94/97ffb7ba9270589e4a0e9675a15266f0a8cda2b7fda02b90f8618f84463d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8186148778"
+    },
+    {
+        "id": "20260613-07",
+        "date": "20260613",
+        "rank": 7,
+        "name": "질레트 정품 프로쉴드 옐로우 매뉴얼 면도기 핸들1입 + 면도날12입",
+        "price": 71100,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/224989606467086-120df15c-a5de-4a3c-b1c9-ad955930a055.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9086071922"
+    },
+    {
+        "id": "20260613-08",
+        "date": "20260613",
+        "rank": 8,
+        "name": "스코홈 국내제조 눈꽃 냉감 시어서커 양겹이불",
+        "price": 19900,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/hsaeb1ig/97d00bbd24ea41699892cc48f1e682e6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9474152906"
+    },
+    {
+        "id": "20260613-09",
+        "date": "20260613",
+        "rank": 9,
+        "name": "실바트 까리노 인덕션 궁중팬",
+        "price": 30090,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/1085295175018051-8371b147-8c62-47e5-bd47-7f8372be0cb2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8215775908"
+    },
+    {
+        "id": "20260613-10",
+        "date": "20260613",
+        "rank": 10,
+        "name": "헤지스 여성용 위빙 소가죽 벨트 + 선물 케이스",
+        "price": 77000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2026/04/13/17/5/d0f3106b-d6ce-44eb-92a7-9bae5d4bf62e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9492594564"
+    },
+    {
         "id": "20260612-01",
         "date": "20260612",
         "rank": 1,
