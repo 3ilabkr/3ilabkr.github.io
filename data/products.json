@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260615-01",
+        "date": "20260615",
+        "rank": 1,
+        "name": "서울우유 멸균 흰우유",
+        "price": 12870,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/60109955907424-124ae06a-d80f-4080-8c06-571dd9e084e7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4975075206"
+    },
+    {
+        "id": "20260615-02",
+        "date": "20260615",
+        "rank": 2,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 16120,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260615-03",
+        "date": "20260615",
+        "rank": 3,
+        "name": "리큐 진한겔 하이브리드 플로랄향 일반용 액상세제 리필",
+        "price": 18900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6616908158"
+    },
+    {
+        "id": "20260615-04",
+        "date": "20260615",
+        "rank": 4,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 21500,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/4ce5/37ef7cd579f85682b4f543ee171c8584fe491eac494a6d9a4feaa740c031.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20260615-05",
+        "date": "20260615",
+        "rank": 5,
+        "name": "구미시농협 일선정품 영호진미 쌀 특등급",
+        "price": 32900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/01/20/15/1/9c60d4bd-c1bd-4a96-9993-b1c40717acad.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9320207109"
+    },
+    {
+        "id": "20260615-06",
+        "date": "20260615",
+        "rank": 6,
+        "name": "알레시스 전자드럼 TURBO MAX 풀패키지",
+        "price": 442400,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/03/26/14/8/92fb9970-fe87-484d-b837-aa9375decb42.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9459245936"
+    },
+    {
+        "id": "20260615-07",
+        "date": "20260615",
+        "rank": 7,
+        "name": "[타워콘도] 18타입 침대",
+        "price": 105000,
+        "image_url": "https://img1c.coupangcdn.com/image/travelSeller/resort/A00161284/8b657941-4602-4a45-964a-9b5706ea40c4.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011368880&vendorItemId=70000287104361"
+    },
+    {
+        "id": "20260615-08",
+        "date": "20260615",
+        "rank": 8,
+        "name": "스너글스 프라임 유아용 피부 저자극 인증 아기물티슈 엠보싱 캡형",
+        "price": 11090,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/316852427318339-eb41eaae-3663-49c2-8267-ed4481ad47dc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8942897335"
+    },
+    {
+        "id": "20260615-09",
+        "date": "20260615",
+        "rank": 9,
+        "name": "스카치브라이트 3M 버블버블 일회용 롤 수세미",
+        "price": 15900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/e2856773-2219-42fa-8b52-76dd484e70267605181538922403064.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8464679258"
+    },
+    {
+        "id": "20260615-10",
+        "date": "20260615",
+        "rank": 10,
+        "name": "게스 GEMMA 크로스바디 카메라백 RP1A32J1",
+        "price": 97300,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2026/05/11/9/0/c2c5b153-1d52-4a64-8c81-95967a1bbabf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9540025584"
+    },
+    {
         "id": "20260614-01",
         "date": "20260614",
         "rank": 1,
