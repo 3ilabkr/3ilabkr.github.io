@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260617-01",
+        "date": "20260617",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 27710,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/42638393351923-72863a46-8313-47e1-beb3-21ee0fad9596.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260617-02",
+        "date": "20260617",
+        "rank": 2,
+        "name": "크리넥스 수프림 소프트 천연펄프 3겹 화장지",
+        "price": 21900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/58433474886307-4c55277d-90c9-41a4-80d0-8ab14328b8d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=322002036"
+    },
+    {
+        "id": "20260617-03",
+        "date": "20260617",
+        "rank": 3,
+        "name": "알리사 100단 아이스 터보 MAX 휴대용 선풍기",
+        "price": 28390,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/331197417306237-9dcda372-b2e5-4191-b546-1b9bd9c7fb55.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8719219704"
+    },
+    {
+        "id": "20260617-04",
+        "date": "20260617",
+        "rank": 4,
+        "name": "퀘스트뉴트리션 프로틴 바 스모어",
+        "price": 33400,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/0cb6/6735203b0f179154eedc164a510ca1926dbeed839677627e5c06150a1b8e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5546189150"
+    },
+    {
+        "id": "20260617-05",
+        "date": "20260617",
+        "rank": 5,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +6개 리필걸레세트  베란다 아파트 유리창 이중창 청소 창문닦이",
+        "price": 239800,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/5a66/ec3b152989aa39a1ecac3488837b13f85274a0e4b8397a266e8ad96f8865.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8666001365"
+    },
+    {
+        "id": "20260617-06",
+        "date": "20260617",
+        "rank": 6,
+        "name": "메디필 멜라논 엑스 크림",
+        "price": 8800,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/562251391561805-34514270-55f5-4d72-b94d-cb54ac7716e9_1753691748459.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7694655931"
+    },
+    {
+        "id": "20260617-07",
+        "date": "20260617",
+        "rank": 7,
+        "name": "주니어 스위트[15평형] 스위트룸 도시전망",
+        "price": 414720,
+        "image_url": "https://image1.coupangcdn.com/image/travelSeller/resort/A01048062/4416b301-6ad6-4ebe-aedf-ab81e1f258fe.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010127090&vendorItemId=70000113392146"
+    },
+    {
+        "id": "20260617-08",
+        "date": "20260617",
+        "rank": 8,
+        "name": "♥패밀리(취사/오션뷰) 바다전망",
+        "price": 382000,
+        "image_url": "https://img5c.coupangcdn.com/image/travelSeller/resort/A00020814/140c3781-536f-45f4-bd2e-445fb87c9ac5.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010776222&vendorItemId=70000154460682"
+    },
+    {
+        "id": "20260617-09",
+        "date": "20260617",
+        "rank": 9,
+        "name": "[로켓프레시] 더미식 육즙고기교자 (냉동)",
+        "price": 13170,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/pqogkfgh/ba7a147a6dcd4629b107d11bcf02ec11.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7592628358"
+    },
+    {
+        "id": "20260617-10",
+        "date": "20260617",
+        "rank": 10,
+        "name": "원모어 TWS Q10K 무선 블루투스 이어폰, 화이트, 26시간, 방수가능",
+        "price": 17900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2024/09/19/16/1/2fc4c2c4-91d5-4407-8fee-5fc7056758cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9318887954"
+    },
+    {
         "id": "20260616-01",
         "date": "20260616",
         "rank": 1,
