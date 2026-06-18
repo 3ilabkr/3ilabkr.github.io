@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260618-01",
+        "date": "20260618",
+        "rank": 1,
+        "name": "잘풀리는집 천연펄프 미용티슈 2겹",
+        "price": 10560,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/336466465830570-019ea802-99d4-4356-9a75-1c5075d42574.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2888447"
+    },
+    {
+        "id": "20260618-02",
+        "date": "20260618",
+        "rank": 2,
+        "name": "한경희생활과학 무드등 날개없는 선풍기",
+        "price": 99900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/06/09/16/5/3d88c89d-c60c-4add-8d04-5f2cfb96e556.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8826158639"
+    },
+    {
+        "id": "20260618-03",
+        "date": "20260618",
+        "rank": 3,
+        "name": "오징어땅콩",
+        "price": 10500,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/67902070672419-1dbf1bac-15dd-4b0b-95b6-19adc5c52491.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=13288248"
+    },
+    {
+        "id": "20260618-04",
+        "date": "20260618",
+        "rank": 4,
+        "name": "[로켓프레시] 영광법성포 실속형 굴비 20미 (냉동)",
+        "price": 7790,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/9js3nkwl/a9790737382646a3aaddcb732a35f883.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8814724278"
+    },
+    {
+        "id": "20260618-05",
+        "date": "20260618",
+        "rank": 5,
+        "name": "고당도선별 세척사과 껍질째먹는 꿀사과",
+        "price": 12770,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/d799/f435e2e9c3e16b359134ef79f1781e851f0c5d440ea6b29fcf69a851b959.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9398035509"
+    },
+    {
+        "id": "20260618-06",
+        "date": "20260618",
+        "rank": 6,
+        "name": "마더케이 아기 지퍼백 4종 세트 S 15매입 + M 15매입 + L 15매입 + XL 15매입",
+        "price": 17410,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/217366144424295-0448a8a6-0a17-43f8-8044-1f23ceac4571.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8705806242"
+    },
+    {
+        "id": "20260618-07",
+        "date": "20260618",
+        "rank": 7,
+        "name": "느린부엌 식혜",
+        "price": 10800,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/957047307739885-a9020ea8-3e4a-4b8a-92c8-e7d3e19c337c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=159350344"
+    },
+    {
+        "id": "20260618-08",
+        "date": "20260618",
+        "rank": 8,
+        "name": "아베나 프레쉬그립 비닐장갑 플렉스",
+        "price": 15800,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/75092213444189-4d1c0bc7-aebf-4f73-9d0e-510ddf65b730.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6592611276"
+    },
+    {
+        "id": "20260618-09",
+        "date": "20260618",
+        "rank": 9,
+        "name": "썬버드 올라운드 캐치볼 야구글러브 우투용 2p + 야구공 2p 세트",
+        "price": 36700,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2026/04/17/10/3/f239b27f-3c8f-4a3e-920a-789b0cf367ef.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9500334277"
+    },
+    {
+        "id": "20260618-10",
+        "date": "20260618",
+        "rank": 10,
+        "name": "로이첸 인덕션 아이지글 자동회전롤팬 크림",
+        "price": 105000,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/358195660601766-ae1ab852-0a7c-4f00-9b88-af2db536ba62.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9021096913"
+    },
+    {
         "id": "20260617-01",
         "date": "20260617",
         "rank": 1,
