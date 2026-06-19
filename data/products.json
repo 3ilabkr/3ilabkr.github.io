@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260619-01",
+        "date": "20260619",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16900,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260619-02",
+        "date": "20260619",
+        "rank": 2,
+        "name": "하이트진로 블랙보리 오리지널",
+        "price": 16420,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/1829554070653848-222cdda2-8568-4e65-99e7-c0124c67666e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7870072134"
+    },
+    {
+        "id": "20260619-03",
+        "date": "20260619",
+        "rank": 3,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 13680,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/5391563659701-787f45d3-a3e9-481a-8244-e8e8cba40c39.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20260619-04",
+        "date": "20260619",
+        "rank": 4,
+        "name": "하이뮨 프로틴 밸런스 드링크믹스 RTD",
+        "price": 25710,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2025/02/07/14/9/8fcf66ab-e68f-498c-9078-a004d3feebaf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9057383530"
+    },
+    {
+        "id": "20260619-05",
+        "date": "20260619",
+        "rank": 5,
+        "name": "바겐슈타이거 스텐 스트레이너 라운드",
+        "price": 13900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/65057362516677-cba98de1-dadb-4fbb-820b-042188ef7f88.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7335200185"
+    },
+    {
+        "id": "20260619-06",
+        "date": "20260619",
+        "rank": 6,
+        "name": "맘스럽 과탄산소다 버킷 초대용량 프리미엄 1등급원료 산소계표백제",
+        "price": 14150,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/e5ff/373d3942b9037b326867ecfa5e8171ec93140a602e41ee9e65bcc82385cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7504247455"
+    },
+    {
+        "id": "20260619-07",
+        "date": "20260619",
+        "rank": 7,
+        "name": "아디다스 남성용 U 바운스 DNA 런닝화 IG",
+        "price": 59900,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2026/05/23/12/4/94070439-5174-4bdb-82ec-60edbcc6b21f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9564264883"
+    },
+    {
+        "id": "20260619-08",
+        "date": "20260619",
+        "rank": 8,
+        "name": "다이슨 펜슬백 플러피콘 스틱청소기",
+        "price": 552710,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2025/12/09/17/0/d285b029-991b-43cb-bec4-677d9df8079c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9233327760"
+    },
+    {
+        "id": "20260619-09",
+        "date": "20260619",
+        "rank": 9,
+        "name": "[로켓프레시] 농협안심한우 1등급 숙성등심 구이용 (냉장)",
+        "price": 42600,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/17679093419123-26f29413-7147-44c4-b562-d966ece3c3bc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7075134057"
+    },
+    {
+        "id": "20260619-10",
+        "date": "20260619",
+        "rank": 10,
+        "name": "쏜 리서치 베이직 뉴트리언트 2 데이 캡슐",
+        "price": 143870,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/07b2/b728c71303af229fb005355a625ccf3a846433015c6b0d9d098493d785a2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6082733474"
+    },
+    {
         "id": "20260618-01",
         "date": "20260618",
         "rank": 1,
