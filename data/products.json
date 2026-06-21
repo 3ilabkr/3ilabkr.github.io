@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260621-01",
+        "date": "20260621",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 18990,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/1109640700619115-fc5f445e-89e7-44bc-bd35-9b75efec1c72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260621-02",
+        "date": "20260621",
+        "rank": 2,
+        "name": "피지 모락셀라 냄새제거 뽀송한 코튼향 액상세제 본품",
+        "price": 14890,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2026/04/06/16/1/1b23d043-ce1e-46e9-b7af-f803a16c6132.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527004003"
+    },
+    {
+        "id": "20260621-03",
+        "date": "20260621",
+        "rank": 3,
+        "name": "마이비데 키즈 화장실용 물티슈 캡형",
+        "price": 12950,
+        "image_url": "https://img4a.coupangcdn.com/image/1025_amir_coupang_oct_80k/5fd4/35f7fb8f4ec961f2a96f8fddf2b2461afb06529264a56cc73a21d41eb334.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8502358197"
+    },
+    {
+        "id": "20260621-04",
+        "date": "20260621",
+        "rank": 4,
+        "name": "Kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 40400,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/eabf/014c6861f9e399bce5ee12576e9a1eab953079709a6366ee0a541fd04f9f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260621-05",
+        "date": "20260621",
+        "rank": 5,
+        "name": "행복미트 미국산 소고기 아롱사태 알사태 수육용 찜용 국거리용",
+        "price": 29000,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/f5d1/c5cdad8bf105cdfc2d571177d8a97a2c82b3069d1f46f8317344ef85c079.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7361432988"
+    },
+    {
+        "id": "20260621-06",
+        "date": "20260621",
+        "rank": 6,
+        "name": "네오체어 위너 메쉬 사무용 의자",
+        "price": 49900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/1417877461934594-c773d1d0-8ee6-4604-a4d6-8bce4b169315.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8401611575"
+    },
+    {
+        "id": "20260621-07",
+        "date": "20260621",
+        "rank": 7,
+        "name": "비오비타 배배 골드 유산균",
+        "price": 26900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/42329235672736-3d25b33b-464a-4a87-b972-2c4f6fa79d30.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660924794"
+    },
+    {
+        "id": "20260621-08",
+        "date": "20260621",
+        "rank": 8,
+        "name": "(타워콘도) 18타입 온돌",
+        "price": 105000,
+        "image_url": "https://image14.coupangcdn.com/image/travelSeller/resort/A00161284/8b657941-4602-4a45-964a-9b5706ea40c4.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011368880&vendorItemId=70000287104360"
+    },
+    {
+        "id": "20260621-09",
+        "date": "20260621",
+        "rank": 9,
+        "name": "★★슈페리어 D동클린/파크뷰/더블트윈",
+        "price": 385000,
+        "image_url": "https://image12.coupangcdn.com/image/travelSeller/resort/A00020814/bb498c54-cd08-4799-b1fa-2a94cc5a777d.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010787384&vendorItemId=70000199321981"
+    },
+    {
+        "id": "20260621-10",
+        "date": "20260621",
+        "rank": 10,
+        "name": "그릭데이 시그니처",
+        "price": 11450,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/67196482857565-0adde60d-5b02-443b-bc50-17cba757fff2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5463245022"
+    },
+    {
         "id": "20260620-01",
         "date": "20260620",
         "rank": 1,
