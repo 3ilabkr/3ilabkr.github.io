@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260623-01",
+        "date": "20260623",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향 제로카페인 탄산음료",
+        "price": 14460,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/11/07/12/0/b7a27492-ba9d-4fbd-817b-938919761021.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8680308800"
+    },
+    {
+        "id": "20260623-02",
+        "date": "20260623",
+        "rank": 2,
+        "name": "리큐 진한겔 하이브리드 드럼세탁기용 액상세제 플로럴 부케향 리필",
+        "price": 18900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/4180078129401006-76d1ae19-f0bc-4ea4-88fa-d0a089ba538a.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235489530"
+    },
+    {
+        "id": "20260623-03",
+        "date": "20260623",
+        "rank": 3,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11600,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260623-04",
+        "date": "20260623",
+        "rank": 4,
+        "name": "AHC 마스터즈 아쿠아 리치 선크림 SPF50+ PA++++",
+        "price": 14120,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/4119157550861544-e8dcce7c-5071-49c5-81f5-76c7c7bc9070.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7232503577"
+    },
+    {
+        "id": "20260623-05",
+        "date": "20260623",
+        "rank": 5,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 25350,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a_1776648106769.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20260623-06",
+        "date": "20260623",
+        "rank": 6,
+        "name": "★깜짝 골드박스★ 신화테마파크 <199990>",
+        "price": 45000,
+        "image_url": "https://img3a.coupangcdn.com/image/travelSeller/common/A00186691/6906bfc3-b8ea-4ccc-a22f-0f140c3eec20.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010357435&vendorItemId=70000296038931"
+    },
+    {
+        "id": "20260623-07",
+        "date": "20260623",
+        "rank": 7,
+        "name": "[스튜디오] 산전망",
+        "price": 149900,
+        "image_url": "https://image8.coupangcdn.com/image/travelSeller/resort/A01483633/ff52ee79-0e4f-477d-ae83-39df99dd9c65.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011349449&vendorItemId=70000288337535"
+    },
+    {
+        "id": "20260623-08",
+        "date": "20260623",
+        "rank": 8,
+        "name": "샤크 EVO POWER SYSTEM NEO+ 스틱 무선 청소기",
+        "price": 739000,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2025/11/06/10/4/a0808e87-07e6-485d-afab-b281c5dde689.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9171425026"
+    },
+    {
+        "id": "20260623-09",
+        "date": "20260623",
+        "rank": 9,
+        "name": "타포 360도 회전형 FHD 화질 스마트 Wi-Fi 홈 CCTV 실내용",
+        "price": 34900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/01/09/17/2/d63dc008-0e00-4e50-9ed2-2088b155cb45.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8542956019"
+    },
+    {
+        "id": "20260623-10",
+        "date": "20260623",
+        "rank": 10,
+        "name": "센트룸 실버 우먼 50+ 멀티비타민 타블렛",
+        "price": 34520,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/3728/235932126aa66a526a33e3f1d2af928c68969ea49603ea77e7836dfbd9fb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8402762173"
+    },
+    {
         "id": "20260622-01",
         "date": "20260622",
         "rank": 1,
