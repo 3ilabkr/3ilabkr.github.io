@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260624-01",
+        "date": "20260624",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 16900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260624-02",
+        "date": "20260624",
+        "rank": 2,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 21990,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260624-03",
+        "date": "20260624",
+        "rank": 3,
+        "name": "카누 마일드 로스트 아메리카노 미니 원두커피믹스",
+        "price": 21050,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/6c61/27e80ff70db7825a2f389d80797dae7903f80b0e974df526c6ca2965bb3b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245789579"
+    },
+    {
+        "id": "20260624-04",
+        "date": "20260624",
+        "rank": 4,
+        "name": "코멧 오리지널 유아용 아기물티슈 캡형",
+        "price": 10890,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/44344613265746-312dd5ae-8844-4536-80c8-4110a24dd8c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=188227098"
+    },
+    {
+        "id": "20260624-05",
+        "date": "20260624",
+        "rank": 5,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 23100,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20260624-06",
+        "date": "20260624",
+        "rank": 6,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 28780,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/13516d0e7fd3b47dc1548952584820bd9a069610fe9db4f3a5f288c2e4f5_1780305416066.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20260624-07",
+        "date": "20260624",
+        "rank": 7,
+        "name": "[스탠다드]",
+        "price": 207900,
+        "image_url": "https://img2a.coupangcdn.com/image/travelSeller/resort/A00005562/1fd8f150-74ad-41e7-9f51-584a1ba963d6.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246158&vendorItemId=70000291713725"
+    },
+    {
+        "id": "20260624-08",
+        "date": "20260624",
+        "rank": 8,
+        "name": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 3입",
+        "price": 22000,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/9591836727990-8c6324b4-4e94-4942-a4ea-e2374e1a1289.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9102889885"
+    },
+    {
+        "id": "20260624-09",
+        "date": "20260624",
+        "rank": 9,
+        "name": "순수크린 플로럴 액체세제 실내건조 대용량 자연유래성분",
+        "price": 7980,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/6c59/1865b538a714d555802621c91de82b1b4444df17d5bf39aacec104d4fac2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6221950212"
+    },
+    {
+        "id": "20260624-10",
+        "date": "20260624",
+        "rank": 10,
+        "name": "엘블로썸 여름 쿨링 스판 와이드 찰랑핏 히든밴딩 아이스진 (3단기장)",
+        "price": 22800,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/9caa/2f8188952e846393c28b0e6d9ad5cbe1d6004c185d24097c8921f4dbe6c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8784294402"
+    },
+    {
         "id": "20260623-01",
         "date": "20260623",
         "rank": 1,
