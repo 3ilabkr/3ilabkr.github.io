@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260625-01",
+        "date": "20260625",
+        "rank": 1,
+        "name": "하이뮨 프로틴 밸런스 L",
+        "price": 36000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20260625-02",
+        "date": "20260625",
+        "rank": 2,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 22880,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260625-03",
+        "date": "20260625",
+        "rank": 3,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260625-04",
+        "date": "20260625",
+        "rank": 4,
+        "name": "메디힐 데일리 솔루션 마스크팩 3종 세트",
+        "price": 23500,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/28689767991401-1acd7a7c-bf89-4aa1-a2cf-2b4ce01e41ea.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9072524953"
+    },
+    {
+        "id": "20260625-05",
+        "date": "20260625",
+        "rank": 5,
+        "name": "I7. 1인 입장권",
+        "price": 35000,
+        "image_url": "https://image7.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/e7fad02c-f93d-42da-929f-d08fa13d92d8.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011288185&vendorItemId=70000296428072"
+    },
+    {
+        "id": "20260625-06",
+        "date": "20260625",
+        "rank": 6,
+        "name": "나우푸드 유비퀴놀 100mg 소프트젤",
+        "price": 69310,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/0827/036d84fe8419969c105eee1c1705dd6c73bc9f637a2e2fce58d6005d8dec.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8365213457"
+    },
+    {
+        "id": "20260625-07",
+        "date": "20260625",
+        "rank": 7,
+        "name": "맥 글로우 플레이 텐더토크 립 밤",
+        "price": 29070,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/7ebc/6913923c8ee56057167aa4ba68ddb88f0d50bea7990a03622b75e67aa514.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8314391571"
+    },
+    {
+        "id": "20260625-08",
+        "date": "20260625",
+        "rank": 8,
+        "name": "르크루제 소스팬",
+        "price": 289000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2026/01/07/10/1/eff4041f-30e3-4979-9753-d2a58a5fa6e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8736603627"
+    },
+    {
+        "id": "20260625-09",
+        "date": "20260625",
+        "rank": 9,
+        "name": "셰프초이스 육즙가득 도톰도톰 떡갈비 (냉동)",
+        "price": 14000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/98319343695068-023504c8-d99f-4459-9156-89310822caa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1947353717"
+    },
+    {
+        "id": "20260625-10",
+        "date": "20260625",
+        "rank": 10,
+        "name": "에뛰드 베이킹 파우더 모공 클렌징 폼",
+        "price": 8440,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/1750902174059560-4cf1679e-d1c5-447c-86a6-480ec7da93cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8451202342"
+    },
+    {
         "id": "20260624-01",
         "date": "20260624",
         "rank": 1,
