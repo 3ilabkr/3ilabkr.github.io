@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260626-01",
+        "date": "20260626",
+        "rank": 1,
+        "name": "세노비스 트리플러스 3in1 프리미엄 멀티비타민",
+        "price": 34880,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/958093856363818-1b1466e4-330f-45a7-8934-226e0ad08e3c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8204162643"
+    },
+    {
+        "id": "20260626-02",
+        "date": "20260626",
+        "rank": 2,
+        "name": "크라운 빅파이 딸기",
+        "price": 10450,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/58188945169963-6f6c466b-0bef-4cda-a4bb-9405c1809f75.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=106013"
+    },
+    {
+        "id": "20260626-03",
+        "date": "20260626",
+        "rank": 3,
+        "name": "쿠쿠 레스티노 안마의자 방문설치",
+        "price": 1990000,
+        "image_url": "https://img2a.coupangcdn.com/image/1025_amir_coupang_oct_80k/6309/07772975c72030f5b8abbec4a6cf31fa4b776cbdcff3ae4761a6bd2965ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7047286046"
+    },
+    {
+        "id": "20260626-04",
+        "date": "20260626",
+        "rank": 4,
+        "name": "나우푸드 울트라 오메가3-D 600EPA 300DHA 소프트젤",
+        "price": 42400,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/b9a3/8fcb60cc6d3b8e6cfd551adc9f320121af9bb9d5c364dfd41a0fe29cc71c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1969918"
+    },
+    {
+        "id": "20260626-05",
+        "date": "20260626",
+        "rank": 5,
+        "name": "창 탄산수 오리지날",
+        "price": 15900,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/eab7/57e5227dd9d15b963ce61914864afb6aa69d2b24771202c6b7272c884c9e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8267602095"
+    },
+    {
+        "id": "20260626-06",
+        "date": "20260626",
+        "rank": 6,
+        "name": "에스프레소스틱 로얄 헤이즐넛",
+        "price": 14500,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/3410366628818350-609dc06b-96aa-4dfe-a623-d2522d742734.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7858510883"
+    },
+    {
+        "id": "20260626-07",
+        "date": "20260626",
+        "rank": 7,
+        "name": "보니애가구 에르고 블리넌 패브릭 3세대 리클라이너 슬라이드 무빙 모션 4인 소파 + 필로우형 쿠션 3p 세트 방문설치",
+        "price": 849000,
+        "image_url": "https://img1a.coupangcdn.com/image/rs_quotation_api/lu8ixaro/e08680ad642e4eed8972c84ca261ae8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9580719333"
+    },
+    {
+        "id": "20260626-08",
+        "date": "20260626",
+        "rank": 8,
+        "name": "한경희생활과학 3WAY 스탠드 선풍기, 보관가방",
+        "price": 37900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/152098036236450-9804a247-9d4f-4b5a-9b6b-70486a79d58e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9505832456"
+    },
+    {
+        "id": "20260626-09",
+        "date": "20260626",
+        "rank": 9,
+        "name": "샘트리 촉촉한 맛병아리콩 오리지널",
+        "price": 11990,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/0ec5/67fe25dd04676b5273f5a6052dee9d908c6e116d1ab6a113c8cb35b80da7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9196219302"
+    },
+    {
+        "id": "20260626-10",
+        "date": "20260626",
+        "rank": 10,
+        "name": "삼원가든 뼈없는갈비탕",
+        "price": 19800,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/467985452936736-78ac00dc-8420-4a4c-8904-459d421306d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7659920511"
+    },
+    {
         "id": "20260625-01",
         "date": "20260625",
         "rank": 1,
