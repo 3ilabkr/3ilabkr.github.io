@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260628-01",
+        "date": "20260628",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://image1.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260628-02",
+        "date": "20260628",
+        "rank": 2,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260628-03",
+        "date": "20260628",
+        "rank": 3,
+        "name": "헤트라스 프리미엄 대용량 디퓨저",
+        "price": 25800,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/b17f/b4899c5b283ff509bd687509f11c75e44491dcf8fc469fe78d64de5d42cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6991217590"
+    },
+    {
+        "id": "20260628-04",
+        "date": "20260628",
+        "rank": 4,
+        "name": "부케가르니 딥 클린 초고농축 캡슐세제",
+        "price": 11900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/63243553069423-6dc9da71-5455-46bd-a2d7-33c00c3a188f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7871650750"
+    },
+    {
+        "id": "20260628-05",
+        "date": "20260628",
+        "rank": 5,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 529800,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/f4a8/1811a8808342abce59129b3115ccc832313859b8c967a191e56e5f634bad.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717112969"
+    },
+    {
+        "id": "20260628-06",
+        "date": "20260628",
+        "rank": 6,
+        "name": "★AFTER3 종합이용권 1인 (어른)",
+        "price": 38000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/7a3fc45e-6673-48c4-9527-f4e970d32c99.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011435334&vendorItemId=70000297257143"
+    },
+    {
+        "id": "20260628-07",
+        "date": "20260628",
+        "rank": 7,
+        "name": "수영장 이용불가/디럭스 트윈룸",
+        "price": 80000,
+        "image_url": "https://img4a.coupangcdn.com/image/travelSeller/hotel/A00996003/5f509a96-8406-4e6b-b57d-ae16e1e204ce.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000002770916&vendorItemId=70000079104045"
+    },
+    {
+        "id": "20260628-08",
+        "date": "20260628",
+        "rank": 8,
+        "name": "페라가모 선글라스 SF1097SLBK",
+        "price": 359000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/275273589272454-91ba8446-9965-4f12-ad63-899e22ded84d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9439691409"
+    },
+    {
+        "id": "20260628-09",
+        "date": "20260628",
+        "rank": 9,
+        "name": "셀리맥스 어성초 BHA 지우개 필링 패드 125ml",
+        "price": 9900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/750855380731887-7cfd17c7-4cc2-4859-977c-7ad641e96840.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6470133507"
+    },
+    {
+        "id": "20260628-10",
+        "date": "20260628",
+        "rank": 10,
+        "name": "펩시 제로슈거 라임향",
+        "price": 13940,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
         "id": "20260627-01",
         "date": "20260627",
         "rank": 1,
