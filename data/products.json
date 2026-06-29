@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260629-01",
+        "date": "20260629",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260629-02",
+        "date": "20260629",
+        "rank": 2,
+        "name": "코카콜라 오리지널",
+        "price": 23380,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/68357096027416-cc28db91-a4e9-4842-813a-3687cbff7e07.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260629-03",
+        "date": "20260629",
+        "rank": 3,
+        "name": "쁘리엘르 유어메이트 워싱 냉감 여름 차렵이불 세트",
+        "price": 39770,
+        "image_url": "https://image15.coupangcdn.com/image/rs_quotation_api/kfsckbjm/dc28d1849bb648a4a027ee21c72e867f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8653693138"
+    },
+    {
+        "id": "20260629-04",
+        "date": "20260629",
+        "rank": 4,
+        "name": "가그린 제로 구강청결제",
+        "price": 13790,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260629-05",
+        "date": "20260629",
+        "rank": 5,
+        "name": "스탠다드 트윈룸",
+        "price": 59040,
+        "image_url": "https://img5c.coupangcdn.com/image/travelSeller/hotel/A01228856/0c697466-d763-4635-87ce-725b6106c734.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010744273&vendorItemId=70000284638106"
+    },
+    {
+        "id": "20260629-06",
+        "date": "20260629",
+        "rank": 6,
+        "name": "언파 차차치약",
+        "price": 28180,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/9b19/6cd5824ce755348a383a37fd519b56718fab2305cc0b723e24864df15b53.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6714100877"
+    },
+    {
+        "id": "20260629-07",
+        "date": "20260629",
+        "rank": 7,
+        "name": "마이밀 뉴프로틴 드링크 오리지널",
+        "price": 30510,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/image_audit/prod/1ac59637-1955-435f-9672-4583d4d2acee_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7621201792"
+    },
+    {
+        "id": "20260629-08",
+        "date": "20260629",
+        "rank": 8,
+        "name": "노티카 플랩 사파리햇",
+        "price": 26500,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/n29dlbiz/821e508e9e544296a20232c6d3e1cd9b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8708434073"
+    },
+    {
+        "id": "20260629-09",
+        "date": "20260629",
+        "rank": 9,
+        "name": "★골드박스 룸온리★ 디럭스 더블룸 산전망",
+        "price": 488890,
+        "image_url": "https://img4a.coupangcdn.com/image/travelSeller/hotel/A00069584/a00b9bbf-16c0-479d-82bc-566763536c28.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000000041476&vendorItemId=70000154461205"
+    },
+    {
+        "id": "20260629-10",
+        "date": "20260629",
+        "rank": 10,
+        "name": "[로켓프레시] GAP 인증 경산 옹골찬 신비복숭아",
+        "price": 15990,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/33165454255693-f3c8f727-d952-4447-bf5e-a73f4156c0b6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8171708983"
+    },
+    {
         "id": "20260628-01",
         "date": "20260628",
         "rank": 1,
