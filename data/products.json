@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260630-01",
+        "date": "20260630",
+        "rank": 1,
+        "name": "★골드통합 (7/1 ~ 8/23) 종일권",
+        "price": 78000,
+        "image_url": "https://image4.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/bc9f0ec1-93ad-4b3f-ac2d-e68b2489f90f.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011435758&vendorItemId=70000297458443"
+    },
+    {
+        "id": "20260630-02",
+        "date": "20260630",
+        "rank": 2,
+        "name": "포트메리온 보타닉가든 스케치북 머그컵 400ml",
+        "price": 14900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/30820973619259-ce8077a1-6beb-463a-abf8-db3d68222a90.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9013130368"
+    },
+    {
+        "id": "20260630-03",
+        "date": "20260630",
+        "rank": 3,
+        "name": "수영장미포함★디럭스 트윈룸",
+        "price": 107800,
+        "image_url": "https://image7.coupangcdn.com/image/travelSeller/hotel/A01529338/6ad3f6df-602d-4cf2-9ee5-cb28c9387849.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011295932&vendorItemId=70000297384805"
+    },
+    {
+        "id": "20260630-04",
+        "date": "20260630",
+        "rank": 4,
+        "name": "키즈팡 워크북 만1세 전 8권",
+        "price": 15500,
+        "image_url": "https://image7.coupangcdn.com/image/product/image/vendoritem/2019/03/26/3554128444/c87663dc-01b3-44a4-b6e9-45abd39b1881.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6335453367"
+    },
+    {
+        "id": "20260630-05",
+        "date": "20260630",
+        "rank": 5,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 126000,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/cf78/7d50aea415cf68dc405c534db45f50ae7cea6f2f84b9efef202986361c96.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260630-06",
+        "date": "20260630",
+        "rank": 6,
+        "name": "윌리브 국산 스텐 노바 수저세트",
+        "price": 19900,
+        "image_url": "https://image6.coupangcdn.com/image/1025_amir_coupang_oct_80k/5831/2d4757f0428a2a596dc8a8f4e9968c008033ab197be62c851d3fa377611d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7143428255"
+    },
+    {
+        "id": "20260630-07",
+        "date": "20260630",
+        "rank": 7,
+        "name": "[로켓프레시] 호주산 우삼겹 바로구이 대패 (냉동)",
+        "price": 7090,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/69526075994008-0a8974e3-75f9-40af-99d1-b75f0a7bd757.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7792214488"
+    },
+    {
+        "id": "20260630-08",
+        "date": "20260630",
+        "rank": 8,
+        "name": "국내산 햇 다진 마늘 물0% 첨가물 0%",
+        "price": 8900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/af85/3b243e2459716f11aa9076e5510561b0dda256583ebf794fa4cabb9cfa02.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7196573931"
+    },
+    {
+        "id": "20260630-09",
+        "date": "20260630",
+        "rank": 9,
+        "name": "마이디어 미니 건조기 MDD02A25/WB-KR 2.5kg 직접설치",
+        "price": 206220,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/445398865857735-e536ece9-c621-4dd8-89fe-9a0b010574b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8300332115"
+    },
+    {
+        "id": "20260630-10",
+        "date": "20260630",
+        "rank": 10,
+        "name": "서울소호 무브 타이보 패브릭 리클라이너 모션 슬라이드 4인용 소파 방문설치",
+        "price": 971100,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/156626350768413-3f0e3f55-1065-4322-a002-a0e8283513b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9055179156"
+    },
+    {
         "id": "20260629-01",
         "date": "20260629",
         "rank": 1,
