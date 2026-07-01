@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260701-01",
+        "date": "20260701",
+        "rank": 1,
+        "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 인증",
+        "price": 11690,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/9084091501221-f02120d0-8bf3-41b1-81ab-44740731e905.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=252301180"
+    },
+    {
+        "id": "20260701-02",
+        "date": "20260701",
+        "rank": 2,
+        "name": "크리넥스 데코 앤 소프트 수딩플러스 천연펄프 3겹 고급롤화장지",
+        "price": 17600,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/13791393968848-f19acff4-c8cd-47b9-86ba-5a7807253a9e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253356297"
+    },
+    {
+        "id": "20260701-03",
+        "date": "20260701",
+        "rank": 3,
+        "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
+        "price": 38890,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2025/05/07/14/3/f4024daf-9035-4009-8450-7123872220d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758755740"
+    },
+    {
+        "id": "20260701-04",
+        "date": "20260701",
+        "rank": 4,
+        "name": "보몽드 국내 제조 시원한 냉감패드",
+        "price": 42420,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/207677255004179-e584b666-8e48-4f05-8e31-ee3685dd86c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8686264832"
+    },
+    {
+        "id": "20260701-05",
+        "date": "20260701",
+        "rank": 5,
+        "name": "메이튼 차량용 무선 안드로이드 오토 카플레이 호환 오토프로M",
+        "price": 44900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/331101153807987-bdb14fb0-a846-41d4-85a7-4cac75c71e1e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9050459517"
+    },
+    {
+        "id": "20260701-06",
+        "date": "20260701",
+        "rank": 6,
+        "name": "손바닥 사운드북고래야 놀자!",
+        "price": 17670,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2142707024110482-a7e0582a-2e87-4f79-843e-f33681aa17b9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1321447693"
+    },
+    {
+        "id": "20260701-07",
+        "date": "20260701",
+        "rank": 7,
+        "name": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐",
+        "price": 47650,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/image_audit/prod/268246bc-4b00-41ac-9fde-689cdf82333e_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=202217052"
+    },
+    {
+        "id": "20260701-08",
+        "date": "20260701",
+        "rank": 8,
+        "name": "아띠래빗 첫 놀이 학습책 마이 퍼니북 헝겁책",
+        "price": 41000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/13783545789295-a461186c-2e28-4372-848c-aa6d7e15bea9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7772401928"
+    },
+    {
+        "id": "20260701-09",
+        "date": "20260701",
+        "rank": 9,
+        "name": "듀이트리 하이 아미노 올 클렌징 밀크",
+        "price": 18400,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/312115903653113-59782d30-0580-4dd4-afa4-a8fbabf6289c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7397036159"
+    },
+    {
+        "id": "20260701-10",
+        "date": "20260701",
+        "rank": 10,
+        "name": "[로켓프레시] 롯데웰푸드 찰떡 일품 팥빙수 (냉동)",
+        "price": 12200,
+        "image_url": "https://img2c.coupangcdn.com/image/rs_quotation_api/7oen74dw/3701fad9923c41f4af113288f4afdbf8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7297863414"
+    },
+    {
         "id": "20260630-01",
         "date": "20260630",
         "rank": 1,
