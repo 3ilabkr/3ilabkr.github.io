@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260702-01",
+        "date": "20260702",
+        "rank": 1,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 15900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260702-02",
+        "date": "20260702",
+        "rank": 2,
+        "name": "락토핏 정품 골드 80포",
+        "price": 48500,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/45399026147318-69a29240-836b-461b-838f-1b7302918bd7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7458810098"
+    },
+    {
+        "id": "20260702-03",
+        "date": "20260702",
+        "rank": 3,
+        "name": "파워에이드 제로",
+        "price": 19860,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20260702-04",
+        "date": "20260702",
+        "rank": 4,
+        "name": "[로켓프레시] 오바다 국내산 손질오징어 (냉동)",
+        "price": 17900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/1105214885154990-970c7479-83d1-4d7a-9305-4492954e5449.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6188181799"
+    },
+    {
+        "id": "20260702-05",
+        "date": "20260702",
+        "rank": 5,
+        "name": "듀라텍스 냉감 쿨매트",
+        "price": 27120,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/3995082153289859-f6a93f23-7657-4e5c-8e88-66e4ae63c8a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059466160"
+    },
+    {
+        "id": "20260702-06",
+        "date": "20260702",
+        "rank": 6,
+        "name": "★[7월 특가] 아쿠아플라넷 입장권",
+        "price": 45500,
+        "image_url": "https://image12.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/8b809b97-f3dc-40f2-86d4-877a94e82e51.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011438981&vendorItemId=70000298471249"
+    },
+    {
+        "id": "20260702-07",
+        "date": "20260702",
+        "rank": 7,
+        "name": "프리티케어 로봇청소기 LDS 센서 지도 그리기 기능  물걸레 먼지비움",
+        "price": 249470,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/278a/4060656ba756f388d17554cfd55d5f105d02e2c6409f61f319072244ba47.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9557659294"
+    },
+    {
+        "id": "20260702-08",
+        "date": "20260702",
+        "rank": 8,
+        "name": "퍼기 이유식 마스터 밥솥 칸막이",
+        "price": 22900,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/9ee5/194dcf21097e50fab43521a78364a19a8bb4e900b504889246376093a4c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7240693936"
+    },
+    {
+        "id": "20260702-09",
+        "date": "20260702",
+        "rank": 9,
+        "name": "숙성 광어회",
+        "price": 17170,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/983874619187881-9b253066-7669-4bd4-9e42-4e25326dde6e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=339173249"
+    },
+    {
+        "id": "20260702-10",
+        "date": "20260702",
+        "rank": 10,
+        "name": "데싱디바 매직프레스 페디팁 세트",
+        "price": 12420,
+        "image_url": "https://img1a.coupangcdn.com/image/rs_quotation_api/axmnemje/aec18be810f04468bd78d2c7a5a14671.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8214396965"
+    },
+    {
         "id": "20260701-01",
         "date": "20260701",
         "rank": 1,
