@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260703-01",
+        "date": "20260703",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 20280,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/33597756644270-a896be4b-096d-4ab8-94c7-8d5adf8f1762.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8114968257"
+    },
+    {
+        "id": "20260703-02",
+        "date": "20260703",
+        "rank": 2,
+        "name": "농심 짜파게티 140g",
+        "price": 9960,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/825730060763-ca36ceec-5fa8-41b1-a1be-d77ce758779b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8821592139"
+    },
+    {
+        "id": "20260703-03",
+        "date": "20260703",
+        "rank": 3,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 21850,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20260703-04",
+        "date": "20260703",
+        "rank": 4,
+        "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬",
+        "price": 48000,
+        "image_url": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/047e/4cf786e98fa56b7bea4c486ede83c08d19682f591a2e3da993fe394d37c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5391887777"
+    },
+    {
+        "id": "20260703-05",
+        "date": "20260703",
+        "rank": 5,
+        "name": "[로켓프레시] 팜앤푸드 꼬리 자른 생새우살 61~70입 (냉동)",
+        "price": 16500,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/1871988488973561-67485205-e071-44da-addb-4d8df6f36795.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7647979111"
+    },
+    {
+        "id": "20260703-06",
+        "date": "20260703",
+        "rank": 6,
+        "name": "[로켓프레시] 달짝이 토마토",
+        "price": 8470,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/563f4117-4618-453e-9202-0257158a4c77703566810549106071.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6297995835"
+    },
+    {
+        "id": "20260703-07",
+        "date": "20260703",
+        "rank": 7,
+        "name": "헬시오리진스 내추럴 프로바이오틱 유산균 300억 CFU 브이캡",
+        "price": 90110,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/3901/b64458decdaeeb2e2f0cd02a70211cf66e873500e67c8be5ad2f15ec72c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6988822689"
+    },
+    {
+        "id": "20260703-08",
+        "date": "20260703",
+        "rank": 8,
+        "name": "★★선착순★ 팜입장 1인권",
+        "price": 15000,
+        "image_url": "https://img4c.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310520/0415de9c-a757-4d45-849d-3b4a36183963.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011441729&vendorItemId=70000298803610"
+    },
+    {
+        "id": "20260703-09",
+        "date": "20260703",
+        "rank": 9,
+        "name": "★1인 자유이용권",
+        "price": 28000,
+        "image_url": "https://image7.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/f6ece962-aa3e-49a0-ba75-74a2e841faab.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011439018&vendorItemId=70000298471690"
+    },
+    {
+        "id": "20260703-10",
+        "date": "20260703",
+        "rank": 10,
+        "name": "맘스럽 밤부클래식 대나무 천연펄프 무향 데코3겹 30m 30롤 1팩 두루마리 롤화장지 티슈",
+        "price": 10560,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/fb56/6d8cdfcf009547cd31b69e455ca50f14d3705f92832b2392b78df76caa53.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9409375579"
+    },
+    {
         "id": "20260702-01",
         "date": "20260702",
         "rank": 1,
