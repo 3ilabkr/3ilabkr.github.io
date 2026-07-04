@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260704-01",
+        "date": "20260704",
+        "rank": 1,
+        "name": "신일 안전터치망 스탠드 리모컨 선풍기",
+        "price": 48900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/373275669181422-f32b5114-5439-4f5f-8215-b89418ff5b38.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8185470223"
+    },
+    {
+        "id": "20260704-02",
+        "date": "20260704",
+        "rank": 2,
+        "name": "새우깡",
+        "price": 13470,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/776236505342368-aed7dbe0-74f2-43c1-b18a-7b220cd0bff3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=94817"
+    },
+    {
+        "id": "20260704-03",
+        "date": "20260704",
+        "rank": 3,
+        "name": "스빈또 NEW 스웨덴 수세미 100g",
+        "price": 10100,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/685841542680670-bd9cc04c-d9ec-4f45-af95-5e36fbe13703.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8847684778"
+    },
+    {
+        "id": "20260704-04",
+        "date": "20260704",
+        "rank": 4,
+        "name": "★골드박스/한정수량★ 제주올패스 24시간 이용권 <198277>",
+        "price": 17900,
+        "image_url": "https://img1a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186691/f7b44c3e-822a-4e51-8aac-60f6ea59924c.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000000605727&vendorItemId=70000298579687"
+    },
+    {
+        "id": "20260704-05",
+        "date": "20260704",
+        "rank": 5,
+        "name": "프리메라 마일드 앤 퍼펙트 페이셜 필링 수분팩 100ml +리필 50ml 기획세트",
+        "price": 18000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/34837606391462-e3252e7e-0509-4b53-b492-0ebecc14f2d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8847173274"
+    },
+    {
+        "id": "20260704-06",
+        "date": "20260704",
+        "rank": 6,
+        "name": "맞춤법 박사가 되는 초등 필수 맞춤법 따라쓰기 전 2권 세트",
+        "price": 13720,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/ce96/e5b02a57bfccd1fcc300f2222a7e13cc43ceb356eda0990560acc5888110.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1494279598"
+    },
+    {
+        "id": "20260704-07",
+        "date": "20260704",
+        "rank": 7,
+        "name": "올품 닭볶음탕용 닭고기 (냉장)",
+        "price": 7980,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/363412377265421-63432af4-6fa3-4dae-8958-6109e5bcc74d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4591098403"
+    },
+    {
+        "id": "20260704-08",
+        "date": "20260704",
+        "rank": 8,
+        "name": "브리츠 블루투스 스테레오 헤드폰, BT4000 ANC Plus, 블랙, 49시간, 멀티단자",
+        "price": 86900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2025/01/07/15/7/0a4ee367-9d33-4aaf-b430-d11fc4876031.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8774143981"
+    },
+    {
+        "id": "20260704-09",
+        "date": "20260704",
+        "rank": 9,
+        "name": "미국산 목살 구이용 (냉장)",
+        "price": 12900,
+        "image_url": "https://image2.coupangcdn.com/image/rs_quotation_api/mniwwmad/21aecc606d8b43bf8bd6f7da5724f72c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8538186694"
+    },
+    {
+        "id": "20260704-10",
+        "date": "20260704",
+        "rank": 10,
+        "name": "에브리봇 엣지원도우2 창문 로봇청소기",
+        "price": 198000,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2024/11/18/17/4/cc3c3766-ae72-4912-bc34-6abb82c20517.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8461711351"
+    },
+    {
         "id": "20260703-01",
         "date": "20260703",
         "rank": 1,
