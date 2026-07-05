@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260705-01",
+        "date": "20260705",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 화이트 천연펄프 3겹 고급롤화장지",
+        "price": 25350,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/98145334917948-8aef7415-788b-4929-b171-588caee5b279.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677618842"
+    },
+    {
+        "id": "20260705-02",
+        "date": "20260705",
+        "rank": 2,
+        "name": "AHC 마스터즈 에어리치 선스틱 SPF50+ PA++++",
+        "price": 10370,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/263475224592015-73b460cd-d352-45e5-b6f6-90e8db1086f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7088737172"
+    },
+    {
+        "id": "20260705-03",
+        "date": "20260705",
+        "rank": 3,
+        "name": "깨끗한나라 데일리 천연펄프 키친타월",
+        "price": 7500,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/a95d/7f701514bb4ded3eb0e7816dec9fb89f006b8352db0e53bcfcb1c56e6383.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660554607"
+    },
+    {
+        "id": "20260705-04",
+        "date": "20260705",
+        "rank": 4,
+        "name": "행복미트 호주산 목초육 청정우 소고기 사태살",
+        "price": 46460,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/32cc/6a8c42224ff7ace2e275b0e28cfbf6721ae4113692d2267e33ae1ed5d2e4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7410636554"
+    },
+    {
+        "id": "20260705-05",
+        "date": "20260705",
+        "rank": 5,
+        "name": "빅드림 THE 튼튼한 경포장용 박스테이프 48mm x 40m",
+        "price": 10570,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/95080946936901-c6f5d769-e789-4e95-a671-8edd5f8b36b5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=91609822"
+    },
+    {
+        "id": "20260705-06",
+        "date": "20260705",
+        "rank": 6,
+        "name": "맘스럽 오래가는 자동 변기세정제",
+        "price": 9900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/d484/f45780297b7fce27a9eb14100c78c7f0cf40deb74378549687a4c489f75e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9570580260"
+    },
+    {
+        "id": "20260705-07",
+        "date": "20260705",
+        "rank": 7,
+        "name": "맘스럽 퍼팩트 캡슐세제 4챔버 파우치형 국산제조 8배 초고농축 4in1 대용량 실내건조",
+        "price": 11520,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/c1fc/ff80b276ce0a1c7074e4c936216ba40cc13242b19bae79f4a74c31a1ad7f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8641935458"
+    },
+    {
+        "id": "20260705-08",
+        "date": "20260705",
+        "rank": 8,
+        "name": "[최신형]  틴도우 다용도 패브릭 청소기 가정용  카페트 침구 쇼파 습식청소기",
+        "price": 94900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/3301/9be07c17b7c00b1f15a66bb4674061d39fcc370ebda808df8441967c04c4.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8769129764"
+    },
+    {
+        "id": "20260705-09",
+        "date": "20260705",
+        "rank": 9,
+        "name": "뷰카 센트 클래식 대용량 디퓨저 선물세트",
+        "price": 19900,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/ca75/2829b3e265a46ebfb5ba693a3a6f070c0295b2e626a14debe32870709700.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7308098821"
+    },
+    {
+        "id": "20260705-10",
+        "date": "20260705",
+        "rank": 10,
+        "name": "스위트 디럭스",
+        "price": 85000,
+        "image_url": "https://image1.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020960/4cf57be5-580a-4547-a8b3-df06fce53693.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=78724490&vendorItemId=3618193843"
+    },
+    {
         "id": "20260704-01",
         "date": "20260704",
         "rank": 1,
