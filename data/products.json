@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260706-01",
+        "date": "20260706",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16500,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260706-02",
+        "date": "20260706",
+        "rank": 2,
+        "name": "테팔 매트 프라이팬 세트",
+        "price": 75000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/941245883729726-3ee81dfd-48fc-4563-8c06-04acfcfdf03d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4917534787"
+    },
+    {
+        "id": "20260706-03",
+        "date": "20260706",
+        "rank": 3,
+        "name": "칠성사이다 제로",
+        "price": 15100,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/98307885117518-6d4b140a-2090-4c8d-92f4-acf2b837b7bc.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8288428017"
+    },
+    {
+        "id": "20260706-04",
+        "date": "20260706",
+        "rank": 4,
+        "name": "농심 누룽지팝",
+        "price": 12400,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/961485565378-337bb5b0-8ad5-4101-a7d0-ebf514489287.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8730212699"
+    },
+    {
+        "id": "20260706-05",
+        "date": "20260706",
+        "rank": 5,
+        "name": "매일두유 99.9 플레인",
+        "price": 15500,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/363408805531261-e64f1ef2-13f7-4e46-a10d-82db5ef32a4a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757115239"
+    },
+    {
+        "id": "20260706-06",
+        "date": "20260706",
+        "rank": 6,
+        "name": "(27타입)",
+        "price": 122000,
+        "image_url": "https://image4.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/45218c5f-aabc-4086-ad57-6bc7e0101f6f.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010121285&vendorItemId=70000291853996"
+    },
+    {
+        "id": "20260706-07",
+        "date": "20260706",
+        "rank": 7,
+        "name": "[로켓프레시] 제스프리 썬골드 키위",
+        "price": 26680,
+        "image_url": "https://image8.coupangcdn.com/image/rs_quotation_api/ilraxnmj/be165f6255c949dea15301b8400cc4b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=212167178"
+    },
+    {
+        "id": "20260706-08",
+        "date": "20260706",
+        "rank": 8,
+        "name": "질레트 정품 프로쉴드 옐로우 매뉴얼 면도기 핸들1입 + 면도날12입",
+        "price": 60900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/224989606467086-120df15c-a5de-4a3c-b1c9-ad955930a055.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9086071922"
+    },
+    {
+        "id": "20260706-09",
+        "date": "20260706",
+        "rank": 9,
+        "name": "주니어 스위트 시티뷰 도시전망",
+        "price": 153790,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A01048062/4416b301-6ad6-4ebe-aedf-ab81e1f258fe.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010127090&vendorItemId=70000282408552"
+    },
+    {
+        "id": "20260706-10",
+        "date": "20260706",
+        "rank": 10,
+        "name": "2026년형 틴도우 침구청소기 16000Pa 강력흡입 UV살균 60도 고온 열풍 건조 진드기 제거 이불 매트리스 청소기",
+        "price": 94900,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/2243/f15aff06724ce9575ae1c62a20c1e77fa4b731a0eb8ae07685810374a9df.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371637264"
+    },
+    {
         "id": "20260705-01",
         "date": "20260705",
         "rank": 1,
