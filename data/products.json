@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260707-01",
+        "date": "20260707",
+        "rank": 1,
+        "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품",
+        "price": 16700,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1703093047"
+    },
+    {
+        "id": "20260707-02",
+        "date": "20260707",
+        "rank": 2,
+        "name": "토레타 제로 이온음료",
+        "price": 18540,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/531156914724635-1634eb00-f21e-4a0f-b1f7-159ee8f76e76.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7961386819"
+    },
+    {
+        "id": "20260707-03",
+        "date": "20260707",
+        "rank": 3,
+        "name": "호무로 쿨네스트 냉감이불",
+        "price": 39900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/1119391176292034-a76dac32-d2e2-4b50-b8aa-8761705953f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8695645881"
+    },
+    {
+        "id": "20260707-04",
+        "date": "20260707",
+        "rank": 4,
+        "name": "도브 뷰티 바 센서티브",
+        "price": 15770,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/3bc2/faa5de5b599c00dc18ff5e10be983b41d084452e6f9ea8ea9fbdae4999ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8207856682"
+    },
+    {
+        "id": "20260707-05",
+        "date": "20260707",
+        "rank": 5,
+        "name": "쿠첸 121 플러스 올스테인레스 전기압력밥솥 6인용",
+        "price": 296000,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/1228/36021c128e35eac22e794397b3d7d87893eea301e9300be446c9ee906181.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8635655739"
+    },
+    {
+        "id": "20260707-06",
+        "date": "20260707",
+        "rank": 6,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 152000,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/f349/116a4187b1ccddfa234ab1868c7f605b2152ca7d8441fc9a5212314c4e0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586262658"
+    },
+    {
+        "id": "20260707-07",
+        "date": "20260707",
+        "rank": 7,
+        "name": "오뚜기 오동통면 120g",
+        "price": 10200,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/a636/d79f65d23c69b551eea9ab7f392c84d4b81a830a58acdeb17e207a9f4137.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1912026433"
+    },
+    {
+        "id": "20260707-08",
+        "date": "20260707",
+        "rank": 8,
+        "name": "패밀리 디럭스",
+        "price": 121000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020960/34406203-7644-4ec7-b811-a57405d76602.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=78724661&vendorItemId=3618194841"
+    },
+    {
+        "id": "20260707-09",
+        "date": "20260707",
+        "rank": 9,
+        "name": "프리메라 마일드 앤 퍼펙트 클렌징 오일 투 폼 200ml + 리필 100ml 세트",
+        "price": 21290,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2025/05/20/10/0/761c684c-52b3-4127-98da-03f43a7d76e0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8785245912"
+    },
+    {
+        "id": "20260707-10",
+        "date": "20260707",
+        "rank": 10,
+        "name": "파스드리미트 심리스 쿨링 팔토시 FREE 2p x 2개",
+        "price": 10000,
+        "image_url": "https://img5a.coupangcdn.com/image/rs_quotation_api/mu3lsmxj/51d065ef3620476883ee22dc59c044de.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9585257411"
+    },
+    {
         "id": "20260706-01",
         "date": "20260706",
         "rank": 1,
