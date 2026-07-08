@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260708-01",
+        "date": "20260708",
+        "rank": 1,
+        "name": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지",
+        "price": 19000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=34846576"
+    },
+    {
+        "id": "20260708-02",
+        "date": "20260708",
+        "rank": 2,
+        "name": "립톤 아이스티 믹스 복숭아맛",
+        "price": 13200,
+        "image_url": "https://image5.coupangcdn.com/image/1025_amir_coupang_oct_80k/b702/fee9e1deef97ebcb91591599f9e7f2748a0f694fbac0d993e07b4dd615ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7778899675"
+    },
+    {
+        "id": "20260708-03",
+        "date": "20260708",
+        "rank": 3,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 13300,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260708-04",
+        "date": "20260708",
+        "rank": 4,
+        "name": "다우니 초고농축 호텔 컬렉션 섬유유연제 미스티크 본품",
+        "price": 18910,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/356947226725653-567dc0d9-a849-4ddd-8286-f22a83af1841.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7026135886"
+    },
+    {
+        "id": "20260708-05",
+        "date": "20260708",
+        "rank": 5,
+        "name": "아동용 물놀이 경찰 보트",
+        "price": 9460,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2025/04/01/18/0/cae29920-1616-4eeb-8158-f6a1c3ea9346.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8688606235"
+    },
+    {
+        "id": "20260708-06",
+        "date": "20260708",
+        "rank": 6,
+        "name": "패밀리 - 랜덤배정",
+        "price": 125000,
+        "image_url": "https://img4c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00050739/2cb5ab7c-fb9a-4426-a49e-205d81c86cf6.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=78720764&vendorItemId=70000291868881"
+    },
+    {
+        "id": "20260708-07",
+        "date": "20260708",
+        "rank": 7,
+        "name": "★룸업★디럭스 더블>패밀리 트윈",
+        "price": 60000,
+        "image_url": "https://image4.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A00144397/aeea844d-b647-49ce-a15f-070e09e7ca62.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=85137622&vendorItemId=70000283027300"
+    },
+    {
+        "id": "20260708-08",
+        "date": "20260708",
+        "rank": 8,
+        "name": "스낵박스 비스킷쿠키 파이 16p 세트",
+        "price": 37660,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/160102838442716-4bc4bbd4-4658-4418-ab61-2d23b30e1c00.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9581699247"
+    },
+    {
+        "id": "20260708-09",
+        "date": "20260708",
+        "rank": 9,
+        "name": "신일 BLDC 리모컨 선풍기",
+        "price": 77000,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2026/04/16/15/8/235cd4a5-4440-4308-bbbe-d245d9aa9d53.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9498919802"
+    },
+    {
+        "id": "20260708-10",
+        "date": "20260708",
+        "rank": 10,
+        "name": "우리홈즈 족저근막 리커버리 무중력 쿠션 샌들 슬리퍼",
+        "price": 14390,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/33c2/0abf776d35334c6e661aa764cc7d5c0a7ef74dd47c18a1773c95aba6c6bf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7972455419"
+    },
+    {
         "id": "20260707-01",
         "date": "20260707",
         "rank": 1,
