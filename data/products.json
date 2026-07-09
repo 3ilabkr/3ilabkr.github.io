@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260709-01",
+        "date": "20260709",
+        "rank": 1,
+        "name": "코멧 오리지널 유아용 아기물티슈 캡형",
+        "price": 10890,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/44344613265746-312dd5ae-8844-4536-80c8-4110a24dd8c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=188227098"
+    },
+    {
+        "id": "20260709-02",
+        "date": "20260709",
+        "rank": 2,
+        "name": "하림 치킨너겟 (냉동)",
+        "price": 12600,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/469032151932431-287bedd0-fb62-4249-88bd-4f32ba4c2ce5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4567751809"
+    },
+    {
+        "id": "20260709-03",
+        "date": "20260709",
+        "rank": 3,
+        "name": "뉴케어 올프로틴 고소한맛",
+        "price": 41320,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/99780434550593-7af74caf-d3b0-4fae-8d75-30b1478700ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391180879"
+    },
+    {
+        "id": "20260709-04",
+        "date": "20260709",
+        "rank": 4,
+        "name": "홈매트 리미티드 에디션 리퀴드 제로 히터 2p + 리필 29ml X 2p 세트",
+        "price": 22000,
+        "image_url": "https://img1c.coupangcdn.com/image/1025_amir_coupang_oct_80k/8578/5b70184826071d08dfd07889175edad79c64d13d304c45c8b83e68cf89ad.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6398902014"
+    },
+    {
+        "id": "20260709-05",
+        "date": "20260709",
+        "rank": 5,
+        "name": "농심 안성탕면 125g",
+        "price": 10500,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/357176872328116-709ad4fd-6739-49a9-9929-0d5b0faeaae3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9447140712"
+    },
+    {
+        "id": "20260709-06",
+        "date": "20260709",
+        "rank": 6,
+        "name": "LG전자 인버터 56.9㎡(17.2평형) + 18.7㎡(5.7평형) 휘센 오브제컬렉션 위너 1시리즈 2in1 멀티형 에어컨 방문설치",
+        "price": 1711960,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/49411384944876-0127c307-727b-4559-8936-4451b533bf71.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9531459384"
+    },
+    {
+        "id": "20260709-07",
+        "date": "20260709",
+        "rank": 7,
+        "name": "아웃도어프로덕츠 여성용 릴랙스 이지 팬츠",
+        "price": 19900,
+        "image_url": "https://img3c.coupangcdn.com/image/rs_quotation_api/r98nagaq/bff38aa650a749cf927678381868e14f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9562202768"
+    },
+    {
+        "id": "20260709-08",
+        "date": "20260709",
+        "rank": 8,
+        "name": "바우아토 스팬윙 무선 저소음 미니 회전 거치 급속 대류 냉각 휴대용 손선풍기",
+        "price": 29800,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/08/05/13/0/62f78c47-092b-4a49-bb58-40046061ca33.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8670048602"
+    },
+    {
+        "id": "20260709-09",
+        "date": "20260709",
+        "rank": 9,
+        "name": "2026년 통관 미국산 구운땅콩 대용량 부드러운 식감 최상급 견과류",
+        "price": 10340,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/9dd5/cd8ff4706ea5f0c7f4c7158f9229c087e98c78c5ad0c434d5667a000073f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7281459708"
+    },
+    {
+        "id": "20260709-10",
+        "date": "20260709",
+        "rank": 10,
+        "name": "옹골찬 GAP 경산 천도복숭아",
+        "price": 13990,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/23759919698170-05928276-6177-46d6-a58a-b7ed5cba280b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5815605159"
+    },
+    {
         "id": "20260708-01",
         "date": "20260708",
         "rank": 1,
