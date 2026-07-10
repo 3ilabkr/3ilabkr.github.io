@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260710-01",
+        "date": "20260710",
+        "rank": 1,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 11500,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260710-02",
+        "date": "20260710",
+        "rank": 2,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260710-03",
+        "date": "20260710",
+        "rank": 3,
+        "name": "세타필 모이스춰라이징 로션",
+        "price": 14100,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7164345502"
+    },
+    {
+        "id": "20260710-04",
+        "date": "20260710",
+        "rank": 4,
+        "name": "크록스 클래식 플랫폼 클로그 샌들 206750-001",
+        "price": 39400,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/5296629373064474-94731c9a-f6da-4d8f-ac52-26697217f8c7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8591698296"
+    },
+    {
+        "id": "20260710-05",
+        "date": "20260710",
+        "rank": 5,
+        "name": "설화수 탄력크림 50ml 기획세트",
+        "price": 85500,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2026/04/23/15/4/6fca229e-dd46-4a83-83a6-2c70553c64e2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9512088186"
+    },
+    {
+        "id": "20260710-06",
+        "date": "20260710",
+        "rank": 6,
+        "name": "알레시스 전자드럼 TURBO MAX 풀패키지",
+        "price": 442400,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2026/03/26/14/8/92fb9970-fe87-484d-b837-aa9375decb42.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9459245936"
+    },
+    {
+        "id": "20260710-07",
+        "date": "20260710",
+        "rank": 7,
+        "name": "미즈노 러쉬 더블 쿠션 단목 양말",
+        "price": 16500,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/3210921676143437-bfc8b861-1f51-45bb-a9dd-5b1a42badb20.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6638406272"
+    },
+    {
+        "id": "20260710-08",
+        "date": "20260710",
+        "rank": 8,
+        "name": "[★24시간 스테이] 슈페리어 더블룸 산전망",
+        "price": 70000,
+        "image_url": "https://image6.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A00300280/090e00de-1e15-4c63-8879-8df709cd58cf.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000000544646&vendorItemId=70000286928499"
+    },
+    {
+        "id": "20260710-09",
+        "date": "20260710",
+        "rank": 9,
+        "name": "로이드 여성용 14K 골드 럭키 클로버 원석 팔찌 + 쇼핑백",
+        "price": 79900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/19156095490750-a912ad35-1904-4ee2-9ff9-e24c1104e0a5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9617696137"
+    },
+    {
+        "id": "20260710-10",
+        "date": "20260710",
+        "rank": 10,
+        "name": "피지 모락셀라 냄새제거 세탁세제 코튼향",
+        "price": 14890,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2026/04/06/16/1/1b23d043-ce1e-46e9-b7af-f803a16c6132.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527004003"
+    },
+    {
         "id": "20260709-01",
         "date": "20260709",
         "rank": 1,
