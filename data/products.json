@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260712-01",
+        "date": "20260712",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 21990,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260712-02",
+        "date": "20260712",
+        "rank": 2,
+        "name": "카누 마일드 로스트 아메리카노 미니 원두커피믹스",
+        "price": 20210,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/6c61/27e80ff70db7825a2f389d80797dae7903f80b0e974df526c6ca2965bb3b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245789579"
+    },
+    {
+        "id": "20260712-03",
+        "date": "20260712",
+        "rank": 3,
+        "name": "농심 신라면 컵 65g",
+        "price": 10980,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1723358760738649-3a896980-b0e5-4ce7-ab1d-edc31672847a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4498353"
+    },
+    {
+        "id": "20260712-04",
+        "date": "20260712",
+        "rank": 4,
+        "name": "듀이트리 하이 아미노 올 클렌징 대용량 밀크",
+        "price": 16000,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/54ae/3de039f76bf9437eb4e1df3f5995f1bcdf99ad799b56553dd18dc25eb339.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7397036159"
+    },
+    {
+        "id": "20260712-05",
+        "date": "20260712",
+        "rank": 5,
+        "name": "쿠쿠 미니 믹서기",
+        "price": 41180,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/154740354674759-b07b205d-70ac-445b-a533-afc5ecf083ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455864274"
+    },
+    {
+        "id": "20260712-06",
+        "date": "20260712",
+        "rank": 6,
+        "name": "재로우 커큐민 피토솜 메리바 500mg 베지 캡",
+        "price": 37340,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/8a72/05d31f3237b3f43c694f6f4926d937da0fae7e8c1a4b46cdd42b577e7cd4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=416201"
+    },
+    {
+        "id": "20260712-07",
+        "date": "20260712",
+        "rank": 7,
+        "name": "★종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/d6f7a353-2bbb-4681-83b7-17e37fec3667.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011443680&vendorItemId=70000300923719"
+    },
+    {
+        "id": "20260712-08",
+        "date": "20260712",
+        "rank": 8,
+        "name": "[홈쇼핑완판템] 전인화의 비오진 알부민 멜라 리셋 톤업 선 크림 SPF50+ PA++++",
+        "price": 14460,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/0751/7c41701adab49631221921e7ff68565a46936b0814b9701d430e0acd9703.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9442036464"
+    },
+    {
+        "id": "20260712-09",
+        "date": "20260712",
+        "rank": 9,
+        "name": "싱글트윈(2 Single bed)",
+        "price": 99900,
+        "image_url": "https://img4a.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A00069670/73b6d1e0-b99d-40ad-a1ed-25e473936ae6.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=78778534&vendorItemId=3618643713"
+    },
+    {
+        "id": "20260712-10",
+        "date": "20260712",
+        "rank": 10,
+        "name": "★★슈페리어 D동클린/파크뷰/더블트윈",
+        "price": 547000,
+        "image_url": "https://img5a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/bb498c54-cd08-4799-b1fa-2a94cc5a777d.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010787384&vendorItemId=70000199321981"
+    },
+    {
         "id": "20260711-01",
         "date": "20260711",
         "rank": 1,
