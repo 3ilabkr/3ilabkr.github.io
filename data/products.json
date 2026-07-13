@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260714-01",
+        "date": "20260714",
+        "rank": 1,
+        "name": "롯데 칠성사이다",
+        "price": 14810,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/89292073074044-cf51f14e-388e-4764-bff6-9481c3f0e694.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8712796546"
+    },
+    {
+        "id": "20260714-02",
+        "date": "20260714",
+        "rank": 2,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 22500,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20260714-03",
+        "date": "20260714",
+        "rank": 3,
+        "name": "아몬드브리즈 오리지널",
+        "price": 15900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/62392158900845-db2260a0-1ea8-4145-bcbe-c5e769595991.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6654766761"
+    },
+    {
+        "id": "20260714-04",
+        "date": "20260714",
+        "rank": 4,
+        "name": "이클립스 피치",
+        "price": 13670,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/155740836159107-f9985969-50e9-4a40-bac7-6e3fd3d62958.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4749020270"
+    },
+    {
+        "id": "20260714-05",
+        "date": "20260714",
+        "rank": 5,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 31900,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a_1776648106769.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20260714-06",
+        "date": "20260714",
+        "rank": 6,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 95000,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/1f43/ce7e37be0ce6255de5b26a7ce0394360c9eb15ec4d690e45fec9f6bdde23.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
+        "id": "20260714-07",
+        "date": "20260714",
+        "rank": 7,
+        "name": "톰토미 한국을 빛낸 100명의 위인들 사운드북",
+        "price": 18900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2025/11/02/10/8/4aa669d8-f0c3-4c04-b801-7c238189ac72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9163335476"
+    },
+    {
+        "id": "20260714-08",
+        "date": "20260714",
+        "rank": 8,
+        "name": "한국타이어 다이나프로 컴포트 HL3 RA45 235/60R18",
+        "price": 245880,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/805520172543012-e39e0fc5-d44b-4aa3-b25d-85655464cbcf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7492397836"
+    },
+    {
+        "id": "20260714-09",
+        "date": "20260714",
+        "rank": 9,
+        "name": "코멧 에어컨 실외기 8중 난연 과열 방지 열 차단 절전 커버 T 9mm 국내생산",
+        "price": 7490,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/141560792383192-214035d2-9c08-4196-a5af-ebbb83419c5d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1765604934"
+    },
+    {
+        "id": "20260714-10",
+        "date": "20260714",
+        "rank": 10,
+        "name": "리큐 진한겔 하이브리드 실내건조 일반용 액상세제 리필",
+        "price": 21900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1849950481449443-78d0860f-daf6-421a-86fd-ce1e3028268d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9084105161"
+    },
+    {
         "id": "20260713-01",
         "date": "20260713",
         "rank": 1,
