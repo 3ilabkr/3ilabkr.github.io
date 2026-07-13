@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260713-01",
+        "date": "20260713",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14450,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20260713-02",
+        "date": "20260713",
+        "rank": 2,
+        "name": "르무통 메이트 발 편한 운동화 그레이",
+        "price": 118000,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/0352/ff3cb92dcb7a26acd61c1f4581e5d7fb63ee3888cb90a91e47c5b53f083d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20260713-03",
+        "date": "20260713",
+        "rank": 3,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260713-04",
+        "date": "20260713",
+        "rank": 4,
+        "name": "하이뮨 프로틴 밸런스 L",
+        "price": 36000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20260713-05",
+        "date": "20260713",
+        "rank": 5,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://image2.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260713-06",
+        "date": "20260713",
+        "rank": 6,
+        "name": "비플레인 녹두 약산성 클렌징폼 120ml + 80ml 기획세트",
+        "price": 19720,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/258957179384950-95483c35-47a9-4de3-94dd-f368563f74c0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9088017324"
+    },
+    {
+        "id": "20260713-07",
+        "date": "20260713",
+        "rank": 7,
+        "name": "맘스럽 소다워시 액체세제 플로럴향 고농축 실내건조 베이킹소다 세탁세제 더마테스트인증",
+        "price": 9580,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/fc9f/fc181151ea86bd8199c6b9e45c540986701296146fd758a36cb13ecf57df.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9392277669"
+    },
+    {
+        "id": "20260713-08",
+        "date": "20260713",
+        "rank": 8,
+        "name": "★ [특가][경주점] 1인 입장권",
+        "price": 19000,
+        "image_url": "https://image13.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310520/00fa325f-c449-416e-bbc5-fd545acf8c55.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011430798&vendorItemId=70000296049505"
+    },
+    {
+        "id": "20260713-09",
+        "date": "20260713",
+        "rank": 9,
+        "name": "오텔르 아이스슬립 냉감패드 고정밴드형 쿨매트",
+        "price": 35900,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/d68c/5dd7c3ccd26c17a19d353ac7f59500f1c1d4973dfe74a08840bc69411884.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9455558446"
+    },
+    {
+        "id": "20260713-10",
+        "date": "20260713",
+        "rank": 10,
+        "name": "프리메라 맨 오가니언스 스페셜 2종 세트",
+        "price": 42840,
+        "image_url": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/b049/2ee9d557ae77372828cbc7c57976600006b550971fa482f76f4c136e46a8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6641213955"
+    },
+    {
         "id": "20260712-01",
         "date": "20260712",
         "rank": 1,
