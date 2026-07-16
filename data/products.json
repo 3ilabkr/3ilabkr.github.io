@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260716-01",
+        "date": "20260716",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 16500,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260716-02",
+        "date": "20260716",
+        "rank": 2,
+        "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 인증",
+        "price": 12290,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/9084091501221-f02120d0-8bf3-41b1-81ab-44740731e905.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=252301180"
+    },
+    {
+        "id": "20260716-03",
+        "date": "20260716",
+        "rank": 3,
+        "name": "가그린 제로 구강청결제",
+        "price": 13900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/99578859568325-e11ac827-3f41-4db5-9832-c243d5549187.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20260716-04",
+        "date": "20260716",
+        "rank": 4,
+        "name": "슈팅스타 캐치티니핑 뜯어만들기",
+        "price": 10470,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/1ec8/49f883c82bcdb4b088b0f675afa6d34aa15e822cea764d92fe303fc8f714.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8440268717"
+    },
+    {
+        "id": "20260716-05",
+        "date": "20260716",
+        "rank": 5,
+        "name": "알리사 급속 냉각 에어컨 무선 휴대용선풍기",
+        "price": 21190,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/862066641797853-b5cd166c-2594-47ae-b324-5a5153f063d3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7999681537"
+    },
+    {
+        "id": "20260716-06",
+        "date": "20260716",
+        "rank": 6,
+        "name": "울팜 아삭 달달 국내산 친환경 양배추 제주 무안 밀양",
+        "price": 7060,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/8a34/741a87cec98a43927698a385ebe91516bdeca50eae559a07f35c80fba258.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8795096974"
+    },
+    {
+        "id": "20260716-07",
+        "date": "20260716",
+        "rank": 7,
+        "name": "샤오미 4K UHD QLED TV Max",
+        "price": 1358000,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/1249503175063-31bf3b20-16cf-4e5e-b4fa-6c02b170edbf.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8542589768"
+    },
+    {
+        "id": "20260716-08",
+        "date": "20260716",
+        "rank": 8,
+        "name": "누아트 에어릿 프로 쿨 급속 냉각 3in1 무선 휴대용 선풍기",
+        "price": 13900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/144560576367189-c8c65889-f128-4558-bf3f-05c7708cb19b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8805116881"
+    },
+    {
+        "id": "20260716-09",
+        "date": "20260716",
+        "rank": 9,
+        "name": "쿨베어 국내생산 프리즌 여름 차가운 냉감패드 고정밴드 쿨매트",
+        "price": 33770,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/68da/4f1fb6088522a173b2080454bec15aeb27f72ec822f943064db5c53a2a30.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8651904995"
+    },
+    {
+        "id": "20260716-10",
+        "date": "20260716",
+        "rank": 10,
+        "name": "스웨이 식기세척기 액체 캡슐 세제 레몬향 55입",
+        "price": 15000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/543960527790-ba3aa6d6-a6ff-46ab-b46b-a18bb85de55c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7727988637"
+    },
+    {
         "id": "20260715-01",
         "date": "20260715",
         "rank": 1,
