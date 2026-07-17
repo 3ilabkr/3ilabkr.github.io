@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260717-01",
+        "date": "20260717",
+        "rank": 1,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 22400,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260717-02",
+        "date": "20260717",
+        "rank": 2,
+        "name": "다향 엄선된 원료육으로 만든 다향훈제오리",
+        "price": 10800,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/58427174791412-42db8f96-b764-4656-8bd9-712ac95e57bf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1142386751"
+    },
+    {
+        "id": "20260717-03",
+        "date": "20260717",
+        "rank": 3,
+        "name": "듀라텍스 냉감 쿨매트",
+        "price": 29500,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/3995082153289859-f6a93f23-7657-4e5c-8e88-66e4ae63c8a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059466160"
+    },
+    {
+        "id": "20260717-04",
+        "date": "20260717",
+        "rank": 4,
+        "name": "Lydsto 자동 분수 스마트 창문 로봇청소기 수납 케이스 증정",
+        "price": 198000,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/e30a/162cc58b8d27eb51f68754b5d614b3ff74f460d09eaf29f84b8b37ac2031.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9595754490"
+    },
+    {
+        "id": "20260717-05",
+        "date": "20260717",
+        "rank": 5,
+        "name": "오리온 와우스낵 선물세트 16팩",
+        "price": 11300,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/192848786717785-a6b23921-78aa-45f2-adcb-0c6ff31a1b25.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8438930802"
+    },
+    {
+        "id": "20260717-06",
+        "date": "20260717",
+        "rank": 6,
+        "name": "(골드박스)[벡스코] 1인 종일권 1인권",
+        "price": 35000,
+        "image_url": "https://image15.coupangcdn.com/image/travel_reactor/travelSeller/common/A00668506/936d0d05-98c0-4d38-a0f6-10bd3c7e45cb.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011449090&vendorItemId=70000302279141"
+    },
+    {
+        "id": "20260717-07",
+        "date": "20260717",
+        "rank": 7,
+        "name": "페어리테이블 국내생산 뽑아 쓰는 요정 비닐봉투",
+        "price": 10890,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/850691745590423-20056806-9725-4803-b203-4ef781d138ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7814425302"
+    },
+    {
+        "id": "20260717-08",
+        "date": "20260717",
+        "rank": 8,
+        "name": "★[특가] 풀앤스파 종일권",
+        "price": 64000,
+        "image_url": "https://img3a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/2e0d9ddb-27ec-4936-811f-a95b6b7ac8e0.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011446240&vendorItemId=70000301485388"
+    },
+    {
+        "id": "20260717-09",
+        "date": "20260717",
+        "rank": 9,
+        "name": "★에버랜드 야간권 (~8/31)",
+        "price": 52000,
+        "image_url": "https://img1c.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/98671da3-13f3-4503-ad7b-bda5ad68310d.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011446396&vendorItemId=70000301568171"
+    },
+    {
+        "id": "20260717-10",
+        "date": "20260717",
+        "rank": 10,
+        "name": "동원샘물 무라벨",
+        "price": 8100,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/357720308758715-0db01b75-2bfa-431f-9080-c410acedefa4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7869554357"
+    },
+    {
         "id": "20260716-01",
         "date": "20260716",
         "rank": 1,
