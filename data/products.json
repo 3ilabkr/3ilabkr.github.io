@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260719-01",
+        "date": "20260719",
+        "rank": 1,
+        "name": "크리넥스 수프림 소프트 천연펄프 3겹 화장지",
+        "price": 20900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/58433474886307-4c55277d-90c9-41a4-80d0-8ab14328b8d8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=322002036"
+    },
+    {
+        "id": "20260719-02",
+        "date": "20260719",
+        "rank": 2,
+        "name": "메디힐 데일리 솔루션 마스크팩 3종 세트",
+        "price": 23500,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/28689767991401-1acd7a7c-bf89-4aa1-a2cf-2b4ce01e41ea.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9072524953"
+    },
+    {
+        "id": "20260719-03",
+        "date": "20260719",
+        "rank": 3,
+        "name": "코카콜라 제로 무라벨",
+        "price": 22400,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6955197525"
+    },
+    {
+        "id": "20260719-04",
+        "date": "20260719",
+        "rank": 4,
+        "name": "보드래 블라썸 리플샤카 여름 홑이불",
+        "price": 12900,
+        "image_url": "https://image14.coupangcdn.com/image/product/image/vendoritem/2017/04/20/3130848890/472eedb9-6b05-40a6-9f34-27a50073b9b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=20189364"
+    },
+    {
+        "id": "20260719-05",
+        "date": "20260719",
+        "rank": 5,
+        "name": "행복미트 수입산 부드러운 송아지 일반갈비 어린 소갈비 3-5cm절단 갈비찜 갈비탕용",
+        "price": 52150,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/e0ba/7f5e4f6b14d84d0eb7e37a3e6a6fee59f03622832179fbeb3ba0faadf42f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7979205347"
+    },
+    {
+        "id": "20260719-06",
+        "date": "20260719",
+        "rank": 6,
+        "name": "FISIVER 남자 여자 선글라스 빅사이즈",
+        "price": 11900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/5660/35344caecb9f7a73a438b733b712081270814a5cac4057c5e971b73de9cf.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9479715040"
+    },
+    {
+        "id": "20260719-07",
+        "date": "20260719",
+        "rank": 7,
+        "name": "스탠다드 트윈룸★하버뷰",
+        "price": 140400,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01593425/fbc9371a-ca4f-476f-96d1-4bf159cef65f.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011344901&vendorItemId=70000297256426"
+    },
+    {
+        "id": "20260719-08",
+        "date": "20260719",
+        "rank": 8,
+        "name": "프라임A (온돌/더블)",
+        "price": 160000,
+        "image_url": "https://image8.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00129838/361ad2fc-5521-4309-aaa8-e371e5fcf26e.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=101309324&vendorItemId=70000302495745"
+    },
+    {
+        "id": "20260719-09",
+        "date": "20260719",
+        "rank": 9,
+        "name": "휠라 시그니처 페이크 삭스 5켤레",
+        "price": 12900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/120637855305890-7ed8f14f-230c-480f-ad40-e08620202bab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7119020604"
+    },
+    {
+        "id": "20260719-10",
+        "date": "20260719",
+        "rank": 10,
+        "name": "베베핀 가방스티커 BEST 생생 동물 + 과일 채소 + 탈것 + 바다동물 4종 세트",
+        "price": 16000,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/2025/04/25/12/4/8ff0db51-da64-4794-8774-f008edfa130d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8736410379"
+    },
+    {
         "id": "20260718-01",
         "date": "20260718",
         "rank": 1,
