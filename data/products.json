@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260720-01",
+        "date": "20260720",
+        "rank": 1,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 15900,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260720-02",
+        "date": "20260720",
+        "rank": 2,
+        "name": "아몬드브리즈 언스위트",
+        "price": 15770,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=329389373"
+    },
+    {
+        "id": "20260720-03",
+        "date": "20260720",
+        "rank": 3,
+        "name": "다향 훈제오리 슬라이스",
+        "price": 7350,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/423454296051743-bbf59560-0dc5-4637-915f-f58174acafd7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8830227272"
+    },
+    {
+        "id": "20260720-04",
+        "date": "20260720",
+        "rank": 4,
+        "name": "휴가드 3중직 듀라폴리스 아이스쿨 냉감패드 겸 카페트 고정밴딩형",
+        "price": 18480,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/922721737344805-15739b6d-f554-4ab5-9e39-3f3031682747.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9491837130"
+    },
+    {
+        "id": "20260720-05",
+        "date": "20260720",
+        "rank": 5,
+        "name": "행복미트 국내산 돈갈비 한돈 찜갈비 총 당일발송",
+        "price": 28030,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/b68e759248cbf21dbec66c9ac92c7aad80791bfc2362d9099536513ebd5e_1776647672643.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8405640997"
+    },
+    {
+        "id": "20260720-06",
+        "date": "20260720",
+        "rank": 6,
+        "name": "04. ★설악쏘라노_디럭스일반(랜덤)",
+        "price": 375000,
+        "image_url": "https://img3a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00420106/02a3588f-f74d-493a-a492-d506869b8b05.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011381893&vendorItemId=70000286816425"
+    },
+    {
+        "id": "20260720-07",
+        "date": "20260720",
+        "rank": 7,
+        "name": "풀무원샘물 하루귀리 곡물차",
+        "price": 11310,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2025/05/12/15/6/33b56aea-2ad9-4178-88d4-4a843ea6d6b9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8804233295"
+    },
+    {
+        "id": "20260720-08",
+        "date": "20260720",
+        "rank": 8,
+        "name": "디럭스 더블룸",
+        "price": 168000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A00459736/e1c6d967-ab21-4033-8530-8b0965c5cd3e.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000001319277&vendorItemId=70000027621643"
+    },
+    {
+        "id": "20260720-09",
+        "date": "20260720",
+        "rank": 9,
+        "name": "[특가] 패밀리 디럭스",
+        "price": 266240,
+        "image_url": "https://image6.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020960/554cb797-fac2-4149-bf23-c94150fcd40b.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=78724602&vendorItemId=70000302491286"
+    },
+    {
+        "id": "20260720-10",
+        "date": "20260720",
+        "rank": 10,
+        "name": "디럭스 더블 테라스 (하프오션뷰)",
+        "price": 70000,
+        "image_url": "https://img5a.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01485698/aebd4f4f-ad96-4ef6-a59b-0a259d9611ad.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011284754&vendorItemId=70000246244706"
+    },
+    {
         "id": "20260719-01",
         "date": "20260719",
         "rank": 1,
