@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260721-01",
+        "date": "20260721",
+        "rank": 1,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 21840,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20260721-02",
+        "date": "20260721",
+        "rank": 2,
+        "name": "[로켓프레시] 돌돌말이 대패 삼겹살 (냉동)",
+        "price": 6990,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/735532008229148-7888a165-a3c8-4965-af00-1ba9717b3937.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7518061003"
+    },
+    {
+        "id": "20260721-03",
+        "date": "20260721",
+        "rank": 3,
+        "name": "★패밀리(클린/스탠다드/침대)",
+        "price": 354000,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/40596ffc-eaa7-4772-b9b6-9d691f285086.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010793379&vendorItemId=70000285239126"
+    },
+    {
+        "id": "20260721-04",
+        "date": "20260721",
+        "rank": 4,
+        "name": "뉴트로지나 딥클린 포밍 클렌저",
+        "price": 11900,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/ad4b/b13f87673861ec80d9e24f2cabc808b6c25d52564a36b8053322c18bf408.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4932903828"
+    },
+    {
+        "id": "20260721-05",
+        "date": "20260721",
+        "rank": 5,
+        "name": "뉴에라 MLB 스크립트 로고 오버핏 반팔 티셔츠 로스엔젤레스 다저스",
+        "price": 29000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/481889898701176-79e2832a-1a2a-4f7a-9274-2ed486f59355.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9400868784"
+    },
+    {
+        "id": "20260721-06",
+        "date": "20260721",
+        "rank": 6,
+        "name": "프로그 파우더프리 3.0 니트릴장갑",
+        "price": 16280,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2987172210777393-56b434f6-c120-402b-9c87-cf1479e9c24f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6522994589"
+    },
+    {
+        "id": "20260721-07",
+        "date": "20260721",
+        "rank": 7,
+        "name": "A5. 선착순★ AFTER2 파크이용권",
+        "price": 52000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/a3826c33-8501-4c40-bd8f-bdd222e136bc.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011099736&vendorItemId=70000302697791"
+    },
+    {
+        "id": "20260721-08",
+        "date": "20260721",
+        "rank": 8,
+        "name": "♥스탠다드",
+        "price": 143000,
+        "image_url": "https://image1.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00005562/1fd8f150-74ad-41e7-9f51-584a1ba963d6.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246158&vendorItemId=70000286945985"
+    },
+    {
+        "id": "20260721-09",
+        "date": "20260721",
+        "rank": 9,
+        "name": "[더블or트윈]체크인시 배정",
+        "price": 51000,
+        "image_url": "https://img5a.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A00371401/3d02bf2e-3750-4c02-a97b-58a6db34a3fd.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000000568743&vendorItemId=70000080476263"
+    },
+    {
+        "id": "20260721-10",
+        "date": "20260721",
+        "rank": 10,
+        "name": "탐사 베이킹소다 주방세제 레몬향",
+        "price": 10690,
+        "image_url": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/9e82/6e7a8820fa59482369d14f1798734398d2453799ff289dcdffb222c413d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=323587276"
+    },
+    {
         "id": "20260720-01",
         "date": "20260720",
         "rank": 1,
