@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260722-01",
+        "date": "20260722",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 28000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2918734753703087-096f0cda-b353-4cae-b267-5146a90df5ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260722-02",
+        "date": "20260722",
+        "rank": 2,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 20700,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/183527831882073-ded2962c-cfa7-407a-ad28-183e4ac05fa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
+        "id": "20260722-03",
+        "date": "20260722",
+        "rank": 3,
+        "name": "PAPEPIE 90리터 방수 폴딩 이사박스 이사가방",
+        "price": 29400,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/c604/3f3727286464ad223bdab3dd1a172223cee8fab94ae3b8d9711f6de116f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8780181809"
+    },
+    {
+        "id": "20260722-04",
+        "date": "20260722",
+        "rank": 4,
+        "name": "베스트야옹이 고양이사료 길고양이 대용량",
+        "price": 34800,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/103f/5712569415fc6b3b9c3e000398dc76a39a141a713ccbee021c685ad2bcb6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4958082972"
+    },
+    {
+        "id": "20260722-05",
+        "date": "20260722",
+        "rank": 5,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 147860,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/705c2b2cb3794386f6afe9edc1890dcf86d60acfe29982a762f01e97c13c_1784509417407.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717112969"
+    },
+    {
+        "id": "20260722-06",
+        "date": "20260722",
+        "rank": 6,
+        "name": "르크루제 미니 원형 디쉬 2p, 쇼핑백S",
+        "price": 39900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/12/10/14/7/d686e46a-1acb-49ff-bcd1-cdee26a65aa6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9234916215"
+    },
+    {
+        "id": "20260722-07",
+        "date": "20260722",
+        "rank": 7,
+        "name": "05. ♥설악쏘라노_디럭스일반(랜덤)",
+        "price": 375000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00420106/02a3588f-f74d-493a-a492-d506869b8b05.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011381893&vendorItemId=70000286816426"
+    },
+    {
+        "id": "20260722-08",
+        "date": "20260722",
+        "rank": 8,
+        "name": "과학동아 : 숏폼에 썩는 뇌 브레인 롯 2025 노벨상 해설",
+        "price": 16620,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2025/10/22/15/5/d621d8a5-78c4-487e-af9f-0befc8fc107e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9140862713"
+    },
+    {
+        "id": "20260722-09",
+        "date": "20260722",
+        "rank": 9,
+        "name": "프로그 라텍스 컴포트 고무장갑",
+        "price": 10710,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2612953048106585-8d85a6c4-f302-4678-9509-137d6a686cd0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6715674951"
+    },
+    {
+        "id": "20260722-10",
+        "date": "20260722",
+        "rank": 10,
+        "name": "리틀클라우드 유아 목욕놀이 보트 장난감",
+        "price": 13690,
+        "image_url": "https://img5a.coupangcdn.com/image/1025_amir_coupang_oct_80k/5c1c/cd0ae0bf23896cbcb64a05ee98c1960ddb4bdbda768795774f0833b3a525.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7028555918"
+    },
+    {
         "id": "20260721-01",
         "date": "20260721",
         "rank": 1,
