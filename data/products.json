@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260723-01",
+        "date": "20260723",
+        "rank": 1,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11890,
+        "image_url": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260723-02",
+        "date": "20260723",
+        "rank": 2,
+        "name": "쁘리엘르 유어메이트 워싱 냉감 여름 차렵이불 세트",
+        "price": 39900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2025/03/26/9/0/bbc52a37-5e7f-4061-a1e7-9dbbc95fa812.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8653693138"
+    },
+    {
+        "id": "20260723-03",
+        "date": "20260723",
+        "rank": 3,
+        "name": "바닐라코 프라임 프라이머 클래식 30ml",
+        "price": 13850,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/bdb8/53e430ae5223bc6f4aff4774a5fded5e72c77d8a078154912a4963d86d75.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6758946049"
+    },
+    {
+        "id": "20260723-04",
+        "date": "20260723",
+        "rank": 4,
+        "name": "[행복미트] 돼지 미박사태 돈사태살 껍데기있음 수육용 보쌈용 2kg [당일발송]",
+        "price": 21130,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/2313/e4d19f192548e149332b4efb1ad65941afd6b89fbf3ff53dbf6f9a56a551.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9339378797"
+    },
+    {
+        "id": "20260723-05",
+        "date": "20260723",
+        "rank": 5,
+        "name": "★ [ 로보카폴리 ] 원더파크 1인 입장권",
+        "price": 22000,
+        "image_url": "https://img3c.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310520/dfbb0334-55cd-4026-a796-435be9977984.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011451149&vendorItemId=70000302701506"
+    },
+    {
+        "id": "20260723-06",
+        "date": "20260723",
+        "rank": 6,
+        "name": "우아미 카리안 가죽 스윙 4인용 소파 방문설치",
+        "price": 562560,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/c189/2c90f8a72e656e815a06d4dfed0a01eb653d5e691eb6d7248d291e9f175a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8266228128"
+    },
+    {
+        "id": "20260723-07",
+        "date": "20260723",
+        "rank": 7,
+        "name": "베지밀 비 달콤한 두유",
+        "price": 11000,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/467c/d98f87655151e0ff230c6f6fdbb2d3603a41ac0b34dce5c139376ce8c971.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8126806548"
+    },
+    {
+        "id": "20260723-08",
+        "date": "20260723",
+        "rank": 8,
+        "name": "프리미어 더블 또는 트윈",
+        "price": 218750,
+        "image_url": "https://image12.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01571131/686c1219-e2c1-45cc-844a-7d440a425a9c.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011331053&vendorItemId=70000280864308"
+    },
+    {
+        "id": "20260723-09",
+        "date": "20260723",
+        "rank": 9,
+        "name": "06. ♠설악쏘라노_디럭스일반(랜덤)",
+        "price": 375000,
+        "image_url": "https://image15.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00420106/02a3588f-f74d-493a-a492-d506869b8b05.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011381893&vendorItemId=70000286816427"
+    },
+    {
+        "id": "20260723-10",
+        "date": "20260723",
+        "rank": 10,
+        "name": "스낵박스 비스킷 쿠키 파이 6p 세트",
+        "price": 21380,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/25273728735648-0f48dbf2-23a5-4b3b-b059-e157f055d193.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9581703315"
+    },
+    {
         "id": "20260722-01",
         "date": "20260722",
         "rank": 1,
