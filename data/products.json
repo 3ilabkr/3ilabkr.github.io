@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260726-01",
+        "date": "20260726",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 28900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/408863128814773-d8f1c595-cffb-4413-8fa9-6478f65f8bb5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20260726-02",
+        "date": "20260726",
+        "rank": 2,
+        "name": "하늘보리 에코 무라벨",
+        "price": 15870,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/94906645455938-22d605d1-d494-4736-b83c-f2633f95420c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20260726-03",
+        "date": "20260726",
+        "rank": 3,
+        "name": "액츠 퍼펙트 실내건조 드럼용 프레시 플로럴향 액상세제 본품",
+        "price": 10900,
+        "image_url": "https://image3.coupangcdn.com/image/1025_amir_coupang_oct_80k/9b74/7838a74ce6515fb5846c8796daa1c94b3641998d09f7d895a1f995c11009.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6971731257"
+    },
+    {
+        "id": "20260726-04",
+        "date": "20260726",
+        "rank": 4,
+        "name": "웅진빅토리아 더 빅토리아 레몬",
+        "price": 10650,
+        "image_url": "https://image12.coupangcdn.com/image/1025_amir_coupang_oct_80k/9d52/f8f92890331749f80e3aa5d63ab041336ec1a954f94ba27476e32a3c42e4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8755227891"
+    },
+    {
+        "id": "20260726-05",
+        "date": "20260726",
+        "rank": 5,
+        "name": "B2. ★ 1인 입장권",
+        "price": 35000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/228a3e2b-6cee-4274-87af-048980d964d0.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011286099&vendorItemId=70000304002630"
+    },
+    {
+        "id": "20260726-06",
+        "date": "20260726",
+        "rank": 6,
+        "name": "프리티케어 무선 물걸레 청소기, 3in1자동세척",
+        "price": 270630,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260726-07",
+        "date": "20260726",
+        "rank": 7,
+        "name": "07. ◆설악쏘라노_디럭스일반(랜덤)",
+        "price": 449000,
+        "image_url": "https://image12.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00420106/02a3588f-f74d-493a-a492-d506869b8b05.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011381893&vendorItemId=70000303941415"
+    },
+    {
+        "id": "20260726-08",
+        "date": "20260726",
+        "rank": 8,
+        "name": "락키홈즈 게이밍 컴퓨터 책상 1200",
+        "price": 45000,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/1284/344266b91dc9c1e844a45167ff1f05fc369b923100936fac94e7be88a292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7800192807"
+    },
+    {
+        "id": "20260726-09",
+        "date": "20260726",
+        "rank": 9,
+        "name": "블라우풍트 블루닷 프로 ENC 노이즈 캔슬링 오픈 귀걸이형 블루투스 6.0 이어폰",
+        "price": 79800,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/133121116417369-652e5a0d-7d0a-4dcc-8a70-91ce7edf3789.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9467998678"
+    },
+    {
+        "id": "20260726-10",
+        "date": "20260726",
+        "rank": 10,
+        "name": "★[7월 특가] 아쿠아플라넷 입장권",
+        "price": 45500,
+        "image_url": "https://image11.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/8b809b97-f3dc-40f2-86d4-877a94e82e51.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011439020&vendorItemId=70000298471695"
+    },
+    {
         "id": "20260725-01",
         "date": "20260725",
         "rank": 1,
