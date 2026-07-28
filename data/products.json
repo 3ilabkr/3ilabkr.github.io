@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260728-01",
+        "date": "20260728",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 19900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20260728-02",
+        "date": "20260728",
+        "rank": 2,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 17450,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/94761968167687-71f42b05-dc5e-4c35-8b00-fceda1c2809a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20260728-03",
+        "date": "20260728",
+        "rank": 3,
+        "name": "조지아 블랙 무라벨 커피",
+        "price": 19730,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/129299413373747-329dd76d-4db8-417c-b8ac-4b62ff55c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9096316784"
+    },
+    {
+        "id": "20260728-04",
+        "date": "20260728",
+        "rank": 4,
+        "name": "스코홈 국내제조 눈꽃 냉감 시어서커 양겹이불",
+        "price": 19400,
+        "image_url": "https://image5.coupangcdn.com/image/rs_quotation_api/hsaeb1ig/97d00bbd24ea41699892cc48f1e682e6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9474152906"
+    },
+    {
+        "id": "20260728-05",
+        "date": "20260728",
+        "rank": 5,
+        "name": "★골드박스/1차 한정수량★ 신화테마파크 1인권 <200371>",
+        "price": 45000,
+        "image_url": "https://img5c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186691/6906bfc3-b8ea-4ccc-a22f-0f140c3eec20.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010357435&vendorItemId=70000303816407"
+    },
+    {
+        "id": "20260728-06",
+        "date": "20260728",
+        "rank": 6,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +6개 리필걸레세트  베란다 아파트 유리창 이중창 청소 창문닦이",
+        "price": 359800,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/3a9e/75c03ac4dcb9b8dbbdd4ba5d80074ae6b082829259303dc4be212d595457.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8666001365"
+    },
+    {
+        "id": "20260728-07",
+        "date": "20260728",
+        "rank": 7,
+        "name": "템테이션 고양이 풍미가득 간식",
+        "price": 11510,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/06/26/12/5/6d6d3584-3f07-49af-be64-c9caff1234ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6810269534"
+    },
+    {
+        "id": "20260728-08",
+        "date": "20260728",
+        "rank": 8,
+        "name": "프라임A(온돌/더블)",
+        "price": 230000,
+        "image_url": "https://image4.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00129838/361ad2fc-5521-4309-aaa8-e371e5fcf26e.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=101309324&vendorItemId=3761095241"
+    },
+    {
+        "id": "20260728-09",
+        "date": "20260728",
+        "rank": 9,
+        "name": "스카치 투명 테이프 550 리필 18mm x 20m",
+        "price": 9710,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/235160667168892-528077e5-f0ee-4711-873b-bfd8e94cec32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1234247193"
+    },
+    {
+        "id": "20260728-10",
+        "date": "20260728",
+        "rank": 10,
+        "name": "헤인느 먼지없는 프리미엄 호텔 수건",
+        "price": 28600,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/ee0d/5b1fac3daa980fa3e8e3719c55a73033bc4c9284fc1510dec067ecc187e8.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9037653959"
+    },
+    {
         "id": "20260727-01",
         "date": "20260727",
         "rank": 1,
