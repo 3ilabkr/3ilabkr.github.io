@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260729-01",
+        "date": "20260729",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 18610,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1109640700619115-fc5f445e-89e7-44bc-bd35-9b75efec1c72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260729-02",
+        "date": "20260729",
+        "rank": 2,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://img4a.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260729-03",
+        "date": "20260729",
+        "rank": 3,
+        "name": "다우니 실내건조 초고농축 섬유유연제 프레시 클린 본품",
+        "price": 19920,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/42427186099296-e20d18be-a84f-42b3-aa8d-41350b70777f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8938973449"
+    },
+    {
+        "id": "20260729-04",
+        "date": "20260729",
+        "rank": 4,
+        "name": "헤트라스 프리미엄 대용량 디퓨저",
+        "price": 25800,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/4b3c/3638cbeec4e2bc2748da94eb20c3ac9202eb3d413cf3a628a461fc648e63.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6991217590"
+    },
+    {
+        "id": "20260729-05",
+        "date": "20260729",
+        "rank": 5,
+        "name": "03. ★선착순★ 골드시즌 오후권",
+        "price": 40000,
+        "image_url": "https://image10.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/bbba5864-f222-47f6-b36f-11b678de66a2.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011455860&vendorItemId=70000304376575"
+    },
+    {
+        "id": "20260729-06",
+        "date": "20260729",
+        "rank": 6,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 21500,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/e88b/c995889a0ae485a16be33ac09b8d9da69bcd36b0c9f22c84bb6967549a61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20260729-07",
+        "date": "20260729",
+        "rank": 7,
+        "name": "[스튜디오] 산전망",
+        "price": 269900,
+        "image_url": "https://image13.coupangcdn.com/image/travel_reactor/travelSeller/resort/A01483633/ff52ee79-0e4f-477d-ae83-39df99dd9c65.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011349449&vendorItemId=70000288337535"
+    },
+    {
+        "id": "20260729-08",
+        "date": "20260729",
+        "rank": 8,
+        "name": "키루에 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 42000,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/438c/9b803e72f81cfc1adaa8f5422c6e327623331bb6764958e90ab69a372f7d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8541268926"
+    },
+    {
+        "id": "20260729-09",
+        "date": "20260729",
+        "rank": 9,
+        "name": "포트메리온 보타닉가든 테라스 딥볼 12cm 3종 세트",
+        "price": 21900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/13495700626159-c1d71c09-f888-4c75-b552-049aaf7bf85e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6855883657"
+    },
+    {
+        "id": "20260729-10",
+        "date": "20260729",
+        "rank": 10,
+        "name": "사무실 과자세트 스낵 19입 세트 1호 (쵸코하임 + 참크래커 + 허니버터칩 + 꼬깔콘 매콤달콤한맛 + 구운감자 2p + 눈을감자 페퍼솔트 + 참쌀선과 + 초코홈런볼 4번들 2p + 고래밥 볶음양념맛 + 크라운산도 딸기 + 쿠크다스 화이트)",
+        "price": 17720,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/64643368604112-def12b2c-230e-4119-a322-b6b42e75610b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9581703322"
+    },
+    {
         "id": "20260728-01",
         "date": "20260728",
         "rank": 1,
