@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260730-01",
+        "date": "20260730",
+        "rank": 1,
+        "name": "르무통 메이트 발 편한 운동화 다크네이비",
+        "price": 118000,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/9755/f5cd0e3e76d1e6348315cbe7857b03a23e725efa5f5fd79667b2af7ea52b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20260730-02",
+        "date": "20260730",
+        "rank": 2,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/66150481879369-ec52c797-db15-4a1a-b1fd-c711046a8cc0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260730-03",
+        "date": "20260730",
+        "rank": 3,
+        "name": "피지 모락셀라 냄새제거 부스터 캡슐 뽀송한 코튼향",
+        "price": 14950,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/495081138949946-6df691f0-ffc4-419d-ad6d-71b0e4311fc3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8468431077"
+    },
+    {
+        "id": "20260730-04",
+        "date": "20260730",
+        "rank": 4,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 22460,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20260730-05",
+        "date": "20260730",
+        "rank": 5,
+        "name": "프레샤인 못난이사과",
+        "price": 17900,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/548721561247931-060cd3ee-a574-4dc6-81a1-dbb08c2031fe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5611991510"
+    },
+    {
+        "id": "20260730-06",
+        "date": "20260730",
+        "rank": 6,
+        "name": "빌리프 유아용 해피 보 이지워시 선스틱 SPF50+ PA++++",
+        "price": 47870,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/117429019121002-d10bc0fb-5a65-488c-8f2e-f237094d54c5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7835423166"
+    },
+    {
+        "id": "20260730-07",
+        "date": "20260730",
+        "rank": 7,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자푹신한 메쉬 의자",
+        "price": 43000,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/553c/43a816123cedc1bb0967510689d71dd3ce9363a2fd017a35814d5a0a0c67.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260730-08",
+        "date": "20260730",
+        "rank": 8,
+        "name": "[맘스럽] 리얼 헹굼식초 13L 세탁물헹굼 섬유유연제 청소용 강력탈취 레몬식초를 그대로 담았습니다",
+        "price": 11980,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/74aa/2fb4d73b7f5787a8ee5dd1c63cf307e6d9f6242fe74437c6aa15639c5cf3.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9570472672"
+    },
+    {
+        "id": "20260730-09",
+        "date": "20260730",
+        "rank": 9,
+        "name": "르몽스 아이스필 냉감패드 여름 침대 쿨매트",
+        "price": 25800,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/f759/dca8d76230082a6bd1fab8ab1e9084b14aa633fc50d5b4b2dfd1d64495f3.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9509129728"
+    },
+    {
+        "id": "20260730-10",
+        "date": "20260730",
+        "rank": 10,
+        "name": "포트메리온 보타닉가든 딥볼 2p",
+        "price": 10830,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/510203310170906-fd7ef45c-fcb4-4037-ba21-da950abfb8ee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6855883698"
+    },
+    {
         "id": "20260729-01",
         "date": "20260729",
         "rank": 1,
