@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260731-01",
+        "date": "20260731",
+        "rank": 1,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 77950,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20260731-02",
+        "date": "20260731",
+        "rank": 2,
+        "name": "센카 퍼펙트 휩 프레시 클렌징 폼",
+        "price": 18100,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/374057317392165-a41f1641-986e-402b-aaae-f52cb5fdf3cf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8610798007"
+    },
+    {
+        "id": "20260731-03",
+        "date": "20260731",
+        "rank": 3,
+        "name": "보몽드 국내 제조 시원한 냉감패드",
+        "price": 38900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/5047500061170-ed31220e-4376-4150-91d5-6f2965d9fba2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8686264832"
+    },
+    {
+        "id": "20260731-04",
+        "date": "20260731",
+        "rank": 4,
+        "name": "보몽드 국내 제조 시원한 쿨파워 냉감 베개커버",
+        "price": 14900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2025/03/21/17/7/c1afd70a-8da5-4e9e-b496-6220f029786f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8685004117"
+    },
+    {
+        "id": "20260731-05",
+        "date": "20260731",
+        "rank": 5,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 25120,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/131ef888632945647acf2c1319ed1bb1ed82b1288f34ca01f56c78af737a_1776648106769.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20260731-06",
+        "date": "20260731",
+        "rank": 6,
+        "name": "소프트터치 선염 모던 스트라이프 호텔 수건 200g 40수 코마사",
+        "price": 24500,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1483540190302183-b53a843b-f5b6-457d-80e5-38eb5ccd9ea3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8260801034"
+    },
+    {
+        "id": "20260731-07",
+        "date": "20260731",
+        "rank": 7,
+        "name": "토레타 무라벨 이온음료",
+        "price": 13440,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/255924417538099-deb5cf45-caaa-46db-972f-4ac16f90e151.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6959793257"
+    },
+    {
+        "id": "20260731-08",
+        "date": "20260731",
+        "rank": 8,
+        "name": "샘트리 촉촉한 맛병아리콩 오리지널",
+        "price": 11990,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/0ec5/67fe25dd04676b5273f5a6052dee9d908c6e116d1ab6a113c8cb35b80da7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9196219302"
+    },
+    {
+        "id": "20260731-09",
+        "date": "20260731",
+        "rank": 9,
+        "name": "아웃도어프로덕츠 여성용 릴랙스 이지 팬츠",
+        "price": 19900,
+        "image_url": "https://img4c.coupangcdn.com/image/rs_quotation_api/5eco6xdt/4c030a4952bf46e8adccd61a87cdef36.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9562202768"
+    },
+    {
+        "id": "20260731-10",
+        "date": "20260731",
+        "rank": 10,
+        "name": "국내산 햇 다진 마늘 물0% 첨가물 0%",
+        "price": 7760,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/af85/3b243e2459716f11aa9076e5510561b0dda256583ebf794fa4cabb9cfa02.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7196573931"
+    },
+    {
         "id": "20260730-01",
         "date": "20260730",
         "rank": 1,
