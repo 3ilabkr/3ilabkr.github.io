@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260801-01",
+        "date": "20260801",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 20210,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/349121684142854-936d432c-0e7a-4bb3-b935-4459f66df859.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=71444050"
+    },
+    {
+        "id": "20260801-02",
+        "date": "20260801",
+        "rank": 2,
+        "name": "다향 1등급 훈제 오리 슬라이스",
+        "price": 10420,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/5458851699897-3ce4e405-5f06-408a-952b-e424a0a534a1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8830227246"
+    },
+    {
+        "id": "20260801-03",
+        "date": "20260801",
+        "rank": 3,
+        "name": "크리넥스 데코 앤 소프트 화이트 천연펄프 3겹 고급롤화장지",
+        "price": 25350,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/98145334917948-8aef7415-788b-4929-b171-588caee5b279.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677618842"
+    },
+    {
+        "id": "20260801-04",
+        "date": "20260801",
+        "rank": 4,
+        "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품",
+        "price": 16700,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1703093047"
+    },
+    {
+        "id": "20260801-05",
+        "date": "20260801",
+        "rank": 5,
+        "name": "듀라텍스 냉감 쿨매트",
+        "price": 30300,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/3995082153289859-f6a93f23-7657-4e5c-8e88-66e4ae63c8a4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059466160"
+    },
+    {
+        "id": "20260801-06",
+        "date": "20260801",
+        "rank": 6,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 159900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/f349/116a4187b1ccddfa234ab1868c7f605b2152ca7d8441fc9a5212314c4e0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586262658"
+    },
+    {
+        "id": "20260801-07",
+        "date": "20260801",
+        "rank": 7,
+        "name": "2+1 출시하자마자 1위 퓨어그램 모공이별 딥클렌징폼 제주 그린티 저자극 폼클렌징 120ml",
+        "price": 13410,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/7d67/8f90c031be8d7e38e9838e05e75380bebcd4ce4755e981135018af3e9258.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9187340574"
+    },
+    {
+        "id": "20260801-08",
+        "date": "20260801",
+        "rank": 8,
+        "name": "더페이스샵 내추럴 에코 파워 롱래스팅 선크림 SPF50+ PA+++",
+        "price": 10290,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/1935859547694375-5e30e7d7-42a1-45a0-87b5-7b13d248eaab_1751010166527.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9304102905"
+    },
+    {
+        "id": "20260801-09",
+        "date": "20260801",
+        "rank": 9,
+        "name": "[로켓프레시] 이디야 디카페인라떼",
+        "price": 19900,
+        "image_url": "https://img4c.coupangcdn.com/image/rs_quotation_api/5cm38qzx/1ce5142ea14f46019fcfd9cb0dcecab5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9642458398"
+    },
+    {
+        "id": "20260801-10",
+        "date": "20260801",
+        "rank": 10,
+        "name": "NICESUN 선풍기조끼 냉각 아이스조끼 + 10000mAh 보조배터리 여름 작업복 남녀공용 낚시 등산 현장작업 G20",
+        "price": 43900,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/ebbb/57f28f71ae51e9d1aa609c7994010398d54dfc0fda39db9c1b95bb487cc2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9466764627"
+    },
+    {
         "id": "20260731-01",
         "date": "20260731",
         "rank": 1,
