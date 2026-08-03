@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260803-01",
+        "date": "20260803",
+        "rank": 1,
+        "name": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지",
+        "price": 18670,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=34846576"
+    },
+    {
+        "id": "20260803-02",
+        "date": "20260803",
+        "rank": 2,
+        "name": "코카콜라 제로",
+        "price": 16500,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260803-03",
+        "date": "20260803",
+        "rank": 3,
+        "name": "아몬드브리즈 오리지널",
+        "price": 14990,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/62392158900845-db2260a0-1ea8-4145-bcbe-c5e769595991.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6654766761"
+    },
+    {
+        "id": "20260803-04",
+        "date": "20260803",
+        "rank": 4,
+        "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
+        "price": 38890,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/05/07/14/3/f4024daf-9035-4009-8450-7123872220d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758755740"
+    },
+    {
+        "id": "20260803-05",
+        "date": "20260803",
+        "rank": 5,
+        "name": "달바 화이트 트러플 수프림 인텐시브 세럼 100ml x 2p + 50ml",
+        "price": 35900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/82687266130237-e9999b1e-e958-4048-8971-39906f8c3328.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9072525184"
+    },
+    {
+        "id": "20260803-06",
+        "date": "20260803",
+        "rank": 6,
+        "name": "프리티케어 로봇청소기 강력흡입 맵핑 자율주행 물걸레 자동충전 대용량 가정용",
+        "price": 126000,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/cf78/7d50aea415cf68dc405c534db45f50ae7cea6f2f84b9efef202986361c96.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327575463"
+    },
+    {
+        "id": "20260803-07",
+        "date": "20260803",
+        "rank": 7,
+        "name": "아침에 좋은빵 통밀100% 백프로 통밀빵 통밀식빵 식사빵 저당 저염 비건",
+        "price": 10410,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/78b9/572d63cf38a9f0a0f7fbb6ed0477ef7d72a75a09471bbe69f5f10effcf76.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7674534196"
+    },
+    {
+        "id": "20260803-08",
+        "date": "20260803",
+        "rank": 8,
+        "name": "에너딕 내열유리 전자레인지 냉동 밥용기",
+        "price": 11510,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/cb3a/6426331b3f90629e2984e5936646b944af324408d3861cd26d1c3fa3fb6a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9601272312"
+    },
+    {
+        "id": "20260803-09",
+        "date": "20260803",
+        "rank": 9,
+        "name": "재로우 우먼스 펨 도피러스 유산균 캡슐",
+        "price": 100650,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/aae4/699ae661aac98b3050b6416f9e1b4f2dffa20b7dc0da2c2114806cafee36.jpeg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6960887991"
+    },
+    {
+        "id": "20260803-10",
+        "date": "20260803",
+        "rank": 10,
+        "name": "★ [특가] 비수기 아쿠아리움 입장권",
+        "price": 32000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/eea5ac69-9f5f-4cd2-b894-0e98cebdaa9b.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011457042&vendorItemId=70000305047074"
+    },
+    {
         "id": "20260802-01",
         "date": "20260802",
         "rank": 1,
