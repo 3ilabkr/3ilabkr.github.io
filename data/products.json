@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260804-01",
+        "date": "20260804",
+        "rank": 1,
+        "name": "세타필 모이스춰라이징 로션",
+        "price": 14100,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7164345502"
+    },
+    {
+        "id": "20260804-02",
+        "date": "20260804",
+        "rank": 2,
+        "name": "피지 모락셀라 냄새제거 세탁세제 코튼향",
+        "price": 14950,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2026/04/06/16/1/1b23d043-ce1e-46e9-b7af-f803a16c6132.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527004003"
+    },
+    {
+        "id": "20260804-03",
+        "date": "20260804",
+        "rank": 3,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 22880,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260804-04",
+        "date": "20260804",
+        "rank": 4,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 15100,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260804-05",
+        "date": "20260804",
+        "rank": 5,
+        "name": "키친아트 뉴 티타늄 코팅 프라이팬",
+        "price": 12800,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/381736717850587-3b446778-3de8-4ea1-a749-120d96bd0164.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9171562099"
+    },
+    {
+        "id": "20260804-06",
+        "date": "20260804",
+        "rank": 6,
+        "name": "나우푸드 더블 스트랭스 L-아르기닌 1000mg 타블렛",
+        "price": 20930,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/5ba5dd52fb4e878a9657c2b4d486dacd31f79228b65c79961a11726b738a_1750902763029.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7066907732"
+    },
+    {
+        "id": "20260804-07",
+        "date": "20260804",
+        "rank": 7,
+        "name": "이자녹스 듀얼 커버 쿠션 리필 15g",
+        "price": 11500,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/197330229432813-f1cb85f0-76ff-4fa0-ad06-23eff41cfb74.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7053230099"
+    },
+    {
+        "id": "20260804-08",
+        "date": "20260804",
+        "rank": 8,
+        "name": "프리메라 마일드 앤 퍼펙트 페이셜 필링",
+        "price": 32760,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2024/11/04/11/9/08265c33-76bf-48f0-93cf-36590d6c4641.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8436671763"
+    },
+    {
+        "id": "20260804-09",
+        "date": "20260804",
+        "rank": 9,
+        "name": "누아트 에어릿 88g 초경량 미니 휴대용 3in1 무선 손선풍기",
+        "price": 7900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/49236826082381-b616a8ac-f702-46d8-b791-89edb66aeead.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9544507633"
+    },
+    {
+        "id": "20260804-10",
+        "date": "20260804",
+        "rank": 10,
+        "name": "PrettyCare 25KPa의 강력한 흡입력을 가진 스틱형 진공청소기 애완동물 털을 위한 경량 무선",
+        "price": 127890,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/6cdc/94f4a4c93262ab68afc6da06cd619b8e66e829f2dc61ad6d0bbad24f5a2a.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7910702026"
+    },
+    {
         "id": "20260803-01",
         "date": "20260803",
         "rank": 1,
