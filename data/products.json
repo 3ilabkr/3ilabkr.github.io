@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260805-01",
+        "date": "20260805",
+        "rank": 1,
+        "name": "립톤 아이스티 믹스 복숭아맛",
+        "price": 13400,
+        "image_url": "https://image12.coupangcdn.com/image/1025_amir_coupang_oct_80k/b702/fee9e1deef97ebcb91591599f9e7f2748a0f694fbac0d993e07b4dd615ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7778899675"
+    },
+    {
+        "id": "20260805-02",
+        "date": "20260805",
+        "rank": 2,
+        "name": "파워에이드 제로",
+        "price": 19530,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20260805-03",
+        "date": "20260805",
+        "rank": 3,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 11500,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260805-04",
+        "date": "20260805",
+        "rank": 4,
+        "name": "듀이트리 하이 아미노 올 클렌징 대용량 밀크",
+        "price": 17240,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/54ae/3de039f76bf9437eb4e1df3f5995f1bcdf99ad799b56553dd18dc25eb339.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7397036159"
+    },
+    {
+        "id": "20260805-05",
+        "date": "20260805",
+        "rank": 5,
+        "name": "키루에 슬라이딩 리빙박스 옷장정리 슬라이딩 수납함 접이식  슬라이딩 옷정리트레이",
+        "price": 21000,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/5a70/d929630e9c9d0e702ddfc107b42597321507f6458b973db8ec01b6746f66.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9454935475"
+    },
+    {
+        "id": "20260805-06",
+        "date": "20260805",
+        "rank": 6,
+        "name": "2대가 함께하는 친절떡방앗간 영양가득 영양찰밥, 250g 10팩",
+        "price": 33000,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/1f86/23517bb9f2556a7b69e84e45d8c54d244990988fff308680271ca97704e8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9387462850"
+    },
+    {
+        "id": "20260805-07",
+        "date": "20260805",
+        "rank": 7,
+        "name": "verveo냉감패드 여름 침대패드 여름이불 매트리스 고정밴드 깔개",
+        "price": 30700,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/291d/8d83a92305c34bce0ae153f3108bb2907cb29752f3344883a0b0879dc573.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9514098574"
+    },
+    {
+        "id": "20260805-08",
+        "date": "20260805",
+        "rank": 8,
+        "name": "ELLE PARIS 여성용 에어리 찰랑 와이드 밴딩 팬츠",
+        "price": 10900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1650107216126-418755b9-b774-4e51-99fa-86b721e213ec.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6627039327"
+    },
+    {
+        "id": "20260805-09",
+        "date": "20260805",
+        "rank": 9,
+        "name": "★스탠다드",
+        "price": 272250,
+        "image_url": "https://img3a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00005562/1fd8f150-74ad-41e7-9f51-584a1ba963d6.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246158&vendorItemId=70000286945991"
+    },
+    {
+        "id": "20260805-10",
+        "date": "20260805",
+        "rank": 10,
+        "name": "수영장미포함★디럭스트윈룸",
+        "price": 138600,
+        "image_url": "https://img3c.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01529338/6ad3f6df-602d-4cf2-9ee5-cb28c9387849.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011295932&vendorItemId=70000301563749"
+    },
+    {
         "id": "20260804-01",
         "date": "20260804",
         "rank": 1,
