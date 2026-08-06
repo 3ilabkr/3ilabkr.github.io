@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260806-01",
+        "date": "20260806",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14630,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20260806-02",
+        "date": "20260806",
+        "rank": 2,
+        "name": "세브란스에이투 전용목장 단백우유",
+        "price": 21900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/644849022750986-6eb5a495-d800-42c9-aff9-9998af119b8c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660544404"
+    },
+    {
+        "id": "20260806-03",
+        "date": "20260806",
+        "rank": 3,
+        "name": "환타 제로 파인애플 탄산음료",
+        "price": 16050,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/482266311580231-3e48047e-9beb-413c-b8aa-50f348bd3cbe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7272135076"
+    },
+    {
+        "id": "20260806-04",
+        "date": "20260806",
+        "rank": 4,
+        "name": "알텐바흐 엑스칼리버 통5중 후라이팬 인덕션 IH",
+        "price": 49200,
+        "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/047e/4cf786e98fa56b7bea4c486ede83c08d19682f591a2e3da993fe394d37c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5391887777"
+    },
+    {
+        "id": "20260806-05",
+        "date": "20260806",
+        "rank": 5,
+        "name": "피지오겔 레드수딩 AI 글로우업 썬스크린 SPF50+ PA++++",
+        "price": 16380,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/270785488122544-92edc0fa-308d-4375-b954-3c1f857c0eb5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7969820849"
+    },
+    {
+        "id": "20260806-06",
+        "date": "20260806",
+        "rank": 6,
+        "name": "고로고로 마루용 테이프 크리너 리필 3개입",
+        "price": 10900,
+        "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/2d90/bfefe1270a757d752204fc6793d0005e9447d28310dde1bd53f7f5304e94.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=22754796"
+    },
+    {
+        "id": "20260806-07",
+        "date": "20260806",
+        "rank": 7,
+        "name": "[브랜드인증] 존바바토스 아티산 오 드 뚜왈렛",
+        "price": 59980,
+        "image_url": "https://img5c.coupangcdn.com/image/1025_amir_coupang_oct_80k/ecdb/0f30ab25ff79e5b8d06f96a76fc084bc19d77189c0765077aad909779615.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9479077115"
+    },
+    {
+        "id": "20260806-08",
+        "date": "20260806",
+        "rank": 8,
+        "name": "우아미 티앙 무빙헤드 가죽 4인용 소파 + 쿠션2p 방문설치",
+        "price": 555300,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2023/06/26/11/7/a7752aae-9ff5-4bbe-a418-b81fb70994f2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7424875026"
+    },
+    {
+        "id": "20260806-09",
+        "date": "20260806",
+        "rank": 9,
+        "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장)",
+        "price": 8990,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/925859633293643-50ab81f4-1584-4e3f-8543-cfdb6f5a0f0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6625030243"
+    },
+    {
+        "id": "20260806-10",
+        "date": "20260806",
+        "rank": 10,
+        "name": "이지홀릭 냉감패드 오코텍스 인증 여름 침대 쿨매트",
+        "price": 12780,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/9d5b/32bad5851c2a5000cfc21d1fbc968a68507efb44aa203aabb97ab6691937.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9498453573"
+    },
+    {
         "id": "20260805-01",
         "date": "20260805",
         "rank": 1,
