@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260807-01",
+        "date": "20260807",
+        "rank": 1,
+        "name": "테팔 인덕션 매직핸즈 스테인리스 컬렉션 트라이미 프라이팬세트 3개",
+        "price": 80400,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/552866890985248-c312f232-3033-4899-a095-545fa6ff1d0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7163822999"
+    },
+    {
+        "id": "20260807-02",
+        "date": "20260807",
+        "rank": 2,
+        "name": "펩시 제로슈거 라임향 무라벨",
+        "price": 15300,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/196725783672193-4b8f890d-37ef-4e82-bda9-3ed3d6b77b41.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6138575604"
+    },
+    {
+        "id": "20260807-03",
+        "date": "20260807",
+        "rank": 3,
+        "name": "[로켓프레시] 팜앤푸드 꼬리 자른 생새우살 61~70입 (냉동)",
+        "price": 16500,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/1871988488973561-67485205-e071-44da-addb-4d8df6f36795.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7647979111"
+    },
+    {
+        "id": "20260807-04",
+        "date": "20260807",
+        "rank": 4,
+        "name": "닥터스베스트 하이 앱솔션 CoQ10 100mg 소프트젤",
+        "price": 24940,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/b137/fee6c74d82d545446f2a91e29bf403920c7a02c4fb8289045df6fd729dc2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=228822"
+    },
+    {
+        "id": "20260807-05",
+        "date": "20260807",
+        "rank": 5,
+        "name": "베지밀 비 달콤한 두유",
+        "price": 10400,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/467c/d98f87655151e0ff230c6f6fdbb2d3603a41ac0b34dce5c139376ce8c971.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8126806548"
+    },
+    {
+        "id": "20260807-06",
+        "date": "20260807",
+        "rank": 6,
+        "name": "피노 프리미엄 터치 헤어 마스크",
+        "price": 26500,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/02e1/8a5dc9a9be87e6d20bcf854a5d73ffb4ed998ebfa8fc2e7d701a4cadcb8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9379814620"
+    },
+    {
+        "id": "20260807-07",
+        "date": "20260807",
+        "rank": 7,
+        "name": "이어지다 고용량 배선 멀티탭 3구 OSB323",
+        "price": 17500,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1414958676367441-ef3b47e0-a194-4a7e-a538-7ed92767ce2f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7648843493"
+    },
+    {
+        "id": "20260807-08",
+        "date": "20260807",
+        "rank": 8,
+        "name": "해썹인증 파손보장 맥반석 찜질방 구운계란 대란 훈제란",
+        "price": 13660,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/4f1f/31330e015a76eaf1738c650850a29fd76bce7696d60e7a531519e934429f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9288246057"
+    },
+    {
+        "id": "20260807-09",
+        "date": "20260807",
+        "rank": 9,
+        "name": "리틀클라우드 유아용 실리콘 샤워 장갑 타올 2종 세트",
+        "price": 12900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2024/09/25/15/7/e749a309-34ee-48f9-a897-117e047fd8b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7069478904"
+    },
+    {
+        "id": "20260807-10",
+        "date": "20260807",
+        "rank": 10,
+        "name": "머지 더 퍼스트 브로우 펜슬 0.25g",
+        "price": 13100,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/570863863933503-ef05d88e-2588-4d93-b85d-f797327c067b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6805133888"
+    },
+    {
         "id": "20260806-01",
         "date": "20260806",
         "rank": 1,
