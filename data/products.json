@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260809-01",
+        "date": "20260809",
+        "rank": 1,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11890,
+        "image_url": "https://image2.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260809-02",
+        "date": "20260809",
+        "rank": 2,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 12100,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/42211068249280-1ffef9ec-4be9-4981-8d7f-64ab07894bb9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
+        "id": "20260809-03",
+        "date": "20260809",
+        "rank": 3,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260809-04",
+        "date": "20260809",
+        "rank": 4,
+        "name": "에어렉스 이동식에어컨 실외기없는 가정용 이동형 일체형 창문형",
+        "price": 381000,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/ff48/a75ef7c6d6cc1f14c9cf7c61b53790f2868e534c3d57851d797100978f44.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9559733976"
+    },
+    {
+        "id": "20260809-05",
+        "date": "20260809",
+        "rank": 5,
+        "name": "(골드박스)낮 12시 이전 입장권(동물원포함) 1인권",
+        "price": 27000,
+        "image_url": "https://img5c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00668506/d2e9b091-e46a-4b5e-a06a-299373beabcf.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011470092&vendorItemId=70000306326892"
+    },
+    {
+        "id": "20260809-06",
+        "date": "20260809",
+        "rank": 6,
+        "name": "엄마랑 함께 색칠놀이 동물 + 과일 + 사물 + 탈것 4권세트",
+        "price": 5900,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/9740/ca518ac6f5989426bd5cbbf564a80efc845da4dedda8621f6b86d7c2027d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=123181495"
+    },
+    {
+        "id": "20260809-07",
+        "date": "20260809",
+        "rank": 7,
+        "name": "퀘스트뉴트리션 프로틴 바 더블 초콜릿 청크 60g",
+        "price": 33420,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/99fa/246411168082e9487d1930e8af176fa5c27f6388f9833a7dda427b1aa747.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7353267098"
+    },
+    {
+        "id": "20260809-08",
+        "date": "20260809",
+        "rank": 8,
+        "name": "동원 리챔 오리지널",
+        "price": 14100,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/f1dc/aed67828592560f31252be5ee60c812401f076761947ba181459d931316f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1017437"
+    },
+    {
+        "id": "20260809-09",
+        "date": "20260809",
+        "rank": 9,
+        "name": "베네통키즈 아동용 쿨 웨이브 캠핑햇 플랩캡",
+        "price": 25900,
+        "image_url": "https://image8.coupangcdn.com/image/rs_quotation_api/i5zpmrkq/e2eff3bc148b491192b4c584830a7bde.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8705246904"
+    },
+    {
+        "id": "20260809-10",
+        "date": "20260809",
+        "rank": 10,
+        "name": "코멧 홈 이염방지 세탁시트 200매",
+        "price": 8990,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2455349644484977-9e29b192-13a7-4597-ae1e-3bf6507cc4cf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7755865565"
+    },
+    {
         "id": "20260808-01",
         "date": "20260808",
         "rank": 1,
