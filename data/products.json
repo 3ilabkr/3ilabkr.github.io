@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260811-01",
+        "date": "20260811",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 21990,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/16425520630042-9dcd32f1-a915-4924-935f-91debbc9dc6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260811-02",
+        "date": "20260811",
+        "rank": 2,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11600,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260811-03",
+        "date": "20260811",
+        "rank": 3,
+        "name": "칠성사이다 제로",
+        "price": 16280,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/98307885117518-6d4b140a-2090-4c8d-92f4-acf2b837b7bc.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8288428017"
+    },
+    {
+        "id": "20260811-04",
+        "date": "20260811",
+        "rank": 4,
+        "name": "매일두유 99.9 플레인",
+        "price": 15800,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/139627710988148-dd5d246c-120d-451a-9d79-6e8926882a1e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757115239"
+    },
+    {
+        "id": "20260811-05",
+        "date": "20260811",
+        "rank": 5,
+        "name": "센카 퍼펙트 휩 프레시 클렌징 폼",
+        "price": 18900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/649404505332720-51a60066-9e61-43ac-b120-a1f24ba094c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8610798007"
+    },
+    {
+        "id": "20260811-06",
+        "date": "20260811",
+        "rank": 6,
+        "name": "액츠 퍼펙트 실내건조 드럼용 프레시 플로럴향 액상세제 본품",
+        "price": 10900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/57158790568082-4fac19a7-27b4-48e8-8771-beef79bcacfe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6971731257"
+    },
+    {
+        "id": "20260811-07",
+        "date": "20260811",
+        "rank": 7,
+        "name": "패밀리 - 랜덤배정",
+        "price": 160000,
+        "image_url": "https://image1.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00050739/2cb5ab7c-fb9a-4426-a49e-205d81c86cf6.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=78720764&vendorItemId=70000291868881"
+    },
+    {
+        "id": "20260811-08",
+        "date": "20260811",
+        "rank": 8,
+        "name": "틴도우 스마트 물걸레 로봇청소기+자동충전+1년보증",
+        "price": 127900,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/2d53/4797c4544b71d7beffd21de9ca5fcda812a401f6e30c1f9db97a9b72145a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8037402239"
+    },
+    {
+        "id": "20260811-09",
+        "date": "20260811",
+        "rank": 9,
+        "name": "포트메리온 보타닉가든 사각 미니접시 4종 세트",
+        "price": 14500,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/ad8a/186c44d6cf3ecc4e3d9745768d5eeef24e25c01ce5ce19434f3853780731.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=200683"
+    },
+    {
+        "id": "20260811-10",
+        "date": "20260811",
+        "rank": 10,
+        "name": "더마팩토리 나이아신아마이드 20% 세럼",
+        "price": 13010,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/711017599149990-bafcf284-d0ee-40e0-9f39-6e4a0b841121.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7166913299"
+    },
+    {
         "id": "20260810-01",
         "date": "20260810",
         "rank": 1,
