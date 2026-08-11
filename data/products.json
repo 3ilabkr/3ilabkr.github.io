@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260812-01",
+        "date": "20260812",
+        "rank": 1,
+        "name": "하이뮨 프로틴 밸런스 L",
+        "price": 36000,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20260812-02",
+        "date": "20260812",
+        "rank": 2,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 14200,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/11868540504924-016d965d-d467-4261-9268-8de0f9141612.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20260812-03",
+        "date": "20260812",
+        "rank": 3,
+        "name": "스프라이트 캔",
+        "price": 16320,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/432463109749184-3df462df-be6f-4a76-81fc-3af1e97ac6f9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9192487517"
+    },
+    {
+        "id": "20260812-04",
+        "date": "20260812",
+        "rank": 4,
+        "name": "[행복미트] 돼지 미박사태 돈사태살 껍데기있음 수육용 보쌈용 2kg [당일발송]",
+        "price": 21130,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/2313/e4d19f192548e149332b4efb1ad65941afd6b89fbf3ff53dbf6f9a56a551.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9339378797"
+    },
+    {
+        "id": "20260812-05",
+        "date": "20260812",
+        "rank": 5,
+        "name": "Jarrow Formulas 자로우 펨 도피러스 어드밴스드 유산균 100억 CFU 30캡슐 (상온보관용)",
+        "price": 27780,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/23ca/c8a89ce31b158457f0c8785ba5cf28db36e9afac3d982ea7605210d0e3d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7522703123"
+    },
+    {
+        "id": "20260812-06",
+        "date": "20260812",
+        "rank": 6,
+        "name": "모로칸오일 트리트먼트 라이트",
+        "price": 56950,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2026/01/09/15/2/6d846411-604d-41b2-9e16-fdf121fe0b96.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6696071748"
+    },
+    {
+        "id": "20260812-07",
+        "date": "20260812",
+        "rank": 7,
+        "name": "맥 레트로 매트 립스틱 3g",
+        "price": 29070,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/07/16/10/0/032521d0-2ad6-4282-9512-fa4a8cbb51ac.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5376120420"
+    },
+    {
+        "id": "20260812-08",
+        "date": "20260812",
+        "rank": 8,
+        "name": "크린조 3D 온열 눈마사지기 무선 눈 찜질기 블루투스 접이식 안마기",
+        "price": 37800,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1780451680375/b4453217-1f35-4f15-84bd-5a19b0010fa3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9452725607"
+    },
+    {
+        "id": "20260812-09",
+        "date": "20260812",
+        "rank": 9,
+        "name": "프리티케어 로봇청소기 LDS 센서 지도 그리기 기능  물걸레 먼지비움",
+        "price": 259900,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1783482043712/771936d2-0590-416a-914b-9072b8c582cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9557659294"
+    },
+    {
+        "id": "20260812-10",
+        "date": "20260812",
+        "rank": 10,
+        "name": "탐사 베이킹소다 주방세제 레몬향",
+        "price": 10690,
+        "image_url": "https://image9.coupangcdn.com/image/1025_amir_coupang_oct_80k/9e82/6e7a8820fa59482369d14f1798734398d2453799ff289dcdffb222c413d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=323587276"
+    },
+    {
         "id": "20260811-01",
         "date": "20260811",
         "rank": 1,
