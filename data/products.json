@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260814-01",
+        "date": "20260814",
+        "rank": 1,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 24900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/71398767918130-b431ac05-41d7-466f-83e2-c4758d247341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
+        "id": "20260814-02",
+        "date": "20260814",
+        "rank": 2,
+        "name": "뉴케어 올프로틴 고소한맛",
+        "price": 41200,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/99780434550593-7af74caf-d3b0-4fae-8d75-30b1478700ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391180879"
+    },
+    {
+        "id": "20260814-03",
+        "date": "20260814",
+        "rank": 3,
+        "name": "피지 모락셀라 냄새제거 부스터 캡슐 뽀송한 코튼향",
+        "price": 14900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/495081138949946-6df691f0-ffc4-419d-ad6d-71b0e4311fc3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8468431077"
+    },
+    {
+        "id": "20260814-04",
+        "date": "20260814",
+        "rank": 4,
+        "name": "슈가로로 애사비 스파클링 사과",
+        "price": 21320,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/01/23/9/7/bc0a86b8-dfb4-48ed-85e6-3df35c3e2324.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8713959355"
+    },
+    {
+        "id": "20260814-05",
+        "date": "20260814",
+        "rank": 5,
+        "name": "더페이스샵 허브데이 클렌징 티슈",
+        "price": 13960,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/25463617776319-112a68c4-beb0-4a85-a16a-881e2cd10216.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9304085443"
+    },
+    {
+        "id": "20260814-06",
+        "date": "20260814",
+        "rank": 6,
+        "name": "슈페리어 킹+테마파크 빅3 무료",
+        "price": 298750,
+        "image_url": "https://image2.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00239660/c355eec0-9f5c-4918-8881-7958807082e3.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000000031111&vendorItemId=70000003342601"
+    },
+    {
+        "id": "20260814-07",
+        "date": "20260814",
+        "rank": 7,
+        "name": "탐사 매직폼 클리너",
+        "price": 9990,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2457992350569174-71ded349-2d3b-47c8-8d2a-38c77855bbff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8194493921"
+    },
+    {
+        "id": "20260814-08",
+        "date": "20260814",
+        "rank": 8,
+        "name": "웰라쥬 리얼 히알루로닉 블루 100 앰플",
+        "price": 13000,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2026/05/22/10/3/7968dc9e-0b46-4a07-8dd4-40a3eb3143ec.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9562302197"
+    },
+    {
+        "id": "20260814-09",
+        "date": "20260814",
+        "rank": 9,
+        "name": "C6. ★한정수량★ 하이시즌 주중 소인 종일권",
+        "price": 59000,
+        "image_url": "https://img3c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/d14e63a7-218b-4c80-af78-cfbfc7fe183a.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011429829&vendorItemId=70000308192603"
+    },
+    {
+        "id": "20260814-10",
+        "date": "20260814",
+        "rank": 10,
+        "name": "오리온초코파이 초코파이 28p",
+        "price": 9480,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2026/06/05/9/2/5e29d62d-c396-42cb-80cf-a11b020bdcb4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9073375"
+    },
+    {
         "id": "20260813-01",
         "date": "20260813",
         "rank": 1,
