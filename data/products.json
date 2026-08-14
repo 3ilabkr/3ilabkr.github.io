@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260815-01",
+        "date": "20260815",
+        "rank": 1,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 22500,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20260815-02",
+        "date": "20260815",
+        "rank": 2,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 22480,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20260815-03",
+        "date": "20260815",
+        "rank": 3,
+        "name": "알텐바흐 인덕션 헥사 통5중 프라이팬 세트 3개",
+        "price": 125800,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2023/01/18/9/6/c4a0dbe9-add0-4e80-bf82-efce7d7ec120.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7074592247"
+    },
+    {
+        "id": "20260815-04",
+        "date": "20260815",
+        "rank": 4,
+        "name": "듀이트리 하이 아미노 올 클렌징 밀크 본품 200ml + 리필 200ml 세트",
+        "price": 13860,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/10/27/15/2/4cee8b07-0d22-4a7b-b6d0-ddb459761837.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9089397560"
+    },
+    {
+        "id": "20260815-05",
+        "date": "20260815",
+        "rank": 5,
+        "name": "Kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 42000,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/eabf/014c6861f9e399bce5ee12576e9a1eab953079709a6366ee0a541fd04f9f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260815-06",
+        "date": "20260815",
+        "rank": 6,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 152060,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/3dcb/7657d8ab444b90696f60397f987f38a61c65e6c197bcb506b598e3b04a46.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717112969"
+    },
+    {
+        "id": "20260815-07",
+        "date": "20260815",
+        "rank": 7,
+        "name": "★패밀리(클린/스탠다드/침대)",
+        "price": 361000,
+        "image_url": "https://img5a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/40596ffc-eaa7-4772-b9b6-9d691f285086.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010793379&vendorItemId=70000285239126"
+    },
+    {
+        "id": "20260815-08",
+        "date": "20260815",
+        "rank": 8,
+        "name": "자유시간 미니 초콜릿",
+        "price": 8900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/998098473340095-be7421f1-5325-45bf-80e8-f30d5a544b59.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6186151261"
+    },
+    {
+        "id": "20260815-09",
+        "date": "20260815",
+        "rank": 9,
+        "name": "쏜리서치 실리포스 밀크시슬 베지테리안 캡슐",
+        "price": 98840,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/6fb6/8c1acb3a422cde662f4e27bd20f451483d34fead834d0c79a070d875a0c2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=433181"
+    },
+    {
+        "id": "20260815-10",
+        "date": "20260815",
+        "rank": 10,
+        "name": "B2. ★골드박스_선착순★ 골드시즌 소인 입장권",
+        "price": 64000,
+        "image_url": "https://image6.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/f09c37af-ddbf-4eb9-bb79-fa64dff97261.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011260721&vendorItemId=70000307919568"
+    },
+    {
         "id": "20260814-01",
         "date": "20260814",
         "rank": 1,
