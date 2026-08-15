@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260816-01",
+        "date": "20260816",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16500,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260816-02",
+        "date": "20260816",
+        "rank": 2,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/16410130977344-449f81df-4e44-485e-af90-dc92159e4165.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260816-03",
+        "date": "20260816",
+        "rank": 3,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 18900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/71397728034096-53d65aa3-4541-4f11-9d85-ca68db91f9ff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
+        "id": "20260816-04",
+        "date": "20260816",
+        "rank": 4,
+        "name": "오휘 얼티밋 커버 데니어 미니 기미 커버 쿠션 6g",
+        "price": 12960,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/05/19/17/3/7710396b-8670-4ede-87f4-7873444265e0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8783927945"
+    },
+    {
+        "id": "20260816-05",
+        "date": "20260816",
+        "rank": 5,
+        "name": "르몽스 아이스필 냉감패드 여름 침대 쿨매트",
+        "price": 58800,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/f759/dca8d76230082a6bd1fab8ab1e9084b14aa633fc50d5b4b2dfd1d64495f3.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9509129728"
+    },
+    {
+        "id": "20260816-06",
+        "date": "20260816",
+        "rank": 6,
+        "name": "프리티케어 무선 자동 물걸레 청소기, 3in1자동세척",
+        "price": 270630,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
+        "id": "20260816-07",
+        "date": "20260816",
+        "rank": 7,
+        "name": "[폭탄세일] 고당도 정품 제주 밤호박 보우짱",
+        "price": 10080,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/782a/3a3be9360bb386bd12c8c19d1053c052b5003f1dacb05358e2a3dccdf062.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9662416842"
+    },
+    {
+        "id": "20260816-08",
+        "date": "20260816",
+        "rank": 8,
+        "name": "조양FNG HACCP인증 국산 다진마늘",
+        "price": 9530,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/image_audit/prod/98ec6368-459e-4ee2-bfa6-a450c3eb878d_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7673804291"
+    },
+    {
+        "id": "20260816-09",
+        "date": "20260816",
+        "rank": 9,
+        "name": "[Jarrow Formulas] 자로우 포뮬러스 도피러스 EPS 유산균 100억 CFU",
+        "price": 33680,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/cfa2/7dafe44671c57f8be5145390677f5323075274c7f90689288b368766a4e1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7626263931"
+    },
+    {
+        "id": "20260816-10",
+        "date": "20260816",
+        "rank": 10,
+        "name": "나우푸드 마그네슘 글리시네이트 타블렛",
+        "price": 39710,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/3ae1/a88813af9c82ce0dc60b44d1d6b5da8f485d1bd3a58963c79ff5fcda3864.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1366689007"
+    },
+    {
         "id": "20260815-01",
         "date": "20260815",
         "rank": 1,
