@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260817-01",
+        "date": "20260817",
+        "rank": 1,
+        "name": "르무통 메이트 발 편한 운동화 다크네이비",
+        "price": 118000,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/9755/f5cd0e3e76d1e6348315cbe7857b03a23e725efa5f5fd79667b2af7ea52b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20260817-02",
+        "date": "20260817",
+        "rank": 2,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 19900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/183527831882073-ded2962c-cfa7-407a-ad28-183e4ac05fa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
+        "id": "20260817-03",
+        "date": "20260817",
+        "rank": 3,
+        "name": "아몬드브리즈 언스위트",
+        "price": 15770,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=329389373"
+    },
+    {
+        "id": "20260817-04",
+        "date": "20260817",
+        "rank": 4,
+        "name": "메디힐 데일리 솔루션 마스크팩 3종 세트",
+        "price": 23500,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/28689767991401-1acd7a7c-bf89-4aa1-a2cf-2b4ce01e41ea.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9072524953"
+    },
+    {
+        "id": "20260817-05",
+        "date": "20260817",
+        "rank": 5,
+        "name": "농심 누룽지팝",
+        "price": 10390,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/21155190212412-fad7daf8-a077-4053-b26e-43fa7f5c9b96.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8730212699"
+    },
+    {
+        "id": "20260817-06",
+        "date": "20260817",
+        "rank": 6,
+        "name": "헤드앤숄더 두피 토탈 솔루션 샴푸 쿨 멘솔",
+        "price": 13580,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/125622933282601-487a171d-85dc-4610-81ab-7682d36a4156.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6499998087"
+    },
+    {
+        "id": "20260817-07",
+        "date": "20260817",
+        "rank": 7,
+        "name": "미쟝센 살롱10 펩타이드 리페어 단백질 트리트먼트 에센스팩",
+        "price": 18900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2026/07/14/12/1/63f10091-fd1d-4341-b352-04acf9b78324.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8541469943"
+    },
+    {
+        "id": "20260817-08",
+        "date": "20260817",
+        "rank": 8,
+        "name": "재로우 우먼 펨-도필러스 유산균 10억 베지테리안 캡슐",
+        "price": 113930,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/96bd/d253695df9f1aa3dea5fab8756396d946c1f7385d09c3b50329048160e26.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8336583914"
+    },
+    {
+        "id": "20260817-09",
+        "date": "20260817",
+        "rank": 9,
+        "name": "☆레스트리☆ S20 타워 클린",
+        "price": 279400,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/6d8216a9-c633-49c7-a3be-806ca235561b.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011381705&vendorItemId=70000286493168"
+    },
+    {
+        "id": "20260817-10",
+        "date": "20260817",
+        "rank": 10,
+        "name": "포트메리온 보타닉가든 테라스 딥볼 12cm 3종 세트",
+        "price": 21900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/13495700626159-c1d71c09-f888-4c75-b552-049aaf7bf85e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6855883657"
+    },
+    {
         "id": "20260816-01",
         "date": "20260816",
         "rank": 1,
