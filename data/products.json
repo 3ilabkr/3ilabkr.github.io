@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260819-01",
+        "date": "20260819",
+        "rank": 1,
+        "name": "제주삼다수 무라벨",
+        "price": 14510,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/7026f9e1-41f6-4b91-b267-1d9bb79f6f4d15699379648356811610.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
+        "id": "20260819-02",
+        "date": "20260819",
+        "rank": 2,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 159900,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/f349/116a4187b1ccddfa234ab1868c7f605b2152ca7d8441fc9a5212314c4e0d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586262658"
+    },
+    {
+        "id": "20260819-03",
+        "date": "20260819",
+        "rank": 3,
+        "name": "키루에 대형 캣타워 원목 대형 고양이 점프대 튼튼한 다기능 직조 캣타워",
+        "price": 89900,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/9a979adddd745c052f742089727067f157b964762debb80f8a9aae5fc52b_1786347558309.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9285578845"
+    },
+    {
+        "id": "20260819-04",
+        "date": "20260819",
+        "rank": 4,
+        "name": "벨라민츠 프레쉬 퓨어 무설탕 페퍼민트 캔디",
+        "price": 15010,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/791189097203081-9f588ce6-0c96-4fe9-984f-ff6988b02dff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9031485916"
+    },
+    {
+        "id": "20260819-05",
+        "date": "20260819",
+        "rank": 5,
+        "name": "[단독특가] 유명산지 초고당도 샤인머스캣",
+        "price": 18720,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/d49a/f970815f0eea51b2f1430505d02bbd5ad9459e6605e88ccfb84c70dac80d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9661764500"
+    },
+    {
+        "id": "20260819-06",
+        "date": "20260819",
+        "rank": 6,
+        "name": "벨킨 Qi2 부스트 차지 프로 컨버터블 마그네틱 무선 충전 스탠드 WIA008btBK",
+        "price": 48000,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/1922043716594633-57d82de4-43b8-4608-a720-400d699af3c5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8039377097"
+    },
+    {
+        "id": "20260819-07",
+        "date": "20260819",
+        "rank": 7,
+        "name": "차일드라이프 액상 칼슘 마그네슘 오렌지맛",
+        "price": 26800,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/712413295656607-f5bb5f63-1b3c-48bc-bb69-dfa7c5d7025b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7434759210"
+    },
+    {
+        "id": "20260819-08",
+        "date": "20260819",
+        "rank": 8,
+        "name": "스타벅스 미디엄 로스트 아메리카노 그린 머그 세트",
+        "price": 29000,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2026/01/16/17/6/69d420bd-a1ee-4728-a97e-5f18fc275a11.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9312612467"
+    },
+    {
+        "id": "20260819-09",
+        "date": "20260819",
+        "rank": 9,
+        "name": "나우푸드 웨이 프로틴 아이솔레이트 파우더 단백질 보충제",
+        "price": 118210,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/485d/90da458216ab37b6aa84cf6af5822f3947629b5fd3ca6a683c54434db0d2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7480868281"
+    },
+    {
+        "id": "20260819-10",
+        "date": "20260819",
+        "rank": 10,
+        "name": "립아이스 멘소래담 틴티드 컬러 립밤",
+        "price": 6220,
+        "image_url": "https://static.coupangcdn.com/image/1025_amir_coupang_oct_80k/0fb5/948a17ea16f1525a883d1ba4a44030a310f6cd0c1684fbe653754bd1701b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9182556747"
+    },
+    {
         "id": "20260818-01",
         "date": "20260818",
         "rank": 1,
