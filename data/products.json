@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260821-01",
+        "date": "20260821",
+        "rank": 1,
+        "name": "육개장 사발면 86g",
+        "price": 10200,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/126342051945764-2fca37d5-29df-4a90-a5c8-ad9e82f94e6c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=196473"
+    },
+    {
+        "id": "20260821-02",
+        "date": "20260821",
+        "rank": 2,
+        "name": "다우니 초고농축 호텔 컬렉션 섬유유연제 미스티크 본품",
+        "price": 18910,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/356947226725653-567dc0d9-a849-4ddd-8286-f22a83af1841.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7026135886"
+    },
+    {
+        "id": "20260821-03",
+        "date": "20260821",
+        "rank": 3,
+        "name": "홈럭스 파워수압 필터 샤워기 + 필터 5개 + 샤워호스 1.5M + 거치데 안마 샤워기세트 8pcs",
+        "price": 22960,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/43f6/9df4c53109eb12cd7559e121649db33d7a4546698b54b03da0a7c247bd66.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150861959"
+    },
+    {
+        "id": "20260821-04",
+        "date": "20260821",
+        "rank": 4,
+        "name": "[2026년형]프리티케어 무선 청소기 핸디 가정용 청소기 W400",
+        "price": 108640,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/5ad7/19e5b171721883b071c4867088e9ab6ac6390bbf419967f26e1d013ad586.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7912435005"
+    },
+    {
+        "id": "20260821-05",
+        "date": "20260821",
+        "rank": 5,
+        "name": "몽쉘 생크림 케이크 오리지널",
+        "price": 13470,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/486411376325740-9966e872-4ffb-40d6-9fd3-4795140737ad.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6408953895"
+    },
+    {
+        "id": "20260821-06",
+        "date": "20260821",
+        "rank": 6,
+        "name": "로베라 큐블 실내자전거",
+        "price": 249000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/148220679427825-4149fd67-28fa-4dde-a363-989e240cb9b7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8535249131"
+    },
+    {
+        "id": "20260821-07",
+        "date": "20260821",
+        "rank": 7,
+        "name": "얼라이브 원스데일리 포 우먼 멀티비타민",
+        "price": 29900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1549258785293541-f9beee07-f966-443c-8cdb-8edcfc4a3874.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=3961975"
+    },
+    {
+        "id": "20260821-08",
+        "date": "20260821",
+        "rank": 8,
+        "name": "맘스럽 워싱소다 탄산소다 초강력 세탁보조제 100% 탈취인증",
+        "price": 9970,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/a956/096607f5af4939ef5bed43db248ef9fd1dd7948c926d13650e738c2c235f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8668207817"
+    },
+    {
+        "id": "20260821-09",
+        "date": "20260821",
+        "rank": 9,
+        "name": "샤바스 국내제조 매일쓰는 데일리 모던 샤워타월 세트",
+        "price": 13900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/121844009269576-112019df-b3df-4c82-9837-7a5732f78fb0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7184154486"
+    },
+    {
+        "id": "20260821-10",
+        "date": "20260821",
+        "rank": 10,
+        "name": "[리조트 패밀리]클린/스탠다드/침대",
+        "price": 489000,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/b93386c9-c76b-4c25-99b3-9bf0236d8123.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010780786&vendorItemId=70000292717817"
+    },
+    {
         "id": "20260820-01",
         "date": "20260820",
         "rank": 1,
