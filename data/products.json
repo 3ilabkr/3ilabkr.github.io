@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260822-01",
+        "date": "20260822",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 19300,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/1109640700619115-fc5f445e-89e7-44bc-bd35-9b75efec1c72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260822-02",
+        "date": "20260822",
+        "rank": 2,
+        "name": "하늘보리 에코 무라벨",
+        "price": 15460,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/94906645455938-22d605d1-d494-4736-b83c-f2633f95420c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20260822-03",
+        "date": "20260822",
+        "rank": 3,
+        "name": "행복미트 프리미엄 소 스지 수육 탕 전골용",
+        "price": 26090,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/fd5245cbb4710fe44bf56ae7446e8623320614ded2644dc3be0978cac547_1776647972386.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484261404"
+    },
+    {
+        "id": "20260822-04",
+        "date": "20260822",
+        "rank": 4,
+        "name": "작심닭 작심통밥 귀리주먹밥 14종 혼합",
+        "price": 27900,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/image_audit/prod/5da1ba3d-da2e-441d-8d82-3e079b603896_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8640112371"
+    },
+    {
+        "id": "20260822-05",
+        "date": "20260822",
+        "rank": 5,
+        "name": "☆레스트리☆ ◆ S20 타워 클린",
+        "price": 279400,
+        "image_url": "https://img3a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/d173f1a6-6f0c-4b39-9bd5-06a010e83735.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011381705&vendorItemId=70000286711156"
+    },
+    {
+        "id": "20260822-06",
+        "date": "20260822",
+        "rank": 6,
+        "name": "유니레버 썬 식기세척기용 타블렛 세제 레몬 50개입",
+        "price": 20900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/420567766753307-f354a549-3ebb-4879-8699-f542d40cd05b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8341650585"
+    },
+    {
+        "id": "20260822-07",
+        "date": "20260822",
+        "rank": 7,
+        "name": "생일 축하해: 촛불을 끄고 축하 노래를 불러요!",
+        "price": 17670,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/4781528457494-579502ef-544e-4026-ad20-90719432e961.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=29859704"
+    },
+    {
+        "id": "20260822-08",
+        "date": "20260822",
+        "rank": 8,
+        "name": "밸런스온 베타젤 FIT 시트 L + 커버",
+        "price": 49000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/50961744976070-2547aa85-d4da-42fa-9539-a6ec3e87ab1c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8129149911"
+    },
+    {
+        "id": "20260822-09",
+        "date": "20260822",
+        "rank": 9,
+        "name": "타포 미니 스마트 Wi-Fi 플러그",
+        "price": 13400,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/376140708833107-c4f3889b-f2b2-4bde-927c-3487541641cc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7869821792"
+    },
+    {
+        "id": "20260822-10",
+        "date": "20260822",
+        "rank": 10,
+        "name": "팬틴 극손상케어 샴푸 과일",
+        "price": 16900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/303680227003440-ff3a6ee3-ad19-4df4-8dd9-c66ed6023178.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7006899364"
+    },
+    {
         "id": "20260821-01",
         "date": "20260821",
         "rank": 1,
