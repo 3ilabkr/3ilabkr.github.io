@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260823-01",
+        "date": "20260823",
+        "rank": 1,
+        "name": "코멧 오리지널 유아용 아기물티슈 캡형",
+        "price": 19890,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/409169289150830-e83fa3c0-8ac3-4f0c-b2bd-4dd2158bc468.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=188227098"
+    },
+    {
+        "id": "20260823-02",
+        "date": "20260823",
+        "rank": 2,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 16500,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260823-03",
+        "date": "20260823",
+        "rank": 3,
+        "name": "파워에이드 제로",
+        "price": 19800,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20260823-04",
+        "date": "20260823",
+        "rank": 4,
+        "name": "스탠다드 더블 시티뷰",
+        "price": 88000,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01174019/3a09a7b0-d6c9-4423-954e-8e6aaefb8bd7.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010445626&vendorItemId=70000129716998"
+    },
+    {
+        "id": "20260823-05",
+        "date": "20260823",
+        "rank": 5,
+        "name": "♥ S20 스테이클린A",
+        "price": 235100,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/284d0968-16cc-4dc2-a49b-edca321c19ba.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011381181&vendorItemId=70000286711137"
+    },
+    {
+        "id": "20260823-06",
+        "date": "20260823",
+        "rank": 6,
+        "name": "파스드리미트 자외선 차단 쿨마스크",
+        "price": 10900,
+        "image_url": "https://img3a.coupangcdn.com/image/rs_quotation_api/htotlzax/132831ab8c59483f91262540e7be7c40.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8745187770"
+    },
+    {
+        "id": "20260823-07",
+        "date": "20260823",
+        "rank": 7,
+        "name": "분다버그 핑크 그래이프 푸르트",
+        "price": 18250,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/81bd6f85-1ee2-4851-853e-8532ba5a441516925963664120736436.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8144862586"
+    },
+    {
+        "id": "20260823-08",
+        "date": "20260823",
+        "rank": 8,
+        "name": "쏜 리서치 베이직 뉴트리언트 2 데이 캡슐",
+        "price": 130680,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/07b2/b728c71303af229fb005355a625ccf3a846433015c6b0d9d098493d785a2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6082733474"
+    },
+    {
+        "id": "20260823-09",
+        "date": "20260823",
+        "rank": 9,
+        "name": "휠라골프 심리스 메쉬라인 손목형 쿨토시 2p",
+        "price": 10900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/356724478462824-1d0ef4f2-a927-4014-bd1d-fa4d2101b65b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8544471698"
+    },
+    {
+        "id": "20260823-10",
+        "date": "20260823",
+        "rank": 10,
+        "name": "쿠쿠 직수형 비데",
+        "price": 130000,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/c7d5/8512b889484eb2352308a6cdd446e2df0bc74f19a9f039f7a0113968e4d5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4657237802"
+    },
+    {
         "id": "20260822-01",
         "date": "20260822",
         "rank": 1,
