@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260826-01",
+        "date": "20260826",
+        "rank": 1,
+        "name": "양반 100밥 현미밥",
+        "price": 18500,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/544519158980276-08d69373-76d0-4534-8f8b-762c10540a8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5829376555"
+    },
+    {
+        "id": "20260826-02",
+        "date": "20260826",
+        "rank": 2,
+        "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품",
+        "price": 10900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7353339051"
+    },
+    {
+        "id": "20260826-03",
+        "date": "20260826",
+        "rank": 3,
+        "name": "익스트림 올인원 포 맨 멀티비타민",
+        "price": 36900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/104421252091794-12134597-c7a9-4f79-a780-efa64c7de3d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8134954250"
+    },
+    {
+        "id": "20260826-04",
+        "date": "20260826",
+        "rank": 4,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 29900,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/8e28/10b3fbcd5eb469388b7f2448ddb4ac2f053c1966ecda1185c56388f93ba2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20260826-05",
+        "date": "20260826",
+        "rank": 5,
+        "name": "홈럭스 파워수압 필터 샤워기 헤드 샤워기필터세트",
+        "price": 15900,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/8e87/a3ee8dd82f3155800d5db0dcbea1a5602b480970d3f0da439d02a960f1a2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9572235361"
+    },
+    {
+        "id": "20260826-06",
+        "date": "20260826",
+        "rank": 6,
+        "name": "네이쳐스웨이 얼라이브! 멘스 울트라 멀티비타민 타블렛",
+        "price": 41350,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/3bc9/735c50e7abe0991af7db68bd24a1cae534ff9034d61f6c70c8e7d29e92fe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8553820273"
+    },
+    {
+        "id": "20260826-07",
+        "date": "20260826",
+        "rank": 7,
+        "name": "세브란스에이투 전용목장 단백우유",
+        "price": 14900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/645323946861237-3da29be0-5412-41b8-b9f4-322bf429cefe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660544404"
+    },
+    {
+        "id": "20260826-08",
+        "date": "20260826",
+        "rank": 8,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 본품",
+        "price": 30800,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/a41fa9ec-756b-4d33-9796-7a09e0ca100d12450907139727027052.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8971726601"
+    },
+    {
+        "id": "20260826-09",
+        "date": "20260826",
+        "rank": 9,
+        "name": "샤바스  데일리 샤워타월 파스텔",
+        "price": 13900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/1573/79f770a013b2a076346335196d8bf8c85e19ed985914be3e7987c97135cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=237181715"
+    },
+    {
+        "id": "20260826-10",
+        "date": "20260826",
+        "rank": 10,
+        "name": "★WEST패밀리(취사/스탠다드/침대)",
+        "price": 270000,
+        "image_url": "https://image1.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/0cd84f5c-2d7f-480c-b35f-4c637e360052.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010793428&vendorItemId=70000154452823"
+    },
+    {
         "id": "20260825-01",
         "date": "20260825",
         "rank": 1,
