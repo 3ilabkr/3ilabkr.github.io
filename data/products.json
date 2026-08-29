@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260829-01",
+        "date": "20260829",
+        "rank": 1,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 12960,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/71398552289343-b41a602e-f62c-4f23-99f5-0a31785c8c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
+        "id": "20260829-02",
+        "date": "20260829",
+        "rank": 2,
+        "name": "리큐 진한겔 꿉꿉한 냄새 원인물질 싹 일반드럼겸용 프레시 런드리향 액상세제 리필",
+        "price": 28900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/36624579664596-bad199ba-5649-4101-8717-67cf86ac03d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6746052927"
+    },
+    {
+        "id": "20260829-03",
+        "date": "20260829",
+        "rank": 3,
+        "name": "환타 제로 파인애플 탄산음료",
+        "price": 13400,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/482266311580231-3e48047e-9beb-413c-b8aa-50f348bd3cbe.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7272135076"
+    },
+    {
+        "id": "20260829-04",
+        "date": "20260829",
+        "rank": 4,
+        "name": "키루에 슬라이딩 리빙박스 옷장정리 슬라이딩 수납함 접이식  슬라이딩 옷정리트레이",
+        "price": 21000,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/5a70/d929630e9c9d0e702ddfc107b42597321507f6458b973db8ec01b6746f66.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9454935475"
+    },
+    {
+        "id": "20260829-05",
+        "date": "20260829",
+        "rank": 5,
+        "name": "스케쳐스 남성용 스케치 클라우드 운동화 BBK",
+        "price": 99000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2025/09/01/16/7/6efb624e-6cbd-4e3b-a7d2-5fd2d24b2f66.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9031927096"
+    },
+    {
+        "id": "20260829-06",
+        "date": "20260829",
+        "rank": 6,
+        "name": "★[특가] 종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://image2.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/0f626ed9-e102-47dc-9d0a-8f5a9282888f.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011496447&vendorItemId=70000310689213"
+    },
+    {
+        "id": "20260829-07",
+        "date": "20260829",
+        "rank": 7,
+        "name": "맞춤법 박사가 되는 초등 필수 맞춤법 따라쓰기 전 2권 세트",
+        "price": 13720,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/ce96/e5b02a57bfccd1fcc300f2222a7e13cc43ceb356eda0990560acc5888110.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1494279598"
+    },
+    {
+        "id": "20260829-08",
+        "date": "20260829",
+        "rank": 8,
+        "name": "제이픽스 MJ 식탁의자",
+        "price": 55000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/335785152214778-05905439-d853-4464-adcd-f856022a1769.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6924856145"
+    },
+    {
+        "id": "20260829-09",
+        "date": "20260829",
+        "rank": 9,
+        "name": "NIUFLY 두꺼운 슬라이더 지퍼백 3종 세트 60매 다회용 스탠딩 지퍼백",
+        "price": 11900,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/f1ce/a104ec764b986a639f461a1039a1cb71129bf2bcf8fca4489ddf57a207f0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9661933090"
+    },
+    {
+        "id": "20260829-10",
+        "date": "20260829",
+        "rank": 10,
+        "name": "원더푸드 짜먹는 고양이 간식 60p",
+        "price": 9900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/168347275191317-46b66605-3a1f-43c9-abd2-42a73c07d677.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059292300"
+    },
+    {
         "id": "20260828-01",
         "date": "20260828",
         "rank": 1,
