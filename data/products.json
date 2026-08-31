@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260831-01",
+        "date": "20260831",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/16410130977344-449f81df-4e44-485e-af90-dc92159e4165.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260831-02",
+        "date": "20260831",
+        "rank": 2,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11600,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20260831-03",
+        "date": "20260831",
+        "rank": 3,
+        "name": "바비온 풋마스터 강아지 고양이 부분미용 이발기 SBC-12",
+        "price": 18900,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2026/08/20/18/7/f8e744a7-c163-4525-b314-7ae526b4bdff.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9681586255"
+    },
+    {
+        "id": "20260831-04",
+        "date": "20260831",
+        "rank": 4,
+        "name": "[복숭아장인] 초고당도 말랑이 백도 복숭아",
+        "price": 20310,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/5015/6e30dd57ec8cef4ce68c4017b9f86450e1fcf1a6926349cffb08e6dc75d2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9673165588"
+    },
+    {
+        "id": "20260831-05",
+        "date": "20260831",
+        "rank": 5,
+        "name": "샘트리 촉촉한 맛병아리콩 오리지널",
+        "price": 11900,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/0522/a8e55fbc364484c2dea16c216429a066ef72cae98c379104ee49723f6003.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9196219302"
+    },
+    {
+        "id": "20260831-06",
+        "date": "20260831",
+        "rank": 6,
+        "name": "[행복미트] 돼지 미박사태 돈사태살 껍데기있음 수육용 보쌈용 2kg [당일발송]",
+        "price": 22210,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/2313/e4d19f192548e149332b4efb1ad65941afd6b89fbf3ff53dbf6f9a56a551.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9339378797"
+    },
+    {
+        "id": "20260831-07",
+        "date": "20260831",
+        "rank": 7,
+        "name": "페디그리 강아지 스메코스 스틱스",
+        "price": 9000,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2707263505636909-593fd0f4-a1e1-4253-b4e1-cdd6de74894c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8337955197"
+    },
+    {
+        "id": "20260831-08",
+        "date": "20260831",
+        "rank": 8,
+        "name": "닌자 블라스트 맥스 무선 블렌더 BC251KR",
+        "price": 106510,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2025/07/24/17/4/b00c0ee7-ef29-4b29-9a6f-24d5dce9cf82.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8941615085"
+    },
+    {
+        "id": "20260831-09",
+        "date": "20260831",
+        "rank": 9,
+        "name": "A2. [골드박스★선착순] 하이시즌 주중 소인 1인 종일권",
+        "price": 49000,
+        "image_url": "https://img3a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/b47ed265-3c9d-4b6c-a1da-30c48b5724bd.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011299740&vendorItemId=70000311034567"
+    },
+    {
+        "id": "20260831-10",
+        "date": "20260831",
+        "rank": 10,
+        "name": "프리티케어 무선 자동 물걸레 청소기, 3in1자동세척",
+        "price": 270630,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/e29d/abdf9683538e8c4745d3d0d1328e899be406f473765759de974cb74c145b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8879999311"
+    },
+    {
         "id": "20260830-01",
         "date": "20260830",
         "rank": 1,
