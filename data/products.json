@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260901-01",
+        "date": "20260901",
+        "rank": 1,
+        "name": "곰곰 소중한 우리쌀",
+        "price": 65890,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/7199156280747958-a98eedba-5969-4c4a-abf0-febde51cc366.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=166996432"
+    },
+    {
+        "id": "20260901-02",
+        "date": "20260901",
+        "rank": 2,
+        "name": "크리넥스 데코 앤 소프트 화이트 천연펄프 3겹 고급롤화장지",
+        "price": 25350,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/98145334917948-8aef7415-788b-4929-b171-588caee5b279.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677618842"
+    },
+    {
+        "id": "20260901-03",
+        "date": "20260901",
+        "rank": 3,
+        "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품",
+        "price": 16700,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1703093047"
+    },
+    {
+        "id": "20260901-04",
+        "date": "20260901",
+        "rank": 4,
+        "name": "아몬드브리즈 오리지널",
+        "price": 15120,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/62392158900845-db2260a0-1ea8-4145-bcbe-c5e769595991.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6654766761"
+    },
+    {
+        "id": "20260901-05",
+        "date": "20260901",
+        "rank": 5,
+        "name": "[하루딱100박스] 한정특가 국내산 당일조업 2~3인분 특품 민어회",
+        "price": 31910,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/0a57/c902f1664a1eaa5c07330558cb2527c02a01efbe63ed85353ec8baee2dba.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9670032741"
+    },
+    {
+        "id": "20260901-06",
+        "date": "20260901",
+        "rank": 6,
+        "name": "나이키 여성용 에어 포스 1 07 운동화 DD8959-100 + 추가 신발끈 세트",
+        "price": 129000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2026/01/19/11/7/3d9606c2-a28b-4d80-bf85-d17bbf29c3ff.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9570781020"
+    },
+    {
+        "id": "20260901-07",
+        "date": "20260901",
+        "rank": 7,
+        "name": "뉴발란스 스탠다드 중목 양말 5팩 NBDSDMDL",
+        "price": 17900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/891378276835897-489d351b-5663-4261-a841-3bac390828a7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8118316861"
+    },
+    {
+        "id": "20260901-08",
+        "date": "20260901",
+        "rank": 8,
+        "name": "머슬팜 컴뱃 울트라 웨이 프로틴 파우더 드링크 믹스 단백질 보충제 초콜릿 밀크",
+        "price": 89760,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/656b/89a40be7408d4179a376010643e952fb614b9003e43e5c25c2d47d7f4d3b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9178775278"
+    },
+    {
+        "id": "20260901-09",
+        "date": "20260901",
+        "rank": 9,
+        "name": "2026년형 틴도우 침구청소기 16000Pa 강력흡입 UV살균 60도 고온 열풍 건조 진드기 제거 이불 매트리스 청소기",
+        "price": 89900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/2243/f15aff06724ce9575ae1c62a20c1e77fa4b731a0eb8ae07685810374a9df.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371637264"
+    },
+    {
+        "id": "20260901-10",
+        "date": "20260901",
+        "rank": 10,
+        "name": "하동녹차 명란김 도시락 프리미엄Ⅱ",
+        "price": 19290,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2023/07/27/11/9/434ceb85-03f2-4c89-8d03-2da3dcc5970f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6174597636"
+    },
+    {
         "id": "20260831-01",
         "date": "20260831",
         "rank": 1,
