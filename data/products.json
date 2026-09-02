@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260902-01",
+        "date": "20260902",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 18870,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/33597756644270-a896be4b-096d-4ab8-94c7-8d5adf8f1762.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8114968257"
+    },
+    {
+        "id": "20260902-02",
+        "date": "20260902",
+        "rank": 2,
+        "name": "르무통 메이트 발 편한 메리노울 운동화",
+        "price": 118000,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/5adf/56af04084c3ad1a27c0dceb23c70e8b4dc1f2e4d3a4f226ef620e45496b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20260902-03",
+        "date": "20260902",
+        "rank": 3,
+        "name": "일리윤 세라마이드 아토 로션 무향",
+        "price": 14720,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/76383476284976-beeac87e-878a-434d-9b87-acc1ecbc6961.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9039379842"
+    },
+    {
+        "id": "20260902-04",
+        "date": "20260902",
+        "rank": 4,
+        "name": "깨끗한나라 데일리 천연펄프 키친타월",
+        "price": 7200,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/a95d/7f701514bb4ded3eb0e7816dec9fb89f006b8352db0e53bcfcb1c56e6383.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660554607"
+    },
+    {
+        "id": "20260902-05",
+        "date": "20260902",
+        "rank": 5,
+        "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
+        "price": 38890,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2025/05/07/14/3/f4024daf-9035-4009-8450-7123872220d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8758755740"
+    },
+    {
+        "id": "20260902-06",
+        "date": "20260902",
+        "rank": 6,
+        "name": "마스마룰즈 래빗에코백 + 파우치 세트",
+        "price": 39900,
+        "image_url": "https://img5c.coupangcdn.com/image/rs_quotation_api/yssnh6cc/7b717f7fd7574f8a841059ed387b696c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8631563688"
+    },
+    {
+        "id": "20260902-07",
+        "date": "20260902",
+        "rank": 7,
+        "name": "[2026년형] NICESUN 차이슨 무선 스틱 청소기 BLDC 모터 30KPa 초강력 흡입력 셀프 스탠딩 다양한 구성품",
+        "price": 88470,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/b00e/59499b143a018a9be4cbe3b3bff1c4461b7c3f6d8993561575bd140ffe82.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9126488343"
+    },
+    {
+        "id": "20260902-08",
+        "date": "20260902",
+        "rank": 8,
+        "name": "★골드박스/초특급 한정수량★ 신화테마파크(Low 시즌) 1인권 <201026>",
+        "price": 45000,
+        "image_url": "https://img1c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186691/6dda72a4-da7e-4b11-87d3-41fa704b2b79.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010357435&vendorItemId=70000311002519"
+    },
+    {
+        "id": "20260902-09",
+        "date": "20260902",
+        "rank": 9,
+        "name": "[브랜드인증] 존바바토스 아티산 블루 오 드 뚜왈렛",
+        "price": 59600,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/image_audit/prod/8b3ec5b2-a669-49ad-9a04-11f547a985fe_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9479077135"
+    },
+    {
+        "id": "20260902-10",
+        "date": "20260902",
+        "rank": 10,
+        "name": "[최신형]  틴도우 다용도 패브릭 청소기 가정용  카페트 침구 쇼파 습식청소기",
+        "price": 94400,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/3301/9be07c17b7c00b1f15a66bb4674061d39fcc370ebda808df8441967c04c4.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8769129764"
+    },
+    {
         "id": "20260901-01",
         "date": "20260901",
         "rank": 1,
