@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260903-01",
+        "date": "20260903",
+        "rank": 1,
+        "name": "뉴케어 올프로틴 고소한맛",
+        "price": 41320,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/99780434550593-7af74caf-d3b0-4fae-8d75-30b1478700ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391180879"
+    },
+    {
+        "id": "20260903-02",
+        "date": "20260903",
+        "rank": 2,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://img2a.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260903-03",
+        "date": "20260903",
+        "rank": 3,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 19900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/183527831882073-ded2962c-cfa7-407a-ad28-183e4ac05fa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
+        "id": "20260903-04",
+        "date": "20260903",
+        "rank": 4,
+        "name": "키친아트 뉴 티타늄 코팅 프라이팬",
+        "price": 12800,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/381736717850587-3b446778-3de8-4ea1-a749-120d96bd0164.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9171562099"
+    },
+    {
+        "id": "20260903-05",
+        "date": "20260903",
+        "rank": 5,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 56800,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/e77d/ae77328ab86209793e0ed545651374cc07f8e6ee8bcc7e8346594adf9bbb.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20260903-06",
+        "date": "20260903",
+        "rank": 6,
+        "name": "헬시오리진스 퍼포먼스 크레아틴",
+        "price": 34070,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/dd94/97ffb7ba9270589e4a0e9675a15266f0a8cda2b7fda02b90f8618f84463d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8186148778"
+    },
+    {
+        "id": "20260903-07",
+        "date": "20260903",
+        "rank": 7,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 167900,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/3dcb/7657d8ab444b90696f60397f987f38a61c65e6c197bcb506b598e3b04a46.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9700355218"
+    },
+    {
+        "id": "20260903-08",
+        "date": "20260903",
+        "rank": 8,
+        "name": "셀루코어 C4 오리지널 프리-워크아웃 핑크 레모네이드",
+        "price": 85700,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/5795/18ee6c0347e6fba8f47784f62c4adeccbfe9fdff16e48233a3ea9657a392.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9413466122"
+    },
+    {
+        "id": "20260903-09",
+        "date": "20260903",
+        "rank": 9,
+        "name": "★골드박스/1차 한정수량★ 신화테마파크(Low 시즌) 1인권 <200869>",
+        "price": 45000,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186691/4f561ee0-df8e-4d11-8f83-b33d672b6265.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011430061&vendorItemId=70000310909349"
+    },
+    {
+        "id": "20260903-10",
+        "date": "20260903",
+        "rank": 10,
+        "name": "(골드박스)[벡스코] 1인 종일권 1인권",
+        "price": 35000,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00668506/6fbd3c42-d8e3-44fa-b5fd-fc7be8d24459.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011499076&vendorItemId=70000311002448"
+    },
+    {
         "id": "20260902-01",
         "date": "20260902",
         "rank": 1,
