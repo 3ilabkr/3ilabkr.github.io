@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260904-01",
+        "date": "20260904",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 16450,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20260904-02",
+        "date": "20260904",
+        "rank": 2,
+        "name": "차일드라이프 액상 칼슘 마그네슘 오렌지맛",
+        "price": 28800,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/712413295656607-f5bb5f63-1b3c-48bc-bb69-dfa7c5d7025b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7434759210"
+    },
+    {
+        "id": "20260904-03",
+        "date": "20260904",
+        "rank": 3,
+        "name": "듀이트리 하이 아미노 올 클렌징 대용량 밀크",
+        "price": 15400,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/54ae/3de039f76bf9437eb4e1df3f5995f1bcdf99ad799b56553dd18dc25eb339.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7397036159"
+    },
+    {
+        "id": "20260904-04",
+        "date": "20260904",
+        "rank": 4,
+        "name": "동원샘물 무라벨",
+        "price": 12100,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/72187695788658-c5ea3793-f790-4708-ba46-c43d287b338d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7869554357"
+    },
+    {
+        "id": "20260904-05",
+        "date": "20260904",
+        "rank": 5,
+        "name": "스파오 아동용 COOL 절개 와이드 스웨트팬츠 C",
+        "price": 20200,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/06/29/15/2/03227037-bb52-4f6a-9c7b-8b752b0835bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9624939915"
+    },
+    {
+        "id": "20260904-06",
+        "date": "20260904",
+        "rank": 6,
+        "name": "[단독특가] 유명산지 초고당도 샤인머스캣",
+        "price": 29300,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/d49a/f970815f0eea51b2f1430505d02bbd5ad9459e6605e88ccfb84c70dac80d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9661764500"
+    },
+    {
+        "id": "20260904-07",
+        "date": "20260904",
+        "rank": 7,
+        "name": "키루에 폴딩 대용량 리빙박스 수납박스 대형 가정용 거실 장난감 사물함 간식 선반 옷정리함 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 리빙박",
+        "price": 42000,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/3cfd/4f8a909b285860e0fd6f30b5917d5b6bea9bab4edffa0cb41af8a8cbafbb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8541268926"
+    },
+    {
+        "id": "20260904-08",
+        "date": "20260904",
+        "rank": 8,
+        "name": "[로켓프레시] 제스프리 썬골드 키위",
+        "price": 24670,
+        "image_url": "https://image1.coupangcdn.com/image/rs_quotation_api/ilraxnmj/be165f6255c949dea15301b8400cc4b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=212167178"
+    },
+    {
+        "id": "20260904-09",
+        "date": "20260904",
+        "rank": 9,
+        "name": "★골드박스/1차 한정수량★ 신화테마파크(Low 시즌) 1인권 <200869>",
+        "price": 45000,
+        "image_url": "https://image5.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186691/8aec6d3f-9f53-4586-b095-bf3c309e1707.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011241190&vendorItemId=70000311142818"
+    },
+    {
+        "id": "20260904-10",
+        "date": "20260904",
+        "rank": 10,
+        "name": "포트메리온 사각 미니 접시 4p",
+        "price": 14500,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/ad8a/186c44d6cf3ecc4e3d9745768d5eeef24e25c01ce5ce19434f3853780731.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=200683"
+    },
+    {
         "id": "20260903-01",
         "date": "20260903",
         "rank": 1,
