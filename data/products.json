@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260906-01",
+        "date": "20260906",
+        "rank": 1,
+        "name": "다우니 초고농축 호텔 컬렉션 섬유유연제 미스티크 본품",
+        "price": 18850,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/356947226725653-567dc0d9-a849-4ddd-8286-f22a83af1841.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7026135886"
+    },
+    {
+        "id": "20260906-02",
+        "date": "20260906",
+        "rank": 2,
+        "name": "오랄비 크로스액션 탁월한 세정력 칫솔",
+        "price": 18480,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/30476567875169-ad0d2ce6-4390-46d6-807f-e575018a3999.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8880355026"
+    },
+    {
+        "id": "20260906-03",
+        "date": "20260906",
+        "rank": 3,
+        "name": "다우니 퍼퓸 쥬얼 에메랄드 브리즈 향기부스터",
+        "price": 27900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/179849008416978-bc0d9511-501c-4463-8916-8eb40cc00b54.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7119749377"
+    },
+    {
+        "id": "20260906-04",
+        "date": "20260906",
+        "rank": 4,
+        "name": "행복미트 미국산 소고기 아롱사태 알사태 수육용 찜용 국거리용",
+        "price": 30940,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/83a6/5a4e19c24e0b1fcfdc943b97c7b0a82221a28eadc77a3eae583b5aa202d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7361432988"
+    },
+    {
+        "id": "20260906-05",
+        "date": "20260906",
+        "rank": 5,
+        "name": "[단독특가] 김치대가 수제양념 여수 고들빼기 김치",
+        "price": 14110,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/c4e3/b61b56367732cedfd78a4a119329ccabd41af474aa7b65ce65073917a87d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9672675312"
+    },
+    {
+        "id": "20260906-06",
+        "date": "20260906",
+        "rank": 6,
+        "name": "Yzontro EMS 슬림벨트 에르고바디 무선 복부 온열 마사지기 남녀 공용 연장밴드 증정",
+        "price": 139840,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/a1ef/4aff5c437366aa26e0b79311f18eaf9fcb55e4f2e1098baae284f135fbcf.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9544502256"
+    },
+    {
+        "id": "20260906-07",
+        "date": "20260906",
+        "rank": 7,
+        "name": "대용량스테인리스 강깊은 냄비",
+        "price": 25600,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/0aa3/dbb07741e3092fa1d747b024a225a0c13232953fe381c77baddd5de9538b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9042355598"
+    },
+    {
+        "id": "20260906-08",
+        "date": "20260906",
+        "rank": 8,
+        "name": "◆WEST동◆스위트A(취사/스탠다드)",
+        "price": 287000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/11379f85-4e27-4758-9c3b-1e03e6dcd145.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010787485&vendorItemId=70000283128738"
+    },
+    {
+        "id": "20260906-09",
+        "date": "20260906",
+        "rank": 9,
+        "name": "코멧 검정 손잡이 비닐봉투",
+        "price": 8890,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/265274112391408-75cb0332-0836-437d-ac63-7cc8527111ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8688426323"
+    },
+    {
+        "id": "20260906-10",
+        "date": "20260906",
+        "rank": 10,
+        "name": "★[ 로보카폴리 얼리버드 ] 원더파크 1인 입장권",
+        "price": 22000,
+        "image_url": "https://image10.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310520/2201346f-a505-44be-bee4-019b66393a1b.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011499778&vendorItemId=70000311147058"
+    },
+    {
         "id": "20260905-01",
         "date": "20260905",
         "rank": 1,
