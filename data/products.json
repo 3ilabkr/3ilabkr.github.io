@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260907-01",
+        "date": "20260907",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14780,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20260907-02",
+        "date": "20260907",
+        "rank": 2,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 24080,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/71398767918130-b431ac05-41d7-466f-83e2-c4758d247341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7666070794"
+    },
+    {
+        "id": "20260907-03",
+        "date": "20260907",
+        "rank": 3,
+        "name": "세브란스에이투 전용목장 단백우유",
+        "price": 21900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/644849022750986-6eb5a495-d800-42c9-aff9-9998af119b8c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660544404"
+    },
+    {
+        "id": "20260907-04",
+        "date": "20260907",
+        "rank": 4,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 17370,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20260907-05",
+        "date": "20260907",
+        "rank": 5,
+        "name": "조양FNG HACCP인증 국산 다진마늘",
+        "price": 9530,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/image_audit/prod/98ec6368-459e-4ee2-bfa6-a450c3eb878d_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7673804291"
+    },
+    {
+        "id": "20260907-06",
+        "date": "20260907",
+        "rank": 6,
+        "name": "큰사이즈 당도선별 제스프리 골드키위",
+        "price": 14330,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/96a3/f0cf0fa7a267e9a9dc01be5ca1f25b3a05ec9d7eccbef271f6e990221208.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9516831862"
+    },
+    {
+        "id": "20260907-07",
+        "date": "20260907",
+        "rank": 7,
+        "name": "슈퍼츄 고양이가 좋아하는 통살 100p",
+        "price": 23900,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/3046/e4b88ef6a9668a26e5680f04bf2e5bc36569581212f178f3d58a1fd0c55e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7776863430"
+    },
+    {
+        "id": "20260907-08",
+        "date": "20260907",
+        "rank": 8,
+        "name": "스너글 섬유유연제 햇빛건조향 허거블 선샤인 본품",
+        "price": 17490,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/17612216138383-46ac9b6f-f751-4a57-8106-c63913b92bbc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150772617"
+    },
+    {
+        "id": "20260907-09",
+        "date": "20260907",
+        "rank": 9,
+        "name": "포트메리온 보타닉가든 테라스 만두그릇 멀티 컬러 세트 4p",
+        "price": 87900,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/929287834591347-d1d826b7-3cc3-4e6f-8224-b02879f5cc81.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9126550200"
+    },
+    {
+        "id": "20260907-10",
+        "date": "20260907",
+        "rank": 10,
+        "name": "나우푸드 커큐브레인 400mg 베지 캡슐",
+        "price": 73750,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/b49f/5dcc2b2abab50b1cdfad4cbb4f20df94be1fd7c23dba4c2ebe89269c3f36.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5335326780"
+    },
+    {
         "id": "20260906-01",
         "date": "20260906",
         "rank": 1,
