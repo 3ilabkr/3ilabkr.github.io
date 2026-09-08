@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260908-01",
+        "date": "20260908",
+        "rank": 1,
+        "name": "롯데 칠성사이다",
+        "price": 14920,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/89292073074044-cf51f14e-388e-4764-bff6-9481c3f0e694.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8712796546"
+    },
+    {
+        "id": "20260908-02",
+        "date": "20260908",
+        "rank": 2,
+        "name": "AHC 마스터즈 아쿠아 리치 선크림 SPF50+ PA++++",
+        "price": 11340,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/4119157550861544-e8dcce7c-5071-49c5-81f5-76c7c7bc9070.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7232503577"
+    },
+    {
+        "id": "20260908-03",
+        "date": "20260908",
+        "rank": 3,
+        "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬",
+        "price": 49200,
+        "image_url": "https://image4.coupangcdn.com/image/1025_amir_coupang_oct_80k/047e/4cf786e98fa56b7bea4c486ede83c08d19682f591a2e3da993fe394d37c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5391887777"
+    },
+    {
+        "id": "20260908-04",
+        "date": "20260908",
+        "rank": 4,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260908-05",
+        "date": "20260908",
+        "rank": 5,
+        "name": "매일두유 99.9 플레인",
+        "price": 15800,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/139627710988148-dd5d246c-120d-451a-9d79-6e8926882a1e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757115239"
+    },
+    {
+        "id": "20260908-06",
+        "date": "20260908",
+        "rank": 6,
+        "name": "고당도선별 세척사과 껍질째먹는 꿀사과",
+        "price": 27900,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/dd1e/13154b0cff52dc880125348d4c8b1edb0af9543858c24fc399bf82dd7858.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9398035509"
+    },
+    {
+        "id": "20260908-07",
+        "date": "20260908",
+        "rank": 7,
+        "name": "[행복미트] 돼지 등갈비 수입산 살이 두꺼운 최고의 로인립 구이용 찜용 2kg+2kg 총 4kg [당일발송]",
+        "price": 48070,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/6711/00c57b2390245e02483741fb85f675f0734d4c8d236658cc1e52482c09ee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7577580171"
+    },
+    {
+        "id": "20260908-08",
+        "date": "20260908",
+        "rank": 8,
+        "name": "더샘 커버 퍼펙션 컨실러 듀오 세트",
+        "price": 15000,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2025/09/18/12/5/05cd87e5-7104-410d-940a-1d4a504b1357.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9071743763"
+    },
+    {
+        "id": "20260908-09",
+        "date": "20260908",
+        "rank": 9,
+        "name": "베네통 내추럴 버킷햇",
+        "price": 28900,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/3oxs95cw/b35d23a0dce242129f539dbe8c4a3436.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9529010866"
+    },
+    {
+        "id": "20260908-10",
+        "date": "20260908",
+        "rank": 10,
+        "name": "솔리몬 스퀴즈드 레몬즙",
+        "price": 11550,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/33246497023227-96a55430-1ef5-4a37-8ea5-0367201f7878.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7473901049"
+    },
+    {
         "id": "20260907-01",
         "date": "20260907",
         "rank": 1,
