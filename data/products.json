@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260910-01",
+        "date": "20260910",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 21990,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/101541717288379-1e216573-e4d2-492f-af77-61c51d2f198b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20260910-02",
+        "date": "20260910",
+        "rank": 2,
+        "name": "펩시 제로슈거 라임향 제로카페인 탄산음료",
+        "price": 15500,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2025/11/07/12/0/b7a27492-ba9d-4fbd-817b-938919761021.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8680308800"
+    },
+    {
+        "id": "20260910-03",
+        "date": "20260910",
+        "rank": 3,
+        "name": "페브리즈 항균플러스 섬유탈취제 깨끗한향 본품",
+        "price": 16440,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/149670249588034-59dbf49c-75e3-4135-bf0b-f1be386b07ba.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677851491"
+    },
+    {
+        "id": "20260910-04",
+        "date": "20260910",
+        "rank": 4,
+        "name": "삭피엔스 여성용 발목이 가늘어 보이는 골지 중목 양말 8켤레",
+        "price": 12900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/322308168976345-a3cb7322-36bc-46a5-8641-684dbb79a730.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2269709378"
+    },
+    {
+        "id": "20260910-05",
+        "date": "20260910",
+        "rank": 5,
+        "name": "(덕산) 스플라스 리솜 스파&워터파크 [B].소인권",
+        "price": 40000,
+        "image_url": "https://image13.coupangcdn.com/image/travel_reactor/travelSeller/common/A00221268/f91f10cd-4abe-4fd0-bf02-fa2af6498db5.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011471693&vendorItemId=70000307089329"
+    },
+    {
+        "id": "20260910-06",
+        "date": "20260910",
+        "rank": 6,
+        "name": "뉴발란스키즈 아동용 에센셜 바람막이 NK9AGB998U",
+        "price": 67370,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2026/03/19/10/0/50172ec1-c082-4359-bfd8-5234c543f02b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9444653104"
+    },
+    {
+        "id": "20260910-07",
+        "date": "20260910",
+        "rank": 7,
+        "name": "나이키 여성용 보메로 플러스 런닝화 HV8154-002",
+        "price": 167000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2026/01/27/11/5/16767a01-1e34-433e-b1d3-c091c883a1fb.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9042016084"
+    },
+    {
+        "id": "20260910-08",
+        "date": "20260910",
+        "rank": 8,
+        "name": "마루코메 요리정의 맛 모듬 파 + 두부 + 미역 + 유부 36개입",
+        "price": 25300,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/af97/a8c91f542c00660429b61e08242fe229d9df1b65a11b73a383f124a1d9ee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9016655027"
+    },
+    {
+        "id": "20260910-09",
+        "date": "20260910",
+        "rank": 9,
+        "name": "젠하이저 ACCENTUM Open 블루투스 이어폰",
+        "price": 88000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2025/05/27/15/5/8f39155b-98c6-4223-8475-cf19dc1d4430.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8799341280"
+    },
+    {
+        "id": "20260910-10",
+        "date": "20260910",
+        "rank": 10,
+        "name": "닥터스베스트 하이 앱솔션 CoQ10 100mg 소프트젤",
+        "price": 23190,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/b137/fee6c74d82d545446f2a91e29bf403920c7a02c4fb8289045df6fd729dc2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=228822"
+    },
+    {
         "id": "20260909-01",
         "date": "20260909",
         "rank": 1,
