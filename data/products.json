@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260911-01",
+        "date": "20260911",
+        "rank": 1,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 38700,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/71399001727071-da1aa17e-b083-45de-a686-db31a5476502.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725928327"
+    },
+    {
+        "id": "20260911-02",
+        "date": "20260911",
+        "rank": 2,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 21100,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20260911-03",
+        "date": "20260911",
+        "rank": 3,
+        "name": "지베르니 밀착 커버 쿠션 파운데이션 본품 12g + 리필 12g 세트",
+        "price": 15200,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/716183004765344-3803c05f-645a-42da-85e2-581f7fe5c58f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8059631632"
+    },
+    {
+        "id": "20260911-04",
+        "date": "20260911",
+        "rank": 4,
+        "name": "소르미 구워먹는 치즈 200g x 3팩 총 60개입 대용량 모짜렐라 치즈",
+        "price": 19000,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1772516739550/364e123b-aa85-4e9a-9761-7703489c5484.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8006385703"
+    },
+    {
+        "id": "20260911-05",
+        "date": "20260911",
+        "rank": 5,
+        "name": "에이서 2025 니트로 V 16S 라이젠7 라이젠 200 시리즈 지포스 RTX 5050",
+        "price": 1619000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/53368504885844-a88f366c-220b-48d6-8b24-d30b814b2aac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9165386001"
+    },
+    {
+        "id": "20260911-06",
+        "date": "20260911",
+        "rank": 6,
+        "name": "제오닉 블랙 김장 김치통 원핸들",
+        "price": 15970,
+        "image_url": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/f0f0/be8601b5646719a30eb61c1a16b146b27606ce1b4ffc910152add9f1a80b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6835842313"
+    },
+    {
+        "id": "20260911-07",
+        "date": "20260911",
+        "rank": 7,
+        "name": "BRUNO 무선 스트랩 핸즈프리 온열 목어깨 마사지기",
+        "price": 37950,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2204211231073759-ba5b2088-df82-4272-8eb7-16b0482986f9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7694024753"
+    },
+    {
+        "id": "20260911-08",
+        "date": "20260911",
+        "rank": 8,
+        "name": "★WEST패밀리(취사/스탠다드/침대)",
+        "price": 280000,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/0cd84f5c-2d7f-480c-b35f-4c637e360052.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010793428&vendorItemId=70000154452823"
+    },
+    {
+        "id": "20260911-09",
+        "date": "20260911",
+        "rank": 9,
+        "name": "코멧 정수필터 샤워기 헤드 2p + 리필필터 10p 세트",
+        "price": 12390,
+        "image_url": "https://img4c.coupangcdn.com/image/1025_amir_coupang_oct_80k/32a6/c564bcf0a22201246543efe70f89569c1fe4f5cdadeedca674a51fc69405.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8250215923"
+    },
+    {
+        "id": "20260911-10",
+        "date": "20260911",
+        "rank": 10,
+        "name": "(타워콘도) 18타입 침대",
+        "price": 170000,
+        "image_url": "https://img1c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/8b657941-4602-4a45-964a-9b5706ea40c4.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011368880&vendorItemId=70000287104363"
+    },
+    {
         "id": "20260910-01",
         "date": "20260910",
         "rank": 1,
