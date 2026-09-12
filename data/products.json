@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260912-01",
+        "date": "20260912",
+        "rank": 1,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 39900,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/0619/4fcf8740ceb41014a9274fe781a8cd3748f087a907c88dfb89710b32e5bb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20260912-02",
+        "date": "20260912",
+        "rank": 2,
+        "name": "Kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 42000,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/0408/1c4538b61495680f3235964c0e5bc33eca1c22f2e81cd22283554d0985ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20260912-03",
+        "date": "20260912",
+        "rank": 3,
+        "name": "행복미트 프리미엄 소 스지 수육 탕 전골용",
+        "price": 26090,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/fd5245cbb4710fe44bf56ae7446e8623320614ded2644dc3be0978cac547_1776647972386.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484261404"
+    },
+    {
+        "id": "20260912-04",
+        "date": "20260912",
+        "rank": 4,
+        "name": "곰곰 한돈 복고 삼겹살 구이용 (냉동)",
+        "price": 20990,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/1149492443261857-384a1cf2-2676-44d1-afd6-5cfe483a6d88.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8799599869"
+    },
+    {
+        "id": "20260912-05",
+        "date": "20260912",
+        "rank": 5,
+        "name": "헤이홈 Pro+ 5MP 스마트 홈카메라 실내용",
+        "price": 77900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/02/07/18/6/055c251d-6695-45ff-a2da-e6bba2e809e1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8586833663"
+    },
+    {
+        "id": "20260912-06",
+        "date": "20260912",
+        "rank": 6,
+        "name": "신일 EMF 전기요 SEB-H220CP",
+        "price": 62900,
+        "image_url": "https://image4.coupangcdn.com/image/1025_amir_coupang_oct_80k/1341/e871f8f7bf770841e83955ac35afb1266fe2b8c16f329c0bb9278737b6c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2076600216"
+    },
+    {
+        "id": "20260912-07",
+        "date": "20260912",
+        "rank": 7,
+        "name": "(골드박스) 종일권 1인권",
+        "price": 20000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00668506/1bf66193-4d94-4a47-b3fc-6f4f887f2029.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011502949&vendorItemId=70000312145919"
+    },
+    {
+        "id": "20260912-08",
+        "date": "20260912",
+        "rank": 8,
+        "name": "톰토미 한국을 빛낸 100명의 위인들 사운드북",
+        "price": 18900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/2025/11/02/10/8/4aa669d8-f0c3-4c04-b801-7c238189ac72.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9163335476"
+    },
+    {
+        "id": "20260912-09",
+        "date": "20260912",
+        "rank": 9,
+        "name": "롯데제과 칙촉 오리지널",
+        "price": 10360,
+        "image_url": "https://image2.coupangcdn.com/image/1025_amir_coupang_oct_80k/0cdd/ee3fbe90a34f86cc9a124702e58bdda1d899ebb05468bc75b975d2ced720.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6813176799"
+    },
+    {
+        "id": "20260912-10",
+        "date": "20260912",
+        "rank": 10,
+        "name": "마르디메크르디 여성용 플라워 자르댕 면 티셔츠",
+        "price": 58000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/192757422507605-f21078fb-7b0c-4ee6-9fa6-cd6ee84a20a1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9442482920"
+    },
+    {
         "id": "20260911-01",
         "date": "20260911",
         "rank": 1,
