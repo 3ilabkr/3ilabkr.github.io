@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260913-01",
+        "date": "20260913",
+        "rank": 1,
+        "name": "필립스 SkinIQ 5000 시리즈 전기면도기",
+        "price": 126970,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/413910405199822-2de5fc12-5a00-49c3-af64-5c636d5f86b6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5221721596"
+    },
+    {
+        "id": "20260913-02",
+        "date": "20260913",
+        "rank": 2,
+        "name": "프리티케어 2026년형 고온 스팀청소기 고압 스팀물걸레청소기 다용도 스팀클리너 리필걸레+다양한 구성품",
+        "price": 104500,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/c600/9e4bb628727c567f44e6be88d8bfee59c90abf10406e25600cbd8fa1a40f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9660247432"
+    },
+    {
+        "id": "20260913-03",
+        "date": "20260913",
+        "rank": 3,
+        "name": "★WEST패밀리(클린/스탠다드/침대)",
+        "price": 259000,
+        "image_url": "https://image11.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/bad54b30-05cf-49b0-89da-87ba50c2149d.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010793428&vendorItemId=70000296286212"
+    },
+    {
+        "id": "20260913-04",
+        "date": "20260913",
+        "rank": 4,
+        "name": "에이지투웨니스 멜라 디펜스 기미 노세범 선스틱 SPF50+ PA++++",
+        "price": 26900,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/8bef07a1-3ed5-4b3b-b007-431edf8727bc3580962705101219622.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9440046737"
+    },
+    {
+        "id": "20260913-05",
+        "date": "20260913",
+        "rank": 5,
+        "name": "맘스럽 울트라 퍼퓸 캡슐세제16gX100개입 [8배 초고농축 세제원액  국내생산 프리미엄 3in1 대용량 실내건조형]",
+        "price": 9760,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/b341/36b50c487e840ac51d6edaeccd4fabbc8bdd0b2f71e69a6e8acda9b197e6.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7826482313"
+    },
+    {
+        "id": "20260913-06",
+        "date": "20260913",
+        "rank": 6,
+        "name": "설야멱적 제주흑돼지 간장불고기",
+        "price": 9990,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/870512981852340-cbec48e2-9040-4060-b57a-c7f9da5aba5e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5293729885"
+    },
+    {
+        "id": "20260913-07",
+        "date": "20260913",
+        "rank": 7,
+        "name": "우아미 디아망 코너형 카우치 아쿠아텍스 6인용 패브릭 소파 + 쿠션 2p 방문설치",
+        "price": 903600,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2023/04/10/11/9/3bf639ea-913a-48bd-82a7-1240503df8bd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7257368886"
+    },
+    {
+        "id": "20260913-08",
+        "date": "20260913",
+        "rank": 8,
+        "name": "ELLE PARIS 여성용 통기성 오버핏 브이넥 7부 티셔츠",
+        "price": 7500,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/5919366350920620-2abeec10-158e-4fe2-bde5-24688c107050.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7152259926"
+    },
+    {
+        "id": "20260913-09",
+        "date": "20260913",
+        "rank": 9,
+        "name": "뉴발란스 토트백",
+        "price": 26200,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/25072663427934-65cf288d-088a-4d15-b893-b86ed9db5ce2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8051693071"
+    },
+    {
+        "id": "20260913-10",
+        "date": "20260913",
+        "rank": 10,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 12880,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/71398552289343-b41a602e-f62c-4f23-99f5-0a31785c8c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725928327"
+    },
+    {
         "id": "20260912-01",
         "date": "20260912",
         "rank": 1,
