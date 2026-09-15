@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260915-01",
+        "date": "20260915",
+        "rank": 1,
+        "name": "리큐 진한겔 하이브리드 플로랄향 일반용 액상세제 리필",
+        "price": 18900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6616908158"
+    },
+    {
+        "id": "20260915-02",
+        "date": "20260915",
+        "rank": 2,
+        "name": "코멧 오리지널 유아용 아기물티슈 캡형",
+        "price": 10890,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/44344613265746-312dd5ae-8844-4536-80c8-4110a24dd8c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=188227098"
+    },
+    {
+        "id": "20260915-03",
+        "date": "20260915",
+        "rank": 3,
+        "name": "알텐바흐 인덕션 헥사 통5중 프라이팬 세트 3개",
+        "price": 125800,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2023/01/18/9/6/c4a0dbe9-add0-4e80-bf82-efce7d7ec120.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7074592247"
+    },
+    {
+        "id": "20260915-04",
+        "date": "20260915",
+        "rank": 4,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 17410,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/534761818801708-1cc9467c-b924-4012-95fb-917b49a57fee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20260915-05",
+        "date": "20260915",
+        "rank": 5,
+        "name": "펩시 콜라",
+        "price": 14980,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/3471720381546095-e1cbc0cf-0698-42f5-a426-e0cf33efd160.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8627350082"
+    },
+    {
+        "id": "20260915-06",
+        "date": "20260915",
+        "rank": 6,
+        "name": "동원참치 선물세트 O-24호 + 부직포백",
+        "price": 42600,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/229900865079568-aadff932-1640-49d2-b43b-90326a59c347.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7615238256"
+    },
+    {
+        "id": "20260915-07",
+        "date": "20260915",
+        "rank": 7,
+        "name": "☆스탠다드",
+        "price": 120000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00005562/00ce9fec-d58b-4d50-b151-bc16205449fc.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246158&vendorItemId=70000286946023"
+    },
+    {
+        "id": "20260915-08",
+        "date": "20260915",
+        "rank": 8,
+        "name": "홈럭스 모노 라운드 선반 다용도 조립식 진열장",
+        "price": 25900,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/1f99/b5a6ebb55571bfb82b80ca8c69220deda5ec92b427590055ccf3a81cb35b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9482002564"
+    },
+    {
+        "id": "20260915-09",
+        "date": "20260915",
+        "rank": 9,
+        "name": "[로켓프레시] 대패킹 진짜 정삼겹 옛날냉삼 (냉동)",
+        "price": 20990,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/593606494024484-7bfa6933-5518-46af-8c5e-248fcc3d8f6e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6305640412"
+    },
+    {
+        "id": "20260915-10",
+        "date": "20260915",
+        "rank": 10,
+        "name": "벨킨 울트라차지 3in1 Qi2 25W 모듈형 초고속 무선 충전 독 WIZ052krSA",
+        "price": 67000,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2026/02/23/14/6/9c6d18b7-0e50-4b95-8202-07561291d82f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9393559430"
+    },
+    {
         "id": "20260914-01",
         "date": "20260914",
         "rank": 1,
