@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260916-01",
+        "date": "20260916",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16800,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260916-02",
+        "date": "20260916",
+        "rank": 2,
+        "name": "센카 퍼펙트 휩 프레시 클렌징 폼",
+        "price": 18900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/649404505332720-51a60066-9e61-43ac-b120-a1f24ba094c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8610798007"
+    },
+    {
+        "id": "20260916-03",
+        "date": "20260916",
+        "rank": 3,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 16170,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/29e3/48ef617e8ccaef650dfa7da561fb69437d1b6545148ab584cc7f4ce5cfc0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725928327"
+    },
+    {
+        "id": "20260916-04",
+        "date": "20260916",
+        "rank": 4,
+        "name": "자연다움 건강담은 견과건버섯 혼합세트 1호",
+        "price": 36900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/392718316665277-ba4bec30-607c-4d0b-a181-0927bf533349.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4745334256"
+    },
+    {
+        "id": "20260916-05",
+        "date": "20260916",
+        "rank": 5,
+        "name": "[행복미트] 돼지 미박사태 돈사태살 껍데기있음 수육용 보쌈용 2kg [당일발송]",
+        "price": 22210,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/2313/e4d19f192548e149332b4efb1ad65941afd6b89fbf3ff53dbf6f9a56a551.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9339378797"
+    },
+    {
+        "id": "20260916-06",
+        "date": "20260916",
+        "rank": 6,
+        "name": "쿠쿠 직수형 비데",
+        "price": 130000,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/c7d5/8512b889484eb2352308a6cdd446e2df0bc74f19a9f039f7a0113968e4d5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4657237802"
+    },
+    {
+        "id": "20260916-07",
+        "date": "20260916",
+        "rank": 7,
+        "name": "재로우 자로-도필러스 EPS 유산균 100억 베지 캡",
+        "price": 67230,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/31d7/fb770128a4b8a75fea2b1b879064c38d3bc0af80aa553b5203064071e5eb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7626263931"
+    },
+    {
+        "id": "20260916-08",
+        "date": "20260916",
+        "rank": 8,
+        "name": "핑크퐁 말놀이 베베핀펜",
+        "price": 70900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/132725829516837-76839667-1e5b-4089-90a5-ba8b595dbbb7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9088829309"
+    },
+    {
+        "id": "20260916-09",
+        "date": "20260916",
+        "rank": 9,
+        "name": "핑크퐁 한글버스",
+        "price": 37900,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/7507/c5f064ed5c566efffeddd661bbad1d3ec93c0caf2199b2422742c37c0efb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=53098248"
+    },
+    {
+        "id": "20260916-10",
+        "date": "20260916",
+        "rank": 10,
+        "name": "오휘 미라클 모이스처 핑크 베리어 스킨 150ml + 에멀전 100ml + 크림 25ml",
+        "price": 51840,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2025/12/18/17/3/9d456108-85b1-45ea-a2df-47e0c9fa5123.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7833657672"
+    },
+    {
         "id": "20260915-01",
         "date": "20260915",
         "rank": 1,
