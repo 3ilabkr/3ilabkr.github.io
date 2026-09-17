@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260917-01",
+        "date": "20260917",
+        "rank": 1,
+        "name": "청정원 행복 7호 세트",
+        "price": 28550,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/348797447480285-6b5f6b4b-3d97-4b2d-89c7-9f12f2810876.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8563683829"
+    },
+    {
+        "id": "20260917-02",
+        "date": "20260917",
+        "rank": 2,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 75900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20260917-03",
+        "date": "20260917",
+        "rank": 3,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자푹신한 메쉬 의자",
+        "price": 41500,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/82a3/e402cf35d44ff78579fda233c23478342b3b0ad4193c76734ed475d6c55b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20260917-04",
+        "date": "20260917",
+        "rank": 4,
+        "name": "[26년첫사과] 단독특가 고당도선별 햇 홍로사과 꿀사과",
+        "price": 12150,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/ab2f/c736fcc35b8460542d0fa55d585007c19592e7f4c44305dd3ef46fe1658b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9695331084"
+    },
+    {
+        "id": "20260917-05",
+        "date": "20260917",
+        "rank": 5,
+        "name": "닥스 하우스테디 세면 타월 150g 30수 면사",
+        "price": 25000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2832848209241027-00109a72-3555-481c-97f2-13695c539aa8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7772041365"
+    },
+    {
+        "id": "20260917-06",
+        "date": "20260917",
+        "rank": 6,
+        "name": "두발로 여성용 국산 에센셜 프리미엄 무지 중목 양말 10켤레",
+        "price": 8990,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2616921517619673-f9f14c5a-3e8a-4992-8c3f-6e12359a8eb9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7809946399"
+    },
+    {
+        "id": "20260917-07",
+        "date": "20260917",
+        "rank": 7,
+        "name": "[100%국내산] 더좋은 포기김치 HACCP인증 당일제조",
+        "price": 38900,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/914e/38f9ad1631e12c1901518e8cd0a985976abbe27267e0e160fc7953e50ada.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9613820118"
+    },
+    {
+        "id": "20260917-08",
+        "date": "20260917",
+        "rank": 8,
+        "name": "천일식품 플레인 오믈렛 (냉동)",
+        "price": 21200,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/1160319371598868-363a540c-0eac-41ec-833c-4b3fbff59ccb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=326164800"
+    },
+    {
+        "id": "20260917-09",
+        "date": "20260917",
+        "rank": 9,
+        "name": "곡물도감 국산 서리태 가득 콩물두유",
+        "price": 54900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/1467721082058-d093901a-02d3-43ee-b1fb-54dfc972df87.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7290082549"
+    },
+    {
+        "id": "20260917-10",
+        "date": "20260917",
+        "rank": 10,
+        "name": "스케쳐스 남성용 고워크 플렉스 운동화 SP0MWCGX241",
+        "price": 89000,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2026/05/27/9/2/8c623a35-fd69-4782-94f6-cc2b357a044e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9278369018"
+    },
+    {
         "id": "20260916-01",
         "date": "20260916",
         "rank": 1,
