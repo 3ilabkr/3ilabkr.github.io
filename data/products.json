@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260918-01",
+        "date": "20260918",
+        "rank": 1,
+        "name": "뉴케어 정품 구수한맛 순",
+        "price": 42670,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/60680945750065-13b5677e-af26-4ac2-a02b-3a8418e7cd1e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9729376015"
+    },
+    {
+        "id": "20260918-02",
+        "date": "20260918",
+        "rank": 2,
+        "name": "[로켓프레시] 농협안심한우 1+등급 구이세트 900g (등심250g + 채끝 250g + 부채살 200g + 업진살200g) (냉장)",
+        "price": 119000,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/95958572332171-b522a438-3bd6-4a99-9006-ddcdecc2ae8d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6936882535"
+    },
+    {
+        "id": "20260918-03",
+        "date": "20260918",
+        "rank": 3,
+        "name": "토레타 무라벨 이온음료",
+        "price": 15600,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/255924417538099-deb5cf45-caaa-46db-972f-4ac16f90e151.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6959793257"
+    },
+    {
+        "id": "20260918-04",
+        "date": "20260918",
+        "rank": 4,
+        "name": "스팸 8C호 선물세트",
+        "price": 55800,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/4044116807054-97470d2e-71b8-4093-b82e-1be1258f805c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=34050118"
+    },
+    {
+        "id": "20260918-05",
+        "date": "20260918",
+        "rank": 5,
+        "name": "청정원 행복 8호 선물세트",
+        "price": 36270,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/523893603426202-5405bc7b-40e2-402d-9fbd-ddcc3f43d75a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7530695899"
+    },
+    {
+        "id": "20260918-06",
+        "date": "20260918",
+        "rank": 6,
+        "name": "맘스럽 퍼팩트 캡슐세제 4챔버 파우치형 국산제조 8배 초고농축 4in1 대용량 실내건조",
+        "price": 8700,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/c1fc/ff80b276ce0a1c7074e4c936216ba40cc13242b19bae79f4a74c31a1ad7f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8641935458"
+    },
+    {
+        "id": "20260918-07",
+        "date": "20260918",
+        "rank": 7,
+        "name": "HUTT 창문 로봇청소기 자동 분수 초강흡입력 +리필걸레세트",
+        "price": 289900,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/f4a8/1811a8808342abce59129b3115ccc832313859b8c967a191e56e5f634bad.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717112969"
+    },
+    {
+        "id": "20260918-08",
+        "date": "20260918",
+        "rank": 8,
+        "name": "이지캔 매직 공용리필 250",
+        "price": 13900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/1608596026484-3ac05f62-3e3b-45b8-b7a3-8f59968c3c9d.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1352914251"
+    },
+    {
+        "id": "20260918-09",
+        "date": "20260918",
+        "rank": 9,
+        "name": "벤딕트 무선 초강력 에어건 써지 베이직 패키지",
+        "price": 161500,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2026/02/03/13/3/f2833ae3-0a0e-491c-a58c-507c94c7cbcb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9337305141"
+    },
+    {
+        "id": "20260918-10",
+        "date": "20260918",
+        "rank": 10,
+        "name": "[신제품] 틴도우 강력한 8000pa 스마트 물걸레 로봇청소기+자동충전",
+        "price": 127350,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/0af1/d536772530fd1da31e755745e73c37075f89e5a7789741fa65d53ed39165.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8512780172"
+    },
+    {
         "id": "20260917-01",
         "date": "20260917",
         "rank": 1,
