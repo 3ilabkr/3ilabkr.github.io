@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260921-01",
+        "date": "20260921",
+        "rank": 1,
+        "name": "르무통 메이트 발 편한 운동화 다크네이비",
+        "price": 112100,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/9755/f5cd0e3e76d1e6348315cbe7857b03a23e725efa5f5fd79667b2af7ea52b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6902113163"
+    },
+    {
+        "id": "20260921-02",
+        "date": "20260921",
+        "rank": 2,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20260921-03",
+        "date": "20260921",
+        "rank": 3,
+        "name": "뉴케어 올프로틴 고소한맛",
+        "price": 41320,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/99780434550593-7af74caf-d3b0-4fae-8d75-30b1478700ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391180879"
+    },
+    {
+        "id": "20260921-04",
+        "date": "20260921",
+        "rank": 4,
+        "name": "아몬드브리즈 언스위트",
+        "price": 15900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=329389373"
+    },
+    {
+        "id": "20260921-05",
+        "date": "20260921",
+        "rank": 5,
+        "name": "생일 축하해: 촛불을 끄고 축하 노래를 불러요!",
+        "price": 17670,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/4781528457494-579502ef-544e-4026-ad20-90719432e961.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=29859704"
+    },
+    {
+        "id": "20260921-06",
+        "date": "20260921",
+        "rank": 6,
+        "name": "뉴발란스키즈 아동용 EXCLUSIVE_에센셜 긴팔티 NK9BGB999U",
+        "price": 33000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2026/02/04/15/7/d3b3b98d-000d-4f75-972c-3e4190d6f521.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9355340016"
+    },
+    {
+        "id": "20260921-07",
+        "date": "20260921",
+        "rank": 7,
+        "name": "코멧 검정 손잡이 비닐봉투",
+        "price": 9490,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/265274112391408-75cb0332-0836-437d-ac63-7cc8527111ab.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8688426323"
+    },
+    {
+        "id": "20260921-08",
+        "date": "20260921",
+        "rank": 8,
+        "name": "곰곰 바삭 한입 동그랑땡 (냉동)",
+        "price": 6560,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2367025978837099-65d02ba6-204b-4640-8fbc-3ad100adc1c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1608824364"
+    },
+    {
+        "id": "20260921-09",
+        "date": "20260921",
+        "rank": 9,
+        "name": "[로켓프레시] 베리밸리 칠레산 블루베리 (냉동)",
+        "price": 9990,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/614638642513690-b85b6f0f-76d8-4a4e-9c6c-0187a452881a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5380364304"
+    },
+    {
+        "id": "20260921-10",
+        "date": "20260921",
+        "rank": 10,
+        "name": "잇츠스킨 스네일 콜라겐 액티브 크림",
+        "price": 16900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/2026/07/24/9/6/b7881224-c7d1-43ae-8e9e-d65836ff26ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9664406945"
+    },
+    {
         "id": "20260920-01",
         "date": "20260920",
         "rank": 1,
