@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260922-01",
+        "date": "20260922",
+        "rank": 1,
+        "name": "[로켓프레시] 농협안심한우 1++(7)등급 안심특선 23호 1kg (등심200g + 채끝200g + 갈비살200g + 부채살200g + 살치살200g) (냉장)",
+        "price": 156000,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/152008768819002-76d1be90-15e6-4305-a5e4-c72769cde77c.jfif",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8297813889"
+    },
+    {
+        "id": "20260922-02",
+        "date": "20260922",
+        "rank": 2,
+        "name": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지",
+        "price": 19270,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=34846576"
+    },
+    {
+        "id": "20260922-03",
+        "date": "20260922",
+        "rank": 3,
+        "name": "닥스 브라운 체크 가죽 배색 크로스백 + 쇼핑백_DCBA6FC30W2",
+        "price": 238000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/15717078714009-7105ba93-562c-4e78-99e7-41e028073868.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9716237926"
+    },
+    {
+        "id": "20260922-04",
+        "date": "20260922",
+        "rank": 4,
+        "name": "락앤락 비스프리모듈러 밀폐용기 직사각 260ml",
+        "price": 36400,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/141782273147369-2c277edb-9c6a-46d5-91f9-887fb57e8736.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7755474060"
+    },
+    {
+        "id": "20260922-05",
+        "date": "20260922",
+        "rank": 5,
+        "name": "B4. 선착순★종일파크이용권",
+        "price": 52000,
+        "image_url": "https://image2.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/26c81537-e0a2-4f16-9946-c782ed65eeab.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011298980&vendorItemId=70000313712363"
+    },
+    {
+        "id": "20260922-06",
+        "date": "20260922",
+        "rank": 6,
+        "name": "A2. ★골드박스★ 1인 입장권",
+        "price": 35000,
+        "image_url": "https://image9.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/1c8be07c-1adf-4886-bdfe-a506ca146ecf.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011277585&vendorItemId=70000313963998"
+    },
+    {
+        "id": "20260922-07",
+        "date": "20260922",
+        "rank": 7,
+        "name": "[로켓프레시] 넉넉하게 담은 모짜렐라 슈레드치즈",
+        "price": 19990,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/193062294626896-8aa43b79-0eb1-4347-8656-96474388e05f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9422516993"
+    },
+    {
+        "id": "20260922-08",
+        "date": "20260922",
+        "rank": 8,
+        "name": "★[블루2] 블루캐니언 종일권 소인",
+        "price": 59500,
+        "image_url": "https://image4.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310520/f04a6f89-2f0b-43a6-ac16-ad04ab1bfdc6.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011504894&vendorItemId=70000312692232"
+    },
+    {
+        "id": "20260922-09",
+        "date": "20260922",
+        "rank": 9,
+        "name": "센텔리안24 마데카크림 에이징 포커스 + 기미 토닝 앰플 세트",
+        "price": 19900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/2026/08/10/17/4/c7073e4a-a5ce-4416-81f0-3174ae541abe.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9688383654"
+    },
+    {
+        "id": "20260922-10",
+        "date": "20260922",
+        "rank": 10,
+        "name": "prepara 브루클린 트라이탄 밀폐용기 세트",
+        "price": 206100,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/d988/20aaa293fc5e81ddb617d73e68c36b4c2fb9093792763bfaf17b8976f8d9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8161091422"
+    },
+    {
         "id": "20260921-01",
         "date": "20260921",
         "rank": 1,
