@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260923-01",
+        "date": "20260923",
+        "rank": 1,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20260923-02",
+        "date": "20260923",
+        "rank": 2,
+        "name": "파워에이드 제로",
+        "price": 19680,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20260923-03",
+        "date": "20260923",
+        "rank": 3,
+        "name": "[2026년형] 틴도우  다용도 물흡입 패브릭 청소기 가정용 카페트 매트리스  습식청소기",
+        "price": 119900,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/f64d/d1481e859f5406ec27bfdd6cf17a2f562b5b9669277db7301755277ec978.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9557535012"
+    },
+    {
+        "id": "20260923-04",
+        "date": "20260923",
+        "rank": 4,
+        "name": "고급 선물세트 히말라야 핑크솔트 선물세트 250g x 5팩 + 그라인더 명절 선물세트",
+        "price": 7900,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/78e1/449332ab5e557528a73f5e3060f1579b5d2a7681dedf9b73c8dd2b8b2f26.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9731580628"
+    },
+    {
+        "id": "20260923-05",
+        "date": "20260923",
+        "rank": 5,
+        "name": "★한정수량★ [A].소인 종일권 (주중/주말 공통)",
+        "price": 32000,
+        "image_url": "https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00221268/f24516fc-7a84-4a5a-a900-a16629b786a8.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011511825&vendorItemId=70000313900517"
+    },
+    {
+        "id": "20260923-06",
+        "date": "20260923",
+        "rank": 6,
+        "name": "곰곰 옛날 삼겹살 구이용 (냉동)",
+        "price": 10220,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/347072177043189-4e4c06dd-99f3-4010-8cc6-6b6bff591e70.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6224530358"
+    },
+    {
+        "id": "20260923-07",
+        "date": "20260923",
+        "rank": 7,
+        "name": "은행놀이 리뉴얼",
+        "price": 6210,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/2025/09/02/18/6/4dccafdb-062a-4958-abe4-dfcde145cdd6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717630736"
+    },
+    {
+        "id": "20260923-08",
+        "date": "20260923",
+        "rank": 8,
+        "name": "삭스판다 20켤레 남성용 발이 편한 카바 밴딩 중목 양말",
+        "price": 9800,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/647952148325534-b1f67782-6a50-406e-a052-beee9e7f65e9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9286547597"
+    },
+    {
+        "id": "20260923-09",
+        "date": "20260923",
+        "rank": 9,
+        "name": "루앙 대만 샌드위치 햄치즈",
+        "price": 14500,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/348265246400964-a50e77f7-46b2-466f-8a38-ab6677855bdc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6137535645"
+    },
+    {
+        "id": "20260923-10",
+        "date": "20260923",
+        "rank": 10,
+        "name": "헬시오리진스 베르베린 피토솜 550mg 베지캡",
+        "price": 53090,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/6b87/501348b76c5ec8897ffea790a625150ca94a3f56a2eef42955affe9d98ef.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8273089371"
+    },
+    {
         "id": "20260922-01",
         "date": "20260922",
         "rank": 1,
