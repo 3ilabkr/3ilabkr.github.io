@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260924-01",
+        "date": "20260924",
+        "rank": 1,
+        "name": "코카콜라 제로 무라벨",
+        "price": 22880,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6955197525"
+    },
+    {
+        "id": "20260924-02",
+        "date": "20260924",
+        "rank": 2,
+        "name": "스케쳐스 여성용 고워크 플렉스 운동화 SP0WWCGY18",
+        "price": 89900,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2026/05/27/14/7/0f4ce4f3-7b8b-4fdd-9980-0c0e1caa1eb3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9570533173"
+    },
+    {
+        "id": "20260924-03",
+        "date": "20260924",
+        "rank": 3,
+        "name": "B5. 선착순★ 1인 입장권",
+        "price": 35000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/c686d34b-406a-4003-8e77-be6777c4983f.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011286099&vendorItemId=70000313964013"
+    },
+    {
+        "id": "20260924-04",
+        "date": "20260924",
+        "rank": 4,
+        "name": "ELLE PARIS 데일리 긴팔 잔골지 기본 티셔츠 2pc set",
+        "price": 14900,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/428739702021183-cd0a958a-3da3-4cc4-96a9-f45a9d2eec6b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7478416410"
+    },
+    {
+        "id": "20260924-05",
+        "date": "20260924",
+        "rank": 5,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 60000,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/92ad/8e5019c76c818fda5d4b8400078cfa92430d0ad8062fd42d3c9f2a1e2d53.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20260924-06",
+        "date": "20260924",
+        "rank": 6,
+        "name": "★종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://image8.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/d1e00507-d237-491c-b561-5645044657fb.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011514240&vendorItemId=70000314483029"
+    },
+    {
+        "id": "20260924-07",
+        "date": "20260924",
+        "rank": 7,
+        "name": "벡셀 아이프라임 알카라인 AA건전지",
+        "price": 15050,
+        "image_url": "https://image4.coupangcdn.com/image/1025_amir_coupang_oct_80k/9da9/b1b09cb3158f4644b9423ebcaba4ccee0062cc011476a0da859e6a957ee5.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7370852457"
+    },
+    {
+        "id": "20260924-08",
+        "date": "20260924",
+        "rank": 8,
+        "name": "해피타운 휴대용 자석체스 대형",
+        "price": 12550,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/a0a9/93019f8c1f3dd46a4428f831043f511f1eab6cf74577716e480b5a65ae81.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=173504289"
+    },
+    {
+        "id": "20260924-09",
+        "date": "20260924",
+        "rank": 9,
+        "name": "블루밍 안심세척 방수비데",
+        "price": 169000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/96222074080990-8ccbcedf-4356-41c3-8a47-4f08a335c5ce.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5455506230"
+    },
+    {
+        "id": "20260924-10",
+        "date": "20260924",
+        "rank": 10,
+        "name": "쿠쿠 멀티 광파오븐 고객직접설치",
+        "price": 232940,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/84035727868533-8c6faf96-d3ef-4f31-ad37-ba7f7501c3f3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7121222212"
+    },
+    {
         "id": "20260923-01",
         "date": "20260923",
         "rank": 1,
