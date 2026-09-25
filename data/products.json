@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260925-01",
+        "date": "20260925",
+        "rank": 1,
+        "name": "뉴에라 아동용 MLB 스몰 로고 맨투맨 샌프란시스코 자이언츠",
+        "price": 54000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/2025/08/25/11/5/24023116-346c-4943-939b-0ce1e4b9ff08.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9015937489"
+    },
+    {
+        "id": "20260925-02",
+        "date": "20260925",
+        "rank": 2,
+        "name": "나우푸드 메가 D-3 5000 lU & MK-7 180mcg 캡슐",
+        "price": 25600,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/7cd5/31df0d5eddd2e868a575f093f40d31d1a940ee170ac1100ab5668e80d075.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7951161811"
+    },
+    {
+        "id": "20260925-03",
+        "date": "20260925",
+        "rank": 3,
+        "name": "★한정수량★ [A].소인 종일권 (주중/주말 공통)",
+        "price": 32000,
+        "image_url": "https://img3a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00221268/f24516fc-7a84-4a5a-a900-a16629b786a8.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011514227&vendorItemId=70000314477296"
+    },
+    {
+        "id": "20260925-04",
+        "date": "20260925",
+        "rank": 4,
+        "name": "★롯데월드 아쿠아리움 1인권(~10/11)",
+        "price": 37000,
+        "image_url": "https://img5a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/1642e795-afe8-484a-814c-db57b59d4aba.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011514229&vendorItemId=70000314501656"
+    },
+    {
+        "id": "20260925-05",
+        "date": "20260925",
+        "rank": 5,
+        "name": "01. [골드박스★선착순] 미들/하이시즌 1인 입장권",
+        "price": 47500,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/70ed994c-6df0-4077-a2bc-904f3466eb0c.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011292764&vendorItemId=70000314080404"
+    },
+    {
+        "id": "20260925-06",
+        "date": "20260925",
+        "rank": 6,
+        "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미",
+        "price": 10100,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2140167813"
+    },
+    {
+        "id": "20260925-07",
+        "date": "20260925",
+        "rank": 7,
+        "name": "[로켓프레시] 프레시몬 바로먹는 아보카도 3개입",
+        "price": 6190,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/156232134302383-2aed0ecb-0573-43ff-b0f6-e44951e9648d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8926745183"
+    },
+    {
+        "id": "20260925-08",
+        "date": "20260925",
+        "rank": 8,
+        "name": "동원샘물 생수 무라벨",
+        "price": 9270,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/57720166075528-85f8c200-aa69-47f2-b208-7afd8dcc0f2b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7869554357"
+    },
+    {
+        "id": "20260925-09",
+        "date": "20260925",
+        "rank": 9,
+        "name": "휘슬러 모던 커트러리 한식 2인 수저세트",
+        "price": 27240,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/467232754365075-346edcb6-c716-48a0-9bd3-09800d8bd322.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5237526108"
+    },
+    {
+        "id": "20260925-10",
+        "date": "20260925",
+        "rank": 10,
+        "name": "퀘스트뉴트리션 프로틴 바 더블 초콜릿 청크 60g",
+        "price": 31810,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/90ee/011f1ce49ed7a032d735b9bc8d5a025cc8d656da372982d10aa0e59520e7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7353267098"
+    },
+    {
         "id": "20260924-01",
         "date": "20260924",
         "rank": 1,
