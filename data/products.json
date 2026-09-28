@@ -1,5 +1,95 @@
 [
     {
+        "id": "20260928-01",
+        "date": "20260928",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 24680,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/45775547563672-e9b83757-fd28-4a5d-92de-7ce0af9bf330.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20260928-02",
+        "date": "20260928",
+        "rank": 2,
+        "name": "리큐 진한겔 꿉꿉한 냄새 원인물질 싹 일반드럼겸용 프레시 런드리향 액상세제 리필",
+        "price": 28900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/36624579664596-bad199ba-5649-4101-8717-67cf86ac03d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6746052927"
+    },
+    {
+        "id": "20260928-03",
+        "date": "20260928",
+        "rank": 3,
+        "name": "쿠팡베이직 네추럴 3겹 천연펄프 롤화장지 30m",
+        "price": 11890,
+        "image_url": "https://image11.coupangcdn.com/image/1025_amir_coupang_oct_80k/5139/2dff6ed9d1afe3e6d63c286ad0187bc8bd1f99bbbecd07b70e1131da7753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20260928-04",
+        "date": "20260928",
+        "rank": 4,
+        "name": "작심닭 오븐구이 저당 닭가슴살 5종 혼합구성",
+        "price": 28900,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/6770/f21addb9e3724adedcdd26d7eb85a4f7c5029928d3e3aa844c69263fe77c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8850374929"
+    },
+    {
+        "id": "20260928-05",
+        "date": "20260928",
+        "rank": 5,
+        "name": "행복미트 미국산 소고기 아롱사태 알사태 수육용 찜용 국거리용",
+        "price": 31900,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/83a6/5a4e19c24e0b1fcfdc943b97c7b0a82221a28eadc77a3eae583b5aa202d7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7361432988"
+    },
+    {
+        "id": "20260928-06",
+        "date": "20260928",
+        "rank": 6,
+        "name": "(스튜디오)",
+        "price": 119900,
+        "image_url": "https://img4a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A01391514/4946d7f8-5757-40ba-8332-62cac8c7a0e5.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246045&vendorItemId=70000303547394"
+    },
+    {
+        "id": "20260928-07",
+        "date": "20260928",
+        "rank": 7,
+        "name": "쥬시쥬디 여성용 J스냅 포인트 골지 긴소매 티셔츠 ON JYTS62AA",
+        "price": 22710,
+        "image_url": "https://image5.coupangcdn.com/image/rs_quotation_api/yw31jeqt/83078d7b78ff411e970719af53f615ee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261224400"
+    },
+    {
+        "id": "20260928-08",
+        "date": "20260928",
+        "rank": 8,
+        "name": "휠라키즈 카라 반집업 맨투맨 FK2POG3401X",
+        "price": 25900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2026/07/22/10/2/000e8f87-62b3-4134-b670-c5756d89aae9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9661254203"
+    },
+    {
+        "id": "20260928-09",
+        "date": "20260928",
+        "rank": 9,
+        "name": "A8. 선착순★ 1인 입장권",
+        "price": 35000,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/ea0cfcdb-2268-4cfe-9a8e-170a68bab5da.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011277896&vendorItemId=70000314664219"
+    },
+    {
+        "id": "20260928-10",
+        "date": "20260928",
+        "rank": 10,
+        "name": "코멧 아웃도어 휴대용 높이조절 캠핑스툴",
+        "price": 11620,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/4bb693ab-f9aa-464a-964a-a3b4f07735c415029743367712488353.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8255331367"
+    },
+    {
         "id": "20260927-01",
         "date": "20260927",
         "rank": 1,
