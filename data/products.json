@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261001-01",
+        "date": "20261001",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16800,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20261001-02",
+        "date": "20261001",
+        "rank": 2,
+        "name": "크리넥스 데코 앤 소프트 화장지 3겹",
+        "price": 25350,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/98145334917948-8aef7415-788b-4929-b171-588caee5b279.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7677618842"
+    },
+    {
+        "id": "20261001-03",
+        "date": "20261001",
+        "rank": 3,
+        "name": "롤팬 인덕션 뉴오리지널 그레이",
+        "price": 110810,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/311842535806587-16613cc6-7376-4fb9-82cf-0791a12f08b1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8266336555"
+    },
+    {
+        "id": "20261001-04",
+        "date": "20261001",
+        "rank": 4,
+        "name": "하이뮨 프로틴 밸런스 L",
+        "price": 36000,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7127545378"
+    },
+    {
+        "id": "20261001-05",
+        "date": "20261001",
+        "rank": 5,
+        "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품",
+        "price": 16700,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1703093047"
+    },
+    {
+        "id": "20261001-06",
+        "date": "20261001",
+        "rank": 6,
+        "name": "깨끗한나라 데일리 천연펄프 키친타월",
+        "price": 7040,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/a95d/7f701514bb4ded3eb0e7816dec9fb89f006b8352db0e53bcfcb1c56e6383.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7660554607"
+    },
+    {
+        "id": "20261001-07",
+        "date": "20261001",
+        "rank": 7,
+        "name": "Kipnos 행거 업그레이드 이동식 스탠드 옷걸이 행거 바퀴형",
+        "price": 21000,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/3a8c/27089afa3e399f022b2f06bf332f2086305634cc6788c28524073b319da9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9701039848"
+    },
+    {
+        "id": "20261001-08",
+        "date": "20261001",
+        "rank": 8,
+        "name": "[하루딱50박스] 최대15brix 세척사과 껍질째먹는 햇사과",
+        "price": 13900,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/25c6/4d153d46e290b6cffa2991444cefc59a645306b9fa612dd8c5f79473f862.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9709169549"
+    },
+    {
+        "id": "20261001-09",
+        "date": "20261001",
+        "rank": 9,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 28400,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/9af7/88398619988e2994b95132d9f5b8f271c8ae4135c1b29590723fcf10eff0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20261001-10",
+        "date": "20261001",
+        "rank": 10,
+        "name": "롯데제과 아몬드초코볼",
+        "price": 17000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/101697023926572-05226c81-a29f-43fa-b8ab-3f82bd0cb402.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9716584488"
+    },
+    {
         "id": "20260930-01",
         "date": "20260930",
         "rank": 1,
