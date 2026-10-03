@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261003-01",
+        "date": "20261003",
+        "rank": 1,
+        "name": "뉴케어 정품 구수한맛 순",
+        "price": 43000,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/60680945750065-13b5677e-af26-4ac2-a02b-3a8418e7cd1e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9729376015"
+    },
+    {
+        "id": "20261003-02",
+        "date": "20261003",
+        "rank": 2,
+        "name": "일리윤 세라마이드 아토 로션 무향",
+        "price": 14720,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/76383476284976-beeac87e-878a-434d-9b87-acc1ecbc6961.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9039379842"
+    },
+    {
+        "id": "20261003-03",
+        "date": "20261003",
+        "rank": 3,
+        "name": "테팔 인덕션 스테인리스 스틸 이지쿡 편수냄비",
+        "price": 33900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/345439422339710-b9b74bcc-865d-4308-b171-2687e2b658e0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7289669384"
+    },
+    {
+        "id": "20261003-04",
+        "date": "20261003",
+        "rank": 4,
+        "name": "★종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://image10.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/06f9c067-99a5-478b-af55-20ebd0bb1618.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011519770&vendorItemId=70000315654763"
+    },
+    {
+        "id": "20261003-05",
+        "date": "20261003",
+        "rank": 5,
+        "name": "★[선착순] 종일 자유이용권",
+        "price": 49000,
+        "image_url": "https://img1a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/a7d87615-48db-4090-999c-83fc7bb851ed.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011512152&vendorItemId=70000314076295"
+    },
+    {
+        "id": "20261003-06",
+        "date": "20261003",
+        "rank": 6,
+        "name": "01. ★선착순★1인 입장권",
+        "price": 45500,
+        "image_url": "https://image8.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/3582529c-df13-4c2a-bdae-3061cbc08a17.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011517659&vendorItemId=70000315415700"
+    },
+    {
+        "id": "20261003-07",
+        "date": "20261003",
+        "rank": 7,
+        "name": "Yzontro EMS 슬림벨트 에르고바디 무선 복부 온열 마사지기 남녀 공용 연장밴드 증정",
+        "price": 107850,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/b53a/95d2c9dd95183c42bfaf88925e40c33c849e974392e432cde3c800660b1f.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9544502256"
+    },
+    {
+        "id": "20261003-08",
+        "date": "20261003",
+        "rank": 8,
+        "name": "살림의기술 어깨뿔방지 논슬립 스틸 옷걸이",
+        "price": 18200,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/awl3sumg/67fd33a5a2a64e82855c1a8fe2af42cb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5449205688"
+    },
+    {
+        "id": "20261003-09",
+        "date": "20261003",
+        "rank": 9,
+        "name": "소르미 구워먹는 치즈 200g x 3팩 총 60개입 대용량 모짜렐라 치즈",
+        "price": 19000,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1772516739550/364e123b-aa85-4e9a-9761-7703489c5484.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8006385703"
+    },
+    {
+        "id": "20261003-10",
+        "date": "20261003",
+        "rank": 10,
+        "name": "끌래망스 사계절 암막커튼",
+        "price": 9700,
+        "image_url": "https://image4.coupangcdn.com/image/rs_quotation_api/qmbujh2m/e62afd40ed944174a40951d984bc54a2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8310728758"
+    },
+    {
         "id": "20261002-01",
         "date": "20261002",
         "rank": 1,
