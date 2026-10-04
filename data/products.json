@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261004-01",
+        "date": "20261004",
+        "rank": 1,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 19900,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/183527831882073-ded2962c-cfa7-407a-ad28-183e4ac05fa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
+        "id": "20261004-02",
+        "date": "20261004",
+        "rank": 2,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 21780,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20261004-03",
+        "date": "20261004",
+        "rank": 3,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 31500,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/8e28/10b3fbcd5eb469388b7f2448ddb4ac2f053c1966ecda1185c56388f93ba2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20261004-04",
+        "date": "20261004",
+        "rank": 4,
+        "name": "★한정수량★ [A].14시 2인 입장권 (주중/주말 공통)",
+        "price": 78000,
+        "image_url": "https://image5.coupangcdn.com/image/travel_reactor/travelSeller/common/A00221268/f24516fc-7a84-4a5a-a900-a16629b786a8.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011519760&vendorItemId=70000315644611"
+    },
+    {
+        "id": "20261004-05",
+        "date": "20261004",
+        "rank": 5,
+        "name": "★종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://image8.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/06f9c067-99a5-478b-af55-20ebd0bb1618.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011519771&vendorItemId=70000315654789"
+    },
+    {
+        "id": "20261004-06",
+        "date": "20261004",
+        "rank": 6,
+        "name": "리쥬란 힐러 리밸런싱 토너",
+        "price": 20500,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/389614366962528-aae12a4b-3263-45ce-92ee-539c29d17392.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8393747637"
+    },
+    {
+        "id": "20261004-07",
+        "date": "20261004",
+        "rank": 7,
+        "name": "[로켓프레시] 프레시몬 호주산 카라카라 오렌지",
+        "price": 9670,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1594697474759575-d90981db-0c3d-4a46-b2cd-87ea5157cd7e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8266895091"
+    },
+    {
+        "id": "20261004-08",
+        "date": "20261004",
+        "rank": 8,
+        "name": "★골드박스/한정수량★ 제주올패스 24시간 이용권 <201429>",
+        "price": 17900,
+        "image_url": "https://img4a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186691/ab2106a6-27a6-45ad-b816-7c0482feec8c.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011518124&vendorItemId=70000315500006"
+    },
+    {
+        "id": "20261004-09",
+        "date": "20261004",
+        "rank": 9,
+        "name": "캐럿 여성용 데일리 슬림핏 긴팔 립 티셔츠",
+        "price": 7900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/618940940209386-30aaac47-1fff-4b7e-9c98-474dd182a6fb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4876745607"
+    },
+    {
+        "id": "20261004-10",
+        "date": "20261004",
+        "rank": 10,
+        "name": "C2. ★선착순★ 맘키즈패키지",
+        "price": 66000,
+        "image_url": "https://img1c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/c686d34b-406a-4003-8e77-be6777c4983f.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011286099&vendorItemId=70000315644613"
+    },
+    {
         "id": "20261003-01",
         "date": "20261003",
         "rank": 1,
