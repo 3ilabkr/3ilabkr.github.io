@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261005-01",
+        "date": "20261005",
+        "rank": 1,
+        "name": "세타필 모이스춰라이징 로션",
+        "price": 14100,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7164345502"
+    },
+    {
+        "id": "20261005-02",
+        "date": "20261005",
+        "rank": 2,
+        "name": "칠성사이다 제로",
+        "price": 15990,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/98307885117518-6d4b140a-2090-4c8d-92f4-acf2b837b7bc.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=4918397652"
+    },
+    {
+        "id": "20261005-03",
+        "date": "20261005",
+        "rank": 3,
+        "name": "에버콜라겐 타임 비오틴",
+        "price": 75200,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/30170887765508-6bdd6727-e488-4715-b59c-f5c23fbf0292.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7235454776"
+    },
+    {
+        "id": "20261005-04",
+        "date": "20261005",
+        "rank": 4,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 23300,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20261005-05",
+        "date": "20261005",
+        "rank": 5,
+        "name": "코카콜라 오리지널 프리미어리그 스페셜 패키지",
+        "price": 24900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/101523379397865-3b17385c-af25-4e58-bf17-8d536eefe52c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9684800964"
+    },
+    {
+        "id": "20261005-06",
+        "date": "20261005",
+        "rank": 6,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 일반용 액체세제 본품",
+        "price": 30500,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/e67bf702-086d-4e4a-92dc-b37ccab32a084890146201857720659.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354362095"
+    },
+    {
+        "id": "20261005-07",
+        "date": "20261005",
+        "rank": 7,
+        "name": "맘스럽 울트라 퍼퓸 캡슐세제16gX100개입 [8배 초고농축 세제원액  국내생산 프리미엄 3in1 대용량 실내건조형]",
+        "price": 12860,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/b341/36b50c487e840ac51d6edaeccd4fabbc8bdd0b2f71e69a6e8acda9b197e6.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7826482313"
+    },
+    {
+        "id": "20261005-08",
+        "date": "20261005",
+        "rank": 8,
+        "name": "[스튜디오]",
+        "price": 119900,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/resort/A01391514/4946d7f8-5757-40ba-8332-62cac8c7a0e5.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246045&vendorItemId=70000315490159"
+    },
+    {
+        "id": "20261005-09",
+        "date": "20261005",
+        "rank": 9,
+        "name": "닥터스베스트 글루코사민 콘드로이친 MSM 캡슐",
+        "price": 44840,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/ef67/5a991c31cd55e5ab901aea1039af4aa9195166fe860d96a8ff214cfd3734.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=202217052"
+    },
+    {
+        "id": "20261005-10",
+        "date": "20261005",
+        "rank": 10,
+        "name": "★스탠다드",
+        "price": 74250,
+        "image_url": "https://image7.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00005562/00ce9fec-d58b-4d50-b151-bc16205449fc.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246158&vendorItemId=70000286945991"
+    },
+    {
         "id": "20261004-01",
         "date": "20261004",
         "rank": 1,
