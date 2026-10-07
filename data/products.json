@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261007-01",
+        "date": "20261007",
+        "rank": 1,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 25400,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/71398767918130-b431ac05-41d7-466f-83e2-c4758d247341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725928327"
+    },
+    {
+        "id": "20261007-02",
+        "date": "20261007",
+        "rank": 2,
+        "name": "코카콜라 제로제로",
+        "price": 20100,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/704893215543382-183fd7ca-cc8c-4620-a84b-cb45ab0dcab8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7566747125"
+    },
+    {
+        "id": "20261007-03",
+        "date": "20261007",
+        "rank": 3,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자푹신한 메쉬 의자",
+        "price": 39910,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/553c/43a816123cedc1bb0967510689d71dd3ce9363a2fd017a35814d5a0a0c67.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20261007-04",
+        "date": "20261007",
+        "rank": 4,
+        "name": "행복미트 프리미엄 소 스지 수육 탕 전골용",
+        "price": 25920,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/fd5245cbb4710fe44bf56ae7446e8623320614ded2644dc3be0978cac547_1776647972386.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484261404"
+    },
+    {
+        "id": "20261007-05",
+        "date": "20261007",
+        "rank": 5,
+        "name": "이디야 더 진한 스페셜 골드블렌드 커피믹스",
+        "price": 39300,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/a29d85df-c279-4612-8b0a-dda7a41639d12985681075083196355.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9617698135"
+    },
+    {
+        "id": "20261007-06",
+        "date": "20261007",
+        "rank": 6,
+        "name": "[1+1 17L+20L]자동 센서 쓰레기통 화장실 쓰레기통 기저귀 냄새차단 휴지통",
+        "price": 21190,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/6ebd/8aed94cc2dd61a2c6f7bfe0a54c0dcae67a94e6fc8c0c6a1b37ea7058e98.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9393798329"
+    },
+    {
+        "id": "20261007-07",
+        "date": "20261007",
+        "rank": 7,
+        "name": "고로고로 마루용 테이프 크리너 리필 3개입",
+        "price": 10280,
+        "image_url": "https://image12.coupangcdn.com/image/1025_amir_coupang_oct_80k/2d90/bfefe1270a757d752204fc6793d0005e9447d28310dde1bd53f7f5304e94.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=22754796"
+    },
+    {
+        "id": "20261007-08",
+        "date": "20261007",
+        "rank": 8,
+        "name": "아디다스 슈필러 배드민턴 라켓 2p + 풀커버 세트",
+        "price": 58000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/2022/12/26/13/7/a41896be-d09a-48aa-b679-2588acddcc27.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8521684617"
+    },
+    {
+        "id": "20261007-09",
+        "date": "20261007",
+        "rank": 9,
+        "name": "뉴발란스키즈 아동용 EXCLUSIVE_에센셜 긴팔티 NK9BGB999U",
+        "price": 33000,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/2026/02/04/15/7/d3b3b98d-000d-4f75-972c-3e4190d6f521.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9355340016"
+    },
+    {
+        "id": "20261007-10",
+        "date": "20261007",
+        "rank": 10,
+        "name": "레이디가구 몬스터 컴피 유로탑 고탄성폼 독립 스프링 매트리스 방문설치",
+        "price": 303000,
+        "image_url": "https://img2a.coupangcdn.com/image/rs_quotation_api/jovchmuo/cd0f99a6494446ceb0d5550a93b708e3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7198589524"
+    },
+    {
         "id": "20261006-01",
         "date": "20261006",
         "rank": 1,
