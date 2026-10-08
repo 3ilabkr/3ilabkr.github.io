@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261008-01",
+        "date": "20261008",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://img2a.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20261008-02",
+        "date": "20261008",
+        "rank": 2,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20261008-03",
+        "date": "20261008",
+        "rank": 3,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 일반용 액체세제 리필",
+        "price": 19900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/189aef0f-57fa-4e77-a011-7153b28a28f4828987507822547713.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9740284806"
+    },
+    {
+        "id": "20261008-04",
+        "date": "20261008",
+        "rank": 4,
+        "name": "[행복미트] 호주산 아롱사태 알사태 수육용 보쌈용 [당일발송]",
+        "price": 49900,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/4855/d83134a26f58a781c17746cf8a5fba7b2de3c3614ebd930d1c6797d59360.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9450748096"
+    },
+    {
+        "id": "20261008-05",
+        "date": "20261008",
+        "rank": 5,
+        "name": "남해안 산지직송 자연산 생물 왕바지락 (냉장)",
+        "price": 9000,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/16345483636961-3d6d971b-23b1-4518-8101-9a5b657d01c3.JPG",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6262244751"
+    },
+    {
+        "id": "20261008-06",
+        "date": "20261008",
+        "rank": 6,
+        "name": "[로켓프레시]만능 대패 삼겹살 (냉동)",
+        "price": 11980,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/528114048656177-19cf7a72-58de-48db-97cc-73f3c62e941f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7876945482"
+    },
+    {
+        "id": "20261008-07",
+        "date": "20261008",
+        "rank": 7,
+        "name": "EVLUTIONNUTRITION 아이솔레이트 프로틴 더블 리치 초콜릿 맛",
+        "price": 128270,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/77ee/071b184418b50cc9784f881efe33afad3917a50275b197e885b4b25bfecf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6422282284"
+    },
+    {
+        "id": "20261008-08",
+        "date": "20261008",
+        "rank": 8,
+        "name": "[WEST동]스위트A(취사/스탠다드)",
+        "price": 465000,
+        "image_url": "https://image9.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/11379f85-4e27-4758-9c3b-1e03e6dcd145.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010787485&vendorItemId=70000145839421"
+    },
+    {
+        "id": "20261008-09",
+        "date": "20261008",
+        "rank": 9,
+        "name": "마인드브릿지 남성용 스탠에리 스웨이드 트러커 자켓 MZJP6102",
+        "price": 142300,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/07/31/13/1/86337e24-0a2c-422d-893f-c7e43790a556.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8957160220"
+    },
+    {
+        "id": "20261008-10",
+        "date": "20261008",
+        "rank": 10,
+        "name": "[로켓프레시] 해산물 가득 해물 모듬 (냉동)",
+        "price": 7980,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/1391315297710811-3fa4aafc-a0a6-4a89-a5eb-a53a28948ddd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9517572536"
+    },
+    {
         "id": "20261007-01",
         "date": "20261007",
         "rank": 1,
