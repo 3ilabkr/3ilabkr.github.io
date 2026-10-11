@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261011-01",
+        "date": "20261011",
+        "rank": 1,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 16500,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20261011-02",
+        "date": "20261011",
+        "rank": 2,
+        "name": "마인드브릿지 남성용 두굿 라운드 세미 오버핏 가디건 MZCD7120",
+        "price": 59400,
+        "image_url": "https://img5a.coupangcdn.com/image/rs_quotation_api/1e2amfsh/ea41402173674221a7636c7148f348bf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9051032348"
+    },
+    {
+        "id": "20261011-03",
+        "date": "20261011",
+        "rank": 3,
+        "name": "★로우시즌 1인 종일권",
+        "price": 46000,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/37345582-db99-4d55-8410-ee46bc155dde.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011521023&vendorItemId=70000316606179"
+    },
+    {
+        "id": "20261011-04",
+        "date": "20261011",
+        "rank": 4,
+        "name": "스탠다드 더블룸 도시전망",
+        "price": 145000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01380754/3472ff24-43af-4671-850d-8542b0d165f9.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011245919&vendorItemId=70000212693399"
+    },
+    {
+        "id": "20261011-05",
+        "date": "20261011",
+        "rank": 5,
+        "name": "●WEST동●스위트A(취사/스탠다드)",
+        "price": 356000,
+        "image_url": "https://image1.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/11379f85-4e27-4758-9c3b-1e03e6dcd145.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010787485&vendorItemId=70000283128678"
+    },
+    {
+        "id": "20261011-06",
+        "date": "20261011",
+        "rank": 6,
+        "name": "★트레인빌",
+        "price": 90000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/8c1a3e13-e98d-4f76-9856-31fab210fe75.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011338889&vendorItemId=70000316476445"
+    },
+    {
+        "id": "20261011-07",
+        "date": "20261011",
+        "rank": 7,
+        "name": "해통령 더 간편한 육수명장",
+        "price": 12990,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/1182149237493695-f7152f39-f885-4e19-a7fc-bdbfb81471a7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1238155880"
+    },
+    {
+        "id": "20261011-08",
+        "date": "20261011",
+        "rank": 8,
+        "name": "스케쳐스 남성용 사계절 밥스 스쿼드 4 슬립온 캐주얼 운동화 118415-BBK",
+        "price": 74390,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/2a69/ff689ae48a92d0341b54a2667780021639d05ee968c411456135b4509eeb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9520289000"
+    },
+    {
+        "id": "20261011-09",
+        "date": "20261011",
+        "rank": 9,
+        "name": "[로켓프레시] 호주산 우삼겹 바로구이 대패 (냉동)",
+        "price": 8400,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/69526075994008-0a8974e3-75f9-40af-99d1-b75f0a7bd757.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7792214488"
+    },
+    {
+        "id": "20261011-10",
+        "date": "20261011",
+        "rank": 10,
+        "name": "패밀리 디럭스",
+        "price": 90280,
+        "image_url": "https://image7.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020960/d9270fd2-e3c3-456d-bf16-643b684ba431.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=78724537&vendorItemId=3618194096"
+    },
+    {
         "id": "20261010-01",
         "date": "20261010",
         "rank": 1,
