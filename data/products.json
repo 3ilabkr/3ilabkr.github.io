@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261012-01",
+        "date": "20261012",
+        "rank": 1,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14430,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20261012-02",
+        "date": "20261012",
+        "rank": 2,
+        "name": "매일두유 99.9 플레인",
+        "price": 15530,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/139627710988148-dd5d246c-120d-451a-9d79-6e8926882a1e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7757115239"
+    },
+    {
+        "id": "20261012-03",
+        "date": "20261012",
+        "rank": 3,
+        "name": "마이비데 키즈 화장실용 물티슈 캡형",
+        "price": 14150,
+        "image_url": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/5fd4/35f7fb8f4ec961f2a96f8fddf2b2461afb06529264a56cc73a21d41eb334.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8502358197"
+    },
+    {
+        "id": "20261012-04",
+        "date": "20261012",
+        "rank": 4,
+        "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품",
+        "price": 10100,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9711973763"
+    },
+    {
+        "id": "20261012-05",
+        "date": "20261012",
+        "rank": 5,
+        "name": "[단독초특가] 제주 당도좋은 첫 극조생귤 그린귤",
+        "price": 14880,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/36a4/48e7d30f6c30b915858a88150803e1a4ed681230d0899d96cec8c014abde.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9689167354"
+    },
+    {
+        "id": "20261012-06",
+        "date": "20261012",
+        "rank": 6,
+        "name": "맘스럽 액상세제 플로럴향 본품",
+        "price": 8490,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/b939/167b054f0f17829259d7e00a0a1ceb58898d58eadc4760ba22a09e3ccf7f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9195797044"
+    },
+    {
+        "id": "20261012-07",
+        "date": "20261012",
+        "rank": 7,
+        "name": "울란지 맥세이프 자동 오픈형 블루투스 삼각대",
+        "price": 33250,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2026/02/11/17/0/ef1ca0a9-12ac-466c-bf42-e17a7d58d9f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371976730"
+    },
+    {
+        "id": "20261012-08",
+        "date": "20261012",
+        "rank": 8,
+        "name": "★에버랜드 종일권 (~10/31)",
+        "price": 71000,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/0312f472-cf72-49a5-9fe7-f1a51a0d2d98.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011524691&vendorItemId=70000316657272"
+    },
+    {
+        "id": "20261012-09",
+        "date": "20261012",
+        "rank": 9,
+        "name": "뉴트리케이 파라다이스 그레인 버닝컷 6파라돌",
+        "price": 24940,
+        "image_url": "https://image10.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/33251a64bad7e39f87ba2845cbd49c85cdbc934e85e9c9047d014c29b64e_1780880799903.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9507114885"
+    },
+    {
+        "id": "20261012-10",
+        "date": "20261012",
+        "rank": 10,
+        "name": "(WEST동)스위트A(취사/스탠다드)",
+        "price": 356000,
+        "image_url": "https://image12.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/b58bdc5a-beec-4ebc-9741-329e7a39f132.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010787485&vendorItemId=70000232671928"
+    },
+    {
         "id": "20261011-01",
         "date": "20261011",
         "rank": 1,
