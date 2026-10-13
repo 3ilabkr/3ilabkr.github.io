@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261013-01",
+        "date": "20261013",
+        "rank": 1,
+        "name": "크리넥스 데코 앤 소프트 화장지 3겹",
+        "price": 21810,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/13788868253264-bf4b5354-e2d6-4aad-9f3a-047d37cbf888.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=307020051"
+    },
+    {
+        "id": "20261013-02",
+        "date": "20261013",
+        "rank": 2,
+        "name": "코카콜라 제로",
+        "price": 16750,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20261013-03",
+        "date": "20261013",
+        "rank": 3,
+        "name": "풀무원 요거트 요거톡 스타볼",
+        "price": 16800,
+        "image_url": "https://image8.coupangcdn.com/image/1025_amir_coupang_oct_80k/548e/cce645f6a347d82c600d2119eeead9f4b93ec7b9befb51f05dc3ea396de4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2279371037"
+    },
+    {
+        "id": "20261013-04",
+        "date": "20261013",
+        "rank": 4,
+        "name": "휠라키즈 레이어 미들 바람막이 FK2JKG4301M",
+        "price": 53900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2026/08/19/11/9/75793389-ff30-4de9-958e-72c0a5077ee3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9699039457"
+    },
+    {
+        "id": "20261013-05",
+        "date": "20261013",
+        "rank": 5,
+        "name": "깔창 남자 여성 족저근 푹신한 신발깔창",
+        "price": 9800,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/3fee/3250688c98e151732d5d65770801059681b3570fdcc2b3505cbcde8ee8e6.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8940083030"
+    },
+    {
+        "id": "20261013-06",
+        "date": "20261013",
+        "rank": 6,
+        "name": "(스튜디오)",
+        "price": 119900,
+        "image_url": "https://image2.coupangcdn.com/image/travel_reactor/travelSeller/resort/A01391514/4946d7f8-5757-40ba-8332-62cac8c7a0e5.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246045&vendorItemId=70000303547394"
+    },
+    {
+        "id": "20261013-07",
+        "date": "20261013",
+        "rank": 7,
+        "name": "휴대용 주방 실내 장족형 대용량 휴지통",
+        "price": 15420,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/3d36/abd0fe1e53b28a7bbf0e03872a3c31ff32191f71da3a5226d597bf66e05c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9507375111"
+    },
+    {
+        "id": "20261013-08",
+        "date": "20261013",
+        "rank": 8,
+        "name": "곰곰 달달 꿀호떡",
+        "price": 9900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/21728771005358-ca430c71-5a71-4e6d-afd8-5c6de78dcb88.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6281480996"
+    },
+    {
+        "id": "20261013-09",
+        "date": "20261013",
+        "rank": 9,
+        "name": "참그린 레몬 녹차 뽀드득 어드밴스 주방세제 리필",
+        "price": 9010,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/47368551150783-d970632c-41fd-4dcd-ba09-982713d25c5f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7867434239"
+    },
+    {
+        "id": "20261013-10",
+        "date": "20261013",
+        "rank": 10,
+        "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬",
+        "price": 48000,
+        "image_url": "https://image4.coupangcdn.com/image/1025_amir_coupang_oct_80k/047e/4cf786e98fa56b7bea4c486ede83c08d19682f591a2e3da993fe394d37c4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5391887777"
+    },
+    {
         "id": "20261012-01",
         "date": "20261012",
         "rank": 1,
