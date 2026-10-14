@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261014-01",
+        "date": "20261014",
+        "rank": 1,
+        "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지",
+        "price": 20900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/156598096570083-90d30e76-0aed-43fc-b63a-dabc28cba1f7.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8261290138"
+    },
+    {
+        "id": "20261014-02",
+        "date": "20261014",
+        "rank": 2,
+        "name": "투데이넛 너트한줌 요거트 견과세트 600g",
+        "price": 17110,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/308513359822038-d05e9981-3c5a-45b3-bbd1-55eb16ef51e4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2534211"
+    },
+    {
+        "id": "20261014-03",
+        "date": "20261014",
+        "rank": 3,
+        "name": "맥 글로우 플레이 텐더토크 립 밤",
+        "price": 27570,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/7ebc/6913923c8ee56057167aa4ba68ddb88f0d50bea7990a03622b75e67aa514.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8314391571"
+    },
+    {
+        "id": "20261014-04",
+        "date": "20261014",
+        "rank": 4,
+        "name": "Kipnos 높이조절 이동식 2단 사이드테이블 쇼파테이블 보조테이블 쇼파사이드테이블 소파테이블 미니테이블 티테이블 커피테이블 이동식침대테이블 간이테이블",
+        "price": 23500,
+        "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/e88b/c995889a0ae485a16be33ac09b8d9da69bcd36b0c9f22c84bb6967549a61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8812815993"
+    },
+    {
+        "id": "20261014-05",
+        "date": "20261014",
+        "rank": 5,
+        "name": "떡편 흑미영양찰떡 (냉동)",
+        "price": 12500,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/1746093381332908-04440307-7408-4f90-9fcf-03ad6241e79d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=2170862907"
+    },
+    {
+        "id": "20261014-06",
+        "date": "20261014",
+        "rank": 6,
+        "name": "스파오키즈 아동 주니어 공용 루즈핏 레터링 상하의 세트",
+        "price": 39900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2026/08/26/14/1/c0be349d-2b24-46b4-955d-9e5b6a2cd155.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9708867078"
+    },
+    {
+        "id": "20261014-07",
+        "date": "20261014",
+        "rank": 7,
+        "name": "♥트레인빌",
+        "price": 90000,
+        "image_url": "https://img5c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/8c1a3e13-e98d-4f76-9856-31fab210fe75.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011338889&vendorItemId=70000316476447"
+    },
+    {
+        "id": "20261014-08",
+        "date": "20261014",
+        "rank": 8,
+        "name": "널담 마카롱 사랑세트 8종 (냉동)",
+        "price": 9730,
+        "image_url": "https://image6.coupangcdn.com/image/1025_amir_coupang_oct_80k/1d62/0face1741fb7fabdeb0a384cd5bdb4fc709602c87eb0034753dc86674333.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6630857148"
+    },
+    {
+        "id": "20261014-09",
+        "date": "20261014",
+        "rank": 9,
+        "name": "FANOBO탄탄한 지지력 3단 접이식 매트리스",
+        "price": 37900,
+        "image_url": "https://image1.coupangcdn.com/image/vendor_inventory/9761/b578ad2b5e77cf451a24a88476fec74eed6a865c813cef0899bd757c0b9d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8863320090"
+    },
+    {
+        "id": "20261014-10",
+        "date": "20261014",
+        "rank": 10,
+        "name": "패밀리(취사/스탠다드/침대)",
+        "price": 305000,
+        "image_url": "https://img5c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00020814/a271d583-cd46-4b76-ac1f-2b6e70708b1e.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000010793379&vendorItemId=70000146624367"
+    },
+    {
         "id": "20261013-01",
         "date": "20261013",
         "rank": 1,
