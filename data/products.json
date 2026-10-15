@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261015-01",
+        "date": "20261015",
+        "rank": 1,
+        "name": "코멧 순백 3겹 라벤더 바닐라 롤화장지",
+        "price": 11990,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/16410130977344-449f81df-4e44-485e-af90-dc92159e4165.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=261192458"
+    },
+    {
+        "id": "20261015-02",
+        "date": "20261015",
+        "rank": 2,
+        "name": "카누 마일드 로스트 아메리카노 미니 원두커피믹스",
+        "price": 22050,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/6c61/27e80ff70db7825a2f389d80797dae7903f80b0e974df526c6ca2965bb3b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245789579"
+    },
+    {
+        "id": "20261015-03",
+        "date": "20261015",
+        "rank": 3,
+        "name": "코카콜라 제로 무라벨",
+        "price": 18590,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6955197525"
+    },
+    {
+        "id": "20261015-04",
+        "date": "20261015",
+        "rank": 4,
+        "name": "맘스럽 오래가는 자동 변기세정제",
+        "price": 9380,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/d484/f45780297b7fce27a9eb14100c78c7f0cf40deb74378549687a4c489f75e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9570580260"
+    },
+    {
+        "id": "20261015-05",
+        "date": "20261015",
+        "rank": 5,
+        "name": "ELLE PARIS 여성용 데일리 긴팔 터틀넥 골지 티셔츠",
+        "price": 7490,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/787854023846796-dd899501-d881-4bde-82bf-697b38e8e752.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7478416626"
+    },
+    {
+        "id": "20261015-06",
+        "date": "20261015",
+        "rank": 6,
+        "name": "메리앤유 코튼 소재 후드 레이어드 바람막이 점퍼 루즈핏 간절기 자켓",
+        "price": 38130,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/d3cb/4db8a3de50b0dcd504ce11e0b9f2301b2ee19ddde5a348ac75aad461a411.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9447828678"
+    },
+    {
+        "id": "20261015-07",
+        "date": "20261015",
+        "rank": 7,
+        "name": "[로켓프레시] 삼진어묵 미니 어묵꼬치 24g x 20개입 + 가쓰오소스 20g x 3개입 세트 (냉동)",
+        "price": 16200,
+        "image_url": "https://image5.coupangcdn.com/image/rs_quotation_api/c7tj2c7w/ea6dfe98e85f402994c8df2f3f0ab9e9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8341719079"
+    },
+    {
+        "id": "20261015-08",
+        "date": "20261015",
+        "rank": 8,
+        "name": "더 스위트 바다전망",
+        "price": 102500,
+        "image_url": "https://img2c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00148899/d4486aa4-3915-40ba-92b1-a3c371edbdf8.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=102304578&vendorItemId=70000298638855"
+    },
+    {
+        "id": "20261015-09",
+        "date": "20261015",
+        "rank": 9,
+        "name": "[조식 2인 무료]스위트 더블룸",
+        "price": 120000,
+        "image_url": "https://image7.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01686470/55adbf9e-e295-43b7-91fb-b953c78f9b56.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011386361&vendorItemId=70000286737705"
+    },
+    {
+        "id": "20261015-10",
+        "date": "20261015",
+        "rank": 10,
+        "name": "♣트레인빌",
+        "price": 90000,
+        "image_url": "https://img4c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/f6aeab73-1675-4f02-86b6-762b2d6ae478.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011338889&vendorItemId=70000317209953"
+    },
+    {
         "id": "20261014-01",
         "date": "20261014",
         "rank": 1,
