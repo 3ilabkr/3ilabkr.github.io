@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261016-01",
+        "date": "20261016",
+        "rank": 1,
+        "name": "파워에이드 제로",
+        "price": 19770,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7168704316"
+    },
+    {
+        "id": "20261016-02",
+        "date": "20261016",
+        "rank": 2,
+        "name": "[로켓프레시] 한끼통살 그릴드 닭가슴살 5종 x 2p 세트 (냉동)",
+        "price": 24900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/564950852340694-2fcb1a28-10ee-497c-8624-09797ea241ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6497434597"
+    },
+    {
+        "id": "20261016-03",
+        "date": "20261016",
+        "rank": 3,
+        "name": "Kipnos 폴딩 수납장 리빙박스 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 33200,
+        "image_url": "https://image2.coupangcdn.com/image/vendor_inventory/2791/6ece3cd6a62056826f9746892dcc141af74eb21b2c2583401dfa54b7dce7.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8906599125"
+    },
+    {
+        "id": "20261016-04",
+        "date": "20261016",
+        "rank": 4,
+        "name": "Kipnos 행거 스탠드 옷걸이행거 튼튼한행거 스탠드행거 철제 다용도",
+        "price": 42000,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/0408/1c4538b61495680f3235964c0e5bc33eca1c22f2e81cd22283554d0985ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9260428247"
+    },
+    {
+        "id": "20261016-05",
+        "date": "20261016",
+        "rank": 5,
+        "name": "행복미트 호주산 목초육 청정우 소고기 사태살",
+        "price": 29900,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/32cc/6a8c42224ff7ace2e275b0e28cfbf6721ae4113692d2267e33ae1ed5d2e4.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7410636554"
+    },
+    {
+        "id": "20261016-06",
+        "date": "20261016",
+        "rank": 6,
+        "name": "뉴에라 아동용 MLB 스몰 로고 맨투맨 뉴욕 양키스",
+        "price": 54000,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/08/25/11/1/c60f654e-9f12-40f5-a0c8-a92ef16c498e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9015937489"
+    },
+    {
+        "id": "20261016-07",
+        "date": "20261016",
+        "rank": 7,
+        "name": "A6. ★선착순★ 1인 입장권+도라에몽 인형",
+        "price": 54000,
+        "image_url": "https://img1a.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/1c8be07c-1adf-4886-bdfe-a506ca146ecf.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011277585&vendorItemId=70000317391845"
+    },
+    {
+        "id": "20261016-08",
+        "date": "20261016",
+        "rank": 8,
+        "name": "[Jarrow Formulas] 자로우 포뮬러스 도피러스 EPS 유산균 100억 CFU",
+        "price": 32400,
+        "image_url": "https://image12.coupangcdn.com/image/vendor_inventory/cfa2/7dafe44671c57f8be5145390677f5323075274c7f90689288b368766a4e1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7626263931"
+    },
+    {
+        "id": "20261016-09",
+        "date": "20261016",
+        "rank": 9,
+        "name": "오리고 플리스 블랭킷",
+        "price": 36150,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/96250132128651-ab4b0f5e-a933-4299-baaf-d7d227c1497a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327441340"
+    },
+    {
+        "id": "20261016-10",
+        "date": "20261016",
+        "rank": 10,
+        "name": "락피도 알티지 오메가3 츄어블 키즈",
+        "price": 18000,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/96296987441104-08bbd759-e1ea-42d2-bae7-7055e25bc00e.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7122266513"
+    },
+    {
         "id": "20261015-01",
         "date": "20261015",
         "rank": 1,
