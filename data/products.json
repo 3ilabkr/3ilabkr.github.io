@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261017-01",
+        "date": "20261017",
+        "rank": 1,
+        "name": "에스트라 아토베리어365 크림 플러스",
+        "price": 31000,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/955083884438865-364ff482-1d92-43b5-b230-a8f3aea794d3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8330725092"
+    },
+    {
+        "id": "20261017-02",
+        "date": "20261017",
+        "rank": 2,
+        "name": "행복미트 통오겹살 수입산 바베큐 수육용",
+        "price": 26900,
+        "image_url": "https://image11.coupangcdn.com/image/vendor_inventory/9af7/88398619988e2994b95132d9f5b8f271c8ae4135c1b29590723fcf10eff0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7484253365"
+    },
+    {
+        "id": "20261017-03",
+        "date": "20261017",
+        "rank": 3,
+        "name": "조양FNG HACCP인증 국산 다진마늘",
+        "price": 10560,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/image_audit/prod/98ec6368-459e-4ee2-bfa6-a450c3eb878d_fixing_v2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7673804291"
+    },
+    {
+        "id": "20261017-04",
+        "date": "20261017",
+        "rank": 4,
+        "name": "봉쥬르끌레어 블랙젤 액체세제 라벤더향  실내건조 중성세제",
+        "price": 7090,
+        "image_url": "https://img5a.coupangcdn.com/image/vendor_inventory/b20a/894891a4f0d028720e8e2079808a1f07cad5fb7b12c32c6f074e7add8d8b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8416837413"
+    },
+    {
+        "id": "20261017-05",
+        "date": "20261017",
+        "rank": 5,
+        "name": "[최신형]  틴도우 다용도 패브릭 청소기 가정용  카페트 침구 쇼파 습식청소기",
+        "price": 94900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/3301/9be07c17b7c00b1f15a66bb4674061d39fcc370ebda808df8441967c04c4.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8769129764"
+    },
+    {
+        "id": "20261017-06",
+        "date": "20261017",
+        "rank": 6,
+        "name": "[로켓프레시] 드시모네 프로바이오틱스 캡슐 플러스 1000억 40.2g",
+        "price": 45200,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/27726983813937-41cdce49-958d-4b6d-9435-80c6204a7412.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7776826657"
+    },
+    {
+        "id": "20261017-07",
+        "date": "20261017",
+        "rank": 7,
+        "name": "[로켓프레시] 아르헨티나산 이지필 붉은새우 특대 30~39 마리 (냉동)",
+        "price": 28900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/8863620639932-a7f80309-dac4-470e-a83f-a200e4e91644.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8787582729"
+    },
+    {
+        "id": "20261017-08",
+        "date": "20261017",
+        "rank": 8,
+        "name": "세이프 천연미네랄 주방세제 오리지널 리필",
+        "price": 15900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/3305886069984759-644fcc04-df02-4053-87a4-acbef26ca971.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=53667649"
+    },
+    {
+        "id": "20261017-09",
+        "date": "20261017",
+        "rank": 9,
+        "name": "★더스위트 바다전망",
+        "price": 125000,
+        "image_url": "https://static.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00148899/d4486aa4-3915-40ba-92b1-a3c371edbdf8.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=102304578&vendorItemId=70000317328076"
+    },
+    {
+        "id": "20261017-10",
+        "date": "20261017",
+        "rank": 10,
+        "name": "뷰카 센트 클래식 대용량 디퓨저",
+        "price": 17400,
+        "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/f731/81b80bdf3acec7688e82b0e2c8a177688c76c4d7540e6884f69893a7432e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7308098821"
+    },
+    {
         "id": "20261016-01",
         "date": "20261016",
         "rank": 1,
