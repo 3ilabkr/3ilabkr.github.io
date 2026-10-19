@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261019-01",
+        "date": "20261019",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 16110,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20261019-02",
+        "date": "20261019",
+        "rank": 2,
+        "name": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지",
+        "price": 19140,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=34846576"
+    },
+    {
+        "id": "20261019-03",
+        "date": "20261019",
+        "rank": 3,
+        "name": "베베앙 120 유아물티슈 캡형",
+        "price": 11600,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8548508229"
+    },
+    {
+        "id": "20261019-04",
+        "date": "20261019",
+        "rank": 4,
+        "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘",
+        "price": 14400,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/282513725065722-80213784-32e9-4ae7-a246-e1495a5d4c58.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8788886173"
+    },
+    {
+        "id": "20261019-05",
+        "date": "20261019",
+        "rank": 5,
+        "name": "아몬드브리즈 언스위트",
+        "price": 15770,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=329389373"
+    },
+    {
+        "id": "20261019-06",
+        "date": "20261019",
+        "rank": 6,
+        "name": "Kipnos 슬라이딩 리빙박스 옷장정리 슬라이딩 수납함 접이식  슬라이딩 옷정리트레이",
+        "price": 20250,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/5a70/d929630e9c9d0e702ddfc107b42597321507f6458b973db8ec01b6746f66.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9454935475"
+    },
+    {
+        "id": "20261019-07",
+        "date": "20261019",
+        "rank": 7,
+        "name": "[행복미트] 돼지 미박사태 돈사태살 껍데기있음 수육용 보쌈용 [당일발송]",
+        "price": 22210,
+        "image_url": "https://image9.coupangcdn.com/image/vendor_inventory/2313/e4d19f192548e149332b4efb1ad65941afd6b89fbf3ff53dbf6f9a56a551.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9339378797"
+    },
+    {
+        "id": "20261019-08",
+        "date": "20261019",
+        "rank": 8,
+        "name": "르몽스 먼지없는 알러지케어 차렵이불 세트",
+        "price": 55090,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/76f9/b63df768e664a6020e059ad8457e0b912d5497aa4fc9d6efe2083d168fa3.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8771465367"
+    },
+    {
+        "id": "20261019-09",
+        "date": "20261019",
+        "rank": 9,
+        "name": "나이키 남녀공용 페이서 라이너 러닝 글러브 양손착용 HM9024-042",
+        "price": 18000,
+        "image_url": "https://image3.coupangcdn.com/image/vendor_inventory/d2cf/c6f1f0613d6d8e0643dcc7ea7c48202fe53655ff3391587228fbd7efafb0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8275254647"
+    },
+    {
+        "id": "20261019-10",
+        "date": "20261019",
+        "rank": 10,
+        "name": "01.벨버디어_디럭스(호텔형)",
+        "price": 244000,
+        "image_url": "https://image9.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00420106/27e49fc9-1f84-44ef-a40f-90654fa663bd.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011476637&vendorItemId=70000308661934"
+    },
+    {
         "id": "20261018-01",
         "date": "20261018",
         "rank": 1,
