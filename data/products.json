@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261021-01",
+        "date": "20261021",
+        "rank": 1,
+        "name": "뉴케어 올프로틴 고소한맛",
+        "price": 40770,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/204879581581266-6bcc48b3-9192-40d5-bab2-8daa2c5b42a6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391180879"
+    },
+    {
+        "id": "20261021-02",
+        "date": "20261021",
+        "rank": 2,
+        "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 시험완료",
+        "price": 11690,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/9084091501221-f02120d0-8bf3-41b1-81ab-44740731e905.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=252301180"
+    },
+    {
+        "id": "20261021-03",
+        "date": "20261021",
+        "rank": 3,
+        "name": "제주삼다수 무라벨",
+        "price": 14580,
+        "image_url": "https://image7.coupangcdn.com/image/vendor_inventory/e4c3/49bb044cfb28c1030f3febcb6066873f4003f02f9baef566a2500e30e6d6.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725928327"
+    },
+    {
+        "id": "20261021-04",
+        "date": "20261021",
+        "rank": 4,
+        "name": "스프라이트 캔",
+        "price": 16600,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/57530485560223-8c46bde4-cb99-424c-a0f8-e178fb99cceb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9192487517"
+    },
+    {
+        "id": "20261021-05",
+        "date": "20261021",
+        "rank": 5,
+        "name": "에이지투웨니스 샤이닝 드롭 에디션 뉴오리지널 에센스 커버 팩트 케이스 + 리필 12.5g x 3p",
+        "price": 28900,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/88601639204904-f136a6cb-6d99-446d-986e-5c977cc383e0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9310222939"
+    },
+    {
+        "id": "20261021-06",
+        "date": "20261021",
+        "rank": 6,
+        "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
+        "price": 76000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/1799456783809647-a2e328d1-7265-4944-820a-468d6915cf80.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8248049594"
+    },
+    {
+        "id": "20261021-07",
+        "date": "20261021",
+        "rank": 7,
+        "name": "꿀당도 국산 큰 공주밤 햇밤",
+        "price": 14060,
+        "image_url": "https://image8.coupangcdn.com/image/vendor_inventory/8517/f36281910421e78b11dba99ba340e0e580f340e4d872c8fdc236f1a2cb68.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8358976214"
+    },
+    {
+        "id": "20261021-08",
+        "date": "20261021",
+        "rank": 8,
+        "name": "테팔 인덕션 티타늄 1X 스테인리스 스틸 트렌디쿡 프라이팬",
+        "price": 42900,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/1749488813712139-f2f4d98c-5f1e-4cbc-905c-78e328141600.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9496608730"
+    },
+    {
+        "id": "20261021-09",
+        "date": "20261021",
+        "rank": 9,
+        "name": "Seonsi 크리스피 4 in 1 포터블 글라스 쿠킹 시스템 에어프라이어 세트 4L+1.5L",
+        "price": 99900,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/5f00/dc9a2eccb5b633859f07f007cfbf560f7e9f9315310984e157be411dedd4.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9066566956"
+    },
+    {
+        "id": "20261021-10",
+        "date": "20261021",
+        "rank": 10,
+        "name": "♥[밸리콘도] 스탠다드 트윈_16평",
+        "price": 88000,
+        "image_url": "https://image4.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/5b0f6845-a7c3-485d-a978-8e1671c4ae80.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011260915&vendorItemId=70000315643914"
+    },
+    {
         "id": "20261020-01",
         "date": "20261020",
         "rank": 1,
