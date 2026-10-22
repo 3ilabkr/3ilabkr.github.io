@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261022-01",
+        "date": "20261022",
+        "rank": 1,
+        "name": "다우니 퍼퓸 쥬얼 에메랄드 브리즈 향기부스터",
+        "price": 27900,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/179849008416978-bc0d9511-501c-4463-8916-8eb40cc00b54.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7119749377"
+    },
+    {
+        "id": "20261022-02",
+        "date": "20261022",
+        "rank": 2,
+        "name": "오랄비 크로스액션 탁월한 세정력 칫솔",
+        "price": 19950,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/30476567875169-ad0d2ce6-4390-46d6-807f-e575018a3999.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8880355026"
+    },
+    {
+        "id": "20261022-03",
+        "date": "20261022",
+        "rank": 3,
+        "name": "[특가세일] 우수농가 초고당도선별 시나노 골드 사과",
+        "price": 19980,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/84b1/c0c30cf7bae010977cc677bb04e1a16e6e3d9c81eb89555504ec2a08ecbf.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9769403205"
+    },
+    {
+        "id": "20261022-04",
+        "date": "20261022",
+        "rank": 4,
+        "name": "[26년첫사과] 단독특가 고당도선별 햇 부사사과 꿀사과",
+        "price": 25920,
+        "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/ab2f/c736fcc35b8460542d0fa55d585007c19592e7f4c44305dd3ef46fe1658b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9695331084"
+    },
+    {
+        "id": "20261022-05",
+        "date": "20261022",
+        "rank": 5,
+        "name": "[로켓프레시] 푸드랩플러스 스페인산 간편구이 삼겹살 지퍼백 (냉동)",
+        "price": 11330,
+        "image_url": "https://img1a.coupangcdn.com/image/rs_quotation_api/ro33nwtz/e6d77a798ae74d4e8c65159f75b50b74.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7869708635"
+    },
+    {
+        "id": "20261022-06",
+        "date": "20261022",
+        "rank": 6,
+        "name": "☆스탠다드",
+        "price": 80000,
+        "image_url": "https://image12.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00005562/00ce9fec-d58b-4d50-b151-bc16205449fc.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011246158&vendorItemId=70000286946023"
+    },
+    {
+        "id": "20261022-07",
+        "date": "20261022",
+        "rank": 7,
+        "name": "강화군농협 강화섬쌀 2026년산 햅쌀 고시히카리 백미 상등급",
+        "price": 17400,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/f1f3/5757af0bce45bd2bf6f0f1919e53f3bed78665e4b72b73238cc66ac15f49.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6905374804"
+    },
+    {
+        "id": "20261022-08",
+        "date": "20261022",
+        "rank": 8,
+        "name": "01. ★선착순★1인 입장권",
+        "price": 45500,
+        "image_url": "https://image1.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/3582529c-df13-4c2a-bdae-3061cbc08a17.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011517663&vendorItemId=70000315415708"
+    },
+    {
+        "id": "20261022-09",
+        "date": "20261022",
+        "rank": 9,
+        "name": "★쁘띠프랑스+이탈리아마을 통합이용권 대소공통",
+        "price": 32000,
+        "image_url": "https://image10.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/5676fbc8-591d-4811-afe3-34d0a1e53e02.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011518304&vendorItemId=70000315555100"
+    },
+    {
+        "id": "20261022-10",
+        "date": "20261022",
+        "rank": 10,
+        "name": "09.♥벨버디어_디럭스(호텔형)",
+        "price": 244000,
+        "image_url": "https://img1a.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00420106/c5b9883e-843f-46a5-bec5-50d7633ae2fb.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011476637&vendorItemId=70000317521117"
+    },
+    {
         "id": "20261021-01",
         "date": "20261021",
         "rank": 1,
