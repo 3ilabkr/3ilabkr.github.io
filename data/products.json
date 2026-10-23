@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261023-01",
+        "date": "20261023",
+        "rank": 1,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://img4c.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20261023-02",
+        "date": "20261023",
+        "rank": 2,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 13900,
+        "image_url": "https://image1.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20261023-03",
+        "date": "20261023",
+        "rank": 3,
+        "name": "코카콜라 오리지널 무라벨",
+        "price": 21870,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/1435598150504811-d5c1cf7b-6446-4a2c-9b93-5243e0c3c1f1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310929139"
+    },
+    {
+        "id": "20261023-04",
+        "date": "20261023",
+        "rank": 4,
+        "name": "평창수 무라벨 생수",
+        "price": 12900,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/1402225015511478-05a7b5a7-361a-4cbf-973a-a85aad1abce3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157269016"
+    },
+    {
+        "id": "20261023-05",
+        "date": "20261023",
+        "rank": 5,
+        "name": "Kipnos 폴딩 대용량 리빙박스 수납장 대용량 수납 정리함 접이식 보관함 다용도 수납함 플라스틱 수납함 사물함 정리함 리빙박 스수납박스 대형가정용 장난감 수납장 옷정리함",
+        "price": 31500,
+        "image_url": "https://img1a.coupangcdn.com/image/vendor_inventory/8e28/10b3fbcd5eb469388b7f2448ddb4ac2f053c1966ecda1185c56388f93ba2.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8837247802"
+    },
+    {
+        "id": "20261023-06",
+        "date": "20261023",
+        "rank": 6,
+        "name": "[로켓프레시] 돌돌말이 대패 삼겹살 (냉동)",
+        "price": 11200,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/401237277211302-14fdfef3-5b04-4f1f-9d17-18723753156f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7518061003"
+    },
+    {
+        "id": "20261023-07",
+        "date": "20261023",
+        "rank": 7,
+        "name": "헤인느 먼지없는 프리미엄 호텔 수건",
+        "price": 28800,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/d16f/8a8a5e6c19940a2eae59676ab3b8a5c88e56d2bf557b751d3ba8b603895c.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9037653959"
+    },
+    {
+        "id": "20261023-08",
+        "date": "20261023",
+        "rank": 8,
+        "name": "스케쳐스 남성용 고워크 플렉스 슬립인스 운동화 SP0MWCGY211",
+        "price": 109000,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2026/05/22/17/8/59b4949e-2624-4bdb-baad-79783f5ba987.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9563094538"
+    },
+    {
+        "id": "20261023-09",
+        "date": "20261023",
+        "rank": 9,
+        "name": "타이거 은행놀이 (리뉴얼)",
+        "price": 6210,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/2025/09/02/18/6/4dccafdb-062a-4958-abe4-dfcde145cdd6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8717630736"
+    },
+    {
+        "id": "20261023-10",
+        "date": "20261023",
+        "rank": 10,
+        "name": "★AFTER3 종합이용권 1인",
+        "price": 38000,
+        "image_url": "https://image3.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/ea392ace-e114-491e-a0eb-3e72b8ec183c.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011528365&vendorItemId=70000317653746"
+    },
+    {
         "id": "20261022-01",
         "date": "20261022",
         "rank": 1,
