@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261024-01",
+        "date": "20261024",
+        "rank": 1,
+        "name": "쿠팡 베이직 천연펄프 3겹 롤 화장지",
+        "price": 11890,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/515679525385799-751eee87-4f8c-4bcc-9784-4e2403f5c115.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=328677319"
+    },
+    {
+        "id": "20261024-02",
+        "date": "20261024",
+        "rank": 2,
+        "name": "동원샘물 무라벨",
+        "price": 11220,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/357720465227725-13ca924d-594d-4783-9602-2bb0730c31ca.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7869554357"
+    },
+    {
+        "id": "20261024-03",
+        "date": "20261024",
+        "rank": 3,
+        "name": "빼빼로 기프트 어쏘트 감사팩 3종 x 2p 세트 290g",
+        "price": 12000,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/2026/09/18/15/3/967c3b59-59ea-477c-9081-b8b4ef8c53cc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9740253512"
+    },
+    {
+        "id": "20261024-04",
+        "date": "20261024",
+        "rank": 4,
+        "name": "키루에 의자 컴퓨터의자 책상의자 사무용의자푹신한 메쉬 의자",
+        "price": 52500,
+        "image_url": "https://image15.coupangcdn.com/image/vendor_inventory/82a3/e402cf35d44ff78579fda233c23478342b3b0ad4193c76734ed475d6c55b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8886184297"
+    },
+    {
+        "id": "20261024-05",
+        "date": "20261024",
+        "rank": 5,
+        "name": "★종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://img2a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/db66e7a6-7693-47a2-af62-1b6f77e6d245.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011530739&vendorItemId=70000318471588"
+    },
+    {
+        "id": "20261024-06",
+        "date": "20261024",
+        "rank": 6,
+        "name": "엠피온 무선 하이패스 단말기 SET-525A",
+        "price": 69900,
+        "image_url": "https://img5c.coupangcdn.com/image/1025_amir_coupang_oct_80k/a97e/0f0878c9e08baed802fa8041f076163d7b5c8f75a27b3bea6e32c9d9979c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=20166150"
+    },
+    {
+        "id": "20261024-07",
+        "date": "20261024",
+        "rank": 7,
+        "name": "프리티케어 로봇청소기 LDS 센서 지도 그리기 기능  물걸레 먼지비움",
+        "price": 249470,
+        "image_url": "https://img4c.coupangcdn.com/image/vendor_inventory/image_audit/advertiser/1783482043712/771936d2-0590-416a-914b-9072b8c582cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9557659294"
+    },
+    {
+        "id": "20261024-08",
+        "date": "20261024",
+        "rank": 8,
+        "name": "(골드박스)낮 12시 이전 입장권(동물원포함) 1인권",
+        "price": 27000,
+        "image_url": "https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00668506/d2e9b091-e46a-4b5e-a06a-299373beabcf.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011528362&vendorItemId=70000317653732"
+    },
+    {
+        "id": "20261024-09",
+        "date": "20261024",
+        "rank": 9,
+        "name": "★ [ 굿바이 로보카폴리 ] 원더파크 1인 입장권",
+        "price": 22000,
+        "image_url": "https://img4a.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310520/48d23f63-b554-4554-9fd0-655d44cc4f65.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011527348&vendorItemId=70000317328482"
+    },
+    {
+        "id": "20261024-10",
+        "date": "20261024",
+        "rank": 10,
+        "name": "일리윤 세라마이드 아토 인텐시브 로션",
+        "price": 13500,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/2026/09/08/10/3/78ea5562-b0ad-4757-b548-d78a1661718e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725921294"
+    },
+    {
         "id": "20261023-01",
         "date": "20261023",
         "rank": 1,
