@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261025-01",
+        "date": "20261025",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 22900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/45775547563672-e9b83757-fd28-4a5d-92de-7ce0af9bf330.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20261025-02",
+        "date": "20261025",
+        "rank": 2,
+        "name": "조지아 크래프트 아메리카노",
+        "price": 22530,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/612679576866745-4943478e-3529-417a-9e9e-1f447e90c1d1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8245824385"
+    },
+    {
+        "id": "20261025-03",
+        "date": "20261025",
+        "rank": 3,
+        "name": "파워에이드 마운틴 블라스트",
+        "price": 23900,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8157286425"
+    },
+    {
+        "id": "20261025-04",
+        "date": "20261025",
+        "rank": 4,
+        "name": "스프라이트 제로 사이다 with TEA",
+        "price": 15050,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/2026/05/19/18/1/b5de012e-d332-49ab-9be4-5e6b00896427.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9556031178"
+    },
+    {
+        "id": "20261025-05",
+        "date": "20261025",
+        "rank": 5,
+        "name": "클린노트 부드러운 순면 일회용 페이스타올",
+        "price": 9800,
+        "image_url": "https://static.coupangcdn.com/image/vendor_inventory/74b7/dc3b4decf6f5903a350e78f3485e86a47092c3f6896aaf1d35eeca348abb.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9625284119"
+    },
+    {
+        "id": "20261025-06",
+        "date": "20261025",
+        "rank": 6,
+        "name": "Kipnos 행거 업그레이드 이동식 스탠드 옷걸이 행거 바퀴형",
+        "price": 21000,
+        "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/3a8c/27089afa3e399f022b2f06bf332f2086305634cc6788c28524073b319da9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9701039848"
+    },
+    {
+        "id": "20261025-07",
+        "date": "20261025",
+        "rank": 7,
+        "name": "[하루딱100박스특가] 최대16브릭스 초고당도선별 제주 감귤",
+        "price": 14060,
+        "image_url": "https://image4.coupangcdn.com/image/vendor_inventory/e68a/6a0177d0e3b2d210458a622fb0ca3d602df7add85ca83b6607752b3bd3ce.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9769629069"
+    },
+    {
+        "id": "20261025-08",
+        "date": "20261025",
+        "rank": 8,
+        "name": "10.♠벨버디어_디럭스(호텔형)",
+        "price": 244000,
+        "image_url": "https://img1c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00420106/27e49fc9-1f84-44ef-a40f-90654fa663bd.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011476637&vendorItemId=70000317521118"
+    },
+    {
+        "id": "20261025-09",
+        "date": "20261025",
+        "rank": 9,
+        "name": "★로우시즌 1인 종일권",
+        "price": 46000,
+        "image_url": "https://image5.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/7618df09-6708-4ba8-b30e-c1a88e1bf5c1.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011528906&vendorItemId=70000317739277"
+    },
+    {
+        "id": "20261025-10",
+        "date": "20261025",
+        "rank": 10,
+        "name": "배스킨라빈스 피스타치오 크림 모찌 파이 12p",
+        "price": 11880,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/276554408690484-4f5ac3d4-e38c-4c34-8610-a2f08b302516.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8434824534"
+    },
+    {
         "id": "20261024-01",
         "date": "20261024",
         "rank": 1,
