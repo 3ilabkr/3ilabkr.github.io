@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261026-01",
+        "date": "20261026",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 19580,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/1991112197005-96f28fdc-8ac2-4f31-b860-84c41470b37d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20261026-02",
+        "date": "20261026",
+        "rank": 2,
+        "name": "피지 모락셀라 냄새제거 세탁세제 코튼향",
+        "price": 15900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2026/04/06/16/1/1b23d043-ce1e-46e9-b7af-f803a16c6132.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527004003"
+    },
+    {
+        "id": "20261026-03",
+        "date": "20261026",
+        "rank": 3,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 16500,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20261026-04",
+        "date": "20261026",
+        "rank": 4,
+        "name": "RC마스터 팬텀 사이버트럭 RC카",
+        "price": 24800,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/415313594136822-b97101ec-4003-4dc2-8c4b-d74ad777f7c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9268177231"
+    },
+    {
+        "id": "20261026-05",
+        "date": "20261026",
+        "rank": 5,
+        "name": "곰곰 구수한 우리쌀밥 작은공기",
+        "price": 14770,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/598337448779720-7520e5d2-a077-449c-a4d0-cec47eefa7e3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8934143282"
+    },
+    {
+        "id": "20261026-06",
+        "date": "20261026",
+        "rank": 6,
+        "name": "NICESUN 대용량 스마트 가습기 UV 살균 자동 습도 조절 2 in 1 디퓨저 겸용 가정용/사무실용 가습기 8L",
+        "price": 76760,
+        "image_url": "https://img3c.coupangcdn.com/image/vendor_inventory/fe8e/4b2ed9db56ced7ee2de5bff7e78b6295f93d2b4c46c7bca56d093842ed2b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9066311058"
+    },
+    {
+        "id": "20261026-07",
+        "date": "20261026",
+        "rank": 7,
+        "name": "B7. ★선착순★ 종일파크이용권",
+        "price": 52000,
+        "image_url": "https://img5c.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/26c81537-e0a2-4f16-9946-c782ed65eeab.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011298980&vendorItemId=70000318344542"
+    },
+    {
+        "id": "20261026-08",
+        "date": "20261026",
+        "rank": 8,
+        "name": "A2. ★한정수량★ 연간이용권",
+        "price": 130000,
+        "image_url": "https://static.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/d98b7fd6-c1c6-4af9-86cf-a84bab5157a0.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011295708&vendorItemId=70000317595964"
+    },
+    {
+        "id": "20261026-09",
+        "date": "20261026",
+        "rank": 9,
+        "name": "페츠모아 냄새잡는 요술 배변패드 엣지 레몬향",
+        "price": 45410,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/13977558268929-ccb1dcf2-330d-4552-bd11-b9e734e6dfdf.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7278837071"
+    },
+    {
+        "id": "20261026-10",
+        "date": "20261026",
+        "rank": 10,
+        "name": "뉴발란스키즈 NK9BFB398U ESSENTIAL 긴팔 티셔츠 2종 세트",
+        "price": 51690,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/2025/09/12/10/8/3c33cc88-5844-4738-9587-7a24e1ec7b6d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9057428414"
+    },
+    {
         "id": "20261025-01",
         "date": "20261025",
         "rank": 1,
