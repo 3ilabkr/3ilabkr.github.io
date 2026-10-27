@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261027-01",
+        "date": "20261027",
+        "rank": 1,
+        "name": "스프라이트 제로 사이다",
+        "price": 15480,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/679913689494049-b3b158df-32ef-4268-b109-9045643c8175.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9391860017"
+    },
+    {
+        "id": "20261027-02",
+        "date": "20261027",
+        "rank": 2,
+        "name": "Nature's Way 삼부커스 구미",
+        "price": 32880,
+        "image_url": "https://img4a.coupangcdn.com/image/vendor_inventory/1d46/9e3f37f0cffb284851813ac7ce43ac3d152caef5c3d52d974cfbd392ec50.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=222783"
+    },
+    {
+        "id": "20261027-03",
+        "date": "20261027",
+        "rank": 3,
+        "name": "푸마골프 경량 패딩",
+        "price": 59900,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2026/07/09/15/6/e1784194-19e7-4778-bfc2-1d190bd8c828.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9642222353"
+    },
+    {
+        "id": "20261027-04",
+        "date": "20261027",
+        "rank": 4,
+        "name": "광동제약 타우린 2000",
+        "price": 11000,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/865394199192148-4ced6c30-f624-46d2-ac5f-a89ba702e753.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=5490639891"
+    },
+    {
+        "id": "20261027-05",
+        "date": "20261027",
+        "rank": 5,
+        "name": "[로켓프레시] 베트남산 고산지 스텔라나 바나나",
+        "price": 6440,
+        "image_url": "https://img4c.coupangcdn.com/image/retail/images/2649347547279837-d1e6af66-afb0-4789-bce7-ed1a651ff94a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7415901459"
+    },
+    {
+        "id": "20261027-06",
+        "date": "20261027",
+        "rank": 6,
+        "name": "하이퍼엑스 Cloud 3 유선 게이밍 헤드셋",
+        "price": 99000,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/2025/05/08/16/1/8dfa4af7-9509-4df4-883c-f76a0c0f5ba3.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7405894509"
+    },
+    {
+        "id": "20261027-07",
+        "date": "20261027",
+        "rank": 7,
+        "name": "오휘 얼티밋 커버 데니어 미니 기미 커버 쿠션 6g",
+        "price": 13680,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2025/05/19/17/3/7710396b-8670-4ede-87f4-7873444265e0.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8783927945"
+    },
+    {
+        "id": "20261027-08",
+        "date": "20261027",
+        "rank": 8,
+        "name": "스카치브라이트 실속형 멀티팩 테이프 클리너 리필 7p",
+        "price": 13840,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/994793439780933-14d7218f-5081-47aa-a176-11df99bc4d5d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8253502320"
+    },
+    {
+        "id": "20261027-09",
+        "date": "20261027",
+        "rank": 9,
+        "name": "보누맘 아동용 웜히트텍 발열 실내복 상하세트",
+        "price": 9600,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/6448091965328921-2f897ae2-2374-46db-938f-b73e2f175d46.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6703658197"
+    },
+    {
+        "id": "20261027-10",
+        "date": "20261027",
+        "rank": 10,
+        "name": "가그린 오리지널 구강청결제",
+        "price": 13900,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/247823989174287-50f6a974-15b6-4485-983f-8cee4707fcfb.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6583185155"
+    },
+    {
         "id": "20261026-01",
         "date": "20261026",
         "rank": 1,
