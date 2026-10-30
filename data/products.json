@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261030-01",
+        "date": "20261030",
+        "rank": 1,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 25550,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/71398767918130-b431ac05-41d7-466f-83e2-c4758d247341.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725928327"
+    },
+    {
+        "id": "20261030-02",
+        "date": "20261030",
+        "rank": 2,
+        "name": "센카 퍼펙트 휩 프레시 클렌징 폼",
+        "price": 17900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/649404505332720-51a60066-9e61-43ac-b120-a1f24ba094c9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8610798007"
+    },
+    {
+        "id": "20261030-03",
+        "date": "20261030",
+        "rank": 3,
+        "name": "베어파우 여성용 ANAIS 슬리퍼",
+        "price": 33560,
+        "image_url": "https://image6.coupangcdn.com/image/retail/images/2026/07/09/17/7/918e7aee-33e8-462e-a2b9-5949077169ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9642385646"
+    },
+    {
+        "id": "20261030-04",
+        "date": "20261030",
+        "rank": 4,
+        "name": "ELLE PARIS 여성용 고밀도 소프트 피치드 긴팔 티셔츠",
+        "price": 9900,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/328572582157359-52602307-aa88-4a81-a475-3b2a9af7bf10.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8871253883"
+    },
+    {
+        "id": "20261030-05",
+        "date": "20261030",
+        "rank": 5,
+        "name": "푸마바디웨어 남성용 반목 기능성 긴팔 티셔츠",
+        "price": 15900,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2026/09/18/18/1/a4088515-3a1e-46b2-a79d-368858d94317.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9740469860"
+    },
+    {
+        "id": "20261030-06",
+        "date": "20261030",
+        "rank": 6,
+        "name": "A6. ★한정수량★ 1인 입장권",
+        "price": 35000,
+        "image_url": "https://image6.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/380f09ec-5477-4fc1-a709-952ad076a539.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011241861&vendorItemId=70000317615759"
+    },
+    {
+        "id": "20261030-07",
+        "date": "20261030",
+        "rank": 7,
+        "name": "★종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://image14.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/6f51df25-1848-4580-9fca-ecaa8580b7e8.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011536656&vendorItemId=70000319142025"
+    },
+    {
+        "id": "20261030-08",
+        "date": "20261030",
+        "rank": 8,
+        "name": "[★할로윈특별가] 종일 자유이용권",
+        "price": 49000,
+        "image_url": "https://image9.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/3a0b08c0-0608-4d2b-a4cb-218b67d20bd7.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011529919&vendorItemId=70000318152325"
+    },
+    {
+        "id": "20261030-09",
+        "date": "20261030",
+        "rank": 9,
+        "name": "락앤락 튼튼한 빨래건조대",
+        "price": 39490,
+        "image_url": "https://img5c.coupangcdn.com/image/1025_amir_coupang_oct_80k/07f7/e8d9099d762eba35d90c34e8f4252263aad56b85eb73e4df2426a23d94fc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8574506645"
+    },
+    {
+        "id": "20261030-10",
+        "date": "20261030",
+        "rank": 10,
+        "name": "LG전자 4K UHD 울트라HD 모니터",
+        "price": 469000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/37204503218170-980eccd1-0988-43de-8a5a-9436fe9e21b6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9773810257"
+    },
+    {
         "id": "20261029-01",
         "date": "20261029",
         "rank": 1,
