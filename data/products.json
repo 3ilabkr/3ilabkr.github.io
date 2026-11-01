@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261101-01",
+        "date": "20261101",
+        "rank": 1,
+        "name": "코카콜라 제로",
+        "price": 15900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/79678112711994-993834df-28a8-4839-8127-15735aaed1df.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8174473713"
+    },
+    {
+        "id": "20261101-02",
+        "date": "20261101",
+        "rank": 2,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+        "price": 19900,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/183527831882073-ded2962c-cfa7-407a-ad28-183e4ac05fa2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9354349642"
+    },
+    {
+        "id": "20261101-03",
+        "date": "20261101",
+        "rank": 3,
+        "name": "테팔 매트 프라이팬 세트",
+        "price": 72870,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/941245883729726-3ee81dfd-48fc-4563-8c06-04acfcfdf03d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9774131617"
+    },
+    {
+        "id": "20261101-04",
+        "date": "20261101",
+        "rank": 4,
+        "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품",
+        "price": 10900,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9711973763"
+    },
+    {
+        "id": "20261101-05",
+        "date": "20261101",
+        "rank": 5,
+        "name": "국내산 햇 다진 마늘 물0% 첨가물 0%",
+        "price": 15790,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/af85/3b243e2459716f11aa9076e5510561b0dda256583ebf794fa4cabb9cfa02.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7196573931"
+    },
+    {
+        "id": "20261101-06",
+        "date": "20261101",
+        "rank": 6,
+        "name": "코멧 니트릴장갑 블랙",
+        "price": 6990,
+        "image_url": "https://img3c.coupangcdn.com/image/retail/images/13115525891886-5b860a77-7f2f-43c1-92bc-63d3ced37624.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6101620244"
+    },
+    {
+        "id": "20261101-07",
+        "date": "20261101",
+        "rank": 7,
+        "name": "밀레 눕시패딩 + 트레이닝 맨투맨 + 기모바지 세트",
+        "price": 74200,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/2026/08/31/11/2/3fd53b9b-4eee-44db-9525-6a8f9b7f2f15.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9715018967"
+    },
+    {
+        "id": "20261101-08",
+        "date": "20261101",
+        "rank": 8,
+        "name": "아임리얼 100 고농축 블루베리",
+        "price": 20680,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/174705027242286-145d5dfe-d701-4330-8c43-0a2452a90dde.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8527551531"
+    },
+    {
+        "id": "20261101-09",
+        "date": "20261101",
+        "rank": 9,
+        "name": "하늬홈 간편한끼 전자레인지 냉동밥 용기",
+        "price": 21900,
+        "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/448d/27b096a0b48bcfd428916a22ee9fa32aaa3f6fcd3efc07cd49282b40da1b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9743071260"
+    },
+    {
+        "id": "20261101-10",
+        "date": "20261101",
+        "rank": 10,
+        "name": "미스터추추 강아지 배변패드 무향 15g",
+        "price": 22700,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/76570267598189-b935a4fe-5af7-4904-98be-dccc9380e0b0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8595678254"
+    },
+    {
         "id": "20261031-01",
         "date": "20261031",
         "rank": 1,
