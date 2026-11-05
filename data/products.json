@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261105-01",
+        "date": "20261105",
+        "rank": 1,
+        "name": "뉴케어 올프로틴 고소한맛",
+        "price": 41320,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/204879581581266-6bcc48b3-9192-40d5-bab2-8daa2c5b42a6.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8391180879"
+    },
+    {
+        "id": "20261105-02",
+        "date": "20261105",
+        "rank": 2,
+        "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품",
+        "price": 16700,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1703093047"
+    },
+    {
+        "id": "20261105-03",
+        "date": "20261105",
+        "rank": 3,
+        "name": "하늘보리 에코 무라벨",
+        "price": 15260,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7420809688"
+    },
+    {
+        "id": "20261105-04",
+        "date": "20261105",
+        "rank": 4,
+        "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 시험완료",
+        "price": 11690,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/9084091501221-f02120d0-8bf3-41b1-81ab-44740731e905.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=252301180"
+    },
+    {
+        "id": "20261105-05",
+        "date": "20261105",
+        "rank": 5,
+        "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 일반용 액체세제 리필",
+        "price": 10300,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2026/03/04/18/2/5f1ac933-72e8-40d3-8c11-25ad31936385.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9740284811"
+    },
+    {
+        "id": "20261105-06",
+        "date": "20261105",
+        "rank": 6,
+        "name": "롯데제과 칙촉 오리지널",
+        "price": 10520,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/437800686866325-0ad104e6-64e2-4ff9-8d4b-338ff8f01df1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6813176799"
+    },
+    {
+        "id": "20261105-07",
+        "date": "20261105",
+        "rank": 7,
+        "name": "듀이트리 하이 아미노 올 클렌징 밀크",
+        "price": 12000,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/312115903653113-59782d30-0580-4dd4-afa4-a8fbabf6289c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7397036159"
+    },
+    {
+        "id": "20261105-08",
+        "date": "20261105",
+        "rank": 8,
+        "name": "펩시 제로슈거 라임향",
+        "price": 14140,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/378947857831841-03b75531-8dd7-4d79-aed8-bd089640f638.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8279872054"
+    },
+    {
+        "id": "20261105-09",
+        "date": "20261105",
+        "rank": 9,
+        "name": "바세린 인텐시브 케어 드라이 스킨 리페어 바디로션",
+        "price": 11560,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/568144712991851-c8e2e9fd-65d2-4e02-85b8-cbdf0a37c3e9.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1943017968"
+    },
+    {
+        "id": "20261105-10",
+        "date": "20261105",
+        "rank": 10,
+        "name": "마스마룰즈 윙 스웨이드백 + 파우치 세트",
+        "price": 87280,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/515550324793551-6b1ae39f-1614-497c-aa6d-3d5b6f33c669.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9277627174"
+    },
+    {
         "id": "20261104-01",
         "date": "20261104",
         "rank": 1,
