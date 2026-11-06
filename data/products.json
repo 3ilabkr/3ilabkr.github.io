@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261106-01",
+        "date": "20261106",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 17000,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20261106-02",
+        "date": "20261106",
+        "rank": 2,
+        "name": "빼빼로 어쏘트 시나모롤 & 포차코 3종 x 2p 세트 222g",
+        "price": 9480,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/2026/09/18/15/0/3aa4a2c2-caf3-47ae-9f76-210f6640c9ac.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9740259630"
+    },
+    {
+        "id": "20261106-03",
+        "date": "20261106",
+        "rank": 3,
+        "name": "HanilMedical 탄소열선 고급 전기요 HL-D205(25)",
+        "price": 30900,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/213106184456189-3078eb08-02fd-42a5-b9d2-5d00d03628c8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9150828084"
+    },
+    {
+        "id": "20261106-04",
+        "date": "20261106",
+        "rank": 4,
+        "name": "로보락 S10 MaxV Ultra 로봇청소기",
+        "price": 1490000,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/2150997121245559-00372454-b46a-41ba-ab44-6adc7a29d4c2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9360875400"
+    },
+    {
+        "id": "20261106-05",
+        "date": "20261106",
+        "rank": 5,
+        "name": "의성군농협 2026년산 햅쌀 바른고을 의성진쌀 백미 상등급",
+        "price": 32980,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/69370036972826-e260cb4b-604e-433e-b892-9e1836bb4d4c.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8238734773"
+    },
+    {
+        "id": "20261106-06",
+        "date": "20261106",
+        "rank": 6,
+        "name": "피죤 레귤러 섬유유연제 핑크로즈 본품",
+        "price": 17640,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/534761818801708-1cc9467c-b924-4012-95fb-917b49a57fee.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=142412365"
+    },
+    {
+        "id": "20261106-07",
+        "date": "20261106",
+        "rank": 7,
+        "name": "생생포크 한돈 앞다리살 불고기용 (냉장)",
+        "price": 18500,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/4819354755725224-0866d803-1610-46e1-a4f7-eaf10fedf298.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=303828655"
+    },
+    {
+        "id": "20261106-08",
+        "date": "20261106",
+        "rank": 8,
+        "name": "Seonsi 크리스피 4 in 1 포터블 글라스 쿠킹 시스템 에어프라이어 세트 4L+1.5L",
+        "price": 99900,
+        "image_url": "https://image13.coupangcdn.com/image/vendor_inventory/5f00/dc9a2eccb5b633859f07f007cfbf560f7e9f9315310984e157be411dedd4.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9066566956"
+    },
+    {
+        "id": "20261106-09",
+        "date": "20261106",
+        "rank": 9,
+        "name": "★종일 종합이용권 1인",
+        "price": 67000,
+        "image_url": "https://img4c.coupangcdn.com/image/travel_reactor/travelSeller/common/A01310517/274bb1f6-1ecc-4f53-892b-9b63bfe3184d.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011531751&vendorItemId=70000319023225"
+    },
+    {
+        "id": "20261106-10",
+        "date": "20261106",
+        "rank": 10,
+        "name": "46. ★11/6 단하루 한정수량★ 종일파크이용권",
+        "price": 52000,
+        "image_url": "https://image5.coupangcdn.com/image/travel_reactor/travelSeller/common/A00186371/1ebcc0a0-8b20-4b8d-8f42-c0efe1ca0234.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000001096043&vendorItemId=70000319865674"
+    },
+    {
         "id": "20261105-01",
         "date": "20261105",
         "rank": 1,
