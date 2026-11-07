@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261107-01",
+        "date": "20261107",
+        "rank": 1,
+        "name": "빼빼로 더블리치 솔티바닐라",
+        "price": 11640,
+        "image_url": "https://image2.coupangcdn.com/image/retail/images/3cbe6d1a-df54-4121-801c-8696c409c6cb3249631419277560961.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9424417121"
+    },
+    {
+        "id": "20261107-02",
+        "date": "20261107",
+        "rank": 2,
+        "name": "롯데 칠성사이다",
+        "price": 14010,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/89292073074044-cf51f14e-388e-4764-bff6-9481c3f0e694.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8712796546"
+    },
+    {
+        "id": "20261107-03",
+        "date": "20261107",
+        "rank": 3,
+        "name": "AHC 리뉴에이지 토탈 4종 + 아이크림 20ml 기프트 세트",
+        "price": 42750,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/55583439479394-f4e69b9c-4d4b-4203-a76d-e8d142a583e0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6460642556"
+    },
+    {
+        "id": "20261107-04",
+        "date": "20261107",
+        "rank": 4,
+        "name": "일리윤 울트라 리페어 바디로션",
+        "price": 15140,
+        "image_url": "https://image3.coupangcdn.com/image/retail/images/1957009326676-89bacc20-56db-4e0c-aae3-6256966f8e8a.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=344528374"
+    },
+    {
+        "id": "20261107-05",
+        "date": "20261107",
+        "rank": 5,
+        "name": "듀라셀 알카라인 AA 건전지",
+        "price": 14900,
+        "image_url": "https://img2a.coupangcdn.com/image/retail/images/943896774536058-084f28ad-2c21-4ee4-bcc0-e6912a06198e.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=130164876"
+    },
+    {
+        "id": "20261107-06",
+        "date": "20261107",
+        "rank": 6,
+        "name": "가나 마일드 초콜릿 미니",
+        "price": 11260,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/8389750809879-77298a1e-8109-4151-886b-b21668dfaa82.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=30859751"
+    },
+    {
+        "id": "20261107-07",
+        "date": "20261107",
+        "rank": 7,
+        "name": "스낵박스 사무실 과자 9종 세트",
+        "price": 22470,
+        "image_url": "https://img3a.coupangcdn.com/image/retail/images/1374993946357-fca8d4ff-4e6e-4f19-9022-31a0fc62af93.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9286990227"
+    },
+    {
+        "id": "20261107-08",
+        "date": "20261107",
+        "rank": 8,
+        "name": "코멧 사선컷팅 일반형 테이프 클리너 리필, 16cm x 12m",
+        "price": 10990,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/34151739335745-d2947c52-74e5-479f-9a81-14bb801b5379.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7828230571"
+    },
+    {
+        "id": "20261107-09",
+        "date": "20261107",
+        "rank": 9,
+        "name": "가그린 제로 구강청결제",
+        "price": 9400,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/117456210649321-be965565-57f8-4cf2-b1c1-42f454468c61.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6671243928"
+    },
+    {
+        "id": "20261107-10",
+        "date": "20261107",
+        "rank": 10,
+        "name": "곰곰 아몬드와 호두 두유",
+        "price": 8840,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/1608374681530934-bfa118e3-9bbc-436d-8e2d-678715793099.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=344621939"
+    },
+    {
         "id": "20261106-01",
         "date": "20261106",
         "rank": 1,
