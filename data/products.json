@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261108-01",
+        "date": "20261108",
+        "rank": 1,
+        "name": "락토핏 골드 80포",
+        "price": 34500,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/108592638728467-74fa9f25-7d4b-4956-9523-4a5af40e7f8f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7458810098"
+    },
+    {
+        "id": "20261108-02",
+        "date": "20261108",
+        "rank": 2,
+        "name": "하림 용가리치킨 (냉동)",
+        "price": 11980,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/231600327765684-604e2111-200b-499d-af3e-fd00a5190b26.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=290174474"
+    },
+    {
+        "id": "20261108-03",
+        "date": "20261108",
+        "rank": 3,
+        "name": "에이지투웨니스 시그니처 에센스 커버 팩트 인텐스 케이스 + 리필 14g 2p 세트",
+        "price": 29900,
+        "image_url": "https://img1a.coupangcdn.com/image/retail/images/98743802168504-4d187ddc-6f34-4b7b-87b7-cca1d76a4786.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9165805224"
+    },
+    {
+        "id": "20261108-04",
+        "date": "20261108",
+        "rank": 4,
+        "name": "마이비데 키즈 화장실용 물티슈 캡형",
+        "price": 14150,
+        "image_url": "https://image3.coupangcdn.com/image/1025_amir_coupang_oct_80k/5fd4/35f7fb8f4ec961f2a96f8fddf2b2461afb06529264a56cc73a21d41eb334.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8502358197"
+    },
+    {
+        "id": "20261108-05",
+        "date": "20261108",
+        "rank": 5,
+        "name": "그랜드 디럭스 더블 하프오션+자쿠지",
+        "price": 107250,
+        "image_url": "https://image7.coupangcdn.com/image/travel_reactor/travelSeller/hotel/A01784887/23312a70-a8ec-401a-9408-5c988278672b.png",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011505682&vendorItemId=70000313072092"
+    },
+    {
+        "id": "20261108-06",
+        "date": "20261108",
+        "rank": 6,
+        "name": "최신형 틴도우 차이슨 무선 청소기 BLDC 흡입력 좋은 진공청소기 +물걸레 기트+다양한 구성품",
+        "price": 87200,
+        "image_url": "https://img1c.coupangcdn.com/image/vendor_inventory/5e69/fe7fe636e5b7179cbf1f13295ea0b49b9f263a1031b2084b0052f1fc780b.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8327424192"
+    },
+    {
+        "id": "20261108-07",
+        "date": "20261108",
+        "rank": 7,
+        "name": "닥터노아 미세플라스틱 안심 대나무 유아 아기 칫솔 1단계",
+        "price": 17860,
+        "image_url": "https://image14.coupangcdn.com/image/vendor_inventory/470d/b48cc5996949bb0cfb1807124d3b9d26618caf26b1d77d1fd1aa76e834e2.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8538107600"
+    },
+    {
+        "id": "20261108-08",
+        "date": "20261108",
+        "rank": 8,
+        "name": "펫어스 강아지 잡고먹개 간식 21p",
+        "price": 17600,
+        "image_url": "https://img2c.coupangcdn.com/image/retail/images/c9cdce0a-8193-458d-93e3-49855bece7e04660817834770105811.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8984581352"
+    },
+    {
+        "id": "20261108-09",
+        "date": "20261108",
+        "rank": 9,
+        "name": "이자녹스 로얄 골든 탄력 영양 크림",
+        "price": 15400,
+        "image_url": "https://image13.coupangcdn.com/image/retail/images/2025/05/23/17/9/a5943ca4-cb6f-4dad-9ae2-9c7910d10621.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8792404073"
+    },
+    {
+        "id": "20261108-10",
+        "date": "20261108",
+        "rank": 10,
+        "name": "미쏘 여성용 울블렌디드 하프코트 MIWJHGVB01",
+        "price": 79990,
+        "image_url": "https://image15.coupangcdn.com/image/retail/images/2026/09/21/14/9/c8a000e2-1da4-47db-b47d-e924505c7717.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9743024094"
+    },
+    {
         "id": "20261107-01",
         "date": "20261107",
         "rank": 1,
