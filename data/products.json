@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261109-01",
+        "date": "20261109",
+        "rank": 1,
+        "name": "코카콜라 오리지널",
+        "price": 21560,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/45775547563672-e9b83757-fd28-4a5d-92de-7ce0af9bf330.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9371774"
+    },
+    {
+        "id": "20261109-02",
+        "date": "20261109",
+        "rank": 2,
+        "name": "세타필 모이스춰라이징 로션",
+        "price": 12360,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7164345502"
+    },
+    {
+        "id": "20261109-03",
+        "date": "20261109",
+        "rank": 3,
+        "name": "베베숲 오리진 유아물티슈 캡형",
+        "price": 13400,
+        "image_url": "https://image13.coupangcdn.com/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7455919074"
+    },
+    {
+        "id": "20261109-04",
+        "date": "20261109",
+        "rank": 4,
+        "name": "에이지투웨니스 샤이닝 드롭 에디션 뉴오리지널 에센스 커버 팩트 케이스 + 리필 12.5g x 3p",
+        "price": 30630,
+        "image_url": "https://img1c.coupangcdn.com/image/retail/images/91368308076324-39ac1d80-363b-4f9f-b3a7-710540f60f7f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9310222939"
+    },
+    {
+        "id": "20261109-05",
+        "date": "20261109",
+        "rank": 5,
+        "name": "프리메라 맨 오가니언스 2종 세트",
+        "price": 33660,
+        "image_url": "https://image12.coupangcdn.com/image/retail/images/699004417321-9fd3ccc1-1d5f-4672-84a7-0feaee222d1d.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7310738355"
+    },
+    {
+        "id": "20261109-06",
+        "date": "20261109",
+        "rank": 6,
+        "name": "아디다스 남성용 런플릿 운동화  KJ0236",
+        "price": 54900,
+        "image_url": "https://image11.coupangcdn.com/image/retail/images/2026/05/02/14/9/e821f6fc-4f6e-4f5f-ac41-a16e3410e20b.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9526280646"
+    },
+    {
+        "id": "20261109-07",
+        "date": "20261109",
+        "rank": 7,
+        "name": "[밸리콘도] 스탠다드 트윈_16평",
+        "price": 60000,
+        "image_url": "https://img5c.coupangcdn.com/image/travel_reactor/travelSeller/resort/A00161284/5b0f6845-a7c3-485d-a978-8e1671c4ae80.jpg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011260915&vendorItemId=70000278991363"
+    },
+    {
+        "id": "20261109-08",
+        "date": "20261109",
+        "rank": 8,
+        "name": "퍼실 딥클린 초미세세탁 파워젤 드럼용 액체세제 리필",
+        "price": 10700,
+        "image_url": "https://img4a.coupangcdn.com/image/retail/images/2026/03/05/15/6/aedba417-8060-48c4-952f-94665f2191cd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9794179580"
+    },
+    {
+        "id": "20261109-09",
+        "date": "20261109",
+        "rank": 9,
+        "name": "프릴 시크릿 오브 베이킹소다 플러스 상큼한 오렌지향",
+        "price": 12900,
+        "image_url": "https://image7.coupangcdn.com/image/retail/images/2026/09/18/14/4/a0096915-f7d2-4140-8bc7-7a5eb3ab3bfd.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9720567484"
+    },
+    {
+        "id": "20261109-10",
+        "date": "20261109",
+        "rank": 10,
+        "name": "라운드랩 1025 독도 로션",
+        "price": 18400,
+        "image_url": "https://image10.coupangcdn.com/image/retail/images/585046143304830-2d0498bf-a881-45a9-bb15-37c4bfd032f8.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7022353211"
+    },
+    {
         "id": "20261108-01",
         "date": "20261108",
         "rank": 1,
