@@ -1,5 +1,95 @@
 [
     {
+        "id": "20261110-01",
+        "date": "20261110",
+        "rank": 1,
+        "name": "곰곰 2026년산 햅쌀 소중한 우리쌀 상등급",
+        "price": 66990,
+        "image_url": "https://image8.coupangcdn.com/image/retail/images/7199156280747958-a98eedba-5969-4c4a-abf0-febde51cc366.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=166996432"
+    },
+    {
+        "id": "20261110-02",
+        "date": "20261110",
+        "rank": 2,
+        "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+        "price": 16900,
+        "image_url": "https://image14.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=6570687310"
+    },
+    {
+        "id": "20261110-03",
+        "date": "20261110",
+        "rank": 3,
+        "name": "퍼실 딥클린 초미세세탁 파워젤 맥스 일반용 액체세제 리필",
+        "price": 19900,
+        "image_url": "https://image5.coupangcdn.com/image/retail/images/455425612063005-0eaa573f-ec09-44a1-b6c1-fa35afe354f0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9391934890"
+    },
+    {
+        "id": "20261110-04",
+        "date": "20261110",
+        "rank": 4,
+        "name": "테팔 인덕션 매직핸즈 스테인리스 컬렉션 트라이미 프라이팬세트 3개",
+        "price": 72230,
+        "image_url": "https://image9.coupangcdn.com/image/retail/images/552866890985248-c312f232-3033-4899-a095-545fa6ff1d0f.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=7163822999"
+    },
+    {
+        "id": "20261110-05",
+        "date": "20261110",
+        "rank": 5,
+        "name": "프리메라 오가니언스 2종 기획 세트",
+        "price": 46920,
+        "image_url": "https://image4.coupangcdn.com/image/retail/images/2025/11/19/12/1/517c9b5a-108e-4afe-8a6f-ea145b9c6238.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9196060851"
+    },
+    {
+        "id": "20261110-06",
+        "date": "20261110",
+        "rank": 6,
+        "name": "롤리트리 아동용 벨벳 융털 기모 와이드 팬츠",
+        "price": 11990,
+        "image_url": "https://img5a.coupangcdn.com/image/retail/images/255156523765345-250debca-b2db-48b5-bf1c-39a943962ef9.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=8219867468"
+    },
+    {
+        "id": "20261110-07",
+        "date": "20261110",
+        "rank": 7,
+        "name": "제주삼다수 그린 무라벨",
+        "price": 19420,
+        "image_url": "https://img5c.coupangcdn.com/image/retail/images/71398668409167-aad21143-5084-4cd5-9f9d-5175146cd6e0.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9725928327"
+    },
+    {
+        "id": "20261110-08",
+        "date": "20261110",
+        "rank": 8,
+        "name": "스탠다드 온돌 더블",
+        "price": 179900,
+        "image_url": "https://image7.coupangcdn.com/image/travel_reactor/travelSeller/resort/A01391514/be958b6d-c5df-4adf-b6b9-52d15d38d912.jpeg",
+        "link": "https://link.coupang.com/re/AFFTDP?lptag=AF0975317&pageKey=10000011244166&vendorItemId=70000280323275"
+    },
+    {
+        "id": "20261110-09",
+        "date": "20261110",
+        "rank": 9,
+        "name": "이지캔 매직 공용 리필 280 쓰레기봉투",
+        "price": 31800,
+        "image_url": "https://static.coupangcdn.com/image/retail/images/64da168f-f0dd-4f81-8f73-ae6056797587378200894612094942.png",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=1352914251"
+    },
+    {
+        "id": "20261110-10",
+        "date": "20261110",
+        "rank": 10,
+        "name": "홈럭스 때타올 TPU 샤워장갑 목욕 때밀이 각질관리 고탄성 샤워글러브",
+        "price": 12420,
+        "image_url": "https://image5.coupangcdn.com/image/vendor_inventory/14b9/c2139aad62053e062798082c868b5943d01bb66275dce6638fd3471817c1.jpg",
+        "link": "https://link.coupang.com/re/AFFSDP?lptag=AF0975317&pageKey=9691826644"
+    },
+    {
         "id": "20261109-01",
         "date": "20261109",
         "rank": 1,
